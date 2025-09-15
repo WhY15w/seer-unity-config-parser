@@ -1,0 +1,24 @@
+{
+  "name": "seer-unity-config-parser",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "HurryWang",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run update && npm run export && npm run test ",
+    "update": "npx tsx parser/index.ts",
+    "export": "python parser/UnityFSParser.py",
+    "test": "npx tsx test/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.4.0",
+    "tsx": "^4.20.5"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cli-progress": "^3.12.0",
+    "p-queue": "^8.1.1"
+  }
+}
