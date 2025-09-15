@@ -13,6 +13,12 @@ Made with ❤️ by HurryWang(聿聿)
 - 🔧 二进制配置文件解析
 - 🚀 高并发下载和处理
 
+## 提取结果
+
+<div align="center">
+  <img src="img/img.png" alt="res">
+</div>
+
 ## 项目结构
 
 ```
