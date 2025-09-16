@@ -15,6 +15,14 @@ Made with ❤️ by HurryWang(聿聿)
 - 🔧 二进制配置文件解析
 - 🚀 高并发下载和处理
 
+## 致谢
+
+<https://github.com/median-dxz/assets-manifest-praser>
+
+<https://github.com/SeerAPI/Albi0>
+
+<https://github.com/K0lb3/UnityPy>
+
 ## 提取结果
 
 <div align="center">
