@@ -1,3 +1,5 @@
+import * as fs from "fs";
+import * as path from "path";
 import { BytesReader, LengthType } from "../utils/BytesReader";
 
 interface IBuffInfo {
@@ -13,48 +15,48 @@ interface BuffConfig {
   data?: IBuffInfo[];
 }
 
-export function parseBuffConfig(data: Uint8Array): BuffConfig {
-  const result: BuffConfig = {};
-  const reader = new BytesReader(data, {
+function parseIBuffInfo(reader: BytesReader): IBuffInfo {
+  const res: IBuffInfo = {
+    Desc: reader.text(),
+    Tag: reader.text(),
+    desc_tag: reader.text(),
+    icontype: 0,
+    id: 0,
+  };
+
+  if (reader.boolean()) {
+    const n = reader.int();
+    res.icon = Array.from({ length: n }, () => reader.int());
+  }
+
+  res.icontype = reader.int();
+  res.id = reader.int();
+  return res;
+}
+
+function saveAsJson(data: any, outputPath: string) {
+  const dir = path.dirname(outputPath);
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), "utf-8");
+}
+
+export function parseBuffConfig(filePath: string): BuffConfig {
+  const buffer = fs.readFileSync(filePath);
+  const arrBuf = buffer.buffer.slice(
+    buffer.byteOffset,
+    buffer.byteOffset + buffer.byteLength
+  );
+  const reader = new BytesReader(new Uint8Array(arrBuf), {
     lengthType: LengthType.Uint16,
     littleEndian: true,
   });
 
-  const hasBuffInfoArray = reader.boolean();
+  if (!reader.boolean()) return {};
+  const count = reader.int();
+  console.log("buffCount:", count);
+  const data = Array.from({ length: count }, () => parseIBuffInfo(reader));
+  const result: BuffConfig = { data };
 
-  if (hasBuffInfoArray) {
-    const buffInfoCount = reader.int();
-    console.log("buffInfoCount:", buffInfoCount, reader.offset);
-    result.data = [];
-    for (let i = 0; i < buffInfoCount; i++) {
-      result.data.push(parseIBuffInfo(reader));
-    }
-  }
-
+  saveAsJson(result, "./json/buff.json");
   return result;
-}
-
-function parseIBuffInfo(reader: BytesReader): IBuffInfo {
-  const buffInfo: IBuffInfo = {} as IBuffInfo;
-
-  buffInfo.Desc = reader.text();
-
-  buffInfo.Tag = reader.text();
-
-  buffInfo.desc_tag = reader.text();
-
-  const hasIcon = reader.boolean();
-
-  if (hasIcon) {
-    const iconCount = reader.int();
-    buffInfo.icon = new Array(iconCount);
-    for (let j = 0; j < iconCount; j++) {
-      buffInfo.icon[j] = reader.int();
-    }
-  }
-
-  buffInfo.icontype = reader.int();
-  buffInfo.id = reader.int();
-
-  return buffInfo;
 }

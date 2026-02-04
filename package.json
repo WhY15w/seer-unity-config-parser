@@ -7,18 +7,26 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "npm run update && npm run export && npm run test ",
+    "start": "npm run update && npm run export && npm run test && npm run mergeItemsOptimizeCatItems && npm run validate && npm run detect-changes",
     "update": "npx tsx parser/index.ts",
     "export": "python parser/UnityFSParser.py",
-    "test": "npx tsx test/index.ts"
+    "test": "npx tsx test/index.ts",
+    "validate": "npx tsx scripts/validate-json.ts",
+    "detect-changes": "npx tsx scripts/detect-changes.ts",
+    "mergeItemsOptimizeCatItems": "npx tsx scripts/mergeItemsOptimizeCatItems.ts",
+    "build": "npm run start",
+    "clean": "rimraf json ConfigPackage/export logs",
+    "dev": "npm run update && npm run export && npm run test"
   },
   "devDependencies": {
-    "@types/node": "^24.4.0",
+    "@types/node": "^24.10.9",
     "tsx": "^4.20.5"
   },
   "dependencies": {
     "axios": "^1.12.2",
     "cli-progress": "^3.12.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^17.2.3",
     "p-queue": "^8.1.1"
   }
 }

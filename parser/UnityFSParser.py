@@ -1,10 +1,13 @@
 import UnityPy
 import os
 
-env = UnityPy.load(".\ConfigPackage\pgame_configs_bytes")
+base_dir = os.path.dirname(__file__)
+config_path = os.path.join(base_dir, "..", "ConfigPackage", "pgame_configs_bytes")
+export_dir = os.path.join(base_dir, "..", "ConfigPackage", "export")
+
+env = UnityPy.load(config_path)
 for obj in env.objects:
     if obj.type.name == "TextAsset":
-        export_dir = ".\ConfigPackage\export"
         data = obj.read()
         path = os.path.join(export_dir, f"{data.m_Name}.bytes")
         os.makedirs(os.path.dirname(path), exist_ok=True)

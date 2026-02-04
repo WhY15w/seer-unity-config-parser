@@ -23,7 +23,7 @@ export default class YooVersionManager {
     );
   }
   private get versionFileName() {
-    return `PackageManifest_${this.packageName}.version`;
+    return `PackageManifest_${this.packageName}.version?t=${Date.now()}`;
   }
 
   async getRemoteVersion(): Promise<string> {

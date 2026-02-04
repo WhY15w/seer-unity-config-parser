@@ -112,7 +112,7 @@ export class BytesReader {
   }
 
   text() {
-    let length;
+    let length: number | undefined;
     switch (this.lengthType) {
       case LengthType.Byte:
         length = this.byte();
