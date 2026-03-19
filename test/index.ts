@@ -18,6 +18,11 @@ import { parseNewSuperDesignConfig } from "../bytes2json/newSuperDesign";
 import { parsePetSkinConfig } from "../bytes2json/petSkin";
 import { parsePetbookConfig } from "../bytes2json/petBook";
 import { parseTypesRelationConfig } from "../bytes2json/typesRelation";
+import { parseMintmarkElevareConfig } from "../bytes2json/mintmarkElevare";
+import { parseLanternQuestionConfig } from "../bytes2json/lanternQuestion";
+import { parsePeakBattleMonsConfig } from "../bytes2json/peakBattleMons";
+import { parsePvpBanConfig } from "../bytes2json/pvpBan";
+import { parsePvpBanExpertConfig } from "../bytes2json/pvpBanExpert";
 
 const failures: { name: string; error: string }[] = [];
 
@@ -81,6 +86,21 @@ safeRun("petBook", () => {
 });
 safeRun("typesRelation", () => {
   parseTypesRelationConfig("./ConfigPackage/export/typesRelation.bytes");
+});
+safeRun("mintmarkElevare", () => {
+  parseMintmarkElevareConfig("./ConfigPackage/export/mintmarkElevare.bytes");
+});
+safeRun("lanternQuestion", () => {
+  parseLanternQuestionConfig("./ConfigPackage/export/lanternQuestion.bytes");
+});
+safeRun("peakBattleMons", () => {
+  parsePeakBattleMonsConfig("./ConfigPackage/export/peak_battle_mons.bytes");
+});
+safeRun("pvpBan", () => {
+  parsePvpBanConfig("./ConfigPackage/export/pvp_ban.bytes");
+});
+safeRun("pvpBanExpert", () => {
+  parsePvpBanExpertConfig("./ConfigPackage/export/pvp_ban_expert.bytes");
 });
 
 async function sendFeishuAlert() {

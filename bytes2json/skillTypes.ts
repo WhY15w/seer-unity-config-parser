@@ -1,6 +1,12 @@
-import * as fs from "fs";
-import * as path from "path";
-import { BytesReader, LengthType } from "../utils/BytesReader";
+import {
+  createConfigParser,
+  parseBySchema,
+  text,
+  int,
+  optionalArray,
+  optionalArrayStruct,
+  type FieldSchema,
+} from "../utils/ConfigParserTemplate";
 
 export interface IItemItem {
   att: string;
@@ -18,63 +24,24 @@ export interface IRootInterface {
   root?: IRoot;
 }
 
-function parseIItemItem(reader: BytesReader): IItemItem {
-  const item: IItemItem = {
-    att: reader.text(),
-    cn: reader.text(),
-    id: 0,
-    is_dou: 0,
-  };
+const itemSchema: FieldSchema = [
+  ["att", text()],
+  ["cn", text()],
+  ["en", optionalArray("text")],
+  ["id", int()],
+  ["is_dou", int()],
+];
 
-  // en?: string[]
-  if (reader.boolean()) {
-    const num = reader.int();
-    item.en = Array.from({ length: num }, () => reader.text());
-  }
+const rootSchema: FieldSchema = [["item", optionalArrayStruct(itemSchema)]];
 
-  item.id = reader.int();
-  item.is_dou = reader.int();
-
-  return item;
-}
-
-function parseIRoot(reader: BytesReader): IRoot {
-  const root: IRoot = {};
-
-  if (reader.boolean()) {
-    const count = reader.int();
-    root.item = Array.from({ length: count }, () => parseIItemItem(reader));
-  }
-
-  return root;
-}
-
-export async function parseSkillTypesConfig(
-  filePath: string
-): Promise<IRootInterface> {
-  const buffer = fs.readFileSync(filePath);
-  const arrBuf = buffer.buffer.slice(
-    buffer.byteOffset,
-    buffer.byteOffset + buffer.byteLength
-  );
-
-  const reader = new BytesReader(new Uint8Array(arrBuf), {
-    lengthType: LengthType.Uint16,
-    littleEndian: true,
-  });
-
-  const root: IRootInterface = {};
-
-  if (reader.boolean()) {
-    root.root = parseIRoot(reader);
-  }
-
-  saveAsJson(root, "./json/skillTypes.json");
-  return root;
-}
-
-function saveAsJson(data: any, outputPath: string) {
-  const dir = path.dirname(outputPath);
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), "utf-8");
-}
+export const parseSkillTypesConfig = createConfigParser<IRootInterface>({
+  name: "skillTypes",
+  outputPath: "./json/skillTypes.json",
+  parse: (reader) => {
+    const result: IRootInterface = {};
+    if (reader.boolean()) {
+      result.root = parseBySchema<IRoot>(reader, rootSchema);
+    }
+    return result;
+  },
+});

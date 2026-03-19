@@ -1,6 +1,14 @@
-import * as fs from "fs";
-import * as path from "path";
-import { BytesReader, LengthType } from "../utils/BytesReader";
+import {
+  createConfigParser,
+  parseBySchema,
+  text,
+  int,
+  optionalObject,
+  optionalArrayStruct,
+  custom,
+  type FieldSchema,
+} from "../utils/ConfigParserTemplate";
+import type { BytesReader } from "../utils/BytesReader";
 
 export interface ISpMoveItem {
   Id: number;
@@ -61,114 +69,86 @@ export interface IRootInterface {
   Monsters: IMonsters;
 }
 
-function parseISpMoveItem(reader: BytesReader): ISpMoveItem {
-  return {
-    Id: reader.int(),
-    Rec: reader.int(),
-    Tag: reader.int(),
-    tag: reader.int(),
-  };
-}
+const spMoveItemSchema: FieldSchema = [
+  ["Id", int()],
+  ["Rec", int()],
+  ["Tag", int()],
+  ["tag", int()],
+];
 
-function parseIMoveItem(reader: BytesReader): IMoveItem {
-  return {
-    Id: reader.int(),
-    LearningLv: reader.int(),
-    Rec: reader.int(),
-    Tag: reader.int(),
-  };
-}
+const moveItemSchema: FieldSchema = [
+  ["Id", int()],
+  ["LearningLv", int()],
+  ["Rec", int()],
+  ["Tag", int()],
+];
 
-function parseILearnableMoves(reader: BytesReader): ILearnableMoves {
-  const res: ILearnableMoves = {};
-  if (reader.boolean()) {
-    const num = reader.int();
-    res.AdvMove = Array.from({ length: num }, () => parseISpMoveItem(reader));
-  }
-  if (reader.boolean()) {
-    const num = reader.int();
-    res.Move = Array.from({ length: num }, () => parseIMoveItem(reader));
-  }
-  if (reader.boolean()) {
-    const num = reader.int();
-    res.SpMove = Array.from({ length: num }, () => parseISpMoveItem(reader));
-  }
-  return res;
-}
+const learnableMovesSchema: FieldSchema = [
+  ["AdvMove", optionalArrayStruct(spMoveItemSchema)],
+  ["Move", optionalArrayStruct(moveItemSchema)],
+  ["SpMove", optionalArrayStruct(spMoveItemSchema)],
+];
 
-function parseIMonsterItem(reader: BytesReader): IMonsterItem {
-  const item: IMonsterItem = {
-    Atk: reader.int(),
-    CharacterAttrParam: reader.int(),
-    Combo: reader.int(),
-    Def: reader.int(),
-    DefName: reader.text(),
-    EvolvFlag: reader.int(),
-    EvolvesTo: reader.int(),
-    EvolvingLv: reader.int(),
-    ExtraMoves: reader.boolean() ? parseILearnableMoves(reader) : undefined,
-    FreeForbidden: reader.int(),
-    Gender: reader.int(),
-    HP: reader.int(),
-    ID: reader.int(),
-    LearnableMoves: reader.boolean() ? parseILearnableMoves(reader) : undefined,
-    Move: reader.boolean() ? parseIMoveItem(reader) : undefined,
-    PetClass: reader.int(),
-    RealId: reader.int(),
-    ShowExtraMoves: reader.boolean() ? parseILearnableMoves(reader) : undefined,
-    SpAtk: reader.int(),
-    SpDef: reader.int(),
-    SpExtraMoves: reader.boolean() ? parseILearnableMoves(reader) : undefined,
-    Spd: reader.int(),
-    Support: reader.int(),
-    Transform: reader.int(),
-    Type: reader.int(),
-    Vip: reader.int(),
-    isFlyPet: reader.int(),
-    isRidePet: reader.int(),
-  };
-
-  return item;
-}
-
-function parseIMonsters(reader: BytesReader): IMonsters {
-  const monsters: IMonsterItem[] = [];
-  if (reader.boolean()) {
-    const count = reader.int();
-    console.log("monstersCount:", count);
-    for (let i = 0; i < count; i++) {
-      monsters.push(parseIMonsterItem(reader));
+/**
+ * 对于 Move 字段，它是 boolean + parseSingleObject（非数组），
+ * 使用 custom 来处理这种特殊模式。
+ */
+function optionalSingleItem(schema: FieldSchema) {
+  return custom((reader: BytesReader) => {
+    if (reader.boolean()) {
+      return parseBySchema(reader, schema);
     }
-  }
-  return { Monster: monsters };
-}
-
-export async function parseMonstersConfig(
-  filePath: string,
-  maxParse?: number
-): Promise<IRootInterface> {
-  const buffer = fs.readFileSync(filePath);
-  const arrBuf = buffer.buffer.slice(
-    buffer.byteOffset,
-    buffer.byteOffset + buffer.byteLength
-  );
-  const reader = new BytesReader(new Uint8Array(arrBuf), {
-    lengthType: LengthType.Uint16,
-    littleEndian: true,
+    return undefined;
   });
-
-  const root: IRootInterface = { Monsters: { Monster: [] } };
-
-  if (reader.boolean()) {
-    root.Monsters = parseIMonsters(reader);
-  }
-
-  saveAsJson(root, "./json/monsters.json");
-  return root;
 }
 
-function saveAsJson(data: any, outputPath: string) {
-  const dir = path.dirname(outputPath);
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), "utf-8");
-}
+const monsterItemSchema: FieldSchema = [
+  ["Atk", int()],
+  ["CharacterAttrParam", int()],
+  ["Combo", int()],
+  ["Def", int()],
+  ["DefName", text()],
+  ["EvolvFlag", int()],
+  ["EvolvesTo", int()],
+  ["EvolvingLv", int()],
+  ["ExtraMoves", optionalObject(learnableMovesSchema)],
+  ["FreeForbidden", int()],
+  ["Gender", int()],
+  ["HP", int()],
+  ["ID", int()],
+  ["LearnableMoves", optionalObject(learnableMovesSchema)],
+  ["Move", optionalSingleItem(moveItemSchema)],
+  ["PetClass", int()],
+  ["RealId", int()],
+  ["ShowExtraMoves", optionalObject(learnableMovesSchema)],
+  ["SpAtk", int()],
+  ["SpDef", int()],
+  ["SpExtraMoves", optionalObject(learnableMovesSchema)],
+  ["Spd", int()],
+  ["Support", int()],
+  ["Transform", int()],
+  ["Type", int()],
+  ["Vip", int()],
+  ["isFlyPet", int()],
+  ["isRidePet", int()],
+];
+
+export const parseMonstersConfig = createConfigParser<IRootInterface>({
+  name: "monsters",
+  outputPath: "./json/monsters.json",
+  parse: (reader) => {
+    const root: IRootInterface = { Monsters: { Monster: [] } };
+
+    if (reader.boolean()) {
+      if (reader.boolean()) {
+        const count = reader.int();
+        console.log("monstersCount:", count);
+        root.Monsters.Monster = Array.from({ length: count }, () =>
+          parseBySchema<IMonsterItem>(reader, monsterItemSchema)
+        );
+      }
+    }
+
+    return root;
+  },
+});

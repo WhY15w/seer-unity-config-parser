@@ -1,6 +1,10 @@
-import * as fs from "fs";
-import * as path from "path";
-import { BytesReader, LengthType } from "../utils/BytesReader";
+import {
+  createSimpleListParser,
+  text,
+  int,
+  float,
+  type FieldSchema,
+} from "../utils/ConfigParserTemplate";
 
 export interface IItemsItem {
   Name: string;
@@ -27,78 +31,33 @@ export interface IRootInterface {
   items?: IItemsItem[];
 }
 
-function parseIItemsItem(reader: BytesReader): IItemsItem {
-  const Bean = reader.int();
-  const Hide = reader.int();
-  const ID = reader.int();
-  const LifeTime = reader.int();
-  const Max = reader.int();
-  const Name = reader.text();
-  const Price = reader.int();
-  const RepairPrice = reader.int();
-  const Sort = reader.int();
-  const UseMax = reader.int();
-  const VipOnly = reader.int();
-  const actionDir = reader.int();
-  const catID = reader.int();
-  const isSpecial = reader.int();
-  const purpose = reader.int();
-  const speed = reader.float();
-  const type = reader.text();
-  const wd = reader.int();
+const itemsItemSchema: FieldSchema = [
+  ["Bean", int()],
+  ["Hide", int()],
+  ["ID", int()],
+  ["LifeTime", int()],
+  ["Max", int()],
+  ["Name", text()],
+  ["Price", int()],
+  ["RepairPrice", int()],
+  ["Sort", int()],
+  ["UseMax", int()],
+  ["VipOnly", int()],
+  ["actionDir", int()],
+  ["catID", int()],
+  ["isSpecial", int()],
+  ["purpose", int()],
+  ["speed", float()],
+  ["type", text()],
+  ["wd", int()],
+];
 
-  return {
-    Name,
-    type,
-    actionDir,
-    Bean,
-    catID,
-    Hide,
-    ID,
-    isSpecial,
-    LifeTime,
-    Max,
-    Price,
-    purpose,
-    RepairPrice,
-    Sort,
-    speed,
-    UseMax,
-    VipOnly,
-    wd,
-  };
-}
-
-export async function parseItemsOptimizeCatItems1Config(
-  filePath: string,
-  maxParse?: number
-): Promise<IRootInterface> {
-  const buffer = fs.readFileSync(filePath);
-  const arrBuf = buffer.buffer.slice(
-    buffer.byteOffset,
-    buffer.byteOffset + buffer.byteLength
-  );
-  const reader = new BytesReader(new Uint8Array(arrBuf), {
-    lengthType: LengthType.Uint16,
-    littleEndian: true,
-  });
-
-  const rootInterface: IRootInterface = {};
-
-  if (reader.boolean()) {
-    const count = reader.int();
-    rootInterface.items = [];
-    for (let i = 0; i < count; i++) {
-      rootInterface.items.push(parseIItemsItem(reader));
-    }
-  }
-
-  saveAsJson(rootInterface, "./json/itemsOptimizeCatItems1.json");
-  return rootInterface;
-}
-
-function saveAsJson(data: any, outputPath: string) {
-  const dir = path.dirname(outputPath);
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), "utf-8");
-}
+export const parseItemsOptimizeCatItems1Config = createSimpleListParser<
+  IItemsItem,
+  IRootInterface
+>({
+  name: "itemsOptimizeCatItems1",
+  outputPath: "./json/itemsOptimizeCatItems1.json",
+  dataKey: "items",
+  itemSchema: itemsItemSchema,
+});

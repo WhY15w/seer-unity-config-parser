@@ -15,7 +15,7 @@ coverage
 *.local
 
 ConfigPackage
-json
+# json
 /public/changelog.json
 
 /cypress/videos/

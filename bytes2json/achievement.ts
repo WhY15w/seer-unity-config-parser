@@ -1,6 +1,11 @@
-import * as fs from "fs";
-import * as path from "path";
-import { BytesReader, LengthType } from "../utils/BytesReader";
+import {
+  createConfigParser,
+  parseBySchema,
+  text,
+  int,
+  optionalArrayStruct,
+  type FieldSchema,
+} from "../utils/ConfigParserTemplate";
 
 export interface IRuleItem {
   AbilityTitle: number;
@@ -15,12 +20,6 @@ export interface IRuleItem {
   proicon: number;
   title: string;
   titleColor: string;
-  // 额外字段
-  branchId?: number;
-  branchDesc?: string;
-  isShowPro?: number;
-  IsSingle?: number;
-  type?: number;
 }
 
 export interface IBranchItem {
@@ -50,86 +49,56 @@ export interface IRootInterface {
   AchievementRules?: IAchievementRules;
 }
 
-function parseIRuleItem(r: BytesReader): IRuleItem {
-  return {
-    AbilityTitle: r.int(),
-    AchievementPoint: r.int(),
-    Desc: r.text(),
-    ID: r.int(),
-    SpeNameBonus: r.int(),
-    Threshold: r.text(),
-    abtext: r.text(),
-    achName: r.text(),
-    hide: r.int(),
-    proicon: r.int(),
-    title: r.text(),
-    titleColor: r.text(),
-  };
-}
+const ruleItemSchema: FieldSchema = [
+  ["AbilityTitle", int()],
+  ["AchievementPoint", int()],
+  ["Desc", text()],
+  ["ID", int()],
+  ["SpeNameBonus", int()],
+  ["Threshold", text()],
+  ["abtext", text()],
+  ["achName", text()],
+  ["hide", int()],
+  ["proicon", int()],
+  ["title", text()],
+  ["titleColor", text()],
+];
 
-function parseIBranchItem(r: BytesReader): IBranchItem {
-  const Desc = r.text();
-  const ID = r.int();
-  const IsSingle = r.int();
-  let Rule: IRuleItem[] | undefined;
+const branchItemSchema: FieldSchema = [
+  ["Desc", text()],
+  ["ID", int()],
+  ["IsSingle", int()],
+  ["Rule", optionalArrayStruct(ruleItemSchema)],
+  ["_text", text()],
+  ["isShowPro", int()],
+];
 
-  if (r.boolean()) {
-    const n = r.int();
-    Rule = Array.from({ length: n }, () => parseIRuleItem(r));
-  }
+const branchesItemSchema: FieldSchema = [
+  ["Branch", optionalArrayStruct(branchItemSchema)],
+];
 
-  const _text = r.text();
-  const isShowPro = r.int();
+const typeItemSchema: FieldSchema = [
+  ["Branches", optionalArrayStruct(branchesItemSchema)],
+  ["Desc", text()],
+  ["ID", int()],
+];
 
-  return { Desc, ID, IsSingle, Rule, _text, isShowPro };
-}
+const achievementRulesSchema: FieldSchema = [
+  ["type", optionalArrayStruct(typeItemSchema)],
+];
 
-function parseIBranchesItem(r: BytesReader): IBranchesItem {
-  if (!r.boolean()) return {};
-  const n = r.int();
-  return { Branch: Array.from({ length: n }, () => parseIBranchItem(r)) };
-}
-
-function parseITypeItem(r: BytesReader): ITypeItem {
-  let Branches: IBranchesItem[] | undefined;
-  if (r.boolean()) {
-    const n = r.int();
-    Branches = Array.from({ length: n }, () => parseIBranchesItem(r));
-  }
-  const Desc = r.text();
-  const ID = r.int();
-  return { Branches, Desc, ID };
-}
-
-function parseIAchievementRules(r: BytesReader): IAchievementRules {
-  if (!r.boolean()) return {};
-  const n = r.int();
-  console.log("achievementCount:", n);
-  return { type: Array.from({ length: n }, () => parseITypeItem(r)) };
-}
-
-export function parseAchievements(filePath: string): IRootInterface {
-  const buffer = fs.readFileSync(filePath);
-  const arrBuf = buffer.buffer.slice(
-    buffer.byteOffset,
-    buffer.byteOffset + buffer.byteLength
-  );
-  const r = new BytesReader(new Uint8Array(arrBuf), {
-    lengthType: LengthType.Uint16,
-    littleEndian: true,
-  });
-
-  let AchievementRules: IAchievementRules | undefined;
-  if (r.boolean()) {
-    AchievementRules = parseIAchievementRules(r);
-  }
-  const result: IRootInterface = { AchievementRules };
-  saveAsJson(result, "./json/achievements.json");
-  return result;
-}
-
-function saveAsJson(data: any, outputPath: string) {
-  const dir = path.dirname(outputPath);
-  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), "utf-8");
-}
+export const parseAchievements = createConfigParser<IRootInterface>({
+  name: "achievements",
+  outputPath: "./json/achievements.json",
+  parse: (reader) => {
+    const result: IRootInterface = {};
+    if (reader.boolean()) {
+      console.log("achievementCount: parsing...");
+      result.AchievementRules = parseBySchema<IAchievementRules>(
+        reader,
+        achievementRulesSchema
+      );
+    }
+    return result;
+  },
+});
