@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4882,
-            "ImageID": 4882,
+            "ID": 4885,
+            "ImageID": 4885,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,41 +1367,21 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4883,
-            "ImageID": 4883,
+            "ID": 812,
+            "ImageID": 1400812,
             "Label": 0,
             "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4884,
-            "ImageID": 4884,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 810,
-            "ImageID": 1400810,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4712,
+            "monID": 3437,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 811,
-            "ImageID": 1400811,
+            "ID": 813,
+            "ImageID": 1400813,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3716,
+            "monID": 3711,
             "type": 1
           }
         ]
@@ -21674,7 +21654,7 @@
         "DefName": "帝皇之钺",
         "Features": "2017年年费瀚宇星皇最忠实的伙伴，拥有圣灵的强大战斗能力，是帮助瀚宇星皇维持宇宙秩序的左膀右臂！",
         "ID": 3404,
-        "Target": "295002"
+        "Target": "295009"
       },
       {
         "DefName": "科穆宁",
@@ -22322,7 +22302,7 @@
         "DefName": "帝皇之御",
         "Features": "瀚宇星皇的传奇伙伴，拥有着极强的防御力，守护着万物众生。",
         "ID": 3512,
-        "Target": "295002"
+        "Target": "295009"
       },
       {
         "DefName": "哈恩特",
@@ -22442,7 +22422,7 @@
         "DefName": "堕落泰坦",
         "Features": "第六星系的守护神，因为逝者巨樽强大的力量而被吞噬了！神兽之殇，星系大危机！",
         "ID": 3532,
-        "Target": ""
+        "Target": "150108"
       },
       {
         "DefName": "风凌雪",
@@ -30495,6 +30475,12 @@
         "Features": "拓本-ε是自在天的清洁机器人，据说它在最高功率下可以在一天内清洁完整个自在天。",
         "ID": 4884,
         "Target": "400021"
+      },
+      {
+        "DefName": "灰蛾",
+        "Features": "薇星上出现的神秘虫族，被小精灵们称之为“天魔”。灰蛾拥有强大的力量，却总是迷失在虚无的愿望之中……",
+        "ID": 4885,
+        "Target": "153201/872"
       }
     ],
     "RecMintmark": {

@@ -9383,7 +9383,7 @@
         "Go": "",
         "GoType": "",
         "ID": 523,
-        "Jumptarget": 0,
+        "Jumptarget": 114059,
         "MonID": 3506,
         "Name": "泳池健将·波塞冬",
         "SkinKind": [
@@ -10121,7 +10121,7 @@
         "Go": "",
         "GoType": "",
         "ID": 564,
-        "Jumptarget": 0,
+        "Jumptarget": 114059,
         "MonID": 4329,
         "Name": "蝶梦夜曲·倪克斯",
         "SkinKind": [
@@ -12515,7 +12515,7 @@
         "Go": "",
         "GoType": "",
         "ID": 697,
-        "Jumptarget": 0,
+        "Jumptarget": 114059,
         "MonID": 4627,
         "Name": "元素支配·赫斯提亚",
         "SkinKind": [
@@ -14580,6 +14580,42 @@
           }
         ],
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 812,
+        "Jumptarget": 114057,
+        "MonID": 3437,
+        "Name": "星际领航员·艾欧丽娅",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 13,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 813,
+        "Jumptarget": 114058,
+        "MonID": 3711,
+        "Name": "燕归青野·莫妮卡",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 18
       }
     ]
   }

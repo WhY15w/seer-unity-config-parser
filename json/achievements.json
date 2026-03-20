@@ -8401,6 +8401,20 @@
                     "proicon": 1472,
                     "title": "光佑四方",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "通关S-灰蛾【地狱难度】关卡获得",
+                    "ID": 8,
+                    "SpeNameBonus": 577,
+                    "Threshold": "8",
+                    "abtext": "",
+                    "achName": "乐园的天魔",
+                    "hide": 0,
+                    "proicon": 1475,
+                    "title": "乐园的天魔",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",

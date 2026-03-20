@@ -117889,6 +117889,390 @@
       },
       {
         "BaseAttriValue": [
+          9,
+          0,
+          0,
+          0,
+          4,
+          0
+        ],
+        "Connect": 0,
+        "Des": "星辉·启程",
+        "EffectDes": "攻击9/90,速度3/43",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42674,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          90,
+          0,
+          0,
+          0,
+          43,
+          0
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          8,
+          0,
+          0,
+          0,
+          0,
+          12
+        ],
+        "Connect": 0,
+        "Des": "星辉·相遇",
+        "EffectDes": "攻击8/85,体力12/120",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42675,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          85,
+          0,
+          0,
+          0,
+          0,
+          120
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          9,
+          0,
+          0,
+          0,
+          0,
+          11
+        ],
+        "Connect": 0,
+        "Des": "星辉·相伴",
+        "EffectDes": "攻击9/95,体力11/110",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42676,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          95,
+          0,
+          0,
+          0,
+          0,
+          110
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          9,
+          8,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Connect": 0,
+        "Des": "星辉·并肩",
+        "EffectDes": "攻击9/90,防御8/85",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42677,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          90,
+          85,
+          0,
+          0,
+          0,
+          0
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          9,
+          0,
+          0,
+          8,
+          0,
+          0
+        ],
+        "Connect": 0,
+        "Des": "星辉·冒险",
+        "EffectDes": "攻击9/90,特防8/85",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42678,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          90,
+          0,
+          0,
+          85,
+          0,
+          0
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          0,
+          0,
+          0,
+          4,
+          10
+        ],
+        "Connect": 0,
+        "Des": "星辉·奇遇",
+        "EffectDes": "速度4/43,体力10/105",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42679,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          0,
+          0,
+          0,
+          43,
+          105
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          0,
+          9,
+          0,
+          4,
+          0
+        ],
+        "Connect": 0,
+        "Des": "星辉·远征",
+        "EffectDes": "特攻9/90,速度4/43",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42680,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          0,
+          90,
+          0,
+          43,
+          0
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          0,
+          8,
+          0,
+          0,
+          12
+        ],
+        "Connect": 0,
+        "Des": "星辉·归航",
+        "EffectDes": "特攻8/85,体力12/120",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42681,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          0,
+          85,
+          0,
+          0,
+          120
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          0,
+          9,
+          0,
+          0,
+          11
+        ],
+        "Connect": 0,
+        "Des": "星辉·守护",
+        "EffectDes": "特攻9/95,体力11/110",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42682,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          0,
+          95,
+          0,
+          0,
+          110
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          8,
+          9,
+          0,
+          0,
+          0
+        ],
+        "Connect": 0,
+        "Des": "星辉·誓约",
+        "EffectDes": "防御8/85,特攻9/90",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42683,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          85,
+          90,
+          0,
+          0,
+          0
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          0,
+          9,
+          8,
+          0,
+          0
+        ],
+        "Connect": 0,
+        "Des": "星辉·永恒",
+        "EffectDes": "特攻9/90,特防8/85",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42684,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          0,
+          90,
+          85,
+          0,
+          0
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          13
+        ],
+        "Connect": 0,
+        "Des": "星辉·传承",
+        "EffectDes": "速度3/38,体力13/130",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42685,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          0,
+          0,
+          0,
+          38,
+          130
+        ],
+        "MintmarkClass": 93,
+        "Quality": 2,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
           0,
           0,
           0,
@@ -118352,6 +118736,10 @@
       {
         "ClassName": "赤洲龙子系列",
         "ID": 92
+      },
+      {
+        "ClassName": "星辉系列",
+        "ID": 93
       }
     ]
   }
