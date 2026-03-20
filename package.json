@@ -7,26 +7,26 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "npm run update && npm run export && npm run test && npm run mergeItemsOptimizeCatItems && npm run validate && npm run detect-changes",
-    "update": "npx tsx parser/index.ts",
+    "start": "pnpm run update && pnpm run export && pnpm run test && pnpm run mergeItemsOptimizeCatItems && pnpm run validate && pnpm run detect-changes",
+    "update": "pnpm exec tsx parser/index.ts",
     "export": "python parser/UnityFSParser.py",
-    "test": "npx tsx test/index.ts",
-    "validate": "npx tsx scripts/validate-json.ts",
-    "detect-changes": "npx tsx scripts/detect-changes.ts",
-    "mergeItemsOptimizeCatItems": "npx tsx scripts/mergeItemsOptimizeCatItems.ts",
-    "build": "npm run start",
+    "test": "pnpm exec tsx test/index.ts",
+    "validate": "pnpm exec tsx scripts/validate-json.ts",
+    "detect-changes": "pnpm exec tsx scripts/detect-changes.ts",
+    "mergeItemsOptimizeCatItems": "pnpm exec tsx scripts/mergeItemsOptimizeCatItems.ts",
+    "build": "pnpm run start",
     "clean": "rimraf json ConfigPackage/export logs",
-    "dev": "npm run update && npm run export && npm run test"
+    "dev": "pnpm run update && pnpm run export && pnpm run test"
   },
   "devDependencies": {
-    "@types/node": "^24.10.9",
-    "tsx": "^4.20.5"
+    "@types/node": "^24.12.0",
+    "tsx": "^4.21.0"
   },
   "dependencies": {
-    "axios": "^1.12.2",
+    "axios": "^1.13.6",
     "cli-progress": "^3.12.0",
     "crypto": "^1.0.1",
-    "dotenv": "^17.2.3",
+    "dotenv": "^17.3.1",
     "p-queue": "^8.1.1"
   }
 }
