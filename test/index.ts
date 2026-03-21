@@ -23,6 +23,7 @@ import { parseLanternQuestionConfig } from "../bytes2json/lanternQuestion";
 import { parsePeakBattleMonsConfig } from "../bytes2json/peakBattleMons";
 import { parsePvpBanConfig } from "../bytes2json/pvpBan";
 import { parsePvpBanExpertConfig } from "../bytes2json/pvpBanExpert";
+import { parseEffectDesConfig } from "../bytes2json/effectDes";
 
 const failures: { name: string; error: string }[] = [];
 
@@ -101,6 +102,9 @@ safeRun("pvpBan", () => {
 });
 safeRun("pvpBanExpert", () => {
   parsePvpBanExpertConfig("./ConfigPackage/export/pvp_ban_expert.bytes");
+});
+safeRun("effectDes", () => {
+  parseEffectDesConfig("./ConfigPackage/export/effectDes.bytes");
 });
 
 async function sendFeishuAlert() {

@@ -3,144 +3,150 @@
     "file": "achievements.json",
     "hash": "c7345aa0da3098907c3f8764ff3abe8cb31d40798a4b719c61bd928ee71e5591",
     "size": 669389,
-    "lastModified": "2026-03-20T09:05:37.556Z"
+    "lastModified": "2026-03-21T02:34:29.722Z"
   },
   {
     "file": "buff.json",
     "hash": "a63d887ce69c50cbee6eefa17514c47245d62ab15d79a9c5ce7823a3acfb37f2",
     "size": 719180,
-    "lastModified": "2026-03-20T09:05:37.543Z"
+    "lastModified": "2026-03-21T02:34:29.700Z"
   },
   {
     "file": "clothItems.json",
     "hash": "ecbfdc8dde8ddb371d6004e7cc637458d61546d1d7db1441ecf3573b7ea6c827",
     "size": 686727,
-    "lastModified": "2026-03-20T09:05:39.386Z"
+    "lastModified": "2026-03-21T02:34:32.226Z"
+  },
+  {
+    "file": "effectDes.json",
+    "hash": "54468ad4dc4e27df28b8d76126fef5ee3b0039c3c4f815ceec5df93d7cca3692",
+    "size": 154297,
+    "lastModified": "2026-03-21T02:34:30.657Z"
   },
   {
     "file": "effectIcon.json",
     "hash": "a177ae97da26619356132aa0f916c6e2cdcec7a9ec7968fa095aa0193aa7aea2",
     "size": 1560939,
-    "lastModified": "2026-03-20T09:05:38.096Z"
+    "lastModified": "2026-03-21T02:34:30.404Z"
   },
   {
     "file": "effectInfo.json",
     "hash": "2b4a7f2dc7e084d5562b7e3f29e41944336c6b11d424500bd1c486b73cad19ee",
     "size": 834220,
-    "lastModified": "2026-03-20T09:05:38.118Z"
+    "lastModified": "2026-03-21T02:34:30.432Z"
   },
   {
     "file": "equip.json",
     "hash": "72e0906b8ae82843aa360e31ec7f903866e761b01fd689874988645a41246792",
     "size": 124270,
-    "lastModified": "2026-03-20T09:05:38.031Z"
+    "lastModified": "2026-03-21T02:34:30.314Z"
   },
   {
     "file": "itemsOptimizeCatItems1.json",
     "hash": "bdb6275d89632f0415458e17913a6af25b5f1d1276e2fc399fc05f0ff0fafe52",
     "size": 353520,
-    "lastModified": "2026-03-20T09:05:38.013Z"
+    "lastModified": "2026-03-21T02:34:30.279Z"
   },
   {
     "file": "itemsOptimizeCatItems13.json",
     "hash": "813b4fb855e17c4acb741d4c7ebc22fc350182c34ae8ae0a44845c25c49e66c6",
     "size": 333226,
-    "lastModified": "2026-03-20T09:05:38.025Z"
+    "lastModified": "2026-03-21T02:34:30.299Z"
   },
   {
     "file": "lanternQuestion.json",
     "hash": "ce7b01e73340c17636b10dfd762f3a190ba8114905cfdfb66854ea5a9b0fd314",
     "size": 25478,
-    "lastModified": "2026-03-20T09:05:38.267Z"
+    "lastModified": "2026-03-21T02:34:30.646Z"
   },
   {
     "file": "mintmark.json",
     "hash": "cb4ca5fec372083b1336ba8283cae9bf6daec1ed3662ea05f9f522f2b075b0e1",
     "size": 2306228,
-    "lastModified": "2026-03-20T09:05:38.191Z"
+    "lastModified": "2026-03-21T02:34:30.531Z"
   },
   {
     "file": "mintmarkElevare.json",
     "hash": "394c65e1c895cdeddd51d63c1e21143b199d11dcd55e3d5daf97a8a8352a1382",
     "size": 6656,
-    "lastModified": "2026-03-20T09:05:38.266Z"
+    "lastModified": "2026-03-21T02:34:30.643Z"
   },
   {
     "file": "monsters.json",
     "hash": "c22142d0be42dbb9a049d0032e52c1c719282499c14f67b49bda59148c720245",
     "size": 15261317,
-    "lastModified": "2026-03-20T09:05:37.503Z"
+    "lastModified": "2026-03-21T02:34:29.659Z"
   },
   {
     "file": "moves.json",
     "hash": "e5a4dd7dc4f3274cfa5a498d7d42d4889c1380662fbea522eb9ed675124755c1",
     "size": 15211742,
-    "lastModified": "2026-03-20T09:05:37.981Z"
+    "lastModified": "2026-03-21T02:34:30.241Z"
   },
   {
     "file": "new_super_design.json",
     "hash": "257e45d70a05120056ce220e340e0797cf2091027619247c8dd31effe72d843e",
     "size": 1887692,
-    "lastModified": "2026-03-20T09:05:38.230Z"
+    "lastModified": "2026-03-21T02:34:30.583Z"
   },
   {
     "file": "peak_battle_mons.json",
     "hash": "6b3bcb45380046840c24f401c242b12fae25d6feb6f0c5efc926e6a2ec012dc6",
     "size": 905,
-    "lastModified": "2026-03-20T09:05:38.267Z"
-  },
-  {
-    "file": "pet_skin.json",
-    "hash": "964ec69434805a72afd032d7f163710ba79870c1886f58a1aa13372229f603ce",
-    "size": 298399,
-    "lastModified": "2026-03-20T09:05:38.238Z"
+    "lastModified": "2026-03-21T02:34:30.648Z"
   },
   {
     "file": "petbook.json",
     "hash": "09c647f5707091d2bed9d0cd65519014e2ec088c67deb155a09642350116ba90",
     "size": 1227267,
-    "lastModified": "2026-03-20T09:05:38.263Z"
+    "lastModified": "2026-03-21T02:34:30.632Z"
+  },
+  {
+    "file": "pet_skin.json",
+    "hash": "964ec69434805a72afd032d7f163710ba79870c1886f58a1aa13372229f603ce",
+    "size": 298399,
+    "lastModified": "2026-03-21T02:34:30.597Z"
   },
   {
     "file": "profilephoto.json",
     "hash": "1e2aac69788215060d6012c0a30793dd0cb341b955dc9b019cbd8edf85ba67c2",
     "size": 81640,
-    "lastModified": "2026-03-20T09:05:38.028Z"
+    "lastModified": "2026-03-21T02:34:30.305Z"
   },
   {
     "file": "pvp_ban.json",
     "hash": "24b892054f8c71148a43e4e6c9f9920d5db7a2b3d5d4d38b681d28a7742c636f",
     "size": 915,
-    "lastModified": "2026-03-20T09:05:38.267Z"
+    "lastModified": "2026-03-21T02:34:30.650Z"
   },
   {
     "file": "pvp_ban_expert.json",
     "hash": "fb5f4bd9ea78885dfe898de34b0f269529cecbdbc806f5324ac932359a2edbc4",
     "size": 361,
-    "lastModified": "2026-03-20T09:05:38.268Z"
+    "lastModified": "2026-03-21T02:34:30.652Z"
   },
   {
     "file": "skillEffect.json",
-    "hash": "25a74599b4ba30091807b842791adef0071a5099518bd961f8a9bc821c9b0328",
+    "hash": "0e4a24667a07888022aee67740893b000d353d7edd14807698e9933173eee203",
     "size": 980803,
-    "lastModified": "2026-03-20T09:05:38.056Z"
+    "lastModified": "2026-03-21T02:34:30.351Z"
   },
   {
     "file": "skillTypes.json",
     "hash": "77005f7a15e66f8e911e18ca1686ed68dea9991720913c96deba58a4f74f626c",
     "size": 22905,
-    "lastModified": "2026-03-20T09:05:38.099Z"
+    "lastModified": "2026-03-21T02:34:30.406Z"
   },
   {
     "file": "suit.json",
     "hash": "783836c9ce29784aebd38aa33547875b66991081a621a20dd7bba16f76a0c4e6",
     "size": 153548,
-    "lastModified": "2026-03-20T09:05:37.998Z"
+    "lastModified": "2026-03-21T02:34:30.249Z"
   },
   {
     "file": "typesRelation.json",
     "hash": "b4278ef3786346fe3a97b4cef01f057cb47e2ea3a8e5fe5bf52339aa616d205c",
     "size": 56618,
-    "lastModified": "2026-03-20T09:05:38.265Z"
+    "lastModified": "2026-03-21T02:34:30.641Z"
   }
 ]
