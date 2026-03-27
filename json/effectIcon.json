@@ -35792,7 +35792,7 @@
       },
       {
         "Id": 1547,
-        "analyze": "[sprite name=dot4]裁决：至序圣华[color=#57c975]登场时[/color][/color]，为对方场下体力最高的随机1只精灵附加1层[color=#f35555]处决印记[/color]与3回合[color=#f35555]处决[/color]|[sprite name=dot4]圣铸：至序圣华[color=#52a5f2]首次[/color]在场上或场下死亡时，为[color=#52a5f2]己方[/color]附加1柄[color=#f35555]圣剑[/color]且开启[color=#f35555]圣剑重铸，之后本场战斗自身不再为己方附加圣剑[/color]|[sprite name=dot4]加冕：至序圣华[color=#57c975]出战后[/color]所有技能PP值恢复至1点、[color=#57c975]下场后[/color]为对手附加1层[color=#f35555]处决[/color]印记[/color]、[color=#57c975]登场时[/color][/color]1回合内免疫异常状态与能力下降状态且PP值[color=#52a5f2]保留[/color]1点，对手[color=#f35555]处决[/color]印记[/color][color=#52a5f2]达到[/color]2层[/color]时回合数+1|[sprite name=dot4]秩序：[color=#57c975]战斗阶段结束时[/color]，若对手体力高于最大体力的1/2则下回合自身所有[color=#52a5f2]技能先制[/color]+1，若自身体力低于最大体力的1/2则2回合内自身[color=#52a5f2]回合类效果[/color]无法被消除|（boss无效）",
+        "analyze": "[sprite name=dot4]裁决：至序圣华[color=#57c975]登场时[/color][/color]，为对方场下体力最高的随机1只精灵附加1层[color=#f35555]处决印记[/color]与3回合[color=#f35555]处决[/color]|[sprite name=dot4]圣铸：至序圣华[color=#52a5f2]首次[/color]在场上或场下死亡时，为[color=#52a5f2]己方[/color]附加1柄[color=#f35555]圣剑[/color]且开启[color=#f35555]圣剑重铸[/color]，之后本场战斗自身不再为己方附加圣剑|[sprite name=dot4]加冕：至序圣华[color=#57c975]出战后[/color]所有技能PP值恢复至1点、[color=#57c975]下场后[/color]为对手附加1层[color=#f35555]处决[/color]印记[/color]、[color=#57c975]登场时[/color][/color]1回合内免疫异常状态与能力下降状态且PP值[color=#52a5f2]保留[/color]1点，对手[color=#f35555]处决[/color]印记[/color][color=#52a5f2]达到[/color]2层[/color]时回合数+1|[sprite name=dot4]秩序：[color=#57c975]战斗阶段结束时[/color]，若对手体力高于最大体力的1/2则下回合自身所有[color=#52a5f2]技能先制[/color]+1，若自身体力低于最大体力的1/2则2回合内自身[color=#52a5f2]回合类效果[/color]无法被消除|（boss无效）",
         "args": "3 100 5 1 2 1 2 1",
         "come": "",
         "effectId": 1897,
@@ -48163,6 +48163,28 @@
         ],
         "target": 112003,
         "tips": "出战时，自身获得4道宁界之律，然后自身消耗对应位置技能的全部PP值并恢复己方上只在场精灵PP值为0的技能全部PP值，触发成功则为其附加1道琼华之庇|自身拥有宁界之律时，选择使用技能不受PP值限制且回合结束时，若对手当回合未选择技能则消耗1层并令对手沉默2回合，未触发则2回合内自身将对手、对方上只在场精灵的最优系别作为对手系别计算克制系数，自身宁界之律层数达到5时前述所有回合数+1|（boss有效）",
+        "to": 0,
+        "type": 0
+      },
+      {
+        "Id": 2073,
+        "analyze": "[sprite name=dot1]回合开始时若自身微弱对手或对手克制自身，则令自身变为普通系且回合结束时令自身属性变为草系|[sprite name=dot1]自身使用与自身系别相同的技能时令对手随机1项技能的pp值归0，使用与自身系别不同的技能时获得本系属性加成并令对手所有技能的pp值-1",
+        "args": "1 0",
+        "come": "",
+        "effectId": 2493,
+        "iconId": 2073,
+        "intensify": 0,
+        "isAdv": 0,
+        "kind": [
+          18
+        ],
+        "label": 0,
+        "limitedType": 0,
+        "petId": [
+          4886
+        ],
+        "target": 0,
+        "tips": "回合开始时若自身微弱对手或对手克制自身，则令自身变为普通系且回合结束时令自身属性变为草系；自身使用与自身系别相同的技能时令对手随机1项技能的pp值归0，使用与自身系别不同的技能时获得本系属性加成并令对手所有技能的pp值-1",
         "to": 0,
         "type": 0
       }

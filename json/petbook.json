@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4885,
-            "ImageID": 4885,
+            "ID": 4886,
+            "ImageID": 4886,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,18 +1367,58 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 812,
-            "ImageID": 1400812,
+            "ID": 814,
+            "ImageID": 1400814,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3437,
+            "monID": 3541,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 813,
-            "ImageID": 1400813,
+            "ID": 815,
+            "ImageID": 1400815,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4717,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 816,
+            "ImageID": 1400816,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4462,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 817,
+            "ImageID": 1400817,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4808,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 818,
+            "ImageID": 1400818,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 3516,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 819,
+            "ImageID": 1400819,
             "Label": 0,
             "Redirect": "module",
             "monID": 3711,
@@ -21762,7 +21802,7 @@
         "DefName": "蒂亚斯",
         "Features": "第二位混沌领军者，和埃兰一同带领混沌教派，试图建立宇宙的新秩序！",
         "ID": 3422,
-        "Target": ""
+        "Target": "150109"
       },
       {
         "DefName": "鬼藏",
@@ -21906,7 +21946,7 @@
         "DefName": "混沌蒂亚斯",
         "Features": "获得了魔君力量赐福的蒂亚斯，如今的他更加危险，也肩负了扩散混沌之力的使命！",
         "ID": 3446,
-        "Target": ""
+        "Target": "150110"
       },
       {
         "DefName": "克拉卡",
@@ -30481,6 +30521,12 @@
         "Features": "薇星上出现的神秘虫族，被小精灵们称之为“天魔”。灰蛾拥有强大的力量，却总是迷失在虚无的愿望之中……",
         "ID": 4885,
         "Target": "153201/872"
+      },
+      {
+        "DefName": "阿华华",
+        "Features": "阿华华是继承了人族基因的小精灵，性格开朗，富有好奇心。它拥有强大的学习能力和思辨能力，最喜欢做的事情是画画。",
+        "ID": 4886,
+        "Target": "153201/875"
       }
     ],
     "RecMintmark": {
