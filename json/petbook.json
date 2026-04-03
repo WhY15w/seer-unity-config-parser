@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4886,
-            "ImageID": 4886,
+            "ID": 4887,
+            "ImageID": 4887,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,61 +1367,51 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 814,
-            "ImageID": 1400814,
+            "ID": 4888,
+            "ImageID": 4888,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3541,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 815,
-            "ImageID": 1400815,
+            "ID": 4889,
+            "ImageID": 4889,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4717,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 816,
-            "ImageID": 1400816,
+            "ID": 4892,
+            "ImageID": 4892,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4462,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 817,
-            "ImageID": 1400817,
+            "ID": 4893,
+            "ImageID": 4893,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4808,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 818,
-            "ImageID": 1400818,
+            "ID": 820,
+            "ImageID": 1400820,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3516,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 819,
-            "ImageID": 1400819,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 3711,
+            "monID": 4888,
             "type": 1
           }
         ]
@@ -23260,7 +23250,7 @@
         "DefName": "厉魇魔王·咤克斯",
         "Features": "咤克斯的完全体形态，汲取虚无异界之力，将恐惧散播宇宙，黑暗再度降临！",
         "ID": 3665,
-        "Target": ""
+        "Target": "150111"
       },
       {
         "DefName": "莉莎",
@@ -30527,6 +30517,36 @@
         "Features": "阿华华是继承了人族基因的小精灵，性格开朗，富有好奇心。它拥有强大的学习能力和思辨能力，最喜欢做的事情是画画。",
         "ID": 4886,
         "Target": "153201/875"
+      },
+      {
+        "DefName": "托勒斯",
+        "Features": "立于薇星之上的黄金圣徒，托勒斯奉行和谐的理念，在这里打造了一座乐园，并以此汇聚收集教廷所需之物。",
+        "ID": 4887,
+        "Target": "153201/877"
+      },
+      {
+        "DefName": "慈辉永颂·瑞亚",
+        "Features": "掌握时光流逝的女神，瑞亚现身之时，世界的光辉将在此汇聚！",
+        "ID": 4888,
+        "Target": "114062"
+      },
+      {
+        "DefName": "初诞之薇",
+        "Features": "神秘的少女“薇”再度现身，不过在薇星的她，形态似乎又和此前有所差异。关于她的秘密正在一点一点地揭开……",
+        "ID": 4889,
+        "Target": "170000"
+      },
+      {
+        "DefName": "迪利吉",
+        "Features": "2026年包月精灵，万象录之《兢兢业业之人》。迪利吉是基层的公务人员，他在通关口岸勤勤恳恳地为大家服务。",
+        "ID": 4892,
+        "Target": "121000"
+      },
+      {
+        "DefName": "摩耶",
+        "Features": "摩耶和化乐天林海中的其他小精灵十分相似，可爱的它还在不断学习中。",
+        "ID": 4893,
+        "Target": "400020"
       }
     ],
     "RecMintmark": {

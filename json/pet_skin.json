@@ -14724,6 +14724,24 @@
           }
         ],
         "Type": 0
+      },
+      {
+        "Go": "",
+        "GoType": "module",
+        "ID": 820,
+        "Jumptarget": 114063,
+        "MonID": 4888,
+        "Name": "花间晴昼·瑞亚",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
       }
     ]
   }
