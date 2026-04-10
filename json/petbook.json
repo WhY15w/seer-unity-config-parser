@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4887,
-            "ImageID": 4887,
+            "ID": 4890,
+            "ImageID": 4890,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,8 +1367,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4888,
-            "ImageID": 4888,
+            "ID": 4891,
+            "ImageID": 4891,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1377,41 +1377,11 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4889,
-            "ImageID": 4889,
+            "ID": 821,
+            "ImageID": 1400821,
             "Label": 0,
             "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4892,
-            "ImageID": 4892,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4893,
-            "ImageID": 4893,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 820,
-            "ImageID": 1400820,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4888,
+            "monID": 3729,
             "type": 1
           }
         ]
@@ -27342,7 +27312,7 @@
         "DefName": "狂沙之主·萨特",
         "Features": "盖伦星系的守护者，军队出身的他身经百战，拥有着深不可测的实力，面对黑夜的侵袭，萨特有着自己特别的计划和手段，但这一切都随着尘沙起舞，难以捉摸…",
         "ID": 4354,
-        "Target": ""
+        "Target": "150112"
       },
       {
         "DefName": "终末大天使",
@@ -30535,6 +30505,18 @@
         "Features": "神秘的少女“薇”再度现身，不过在薇星的她，形态似乎又和此前有所差异。关于她的秘密正在一点一点地揭开……",
         "ID": 4889,
         "Target": "170000"
+      },
+      {
+        "DefName": "B-12",
+        "Features": "波卢卡星中少数的具有自我意识的居民，为了能够胜任“解放波卢卡星”这个可能长达数百年的工作，B-12放弃了肉身。",
+        "ID": 4890,
+        "Target": "153201/884"
+      },
+      {
+        "DefName": "灰烬之灵",
+        "Features": "在波卢卡星地表的土堆里躲着的小小精灵，轻轻一拍就会变成一堆灰尘，但是只要把灰尘收集起来再搓一搓就会复原。",
+        "ID": 4891,
+        "Target": "400022"
       },
       {
         "DefName": "迪利吉",

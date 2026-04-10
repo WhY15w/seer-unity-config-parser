@@ -18093,10 +18093,10 @@
                     "SpeNameBonus": 572,
                     "Threshold": "29",
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业拔除",
+                    "achName": "岁业祓除",
                     "hide": 0,
                     "proicon": 1469,
-                    "title": "岁业拔除",
+                    "title": "岁业祓除",
                     "titleColor": "0xFFFFFF"
                   },
                   {
@@ -18381,6 +18381,20 @@
                     "hide": 0,
                     "proicon": 1479,
                     "title": "故事达人",
+                    "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "在波卢卡星地表完成探索解密",
+                    "ID": 3,
+                    "SpeNameBonus": 583,
+                    "Threshold": "3",
+                    "abtext": "",
+                    "achName": "潜入达人",
+                    "hide": 0,
+                    "proicon": 1481,
+                    "title": "潜入达人",
                     "titleColor": "0xFFFFFF"
                   }
                 ],
