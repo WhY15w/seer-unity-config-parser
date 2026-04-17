@@ -1,152 +1,152 @@
 [
   {
     "file": "achievements.json",
-    "hash": "776009c1dcc8b5c8f4ab6fff9f14625c49d0539ee70485e52938ae365c70557b",
-    "size": 673183,
-    "lastModified": "2026-04-10T07:24:01.074Z"
+    "hash": "67167a03fa54ec2b654e4b219befa0485d3e67c25f8965f2356b0f2dfed272df",
+    "size": 673741,
+    "lastModified": "2026-04-17T06:08:18.661Z"
   },
   {
     "file": "buff.json",
-    "hash": "30cd235a57d1e1c582673faed0824f1f124c9e0db2f30ba71648b81ac6061d8e",
-    "size": 722844,
-    "lastModified": "2026-04-10T07:24:01.058Z"
+    "hash": "0b3dcc4d5cea4c5b7b583b1f6098be563369d36d48f598f8f7578c99a0b019d3",
+    "size": 725641,
+    "lastModified": "2026-04-17T06:08:18.647Z"
   },
   {
     "file": "clothItems.json",
     "hash": "8a9ffe43fd714443e0790fc549a759426f01d2749e6d992ea97fcabec826a3cf",
     "size": 687892,
-    "lastModified": "2026-04-10T07:24:02.833Z"
+    "lastModified": "2026-04-17T06:08:20.437Z"
   },
   {
     "file": "effectDes.json",
-    "hash": "0c03f160c4006abbdf0b3cc59736b7d32c8423723c99a5785d9e1c04ad96db9f",
-    "size": 156776,
-    "lastModified": "2026-04-10T07:24:01.789Z"
+    "hash": "dacf6af01c0a793d8733ec099922d7a2a2b731659df211b93a890c44fdc4597c",
+    "size": 158859,
+    "lastModified": "2026-04-17T06:08:19.371Z"
   },
   {
     "file": "effectIcon.json",
-    "hash": "b4720e0b99f08ddbeb60392e9f005f7dd71df9be26ed8cfa2a6c242f7dc88bd2",
-    "size": 1575358,
-    "lastModified": "2026-04-10T07:24:01.607Z"
+    "hash": "04de93bc63db9231ffd1903e5740d452e5f1a4237ec9330e7c81a4d81e21b5ce",
+    "size": 1577901,
+    "lastModified": "2026-04-17T06:08:19.196Z"
   },
   {
     "file": "effectInfo.json",
-    "hash": "6e810c221105592c6ea85cd225880fe9d8453bc9533cdab75b6cf9ac26983c80",
-    "size": 838950,
-    "lastModified": "2026-04-10T07:24:01.628Z"
+    "hash": "412115acafef05f4ec97991749908c2c81a2c969e5738711446a0d62a21b665e",
+    "size": 845275,
+    "lastModified": "2026-04-17T06:08:19.216Z"
   },
   {
     "file": "equip.json",
     "hash": "cb43dd1d088e5fca3333486082f4f8fbddc74405296421586b91347d3e2ade97",
     "size": 126811,
-    "lastModified": "2026-04-10T07:24:01.543Z"
+    "lastModified": "2026-04-17T06:08:19.134Z"
   },
   {
     "file": "itemsOptimizeCatItems1.json",
     "hash": "bdb6275d89632f0415458e17913a6af25b5f1d1276e2fc399fc05f0ff0fafe52",
     "size": 353520,
-    "lastModified": "2026-04-10T07:24:01.526Z"
+    "lastModified": "2026-04-17T06:08:19.117Z"
   },
   {
     "file": "itemsOptimizeCatItems13.json",
     "hash": "934437d8a68859747d842fd85d9efcd910783a24c542af1d8f04c56fdf9f93bb",
     "size": 334391,
-    "lastModified": "2026-04-10T07:24:01.538Z"
+    "lastModified": "2026-04-17T06:08:19.129Z"
   },
   {
     "file": "lanternQuestion.json",
     "hash": "ce7b01e73340c17636b10dfd762f3a190ba8114905cfdfb66854ea5a9b0fd314",
     "size": 25478,
-    "lastModified": "2026-04-10T07:24:01.784Z"
+    "lastModified": "2026-04-17T06:08:19.364Z"
   },
   {
     "file": "mintmark.json",
     "hash": "e673276f3b4ae7823fd4a32082e4c448483fd106721139db21f499458b2fdb9c",
     "size": 2307546,
-    "lastModified": "2026-04-10T07:24:01.701Z"
+    "lastModified": "2026-04-17T06:08:19.288Z"
   },
   {
     "file": "mintmarkElevare.json",
     "hash": "394c65e1c895cdeddd51d63c1e21143b199d11dcd55e3d5daf97a8a8352a1382",
     "size": 6656,
-    "lastModified": "2026-04-10T07:24:01.782Z"
+    "lastModified": "2026-04-17T06:08:19.363Z"
   },
   {
     "file": "monsters.json",
-    "hash": "1bae07a165480290d4fef37946fddf3e17ab778d5efdf3462f733b635b9d57f6",
-    "size": 15289242,
-    "lastModified": "2026-04-10T07:24:01.023Z"
+    "hash": "df37e3d6a1f1db0fcdb1d68c6e5e9d23084d362071c733a555bb508df97174d3",
+    "size": 15300473,
+    "lastModified": "2026-04-17T06:08:18.612Z"
   },
   {
     "file": "moves.json",
-    "hash": "49bdc49399dfdbf4165ae0e7f4f6de478b1873c49cb7686b01c260effb57aa0e",
-    "size": 15241832,
-    "lastModified": "2026-04-10T07:24:01.501Z"
+    "hash": "c4865a8de6e718e67a8ea29e22dc59659b67ea460444d51b1601b699422814d8",
+    "size": 15260993,
+    "lastModified": "2026-04-17T06:08:19.091Z"
   },
   {
     "file": "new_super_design.json",
-    "hash": "bea73c51fa6a7a1904450c04bc67f64d61bcebe62a9d436f7f3e9d1970b7dd5f",
-    "size": 1911909,
-    "lastModified": "2026-04-10T07:24:01.743Z"
+    "hash": "0292bd4f8b5e1e12e15015ad86d0539df5e07e069d89abfec7ff45be457c0f12",
+    "size": 1920152,
+    "lastModified": "2026-04-17T06:08:19.327Z"
   },
   {
     "file": "peak_battle_mons.json",
     "hash": "6b3bcb45380046840c24f401c242b12fae25d6feb6f0c5efc926e6a2ec012dc6",
     "size": 905,
-    "lastModified": "2026-04-10T07:24:01.785Z"
+    "lastModified": "2026-04-17T06:08:19.365Z"
   },
   {
     "file": "pet_skin.json",
-    "hash": "d38ad6297dc5a1b03f797f3ae6b22b8d0c250c13de4caa3b46960ef753e0775d",
-    "size": 301145,
-    "lastModified": "2026-04-10T07:24:01.751Z"
+    "hash": "06118948a13d66670a9b543f58513f0f9b44f675436802776b54d83434c6451b",
+    "size": 303902,
+    "lastModified": "2026-04-17T06:08:19.335Z"
   },
   {
     "file": "petbook.json",
-    "hash": "49b0bbbf70bc11be3d6edbec81540c6665bb4f27e964ef94049bcb73e8cb6781",
-    "size": 1229367,
-    "lastModified": "2026-04-10T07:24:01.778Z"
+    "hash": "7623aee2478a858048c2e20892943dc30e556cd06d5c748b2c1393468bf219b7",
+    "size": 1231073,
+    "lastModified": "2026-04-17T06:08:19.360Z"
   },
   {
     "file": "profilephoto.json",
-    "hash": "0d3f6430021864b8fab26ba81fbdf70766aa9bbe0d63c4c693783a1a233244a5",
-    "size": 82282,
-    "lastModified": "2026-04-10T07:24:01.540Z"
+    "hash": "56159c96ace3637ddda4c13c41d036c8fe4dc0c73fd800e5dcc62ec324b624be",
+    "size": 83777,
+    "lastModified": "2026-04-17T06:08:19.131Z"
   },
   {
     "file": "pvp_ban.json",
-    "hash": "24b892054f8c71148a43e4e6c9f9920d5db7a2b3d5d4d38b681d28a7742c636f",
-    "size": 915,
-    "lastModified": "2026-04-10T07:24:01.785Z"
+    "hash": "80645a4f8e0b0c19b9b730a539ca57f0528f9b8bb75f49c91d1114e4a8c93267",
+    "size": 929,
+    "lastModified": "2026-04-17T06:08:19.365Z"
   },
   {
     "file": "pvp_ban_expert.json",
-    "hash": "fb5f4bd9ea78885dfe898de34b0f269529cecbdbc806f5324ac932359a2edbc4",
-    "size": 361,
-    "lastModified": "2026-04-10T07:24:01.785Z"
+    "hash": "c78cada1cf4e0b51027912bae7cb4c29771c4f1fd56021a940eed0ecfb479365",
+    "size": 376,
+    "lastModified": "2026-04-17T06:08:19.366Z"
   },
   {
     "file": "skillEffect.json",
-    "hash": "41b829cce29965884d7d635f3c7ba8dabd27382cc63787d792d59571f38822da",
-    "size": 987902,
-    "lastModified": "2026-04-10T07:24:01.568Z"
+    "hash": "9f118ec2d8ea0495850a6559ba41bfaef17bcbe037ba0c0e5171d7bb2ba5862d",
+    "size": 995571,
+    "lastModified": "2026-04-17T06:08:19.159Z"
   },
   {
     "file": "skillTypes.json",
     "hash": "77005f7a15e66f8e911e18ca1686ed68dea9991720913c96deba58a4f74f626c",
     "size": 22905,
-    "lastModified": "2026-04-10T07:24:01.609Z"
+    "lastModified": "2026-04-17T06:08:19.198Z"
   },
   {
     "file": "suit.json",
     "hash": "08540b69e73bc456abd3bf7babd32b757958c7778476e8274df5343736cff7e4",
     "size": 153936,
-    "lastModified": "2026-04-10T07:24:01.510Z"
+    "lastModified": "2026-04-17T06:08:19.101Z"
   },
   {
     "file": "typesRelation.json",
     "hash": "b4278ef3786346fe3a97b4cef01f057cb47e2ea3a8e5fe5bf52339aa616d205c",
     "size": 56618,
-    "lastModified": "2026-04-10T07:24:01.781Z"
+    "lastModified": "2026-04-17T06:08:19.362Z"
   }
 ]

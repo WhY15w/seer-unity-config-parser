@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4890,
-            "ImageID": 4890,
+            "ID": 4894,
+            "ImageID": 4894,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,8 +1367,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4891,
-            "ImageID": 4891,
+            "ID": 4895,
+            "ImageID": 4895,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1377,11 +1377,41 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 821,
-            "ImageID": 1400821,
+            "ID": 4896,
+            "ImageID": 4896,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3729,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 822,
+            "ImageID": 1400822,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 3507,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 823,
+            "ImageID": 1400823,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 3686,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 824,
+            "ImageID": 1400824,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4895,
             "type": 1
           }
         ]
@@ -17232,7 +17262,7 @@
         "DefName": "天邪龙王",
         "Features": "暗夜邪龙的大形态，全身散发着令人胆战心惊的邪恶气息，是新的暗夜王者！",
         "ID": 2652,
-        "Target": ""
+        "Target": "150113"
       },
       {
         "DefName": "白小虎",
@@ -20226,7 +20256,7 @@
         "DefName": "天邪龙皇",
         "Features": "大暗黑天长老之一，拥有绝对的黑暗霸主之力，本次超进化，堪称逆世出击，绝对是能够与王之战联与元素之祖一战的王者级神宠！",
         "ID": 3162,
-        "Target": ""
+        "Target": "150113"
       },
       {
         "DefName": "小沃",
@@ -30336,7 +30366,7 @@
         "DefName": "涂蝶",
         "Features": "雨巷中偶然的擦肩，她看见了“色彩”。再后来，庸人无法理解她对纯黑的狂热，也无法察觉他们眼中的漆黑，却在她眼中斑斓。",
         "ID": 4861,
-        "Target": "200000"
+        "Target": ""
       },
       {
         "DefName": "纷争之薇",
@@ -30498,7 +30528,7 @@
         "DefName": "慈辉永颂·瑞亚",
         "Features": "掌握时光流逝的女神，瑞亚现身之时，世界的光辉将在此汇聚！",
         "ID": 4888,
-        "Target": "114062"
+        "Target": ""
       },
       {
         "DefName": "初诞之薇",
@@ -30529,6 +30559,24 @@
         "Features": "摩耶和化乐天林海中的其他小精灵十分相似，可爱的它还在不断学习中。",
         "ID": 4893,
         "Target": "400020"
+      },
+      {
+        "DefName": "安瑟伦",
+        "Features": "原本在维茨洛奇坦星行动的黄金圣徒，通过百年的努力塑造了一个近乎永续的传说……然而当那个信仰系统彻底被小梅破坏之后就回到了教廷。",
+        "ID": 4894,
+        "Target": "153201/886"
+      },
+      {
+        "DefName": "喧云",
+        "Features": "云端的天使终将吹奏毁灭的号角，为叛逆而荒诞的世界带来审判的休止符；不过闲暇时间，凡间的音乐节倒也是一种不错的余兴。",
+        "ID": 4895,
+        "Target": "200000"
+      },
+      {
+        "DefName": "朝圣者",
+        "Features": "朝圣者型机械哨兵，是黄金教廷在波卢卡星部署数量最大的机械哨兵。虽然这个型号已经好几十年没有更新过了，但是凭借着好生产好维护的特点一直都是最热门的机型。",
+        "ID": 4896,
+        "Target": "400023"
       }
     ],
     "RecMintmark": {
