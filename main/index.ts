@@ -24,6 +24,23 @@ import { parsePeakBattleMonsConfig } from "../bytes2json/peakBattleMons";
 import { parsePvpBanConfig } from "../bytes2json/pvpBan";
 import { parsePvpBanExpertConfig } from "../bytes2json/pvpBanExpert";
 import { parseEffectDesConfig } from "../bytes2json/effectDes";
+import { parseAwakenDetail } from "../bytes2json/awakendetail";
+import { parsePvpVoteConfig } from "../bytes2json/pvpVote";
+import { parsePvpTaskConfig } from "../bytes2json/pvpTask";
+import { parseLanguageConfig } from "../bytes2json/language";
+import { parseAutocardBuffConfig } from "../bytes2json/autocardBuff";
+import { parseAutocardConditionConfig } from "../bytes2json/autocardCondition";
+import { parseAutocardContentConfig } from "../bytes2json/autocardContent";
+import { parseAutocardEffectConfig } from "../bytes2json/autocardEffect";
+import { parseAutocardEffectIconDesConfig } from "../bytes2json/autocardEffectIconDes";
+import { parseAutocardNatureConfig } from "../bytes2json/autocardNature";
+import { parseAutocardPlayerConfig } from "../bytes2json/autocardPlayer";
+import { parseAutoCardRecomConfig } from "../bytes2json/autoCardRecom";
+import { parseAutocardRoleConfig } from "../bytes2json/autocardRole";
+import { parseAutocardSkinConfig } from "../bytes2json/autocardSkin";
+import { parseNewSeConfig } from "../bytes2json/newSe";
+import { parsePetFriendsConfig } from "../bytes2json/petFriends";
+import { parsePvpAchieveConfig } from "../bytes2json/pvpAchieve";
 
 const failures: { name: string; error: string }[] = [];
 
@@ -39,42 +56,42 @@ function safeRun(name: string, fn: () => void) {
 }
 
 safeRun("monsters", () =>
-  parseMonstersConfig("./ConfigPackage/export/monsters.bytes")
+  parseMonstersConfig("./ConfigPackage/export/monsters.bytes"),
 );
 safeRun("buff", () => parseBuffConfig("./ConfigPackage/export/buff.bytes"));
 safeRun("achievements", () =>
-  parseAchievements("./ConfigPackage/export/achievements.bytes")
+  parseAchievements("./ConfigPackage/export/achievements.bytes"),
 );
 safeRun("moves", () => parseMovesConfig("./ConfigPackage/export/moves.bytes"));
 safeRun("suit", () => parseSuitConfig("./ConfigPackage/export/suit.bytes"));
 safeRun("itemsOptimizeCatItems1", () =>
   parseItemsOptimizeCatItems1Config(
-    "./ConfigPackage/export/itemsOptimizeCatItems1.bytes"
-  )
+    "./ConfigPackage/export/itemsOptimizeCatItems1.bytes",
+  ),
 );
 safeRun("itemsOptimizeCatItems13", () =>
   parseItemsOptimizeCatItems13Config(
-    "./ConfigPackage/export/itemsOptimizeCatItems13.bytes"
-  )
+    "./ConfigPackage/export/itemsOptimizeCatItems13.bytes",
+  ),
 );
 safeRun("profilephoto", () =>
-  parseProfilephotoConfig("./ConfigPackage/export/profilephoto.bytes")
+  parseProfilephotoConfig("./ConfigPackage/export/profilephoto.bytes"),
 );
 safeRun("equip", () => parseEquipConfig("./ConfigPackage/export/equip.bytes"));
 safeRun("skillEffect", () =>
-  parseSkillEffectConfig("./ConfigPackage/export/skill_effect.bytes")
+  parseSkillEffectConfig("./ConfigPackage/export/skill_effect.bytes"),
 );
 safeRun("effectIcon", () =>
-  parseEffectIconConfig("./ConfigPackage/export/effectIcon.bytes")
+  parseEffectIconConfig("./ConfigPackage/export/effectIcon.bytes"),
 );
 safeRun("skillTypes", () =>
-  parseSkillTypesConfig("./ConfigPackage/export/skillTypes.bytes")
+  parseSkillTypesConfig("./ConfigPackage/export/skillTypes.bytes"),
 );
 safeRun("effectInfo", () =>
-  parseEffectInfoConfig("./ConfigPackage/export/effectInfo.bytes")
+  parseEffectInfoConfig("./ConfigPackage/export/effectInfo.bytes"),
 );
 safeRun("mintmark", () =>
-  parseMintmarkConfig("./ConfigPackage/export/mintmark.bytes")
+  parseMintmarkConfig("./ConfigPackage/export/mintmark.bytes"),
 );
 safeRun("newSuperDesign", () => {
   parseNewSuperDesignConfig("./ConfigPackage/export/new_super_design.bytes");
@@ -105,6 +122,61 @@ safeRun("pvpBanExpert", () => {
 });
 safeRun("effectDes", () => {
   parseEffectDesConfig("./ConfigPackage/export/effectDes.bytes");
+});
+safeRun("awakendetail", () => {
+  parseAwakenDetail("./ConfigPackage/export/awakendetail.bytes");
+});
+safeRun("pvpVote", () => {
+  parsePvpVoteConfig("./ConfigPackage/export/pvp_vote.bytes");
+});
+safeRun("pvpTask", () => {
+  parsePvpTaskConfig("./ConfigPackage/export/pvp_task.bytes");
+});
+safeRun("language", () => {
+  parseLanguageConfig("./ConfigPackage/export/language.bytes");
+});
+safeRun("autocardBuff", () => {
+  parseAutocardBuffConfig("./ConfigPackage/export/autocardBuff.bytes");
+});
+safeRun("autocardCondition", () => {
+  parseAutocardConditionConfig(
+    "./ConfigPackage/export/autocardCondition.bytes",
+  );
+});
+safeRun("autocardContent", () => {
+  parseAutocardContentConfig("./ConfigPackage/export/autocardContent.bytes");
+});
+safeRun("autocardEffect", () => {
+  parseAutocardEffectConfig("./ConfigPackage/export/autocardEffect.bytes");
+});
+safeRun("autocardEffectIconDes", () => {
+  parseAutocardEffectIconDesConfig(
+    "./ConfigPackage/export/autocardEffectIconDes.bytes",
+  );
+});
+safeRun("autocardNature", () => {
+  parseAutocardNatureConfig("./ConfigPackage/export/autocardNature.bytes");
+});
+safeRun("autocardPlayer", () => {
+  parseAutocardPlayerConfig("./ConfigPackage/export/autocardPlayer.bytes");
+});
+safeRun("autoCardRecom", () => {
+  parseAutoCardRecomConfig("./ConfigPackage/export/autoCardRecom.bytes");
+});
+safeRun("autocardRole", () => {
+  parseAutocardRoleConfig("./ConfigPackage/export/autocardRole.bytes");
+});
+safeRun("autocardSkin", () => {
+  parseAutocardSkinConfig("./ConfigPackage/export/autocardSkin.bytes");
+});
+safeRun("new_se", () => {
+  parseNewSeConfig("./ConfigPackage/export/new_se.bytes");
+});
+safeRun("pet_friends", () => {
+  parsePetFriendsConfig("./ConfigPackage/export/pet_friends.bytes");
+});
+safeRun("pvp_achieve", () => {
+  parsePvpAchieveConfig("./ConfigPackage/export/pvp_achieve.bytes");
 });
 
 async function sendFeishuAlert() {

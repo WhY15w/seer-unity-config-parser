@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "action1": "",
+      "action2": "",
+      "action3": "",
+      "des": "布布种子蹦蹦跳跳了一辈子，却从未想过停下来，因为梦想比蜜露还甜。",
+      "id": 1,
+      "jumpinfo": 510001,
+      "moveSpeed": 3,
+      "name": "布布种子",
+      "rarity": 1,
+      "resource": "bubuzhongzi"
+    },
+    {
+      "action1": "",
+      "action2": "",
+      "action3": "",
+      "des": "伊优从出生起就游得比别人快。他的字典里只有：赢，和怎么赢？",
+      "id": 2,
+      "jumpinfo": 510001,
+      "moveSpeed": 3,
+      "name": "伊优",
+      "rarity": 1,
+      "resource": "yiyou"
+    },
+    {
+      "action1": "",
+      "action2": "",
+      "action3": "",
+      "des": "小火猴每天都在对着火山口练拳，他梦想能像火山一样，堂堂正正地燃烧一次。",
+      "id": 3,
+      "jumpinfo": 510001,
+      "moveSpeed": 3,
+      "name": "小火猴",
+      "rarity": 1,
+      "resource": "xiaohuohou"
+    }
+  ]
+}

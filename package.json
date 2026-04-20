@@ -7,16 +7,16 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "pnpm run update && pnpm run export && pnpm run test && pnpm run mergeItemsOptimizeCatItems && pnpm run validate && pnpm run detect-changes",
+    "start": "pnpm run update && pnpm run export && pnpm run main && pnpm run mergeItemsOptimizeCatItems && pnpm run validate && pnpm run detect-changes",
     "update": "pnpm exec tsx parser/index.ts",
     "export": "python parser/UnityFSParser.py",
-    "test": "pnpm exec tsx test/index.ts",
+    "main": "pnpm exec tsx main/index.ts",
     "validate": "pnpm exec tsx scripts/validate-json.ts",
     "detect-changes": "pnpm exec tsx scripts/detect-changes.ts",
     "mergeItemsOptimizeCatItems": "pnpm exec tsx scripts/mergeItemsOptimizeCatItems.ts",
     "build": "pnpm run start",
     "clean": "rimraf json ConfigPackage/export logs",
-    "dev": "pnpm run update && pnpm run export && pnpm run test"
+    "dev": "pnpm run update && pnpm run export && pnpm run main"
   },
   "devDependencies": {
     "@types/node": "^24.12.2",

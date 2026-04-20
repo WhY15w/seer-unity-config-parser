@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "describe": "玩家在S10赛季竞技/狂野模式中首次达到猛将段位",
+      "foreverType": 1,
+      "id": 1,
+      "rewardinfo": "1483_174_5",
+      "title": "S10赛季猛将",
+      "value": 1
+    },
+    {
+      "describe": "玩家在S10赛季竞技/狂野模式中首次达到天骄段位",
+      "foreverType": 1,
+      "id": 2,
+      "rewardinfo": "1484_174_6",
+      "title": "S10赛季天骄",
+      "value": 2
+    },
+    {
+      "describe": "玩家在S10赛季竞技/狂野模式中首次达到王者段位",
+      "foreverType": 1,
+      "id": 3,
+      "rewardinfo": "1485_174_7",
+      "title": "S10赛季王者",
+      "value": 3
+    },
+    {
+      "describe": "玩家在S10赛季竞技/狂野模式中首次达到圣皇段位",
+      "foreverType": 1,
+      "id": 4,
+      "rewardinfo": "1486_174_8",
+      "title": "S10赛季圣皇",
+      "value": 4
+    },
+    {
+      "describe": "玩家在任意赛季竞技模式中首次达到猛将段位",
+      "foreverType": 1,
+      "id": 5,
+      "rewardinfo": "1317_164_1",
+      "title": "无敌猛将",
+      "value": 1
+    },
+    {
+      "describe": "玩家在任意赛季竞技模式中首次达到天骄段位",
+      "foreverType": 1,
+      "id": 6,
+      "rewardinfo": "1318_164_2",
+      "title": "出世天骄",
+      "value": 2
+    },
+    {
+      "describe": "玩家在任意赛季竞技模式中首次达到王者段位",
+      "foreverType": 1,
+      "id": 7,
+      "rewardinfo": "1319_164_3",
+      "title": "巅峰王者",
+      "value": 3
+    },
+    {
+      "describe": "玩家在任意赛季竞技模式中首次达到圣皇段位",
+      "foreverType": 1,
+      "id": 8,
+      "rewardinfo": "1320_164_4",
+      "title": "宇宙圣皇",
+      "value": 4
+    },
+    {
+      "describe": "玩家在任意赛季竞技/休闲模式中进行1次对战",
+      "foreverType": 2,
+      "id": 9,
+      "rewardinfo": "1321_163_1",
+      "title": "初入巅峰",
+      "value": 1
+    },
+    {
+      "describe": "玩家在任意赛季竞技/休闲模式中进行50次对战",
+      "foreverType": 2,
+      "id": 10,
+      "rewardinfo": "1322_163_2",
+      "title": "巅峰对战（一）",
+      "value": 50
+    },
+    {
+      "describe": "玩家在任意赛季竞技/休闲模式中进行500次对战",
+      "foreverType": 2,
+      "id": 11,
+      "rewardinfo": "1323_163_3",
+      "title": "巅峰对战（二）",
+      "value": 500
+    },
+    {
+      "describe": "玩家在任意赛季竞技/休闲模式中进行5000次对战",
+      "foreverType": 2,
+      "id": 12,
+      "rewardinfo": "1324_163_4",
+      "title": "巅峰对战（三）",
+      "value": 5000
+    },
+    {
+      "describe": "玩家在任意赛季竞技模式中首次达成5连胜",
+      "foreverType": 3,
+      "id": 13,
+      "rewardinfo": "1325_162_1",
+      "title": "战皇",
+      "value": 5
+    },
+    {
+      "describe": "玩家在任意赛季竞技模式中首次达成10连胜",
+      "foreverType": 3,
+      "id": 14,
+      "rewardinfo": "1326_162_2",
+      "title": "战神",
+      "value": 10
+    },
+    {
+      "describe": "玩家在任意赛季竞技模式中首次达成30连胜",
+      "foreverType": 3,
+      "id": 15,
+      "rewardinfo": "1327_162_3",
+      "title": "不可能完成的任务",
+      "value": 30
+    }
+  ]
+}

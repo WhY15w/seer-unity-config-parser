@@ -1,152 +1,254 @@
 [
   {
     "file": "achievements.json",
-    "hash": "67167a03fa54ec2b654e4b219befa0485d3e67c25f8965f2356b0f2dfed272df",
+    "hash": "c516ed6306a17f2f6cecae5903ff8df6a477d69787ca577a0e7ec5bab3e397ea",
     "size": 673741,
-    "lastModified": "2026-04-17T07:28:34.330Z"
+    "lastModified": "2026-04-20T13:38:14.497Z"
+  },
+  {
+    "file": "autocardBuff.json",
+    "hash": "657b5106a8886e01c53637e139ad36a76fd13818ce6351501ae70f8ada047b64",
+    "size": 39547,
+    "lastModified": "2026-04-20T13:38:17.389Z"
+  },
+  {
+    "file": "autocardCondition.json",
+    "hash": "f436421f99a0ac5a5d13a0b9b3d5f8c46ef802e9271c3c28a1e5d4d1b25c7533",
+    "size": 1128,
+    "lastModified": "2026-04-20T13:38:17.394Z"
+  },
+  {
+    "file": "autocardContent.json",
+    "hash": "3748c613be8d1cbd134d0fb8e64806a0c8fd0d3710e0df4d35d790df8191421a",
+    "size": 106346,
+    "lastModified": "2026-04-20T13:38:17.422Z"
+  },
+  {
+    "file": "autocardEffect.json",
+    "hash": "eebe9244f862f887d393292ccc26e551c39fe83ab8b9c4423e73be5a477f709a",
+    "size": 3392,
+    "lastModified": "2026-04-20T13:38:17.498Z"
+  },
+  {
+    "file": "autocardEffectIconDes.json",
+    "hash": "c2c871e266f4804d8595ed51e7730bb89ff3535b35f00a23311fa23f6bdf3272",
+    "size": 1112,
+    "lastModified": "2026-04-20T13:38:17.506Z"
+  },
+  {
+    "file": "autocardNature.json",
+    "hash": "22a152060318b46dfd67a6454e5eaa051b622f6f8b312e71a7ea7282857df716",
+    "size": 457,
+    "lastModified": "2026-04-20T13:38:17.510Z"
+  },
+  {
+    "file": "autocardPlayer.json",
+    "hash": "b6927a2b223a1a9f730fabf62a2dbdc2368ca9d527fa381fb5d31c16be8e93b5",
+    "size": 1001,
+    "lastModified": "2026-04-20T13:38:17.601Z"
+  },
+  {
+    "file": "autoCardRecom.json",
+    "hash": "382c0af1f69072936bdc8c67dccb6fae4584fd219975cbdde745193e3e7bca15",
+    "size": 3576,
+    "lastModified": "2026-04-20T13:38:17.650Z"
+  },
+  {
+    "file": "autocardRole.json",
+    "hash": "211eac4045b2cccf782cbe056442211441bb4f1884e0a37504153d28e459d1a3",
+    "size": 12083,
+    "lastModified": "2026-04-20T13:38:17.665Z"
+  },
+  {
+    "file": "autocardSkin.json",
+    "hash": "c25f2345741afaf5fdc2f0fb243f0d16dcc7d6141191177c4dd972be7986e4fa",
+    "size": 170,
+    "lastModified": "2026-04-20T13:38:17.681Z"
+  },
+  {
+    "file": "awakendetail.json",
+    "hash": "2ced3a244f582feff64138ab2d7f2a67c6ddfee6b3bd791a51c313f2a2e8929d",
+    "size": 22405,
+    "lastModified": "2026-04-20T13:38:17.342Z"
   },
   {
     "file": "buff.json",
     "hash": "0b3dcc4d5cea4c5b7b583b1f6098be563369d36d48f598f8f7578c99a0b019d3",
     "size": 725641,
-    "lastModified": "2026-04-17T07:28:34.332Z"
+    "lastModified": "2026-04-20T13:38:14.432Z"
   },
   {
     "file": "clothItems.json",
     "hash": "8a9ffe43fd714443e0790fc549a759426f01d2749e6d992ea97fcabec826a3cf",
     "size": 687892,
-    "lastModified": "2026-04-17T07:30:06.739Z"
+    "lastModified": "2026-04-20T13:38:20.861Z"
   },
   {
     "file": "effectDes.json",
     "hash": "dacf6af01c0a793d8733ec099922d7a2a2b731659df211b93a890c44fdc4597c",
     "size": 158859,
-    "lastModified": "2026-04-17T07:28:34.334Z"
+    "lastModified": "2026-04-20T13:38:17.337Z"
   },
   {
     "file": "effectIcon.json",
     "hash": "04de93bc63db9231ffd1903e5740d452e5f1a4237ec9330e7c81a4d81e21b5ce",
     "size": 1577901,
-    "lastModified": "2026-04-17T07:28:34.339Z"
+    "lastModified": "2026-04-20T13:38:16.546Z"
   },
   {
     "file": "effectInfo.json",
-    "hash": "412115acafef05f4ec97991749908c2c81a2c969e5738711446a0d62a21b665e",
-    "size": 845275,
-    "lastModified": "2026-04-17T07:28:34.342Z"
+    "hash": "d2da98bab9326198ff8dc28f91ec72595be7351dc8aeb8ad189acf45f76fb121",
+    "size": 845279,
+    "lastModified": "2026-04-20T13:38:16.633Z"
   },
   {
     "file": "equip.json",
     "hash": "cb43dd1d088e5fca3333486082f4f8fbddc74405296421586b91347d3e2ade97",
     "size": 126811,
-    "lastModified": "2026-04-17T07:28:34.342Z"
+    "lastModified": "2026-04-20T13:38:16.264Z"
   },
   {
     "file": "itemsOptimizeCatItems1.json",
     "hash": "bdb6275d89632f0415458e17913a6af25b5f1d1276e2fc399fc05f0ff0fafe52",
     "size": 353520,
-    "lastModified": "2026-04-17T07:28:34.342Z"
+    "lastModified": "2026-04-20T13:38:16.169Z"
   },
   {
     "file": "itemsOptimizeCatItems13.json",
     "hash": "934437d8a68859747d842fd85d9efcd910783a24c542af1d8f04c56fdf9f93bb",
     "size": 334391,
-    "lastModified": "2026-04-17T07:28:34.343Z"
+    "lastModified": "2026-04-20T13:38:16.230Z"
+  },
+  {
+    "file": "language.json",
+    "hash": "c1d6f361b30dd0978818cf8ff14420f9c43e17d09245b4ea52a583e64b362fd8",
+    "size": 182753,
+    "lastModified": "2026-04-20T13:38:17.381Z"
   },
   {
     "file": "lanternQuestion.json",
     "hash": "ce7b01e73340c17636b10dfd762f3a190ba8114905cfdfb66854ea5a9b0fd314",
     "size": 25478,
-    "lastModified": "2026-04-17T07:28:34.343Z"
+    "lastModified": "2026-04-20T13:38:17.304Z"
   },
   {
     "file": "mintmark.json",
     "hash": "e673276f3b4ae7823fd4a32082e4c448483fd106721139db21f499458b2fdb9c",
     "size": 2307546,
-    "lastModified": "2026-04-17T07:28:34.349Z"
+    "lastModified": "2026-04-20T13:38:16.982Z"
   },
   {
     "file": "mintmarkElevare.json",
     "hash": "394c65e1c895cdeddd51d63c1e21143b199d11dcd55e3d5daf97a8a8352a1382",
     "size": 6656,
-    "lastModified": "2026-04-17T07:28:34.349Z"
+    "lastModified": "2026-04-20T13:38:17.299Z"
   },
   {
     "file": "monsters.json",
     "hash": "df37e3d6a1f1db0fcdb1d68c6e5e9d23084d362071c733a555bb508df97174d3",
     "size": 15300473,
-    "lastModified": "2026-04-17T07:28:34.373Z"
+    "lastModified": "2026-04-20T13:38:14.343Z"
   },
   {
     "file": "moves.json",
     "hash": "c4865a8de6e718e67a8ea29e22dc59659b67ea460444d51b1601b699422814d8",
     "size": 15260993,
-    "lastModified": "2026-04-17T07:28:34.400Z"
+    "lastModified": "2026-04-20T13:38:16.032Z"
+  },
+  {
+    "file": "new_se.json",
+    "hash": "3c6ec2c31452bc04b0484b6a9a42ed2c72e78aad0fd182d823fc4b4b3a97511d",
+    "size": 123095,
+    "lastModified": "2026-04-20T13:38:17.699Z"
   },
   {
     "file": "new_super_design.json",
     "hash": "0292bd4f8b5e1e12e15015ad86d0539df5e07e069d89abfec7ff45be457c0f12",
     "size": 1920152,
-    "lastModified": "2026-04-17T07:28:34.403Z"
+    "lastModified": "2026-04-20T13:38:17.157Z"
   },
   {
     "file": "peak_battle_mons.json",
     "hash": "6b3bcb45380046840c24f401c242b12fae25d6feb6f0c5efc926e6a2ec012dc6",
     "size": 905,
-    "lastModified": "2026-04-17T07:28:34.403Z"
-  },
-  {
-    "file": "pet_skin.json",
-    "hash": "06118948a13d66670a9b543f58513f0f9b44f675436802776b54d83434c6451b",
-    "size": 303902,
-    "lastModified": "2026-04-17T07:28:34.404Z"
+    "lastModified": "2026-04-20T13:38:17.308Z"
   },
   {
     "file": "petbook.json",
     "hash": "7623aee2478a858048c2e20892943dc30e556cd06d5c748b2c1393468bf219b7",
     "size": 1231073,
-    "lastModified": "2026-04-17T07:28:34.408Z"
+    "lastModified": "2026-04-20T13:38:17.286Z"
+  },
+  {
+    "file": "pet_friends.json",
+    "hash": "420265c8bf84514aa7dae69a37457469fd14ec9b751b201332e997ce966a2380",
+    "size": 6404,
+    "lastModified": "2026-04-20T13:38:17.706Z"
+  },
+  {
+    "file": "pet_skin.json",
+    "hash": "06118948a13d66670a9b543f58513f0f9b44f675436802776b54d83434c6451b",
+    "size": 303902,
+    "lastModified": "2026-04-20T13:38:17.192Z"
   },
   {
     "file": "profilephoto.json",
     "hash": "56159c96ace3637ddda4c13c41d036c8fe4dc0c73fd800e5dcc62ec324b624be",
     "size": 83777,
-    "lastModified": "2026-04-17T07:28:34.408Z"
+    "lastModified": "2026-04-20T13:38:16.247Z"
+  },
+  {
+    "file": "pvp_achieve.json",
+    "hash": "64ea8feffc4cb86776b1567566ee5e230275b27160dedfd9ac11686ae7c268c0",
+    "size": 3316,
+    "lastModified": "2026-04-20T13:38:17.723Z"
   },
   {
     "file": "pvp_ban.json",
     "hash": "80645a4f8e0b0c19b9b730a539ca57f0528f9b8bb75f49c91d1114e4a8c93267",
     "size": 929,
-    "lastModified": "2026-04-17T07:28:34.408Z"
+    "lastModified": "2026-04-20T13:38:17.311Z"
   },
   {
     "file": "pvp_ban_expert.json",
     "hash": "c78cada1cf4e0b51027912bae7cb4c29771c4f1fd56021a940eed0ecfb479365",
     "size": 376,
-    "lastModified": "2026-04-17T07:28:34.408Z"
+    "lastModified": "2026-04-20T13:38:17.315Z"
+  },
+  {
+    "file": "pvp_task.json",
+    "hash": "8fc2fa43b84b5595701c8520074974bd3f45642519588c7290ddc3fa89538472",
+    "size": 5921,
+    "lastModified": "2026-04-20T13:38:17.353Z"
+  },
+  {
+    "file": "pvp_vote.json",
+    "hash": "2273534deeee3c90d41f45c21deb41472af3cea0f370797f54e00e485e2b74cf",
+    "size": 1327,
+    "lastModified": "2026-04-20T13:38:17.348Z"
   },
   {
     "file": "skillEffect.json",
-    "hash": "9f118ec2d8ea0495850a6559ba41bfaef17bcbe037ba0c0e5171d7bb2ba5862d",
+    "hash": "08a7806d7ebe53850bde1557afe427a7fab3c19069a557b33507e3355ff41b26",
     "size": 995571,
-    "lastModified": "2026-04-17T07:28:34.410Z"
+    "lastModified": "2026-04-20T13:38:16.388Z"
   },
   {
     "file": "skillTypes.json",
     "hash": "77005f7a15e66f8e911e18ca1686ed68dea9991720913c96deba58a4f74f626c",
     "size": 22905,
-    "lastModified": "2026-04-17T07:28:34.410Z"
+    "lastModified": "2026-04-20T13:38:16.558Z"
   },
   {
     "file": "suit.json",
     "hash": "08540b69e73bc456abd3bf7babd32b757958c7778476e8274df5343736cff7e4",
     "size": 153936,
-    "lastModified": "2026-04-17T07:28:34.411Z"
+    "lastModified": "2026-04-20T13:38:16.071Z"
   },
   {
     "file": "typesRelation.json",
     "hash": "b4278ef3786346fe3a97b4cef01f057cb47e2ea3a8e5fe5bf52339aa616d205c",
     "size": 56618,
-    "lastModified": "2026-04-17T07:28:34.411Z"
+    "lastModified": "2026-04-20T13:38:17.296Z"
   }
 ]
