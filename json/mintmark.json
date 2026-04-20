@@ -118274,6 +118274,73 @@
       {
         "BaseAttriValue": [
           0,
+          5,
+          2,
+          5,
+          2,
+          9
+        ],
+        "Connect": 0,
+        "Des": "逝者巨樽",
+        "EffectDes": "防御5/50,特攻2/25,特防3/50,速度2/20,体力9/95",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42686,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          50,
+          25,
+          50,
+          20,
+          95
+        ],
+        "MintmarkClass": 61,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          4,
+          3,
+          3,
+          9
+        ],
+        "Connect": 0,
+        "Des": "慈辉永颂·瑞亚专属全能刻印",
+        "EffectDes": "防御3/30,特攻4/46,特防3/30,速度3/34,体力9/95",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42687,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          46,
+          30,
+          34,
+          95
+        ],
+        "MintmarkClass": 0,
+        "MonsterID": [
+          4888
+        ],
+        "Quality": 5,
+        "Rare": 1,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
           0,
           0,
           0,

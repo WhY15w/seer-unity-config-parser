@@ -2381,6 +2381,20 @@
                     "proicon": 1466,
                     "title": "白皑迷踪",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "完成主线【乐园放逐】获得",
+                    "ID": 24,
+                    "SpeNameBonus": 579,
+                    "Threshold": "24",
+                    "abtext": "",
+                    "achName": "乐园放逐",
+                    "hide": 0,
+                    "proicon": 1477,
+                    "title": "乐园放逐",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",
@@ -8415,6 +8429,34 @@
                     "proicon": 1475,
                     "title": "乐园的天魔",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "通关S-托勒斯【地狱难度】关卡获得",
+                    "ID": 9,
+                    "SpeNameBonus": 582,
+                    "Threshold": "9",
+                    "abtext": "",
+                    "achName": "和谐之化身",
+                    "hide": 0,
+                    "proicon": 1480,
+                    "title": "和谐之化身",
+                    "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "通关S-安瑟伦【地狱难度】关卡获得",
+                    "ID": 10,
+                    "SpeNameBonus": 584,
+                    "Threshold": "10",
+                    "abtext": "",
+                    "achName": "信仰之化身",
+                    "hide": 0,
+                    "proicon": 1482,
+                    "title": "信仰之化身",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",
@@ -8614,6 +8656,33 @@
                     "proicon": 1379,
                     "title": "",
                     "titleColor": ""
+                  }
+                ],
+                "_text": "",
+                "isShowPro": 0
+              }
+            ]
+          },
+          {
+            "Branch": [
+              {
+                "Desc": "群星牌",
+                "ID": 175,
+                "IsSingle": 0,
+                "Rule": [
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "参与【群星召集】活动获得",
+                    "ID": 1,
+                    "SpeNameBonus": 578,
+                    "Threshold": "1",
+                    "abtext": "",
+                    "achName": "群星闪耀",
+                    "hide": 0,
+                    "proicon": 1476,
+                    "title": "群星闪耀",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",
@@ -12668,62 +12737,6 @@
                     "proicon": 1445,
                     "title": "",
                     "titleColor": ""
-                  },
-                  {
-                    "AbilityTitle": 0,
-                    "AchievementPoint": 0,
-                    "Desc": "S9赛季竞技/狂野模式中首次达到猛将段位时获得",
-                    "ID": 33,
-                    "SpeNameBonus": 0,
-                    "Threshold": "33",
-                    "abtext": "",
-                    "achName": "S9赛季猛将",
-                    "hide": 0,
-                    "proicon": 1460,
-                    "title": "",
-                    "titleColor": ""
-                  },
-                  {
-                    "AbilityTitle": 0,
-                    "AchievementPoint": 0,
-                    "Desc": "S9赛季竞技/狂野模式中首次达到天骄段位时获得",
-                    "ID": 34,
-                    "SpeNameBonus": 0,
-                    "Threshold": "34",
-                    "abtext": "",
-                    "achName": "S9赛季天骄",
-                    "hide": 0,
-                    "proicon": 1461,
-                    "title": "",
-                    "titleColor": ""
-                  },
-                  {
-                    "AbilityTitle": 0,
-                    "AchievementPoint": 0,
-                    "Desc": "S9赛季竞技/狂野模式中首次达到王者段位时获得",
-                    "ID": 35,
-                    "SpeNameBonus": 0,
-                    "Threshold": "35",
-                    "abtext": "",
-                    "achName": "S9赛季王者",
-                    "hide": 0,
-                    "proicon": 1462,
-                    "title": "",
-                    "titleColor": ""
-                  },
-                  {
-                    "AbilityTitle": 0,
-                    "AchievementPoint": 0,
-                    "Desc": "S9赛季竞技/狂野模式中首次达到圣皇段位时获得",
-                    "ID": 36,
-                    "SpeNameBonus": 0,
-                    "Threshold": "36",
-                    "abtext": "",
-                    "achName": "S9赛季圣皇",
-                    "hide": 0,
-                    "proicon": 1463,
-                    "title": "",
-                    "titleColor": ""
                   }
                 ],
                 "_text": "",
@@ -12787,6 +12800,62 @@
                     "achName": "S9赛季圣皇",
                     "hide": 0,
                     "proicon": 1463,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "S10赛季竞技/狂野模式中首次达到猛将段位时获得",
+                    "ID": 5,
+                    "SpeNameBonus": 0,
+                    "Threshold": "5",
+                    "abtext": "",
+                    "achName": "S10赛季猛将",
+                    "hide": 0,
+                    "proicon": 1483,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "S10赛季竞技/狂野模式中首次达到天骄段位时获得",
+                    "ID": 6,
+                    "SpeNameBonus": 0,
+                    "Threshold": "6",
+                    "abtext": "",
+                    "achName": "S10赛季天骄",
+                    "hide": 0,
+                    "proicon": 1484,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "S10赛季竞技/狂野模式中首次达到王者段位时获得",
+                    "ID": 7,
+                    "SpeNameBonus": 0,
+                    "Threshold": "7",
+                    "abtext": "",
+                    "achName": "S10赛季王者",
+                    "hide": 0,
+                    "proicon": 1485,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "S10赛季竞技/狂野模式中首次达到圣皇段位时获得",
+                    "ID": 8,
+                    "SpeNameBonus": 0,
+                    "Threshold": "8",
+                    "abtext": "",
+                    "achName": "S10赛季圣皇",
+                    "hide": 0,
+                    "proicon": 1486,
                     "title": "",
                     "titleColor": ""
                   }
@@ -17506,7 +17575,7 @@
                   {
                     "AbilityTitle": 0,
                     "AchievementPoint": 20,
-                    "Desc": "收集“沧吟星海”系列皮肤获得",
+                    "Desc": "收集“瓏域传说”系列皮肤获得",
                     "ID": 24,
                     "SpeNameBonus": 457,
                     "Threshold": "24",
@@ -18038,10 +18107,10 @@
                     "SpeNameBonus": 572,
                     "Threshold": "29",
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "hide": 0,
                     "proicon": 1469,
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF"
                   },
                   {
@@ -18290,6 +18359,57 @@
                     "proicon": 1474,
                     "title": "",
                     "titleColor": ""
+                  }
+                ],
+                "_text": "",
+                "isShowPro": 0
+              },
+              {
+                "Desc": "限定分类10",
+                "ID": 176,
+                "IsSingle": 0,
+                "Rule": [
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 5,
+                    "Desc": "在化乐天林海完成探索解密",
+                    "ID": 1,
+                    "SpeNameBonus": 580,
+                    "Threshold": "1",
+                    "abtext": "",
+                    "achName": "果实品鉴家",
+                    "hide": 0,
+                    "proicon": 1478,
+                    "title": "品鉴达人",
+                    "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 5,
+                    "Desc": "在化乐天林海完成探索解密",
+                    "ID": 2,
+                    "SpeNameBonus": 581,
+                    "Threshold": "2",
+                    "abtext": "",
+                    "achName": "知晓故事之人",
+                    "hide": 0,
+                    "proicon": 1479,
+                    "title": "故事达人",
+                    "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "在波卢卡星地表完成探索解密",
+                    "ID": 3,
+                    "SpeNameBonus": 583,
+                    "Threshold": "3",
+                    "abtext": "",
+                    "achName": "潜入达人",
+                    "hide": 0,
+                    "proicon": 1481,
+                    "title": "潜入达人",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",
