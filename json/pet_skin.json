@@ -14814,6 +14814,42 @@
           }
         ],
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 825,
+        "Jumptarget": 114065,
+        "MonID": 3575,
+        "Name": "烬灭之灾·天邪龙王",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 826,
+        "Jumptarget": 2,
+        "MonID": 3870,
+        "Name": "凯兮",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 0
       }
     ]
   }

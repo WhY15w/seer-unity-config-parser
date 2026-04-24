@@ -403,7 +403,7 @@
       "id": 10047,
       "object": "卡牌",
       "param": "a",
-      "paramDes": "入场时己方同排精灵存在强毒时，获得强毒"
+      "paramDes": "入场时己方同排精灵均为a精灵时，获得强毒"
     },
     {
       "IsDeathEffect": 0,
@@ -474,8 +474,8 @@
       "effectIcon": "1",
       "id": 10058,
       "object": "卡牌",
-      "param": "a_b_c_d_e",
-      "paramDes": "己方a系精灵触发强毒时，是否(b:0:否、1:是)包含自身同排己方c系精灵获得+d/+e"
+      "param": "a_b_c_d",
+      "paramDes": "己方a系精灵触发强毒时，使己方b系精灵永久获得+c/+d"
     },
     {
       "IsDeathEffect": 0,
@@ -1057,6 +1057,60 @@
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0,
       "effectIcon": "",
+      "id": 10124,
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "不可放置"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 10125,
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "不可出售"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 10126,
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "不可合金"
+    },
+    {
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 10127,
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "阵亡：随机获得a张等级b(0:任意等级\\>0指定等级)的c(0:所有系)系精灵牌(是否当前商店等级及以下(d))"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 10128,
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "商店结束时，使己方所有a系精灵获得+b/+c"
+    },
+    {
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 10129,
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "阵亡：触发除拥有同BUFF卡外己方a个精灵阵亡效果"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
       "id": 20001,
       "object": "魔法",
       "param": "a",
@@ -1196,6 +1250,15 @@
       "object": "魔法",
       "param": "a_b_c_d_e",
       "paramDes": "使己方a系精灵获得回合属性+b/+c，每使用一次效果永久+d/+e"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 20017,
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "选择一只己方精灵将其移除，获得a枚金币并随机使一只己方精灵获得其属性值"
     },
     {
       "IsDeathEffect": 0,
@@ -1419,8 +1482,71 @@
       "effectIcon": "",
       "id": 30025,
       "object": "技能",
+      "param": "a_b_c",
+      "paramDes": "选择1张商店的精灵牌获得，将其属性值变为a/b且c回合内禁止放置、出售、合金"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30026,
+      "object": "技能",
       "param": "a",
-      "paramDes": "每回合开始时，招募一只上回合未出场的四神兽分身"
+      "paramDes": "己方必定先手"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30027,
+      "object": "技能",
+      "param": "a_b_c",
+      "paramDes": "战斗开始时，己方最靠a(0:前，1:后)的己方b(0:任意)系精灵获得c效果(护盾,连击)"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30028,
+      "object": "技能",
+      "param": "a_b_c_d",
+      "paramDes": "使用a张b系精灵牌后，招募c张不超过当前商店等级的d系精灵牌（距离触发：{0}）"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30029,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "选择一只己方精灵，使其阵亡效果在下次战斗开始时触发a次"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30030,
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "购买精灵牌等级累计达到a级之后，获得技能b"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30031,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "商店阶段开始时，移除场上此技能招募的精灵牌，招募一张非上次选择的4神兽精灵牌到场上，并为其附加不可合金效果"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30032,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "战斗开始a回合后，商店阶段开始时，招募一张精灵牌，其中存在一张上一次对战的对手阵容精灵牌的普通原始复制，选择正确则获得该精灵牌，选择错误则无法获得"
     },
     {
       "IsDeathEffect": 0,

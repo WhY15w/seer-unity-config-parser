@@ -10211,26 +10211,26 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内对手使用攻击技能则自身下{1}次攻击技能必定触发[color=#f35555]邪龙之噬[/color]",
+        "analyze": "[sprite name=iconHit]{0}回合内对手使用攻击技能则自身获得{1}道[color=#f35555]邪龙之噬[/color]并附着至自身的攻击技能",
         "argsNum": 2,
         "id": 1329,
-        "info": "{0}回合内对手使用攻击技能则自身下{1}次攻击技能必定触发邪龙之噬",
+        "info": "{0}回合内对手使用攻击技能则自身获得{1}道邪龙之噬并附着至自身的攻击技能",
         "key": "",
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]使自身下{0}次攻击技能必定触发[color=#f35555]邪龙之噬[/color]",
+        "analyze": "[sprite name=iconHit]获得{0}道[color=#f35555]邪龙之噬[/color]并附着至自身的攻击技能",
         "argsNum": 1,
         "id": 1330,
-        "info": "使自身下{0}次攻击技能必定触发邪龙之噬",
+        "info": "获得{0}道邪龙之噬并附着至自身的攻击技能",
         "key": "",
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手则令对手下一只出场的精灵[color=#57c975]{0}[/color]，且使自身下{1}次攻击技能必定触发[color=#f35555]邪龙之噬[/color]",
+        "analyze": "[sprite name=iconHit][color=#57c975]击败[/color]对手则令对手下一只出场的精灵[color=#57c975]{0}[/color]，且获得{1}道[color=#f35555]邪龙之噬[/color]并附着至自身的攻击技能",
         "argsNum": 2,
         "id": 1331,
-        "info": "击败对手则令对手下一只出场的精灵{0}，且使自身下{1}次攻击技能必定触发邪龙之噬",
+        "info": "击败对手则令对手下一只出场的精灵{0}，且获得{0}道邪龙之噬并附着至自身的攻击技能",
         "key": "",
         "param": [
           1,
@@ -20252,7 +20252,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]对手处于能力提升状态时{0}回合内令对手体力恢复效果减少{1}%",
         "argsNum": 2,
         "id": 2455,
         "info": "对手处于能力提升状态时{0}回合内令对手体力恢复效果减少{1}%",
@@ -20276,24 +20276,19 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconInherent]攻击时造成的伤害出现微弱时，[color=#52a5f2]当回合[/color]造成的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]以百分比的形式提升此克制系数与1的差值",
         "argsNum": 0,
         "id": 2458,
-        "info": "攻击时造成的伤害出现微弱时，当回合造成的固定伤害、百分比伤害除以此次伤害的克制系数",
+        "info": "攻击时造成的伤害出现微弱时，当回合造成的固定伤害、百分比伤害以百分比的形式提升此克制系数与1的差值",
         "key": "",
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]与对手交换自身低于对手的能力等级，[color=#52a5f2]然后[/color]若对手处于能力下降状态则自身令对手下{0}次攻击[color=#52a5f2]技能无效[/color]，若自身处于能力提升状态则自身下回合造成的攻击伤害提升{1}%",
         "argsNum": 2,
         "id": 2459,
-        "info": "与对手交换自身低于对手的能力等级，然后若对手处于能力下降状态则自身无效下{0}次对手的攻击，若自身处于能力提升状态则下回合造成的攻击伤害提升{1}%",
+        "info": "与对手交换自身低于对手的能力等级，然后若对手处于能力下降状态则自身令对手下{0}次攻击技能无效，若自身处于能力提升状态则自身下回合造成的攻击伤害提升{1}%",
         "key": "",
-        "param": [
-          32,
-          0,
-          0
-        ],
         "type": 0
       },
       {
@@ -20309,6 +20304,102 @@
         "argsNum": 2,
         "id": 2461,
         "info": "{0}回合内使用技能额外吸取对手最大体力的1/{1}，若使用时自身不处于能力提升状态则效果翻倍",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]消耗自身的[color=#f35555]邪龙之噬[/color]，每消耗1层自身获得[color=#f35555]蓝色龙鳞[/color]、[color=#f35555]金色龙鳞[/color]、[color=#f35555]玄色龙鳞[/color]中首个没有的龙鳞，然后自身每有1种龙鳞，下1次攻击无视对手25%的伤害减免效果",
+        "argsNum": 0,
+        "id": 2462,
+        "info": "消耗自身的邪龙之噬，每消耗1层自身获得蓝色龙鳞、金色龙鳞、玄色龙鳞中首个没有的龙鳞，然后自身每有1种龙鳞，下1次攻击无视对手25%的伤害减免效果",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]战斗开始时，剥离自身的邪灵系并转化为[color=#f35555]缚神结界[/color]附加至对方，之后战斗阶段结束时，若当回合自身未使用技能，则触发自身专属特性的所有效果",
+        "argsNum": 0,
+        "id": 2463,
+        "info": "战斗开始时，剥离自身的邪灵系并转化为缚神结界附加至对方，之后本场战斗战斗阶段结束时，若当回合自身未使用技能，则触发自身专属特性的所有效果",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 1,
+        "id": 2464,
+        "info": "",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 1,
+        "id": 2465,
+        "info": "",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 0,
+        "id": 2466,
+        "info": "打出致命一击时消除对手回合类效果、能力提升效果",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 1,
+        "id": 2467,
+        "info": "对手不处于异常状态时对手{0}回合内属性技能无效",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 0,
+        "id": 2468,
+        "info": "",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 0,
+        "id": 2469,
+        "info": "消耗g",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 0,
+        "id": 2470,
+        "info": "解除自身能力下降状态，自身不处于能力下降状态则改为消除对手能力提升状态",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 3,
+        "id": 2471,
+        "info": "{0}%令对手{1}，未触发则消除对手回合类效果并令自身{2}",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 0,
+        "id": 2472,
+        "info": "己方每阵亡1只精灵，每次在场限1次",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]",
+        "argsNum": 0,
+        "id": 2473,
+        "info": "击败对手时，",
         "key": "",
         "type": 0
       }

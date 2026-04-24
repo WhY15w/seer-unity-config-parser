@@ -16746,7 +16746,7 @@
       "formattingAdjustment": "",
       "id": 1329,
       "ifTextItalic": "对手使用攻击技能",
-      "info": "{0}回合内对手使用攻击技能则自身下{1}次攻击技能必定触发邪龙之噬",
+      "info": "{0}回合内对手使用攻击技能则自身获得{1}道邪龙之噬并附着至自身的攻击技能",
       "isif": 1,
       "tagA": "",
       "tagAboss": 1,
@@ -16761,7 +16761,7 @@
       "formattingAdjustment": "",
       "id": 1330,
       "ifTextItalic": "",
-      "info": "使自身下{0}次攻击技能必定触发邪龙之噬",
+      "info": "获得{0}道邪龙之噬并附着至自身的攻击技能",
       "isif": 0,
       "tagA": "",
       "tagAboss": 1,
@@ -16776,7 +16776,7 @@
       "formattingAdjustment": "",
       "id": 1331,
       "ifTextItalic": "击败对手",
-      "info": "击败对手则令对手下一只出场的精灵{0}，且使自身下{1}次攻击技能必定触发邪龙之噬",
+      "info": "击败对手则令对手下一只出场的精灵{0}，且获得{0}道邪龙之噬并附着至自身的攻击技能",
       "isif": 1,
       "tagA": "施加异常",
       "tagAboss": 1,
@@ -33076,7 +33076,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 4,
       "formattingAdjustment": "",
       "id": 2425,
@@ -33091,7 +33091,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "击败对手时消耗自身一半的宁界之律\r\n-->然后自身每剩余1道对方1回合内无法造成伤害、附加异常状态",
       "id": 2426,
@@ -33106,7 +33106,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "消耗自身一半的宁界之律\r\n-->然后自身每剩余1道，令对手1回合内令对手属性技能命中效果失效",
       "id": 2427,
@@ -33121,7 +33121,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "",
       "id": 2428,
@@ -33136,7 +33136,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
       "formattingAdjustment": "",
       "id": 2429,
@@ -33151,7 +33151,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
       "formattingAdjustment": "",
       "id": 2430,
@@ -33166,7 +33166,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 2,
       "formattingAdjustment": "",
       "id": 2431,
@@ -33181,7 +33181,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 2,
       "formattingAdjustment": "",
       "id": 2432,
@@ -33196,7 +33196,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
       "formattingAdjustment": "消除双方回合类效果\r\n-->消除成功则己方{0}回合内无效对手的属性技能",
       "id": 2433,
@@ -33211,7 +33211,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
       "formattingAdjustment": "消除双方能力提升状态\r\n-->消除成功则己方{0}回合内无效对手的攻击技能",
       "id": 2434,
@@ -33226,7 +33226,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
       "formattingAdjustment": "解除双方异常状态\r\n-->解除成功则己方{0}回合内免疫受到的异常状态",
       "id": 2435,
@@ -33241,7 +33241,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "",
       "id": 2436,
@@ -33256,7 +33256,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "无视对手能力提升状态\r\n-->无视成功则消除对手回合类效果",
       "id": 2437,
@@ -33271,7 +33271,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 5,
       "formattingAdjustment": "消除对手回合类效果\r\n-->消除成功{0}%令对手{1}，{2}%令对手{3}\r\n--->自身体力低于{4}%时取消触发条件",
       "id": 2438,
@@ -33286,7 +33286,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "",
       "id": 2439,
@@ -33301,7 +33301,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 2,
       "formattingAdjustment": "未击败对手时恢复当回合所造成攻击伤害的{0}%的体力\r\n-->若未造成攻击伤害则对手{1}回合内无法主动切换精灵",
       "id": 2440,
@@ -33316,7 +33316,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "自身免疫并反弹受到的睡眠、疲惫状态\r\n-->反弹成功时本次在场自身专属特性中的“受到的攻击伤害减少”改为“造成的攻击伤害提升”",
       "id": 2441,
@@ -33331,7 +33331,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 4,
       "formattingAdjustment": "消除对手回合类效果并{0}%令自身{1}\r\n-->附加成功则额外{2}%令对手{3}",
       "id": 2442,
@@ -33346,7 +33346,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
       "formattingAdjustment": "",
       "id": 2443,
@@ -33361,7 +33361,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 3,
       "formattingAdjustment": "吸取对手能力提升状态\r\n-->吸取成功则对手{0}回合内属性技能无效\r\n-->对手不处于能力提升状态时自身下{1}回合攻击技能先制+{2}",
       "id": 2444,
@@ -33376,7 +33376,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 3,
       "formattingAdjustment": "自身处于能力提升状态时{0}%令自身{1}\r\n-->未触发则{2}回合内自身能力提升状态无法被消除或吸取",
       "id": 2445,
@@ -33391,7 +33391,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "",
       "id": 2446,
@@ -33406,7 +33406,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "",
       "id": 2447,
@@ -33421,9 +33421,9 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
-      "formattingAdjustment": "若自身处于烧伤状态则删除自身的所有音符",
+      "formattingAdjustment": "",
       "id": 2448,
       "ifTextItalic": "若自身处于烧伤状态",
       "info": "若自身处于烧伤状态则删除自身的所有音符",
@@ -33436,7 +33436,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "以获得的顺序依次消耗自身的所有音符\r\n-->若自身消耗的顺序为强音、弱音、中音、弱音，则己方获得天在此\r\n--->若此为本场战斗第3次获得，则秒杀对手",
       "id": 2449,
@@ -33451,9 +33451,9 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
-      "formattingAdjustment": "获得{0}音",
+      "formattingAdjustment": "",
       "id": 2450,
       "ifTextItalic": "",
       "info": "获得{0}音",
@@ -33466,9 +33466,9 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
-      "formattingAdjustment": "空效果",
+      "formattingAdjustment": "",
       "id": 2451,
       "ifTextItalic": "",
       "info": "空效果",
@@ -33481,7 +33481,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 2,
       "formattingAdjustment": "消除对手回合类效果\r\n-->消除成功则对手{0}\r\n--->未触发则令对手全属性-{1}",
       "id": 2452,
@@ -33496,7 +33496,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 2,
       "formattingAdjustment": "恢复自身所有技能的PP值\r\n-->每恢复所有技能{0}点，令对手全属性-{1}",
       "id": 2453,
@@ -33511,9 +33511,9 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
-      "formattingAdjustment": "打出致命一击时威力提升{0}%",
+      "formattingAdjustment": "",
       "id": 2454,
       "ifTextItalic": "打出致命一击时",
       "info": "打出致命一击时威力提升{0}%",
@@ -33526,9 +33526,9 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 2,
-      "formattingAdjustment": "对手处于能力提升状态时{0}回合内令对手体力恢复效果减少{1}%",
+      "formattingAdjustment": "",
       "id": 2455,
       "ifTextItalic": "对手处于能力提升状态时",
       "info": "对手处于能力提升状态时{0}回合内令对手体力恢复效果减少{1}%",
@@ -33541,9 +33541,9 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 1,
-      "formattingAdjustment": "下{0}次击败对手后，恢复自身全部体力值与PP值",
+      "formattingAdjustment": "",
       "id": 2456,
       "ifTextItalic": "",
       "info": "下{0}次击败对手后，恢复自身全部体力值与PP值",
@@ -33556,9 +33556,9 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
-      "formattingAdjustment": "下次被击败后，对手下次攻击技能、下次属性技能无效",
+      "formattingAdjustment": "",
       "id": 2457,
       "ifTextItalic": "",
       "info": "下次被击败后，对手下次攻击技能、下次属性技能无效",
@@ -33571,12 +33571,12 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
-      "formattingAdjustment": "攻击时造成的伤害出现微弱时，当回合造成的固定伤害、百分比伤害除以此次伤害的克制系数",
+      "formattingAdjustment": "",
       "id": 2458,
       "ifTextItalic": "攻击时造成的伤害出现微弱时",
-      "info": "攻击时造成的伤害出现微弱时，当回合造成的固定伤害、百分比伤害除以此次伤害的克制系数",
+      "info": "攻击时造成的伤害出现微弱时，当回合造成的固定伤害、百分比伤害以百分比的形式提升此克制系数与1的差值",
       "isif": 1,
       "tagA": "",
       "tagAboss": 1,
@@ -33586,7 +33586,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 2,
       "formattingAdjustment": "与对手交换自身低于对手的能力等级，然后：\r\n-->若对手处于能力下降状态则自身无效下{0}次对手的攻击\r\n-->若自身处于能力提升状态则下回合造成的攻击伤害提升{1}%",
       "id": 2459,
@@ -33601,7 +33601,7 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 0,
       "formattingAdjustment": "将对手所处的异常状态转移给自身，然后若自身所处的异常状态中：\r\n-->含有控制类则对手1回合技能命中效果失效\r\n-->含有弱化类则造成的攻击伤害额外提升100%\r\n-->含有附属类则上述效果一并触发",
       "id": 2460,
@@ -33616,12 +33616,192 @@
       "tagCboss": 1
     },
     {
-      "Bosseffective": 0,
+      "Bosseffective": 1,
       "argsNum": 2,
       "formattingAdjustment": "",
       "id": 2461,
       "ifTextItalic": "若使用时自身不处于能力提升状态",
       "info": "{0}回合内使用技能额外吸取对手最大体力的1/{1}，若使用时自身不处于能力提升状态则效果翻倍",
+      "isif": 1,
+      "tagA": "吸血",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "消耗自身的邪龙之噬，每消耗1层自身获得蓝色龙鳞、金色龙鳞、玄色龙鳞中首个没有的龙鳞\r\n-->然后自身每有1种龙鳞，下1次攻击无视对手25%的伤害减免效果",
+      "id": 2462,
+      "ifTextItalic": "",
+      "info": "消耗自身的邪龙之噬，每消耗1层自身获得蓝色龙鳞、金色龙鳞、玄色龙鳞中首个没有的龙鳞，然后自身每有1种龙鳞，下1次攻击无视对手25%的伤害减免效果",
+      "isif": 0,
+      "tagA": "",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "",
+      "id": 2463,
+      "ifTextItalic": "",
+      "info": "战斗开始时，剥离自身的邪灵系并转化为缚神结界附加至对方，之后本场战斗战斗阶段结束时，若当回合自身未使用技能，则触发自身专属特性的所有效果",
+      "isif": 0,
+      "tagA": "",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 1,
+      "formattingAdjustment": "对手没有信仰对象时威力提升{0}%\r\n-->若对手为对方存活精灵中唯一没有信仰对象的精灵则改为秒杀对手",
+      "id": 2464,
+      "ifTextItalic": "若对手为对方存活精灵中唯一没有信仰对象的精灵",
+      "info": "对手没有信仰对象时威力提升{0}%，若对手为对方存活精灵中唯一没有信仰对象的精灵则改为秒杀对手",
+      "isif": 1,
+      "tagA": "增伤",
+      "tagAboss": 1,
+      "tagB": "秒杀",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 1,
+      "formattingAdjustment": "对手拥有信仰对象时吸取对手最大体力的1/{0}\r\n-->若对手为对方存活精灵中唯一拥有信仰对象的精灵则改为秒杀对手",
+      "id": 2465,
+      "ifTextItalic": "若对手为对方存活精灵中唯一拥有信仰对象的精灵",
+      "info": "对手拥有信仰对象时吸取对手最大体力的1/{0}，若对手为对方存活精灵中唯一拥有信仰对象的精灵则改为秒杀对手",
+      "isif": 1,
+      "tagA": "吸血",
+      "tagAboss": 1,
+      "tagB": "秒杀",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "",
+      "id": 2466,
+      "ifTextItalic": "打出致命一击时",
+      "info": "打出致命一击时消除对手回合类效果、能力提升效果",
+      "isif": 1,
+      "tagA": "消除回合",
+      "tagAboss": 1,
+      "tagB": "消强",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 1,
+      "formattingAdjustment": "",
+      "id": 2467,
+      "ifTextItalic": "对手不处于异常状态时",
+      "info": "对手不处于异常状态时对手{0}回合内属性技能无效",
+      "isif": 1,
+      "tagA": "效果无效",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "",
+      "id": 2468,
+      "ifTextItalic": "",
+      "info": "空效果",
+      "isif": 0,
+      "tagA": "",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "消耗自身的鬼祰，每消耗1道自身恢复最大体力的1/4与所有技能1点PP值\r\n-->达到4道时为双方进入四杀鬼囹",
+      "id": 2469,
+      "ifTextItalic": "达到4道时",
+      "info": "消耗自身的鬼祰，每消耗1道自身恢复最大体力的1/4与所有技能1点PP值，达到4道时为双方进入四杀鬼囹",
+      "isif": 1,
+      "tagA": "恢复",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "解除自身能力下降状态\r\n-->自身不处于能力下降状态则改为消除对手能力提升状态",
+      "id": 2470,
+      "ifTextItalic": "自身不处于能力下降状态",
+      "info": "解除自身能力下降状态，自身不处于能力下降状态则改为消除对手能力提升状态",
+      "isif": 1,
+      "tagA": "解弱",
+      "tagAboss": 1,
+      "tagB": "消强",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 3,
+      "formattingAdjustment": "{0}%令对手{1}\r\n-->未触发则消除对手回合类效果并令自身{2}",
+      "id": 2471,
+      "ifTextItalic": "未触发",
+      "info": "{0}%令对手{1}，未触发则消除对手回合类效果并令自身{2}",
+      "isif": 1,
+      "tagA": "施加异常",
+      "tagAboss": 1,
+      "tagB": "消除回合",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "",
+      "id": 2472,
+      "ifTextItalic": "",
+      "info": "己方每阵亡1只精灵，每次在场限1次，获得1种自身没有的鬼祰",
+      "isif": 0,
+      "tagA": "",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "击败对手时，己方所有其他精灵汲取其对位精灵最大体力的1/4\r\n-->对方每有1只存活精灵未因此减少体力，自身吸取对方下只出战精灵最大体力的1/4",
+      "id": 2473,
+      "ifTextItalic": "击败对手时",
+      "info": "击败对手时，己方所有其他精灵汲取其对位精灵最大体力的1/4，对方每有1只存活精灵未因此减少体力，自身吸取对方下只出战精灵最大体力的1/4",
       "isif": 1,
       "tagA": "吸血",
       "tagAboss": 1,
