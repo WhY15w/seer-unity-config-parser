@@ -14,6 +14,7 @@ export interface IAutocardRoleInfo {
   health: number;
   id: number;
   name: string;
+  nature: number;
   picID: number;
   skillCostNum: number;
   skillGameLimit: number;
@@ -38,6 +39,7 @@ const autocardRoleInfoSchema: FieldSchema = [
   ["health", int()],
   ["id", int()],
   ["name", text()],
+  ["nature", int()],
   ["picID", int()],
   ["skillCostNum", int()],
   ["skillGameLimit", int()],

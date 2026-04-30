@@ -9120,7 +9120,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -9138,7 +9138,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -9156,7 +9156,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -9174,7 +9174,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -9192,7 +9192,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 21,
             "Type": 2,
             "Year": 0
           }
@@ -14850,6 +14850,60 @@
           }
         ],
         "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 827,
+        "Jumptarget": 114067,
+        "MonID": 4444,
+        "Name": "戾夜萃魂·百罗鬼帝",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 828,
+        "Jumptarget": 114068,
+        "MonID": 3586,
+        "Name": "破晓者·英卡洛斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 829,
+        "Jumptarget": 114069,
+        "MonID": 4358,
+        "Name": "极速抢修·杰特洛",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
       }
     ]
   }

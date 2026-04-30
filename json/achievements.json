@@ -2395,6 +2395,20 @@
                     "proicon": 1477,
                     "title": "乐园放逐",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "完成主线【自由之潮】获得",
+                    "ID": 25,
+                    "SpeNameBonus": 585,
+                    "Threshold": "25",
+                    "abtext": "",
+                    "achName": "波卢卡的火炬",
+                    "hide": 0,
+                    "proicon": 1487,
+                    "title": "自由之潮",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",
@@ -17780,7 +17794,7 @@
                   {
                     "AbilityTitle": 0,
                     "AchievementPoint": 20,
-                    "Desc": "2024年春节活动中，收集“异元时空”系列限定皮肤获得",
+                    "Desc": "收集“异元时空”系列皮肤获得",
                     "ID": 6,
                     "SpeNameBonus": 501,
                     "Threshold": "6",
@@ -18107,10 +18121,10 @@
                     "SpeNameBonus": 572,
                     "Threshold": "29",
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "hide": 0,
                     "proicon": 1469,
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF"
                   },
                   {
@@ -18409,6 +18423,20 @@
                     "hide": 0,
                     "proicon": 1481,
                     "title": "潜入达人",
+                    "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "完成9527的奥朗金属熔炼任务获得",
+                    "ID": 4,
+                    "SpeNameBonus": 586,
+                    "Threshold": "4",
+                    "abtext": "",
+                    "achName": "活干完了",
+                    "hide": 0,
+                    "proicon": 1488,
+                    "title": "活干完了",
                     "titleColor": "0xFFFFFF"
                   }
                 ],

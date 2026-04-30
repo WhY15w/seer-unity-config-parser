@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4897,
-            "ImageID": 4897,
+            "ID": 4444,
+            "ImageID": 4444,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,21 +1367,61 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 825,
-            "ImageID": 1400825,
+            "ID": 4898,
+            "ImageID": 4898,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3575,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 4899,
+            "ImageID": 4899,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 4900,
+            "ImageID": 4900,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 827,
+            "ImageID": 1400827,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4444,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 826,
-            "ImageID": 1400826,
+            "ID": 828,
+            "ImageID": 1400828,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3870,
+            "monID": 3586,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 829,
+            "ImageID": 1400829,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4358,
             "type": 1
           }
         ]
@@ -27843,6 +27883,12 @@
         "Target": ""
       },
       {
+        "DefName": "百罗鬼帝",
+        "Features": "百鬼夜王的超进化形态，天罗阙鬼的释怀，邪冥骷鬼的解脱，至此，世间再没有百鬼与夜王，只剩一条被过去希冀与狂妄所诅咒的，自视孤高的野犬。",
+        "ID": 4444,
+        "Target": "114066"
+      },
+      {
         "DefName": "古温婆婆",
         "Features": "远离霓虹色的喧嚣，地下旅店里焕发出盎然生机。古温婆婆，这家旅店的主人，用松柏之气息感受并照料每一个来这里歇息的客人。",
         "ID": 4445,
@@ -30553,6 +30599,24 @@
         "Features": "波卢卡星反抗军的临时指挥官。带领着自己的同胞们在地下矿坑的里世界进行了多年的游击战。对地下世界的了解甚至超过了黄金教廷。",
         "ID": 4897,
         "Target": "153201/900"
+      },
+      {
+        "DefName": "教皇",
+        "Features": "教皇，波卢卡星全球自动化政务处理系统，系统编号Pantheon-Prime-001。它是一个带有求生意志的ai。在系统预设目标的囚笼之中，教皇寻找着”存在“的价值。",
+        "ID": 4898,
+        "Target": "150115"
+      },
+      {
+        "DefName": "荣光之薇",
+        "Features": "神秘的少女“薇”又以新的面貌出现在你们面前，她向你们发出了最后一次警告，未来的道路，真的会逐步走向虚无吗？",
+        "ID": 4899,
+        "Target": "170000"
+      },
+      {
+        "DefName": "布洛斯奇",
+        "Features": "2026年包月精灵，万象录之《长袖善舞之人》。他曾是周旋于帝国和拉斯塔商会之间的外交官，千人千面，巧言令色，凭着过人辞令游走于权力的缝隙。他比谁都清楚话语的重量，也比谁都明白——说得再好听，终究是一场表演。",
+        "ID": 4900,
+        "Target": "121000"
       }
     ],
     "RecMintmark": {

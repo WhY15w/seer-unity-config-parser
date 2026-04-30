@@ -118340,6 +118340,41 @@
       },
       {
         "BaseAttriValue": [
+          4,
+          3,
+          0,
+          3,
+          4,
+          8
+        ],
+        "Connect": 0,
+        "Des": "百罗鬼帝专属全能刻印",
+        "EffectDes": "攻击4/49,防御3/30,特防3/30,速度4/41,体力8/85",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42688,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          49,
+          30,
+          0,
+          30,
+          41,
+          85
+        ],
+        "MintmarkClass": 0,
+        "MonsterID": [
+          4444
+        ],
+        "Quality": 5,
+        "Rare": 1,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
           0,
           0,
           0,

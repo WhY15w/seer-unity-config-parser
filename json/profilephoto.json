@@ -3858,6 +3858,57 @@
       "type": 2,
       "unavailable": 0,
       "unlocktype": 1
+    },
+    {
+      "checkown": 0,
+      "desc": "参与“赛尔号官方周年主题站”活动获得",
+      "finishTime": 0,
+      "goto": "",
+      "hide": 0,
+      "icon": 228,
+      "id": 228,
+      "name": "Pick You",
+      "rarity": 4,
+      "spine": "",
+      "tab": 1,
+      "text": "[#emj]",
+      "type": 6,
+      "unavailable": 0,
+      "unlocktype": 1
+    },
+    {
+      "checkown": 0,
+      "desc": "参与“星牌试炼”活动获得",
+      "finishTime": 0,
+      "goto": "",
+      "hide": 0,
+      "icon": 229,
+      "id": 229,
+      "name": "蒂朵-注定一抽",
+      "rarity": 4,
+      "spine": "",
+      "tab": 4,
+      "text": "[#emj]",
+      "type": 6,
+      "unavailable": 0,
+      "unlocktype": 1
+    },
+    {
+      "checkown": 0,
+      "desc": "参与“星牌试炼”活动获得",
+      "finishTime": 0,
+      "goto": "",
+      "hide": 0,
+      "icon": 230,
+      "id": 230,
+      "name": "蒂朵-亚麻呆住",
+      "rarity": 4,
+      "spine": "",
+      "tab": 4,
+      "text": "[#emj]",
+      "type": 6,
+      "unavailable": 0,
+      "unlocktype": 1
     }
   ]
 }

@@ -20324,23 +20324,23 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]对手没有[color=#57c975]信仰对象[/color]时[color=#52a5f2]威力[/color]提升{0}%，若对手为对方存活精灵中唯一没有[color=#57c975]信仰对象[/color]的精灵则改为[color=#57c975]秒杀[/color]对手",
         "argsNum": 1,
         "id": 2464,
-        "info": "",
+        "info": "对手没有信仰对象时威力提升{0}%，若对手为对方存活精灵中唯一没有信仰对象的精灵则改为秒杀对手",
         "key": "",
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]对手拥有[color=#57c975]信仰对象[/color]时[color=#52a5f2]吸取[/color]对手最大体力的1/{0}，若对手为对方存活精灵中唯一拥有[color=#57c975]信仰对象[/color]的精灵则改为[color=#57c975]秒杀[/color]对手",
         "argsNum": 1,
         "id": 2465,
-        "info": "",
+        "info": "对手拥有信仰对象时吸取对手最大体力的1/{0}，若对手为对方存活精灵中唯一拥有信仰对象的精灵则改为秒杀对手",
         "key": "",
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]打出[color=#57c975]致命一击[/color]时消除对手[color=#52a5f2]回合类效果[/color]、能力提升效果",
         "argsNum": 0,
         "id": 2466,
         "info": "打出致命一击时消除对手回合类效果、能力提升效果",
@@ -20348,7 +20348,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]对手不处于异常状态时对手{0}回合内属性技能无效",
         "argsNum": 1,
         "id": 2467,
         "info": "对手不处于异常状态时对手{0}回合内属性技能无效",
@@ -20364,15 +20364,15 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]消耗自身的[color=#f35555]鬼祰[/color]，每消耗1道自身恢复最大体力的1/4与所有技能1点PP值，达到4道时为双方进入[color=#f35555]四杀鬼囹[/color]",
         "argsNum": 0,
         "id": 2469,
-        "info": "消耗g",
+        "info": "消耗自身的鬼祰，每消耗1道自身恢复最大体力的1/4与所有技能1点PP值，达到4道时为双方进入四杀鬼囹",
         "key": "",
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]解除自身能力下降状态，自身不处于能力下降状态则改为消除对手能力提升状态",
         "argsNum": 0,
         "id": 2470,
         "info": "解除自身能力下降状态，自身不处于能力下降状态则改为消除对手能力提升状态",
@@ -20380,26 +20380,50 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，未触发则消除对手[color=#52a5f2]回合类效果[/color]并令自身[color=#57c975]{2}[/color]",
         "argsNum": 3,
         "id": 2471,
         "info": "{0}%令对手{1}，未触发则消除对手回合类效果并令自身{2}",
         "key": "",
+        "param": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]对对方所有精灵附加4点[color=#52a5f2]固定伤害[/color]，然后对手每有一只精灵未受到此伤害，本场战斗此伤害额外乘4，最高不超过自身的最大体力",
         "argsNum": 0,
         "id": 2472,
-        "info": "己方每阵亡1只精灵，每次在场限1次",
+        "info": "对对方所有精灵附加4点固定伤害，然后对手每有一只精灵未受到此伤害，本场战斗此伤害额外乘4，最高不超过自身的最大体力",
         "key": "",
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]",
+        "analyze": "[sprite name=iconHit]己方每阵亡1只精灵，每次在场限1次，获得1种自身没有的[color=#f35555]鬼祰[/color]",
         "argsNum": 0,
         "id": 2473,
-        "info": "击败对手时，",
+        "info": "己方每阵亡1只精灵，每次在场限1次，获得1种自身没有的鬼祰",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconInherent]使用时，若对方精灵均拥有[color=#57c975]信仰对象[/color]，则本次技能视为命中并强制[color=#52a5f2]执行[/color]命中效果",
+        "argsNum": 0,
+        "id": 2474,
+        "info": "使用时，若对方精灵均拥有信仰对象，则本次技能视为命中并强制执行命中效果",
+        "key": "",
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]对方精灵均拥有[color=#57c975]信仰对象[/color]时，为对方所有精灵恢复404点体力并附加404点[color=#52a5f2]固定伤害[/color]，然后若对方精灵的已损失体力值存在[color=#52a5f2]众数[/color]，则[color=#57c975]秒杀[/color]所有不为[color=#52a5f2]众数[/color]的精灵",
+        "argsNum": 0,
+        "id": 2475,
+        "info": "对方精灵均拥有信仰对象时，为对方所有精灵恢复404点体力并附加404点固定伤害，然后若对方精灵的已损失体力值存在众数，则秒杀所有不为众数的精灵",
         "key": "",
         "type": 0
       }
@@ -20411,7 +20435,7 @@
       },
       {
         "id": 1,
-        "params": "麻痹|中毒|烧伤||寄生|冻伤|害怕|疲惫|睡眠|石化|混乱|衰弱|山神守护|易燃|狂暴|冰封|流血|XX|XX|瘫痪|失明|XX|焚烬|诅咒|烈焰诅咒|致命诅咒|虚弱诅咒|感染|束缚|失神|沉默|臣服|凝滞|星赐|星哲|超频|沸涌|砥砺|星赎|神游|空定"
+        "params": "麻痹|中毒|烧伤||寄生|冻伤|害怕|疲惫|睡眠|石化|混乱|衰弱|山神守护|易燃|狂暴|冰封|流血|XX|XX|瘫痪|失明|XX|焚烬|诅咒|烈焰诅咒|致命诅咒|虚弱诅咒|感染|束缚|失神|沉默|臣服|凝滞|星赐|星哲|超频|沸涌|砥砺|星赎|神游|空定|狂信"
       },
       {
         "id": 2,
