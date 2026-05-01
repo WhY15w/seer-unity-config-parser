@@ -382,7 +382,7 @@
     },
     {
       "BuffId": "30026|30027",
-      "BuffParam": "1|0_0_10009",
+      "BuffParam": "1|0_0_10045",
       "CountNum": 0,
       "Display": 1,
       "desc": "服役于银翼—Silver Wings部队的士兵，英勇无畏、坚毅不屈。除了强大的战斗技巧，在牌技上也不容小觑。",
@@ -598,6 +598,26 @@
       "skillRoundLimit": 0,
       "skillTxt": "商店阶段开始时，移除场上本技能召唤的的四神兽分身，选择一只上回合未出场的四神兽分身召唤到场上",
       "skillType": 0,
+      "skillUpgrade": ""
+    },
+    {
+      "BuffId": "30034",
+      "BuffParam": "2",
+      "CountNum": 0,
+      "Display": 0,
+      "desc": "新手用",
+      "health": 40,
+      "id": 99999,
+      "name": "导航员·爱丽丝",
+      "nature": 0,
+      "picID": 8,
+      "skillCostNum": 1,
+      "skillGameLimit": 0,
+      "skillID": 8,
+      "skillName": "星空领航",
+      "skillRoundLimit": 1,
+      "skillTxt": "随机获得1张比当前商店等级高1级的精灵牌",
+      "skillType": 1,
       "skillUpgrade": ""
     }
   ]
