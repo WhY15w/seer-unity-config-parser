@@ -190,7 +190,7 @@ function readPrimitive(reader: BytesReader, type: PrimitiveType): any {
 /** 根据 Schema 从 BytesReader 中解析出一个对象 */
 export function parseBySchema<T = any>(
   reader: BytesReader,
-  schema: FieldSchema
+  schema: FieldSchema,
 ): T {
   const result: Record<string, any> = {};
 
@@ -203,7 +203,7 @@ export function parseBySchema<T = any>(
       case "array": {
         const count = reader.int();
         result[fieldName] = Array.from({ length: count }, () =>
-          readPrimitive(reader, fieldDef.itemType)
+          readPrimitive(reader, fieldDef.itemType),
         );
         break;
       }
@@ -211,7 +211,7 @@ export function parseBySchema<T = any>(
       case "arrayStruct": {
         const count = reader.int();
         result[fieldName] = Array.from({ length: count }, () =>
-          parseBySchema(reader, fieldDef.itemSchema)
+          parseBySchema(reader, fieldDef.itemSchema),
         );
         break;
       }
@@ -219,11 +219,9 @@ export function parseBySchema<T = any>(
       case "optionalArray": {
         if (reader.boolean()) {
           const count = reader.int();
-          if (count > 0) {
-            result[fieldName] = Array.from({ length: count }, () =>
-              readPrimitive(reader, fieldDef.itemType)
-            );
-          }
+          result[fieldName] = Array.from({ length: count }, () =>
+            readPrimitive(reader, fieldDef.itemType),
+          );
         }
         break;
       }
@@ -231,11 +229,10 @@ export function parseBySchema<T = any>(
       case "optionalArrayStruct": {
         if (reader.boolean()) {
           const count = reader.int();
-          if (count > 0) {
-            result[fieldName] = Array.from({ length: count }, () =>
-              parseBySchema(reader, fieldDef.itemSchema)
-            );
-          }
+
+          result[fieldName] = Array.from({ length: count }, () =>
+            parseBySchema(reader, fieldDef.itemSchema),
+          );
         }
         break;
       }
@@ -265,12 +262,12 @@ export function parseBySchema<T = any>(
 /** 从文件读取并创建 BytesReader */
 export function createReaderFromFile(
   filePath: string,
-  options?: { lengthType?: LengthType; littleEndian?: boolean }
+  options?: { lengthType?: LengthType; littleEndian?: boolean },
 ): BytesReader {
   const buffer = fs.readFileSync(filePath);
   const arrBuf = buffer.buffer.slice(
     buffer.byteOffset,
-    buffer.byteOffset + buffer.byteLength
+    buffer.byteOffset + buffer.byteLength,
   );
   return new BytesReader(new Uint8Array(arrBuf), {
     lengthType: options?.lengthType ?? LengthType.Uint16,
@@ -315,7 +312,7 @@ export interface ConfigParserOptions<T> {
  * ```
  */
 export function createConfigParser<T>(
-  options: ConfigParserOptions<T>
+  options: ConfigParserOptions<T>,
 ): (filePath: string) => T {
   return (filePath: string): T => {
     const reader = createReaderFromFile(filePath, options.readerOptions);
@@ -343,7 +340,7 @@ export function createConfigParser<T>(
  */
 export function createSimpleListParser<
   TItem,
-  TRoot = Record<string, any>
+  TRoot = Record<string, any>,
 >(options: {
   name: string;
   outputPath: string;
@@ -365,7 +362,7 @@ export function createSimpleListParser<
         console.log(`${options.name}Count:`, count);
         if (count > 0) {
           result[options.dataKey] = Array.from({ length: count }, () =>
-            parseBySchema<TItem>(reader, options.itemSchema)
+            parseBySchema<TItem>(reader, options.itemSchema),
           );
         }
       }

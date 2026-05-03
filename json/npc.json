@@ -1,0 +1,1564 @@
+{
+  "data": [
+    {
+      "CharacterID": 4,
+      "emoji": "",
+      "id": 1,
+      "initialposition": "",
+      "name": "雷伊",
+      "portrait": "ray3_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 7,
+      "emoji": "",
+      "id": 2,
+      "initialposition": "",
+      "name": "缪斯",
+      "portrait": "muse_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 8,
+      "emoji": "",
+      "id": 3,
+      "initialposition": "",
+      "name": "盖亚",
+      "portrait": "gaia_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10,
+      "emoji": "",
+      "id": 4,
+      "initialposition": "",
+      "name": "布莱克",
+      "portrait": "black_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 11,
+      "emoji": "seer_01",
+      "id": 5,
+      "initialposition": "",
+      "name": "我",
+      "portrait": "seer_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 12,
+      "emoji": "",
+      "id": 6,
+      "initialposition": "",
+      "name": "工程师苏克",
+      "portrait": "suke_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 13,
+      "emoji": "",
+      "id": 7,
+      "initialposition": "",
+      "name": "圣尊啸傲·白虎",
+      "portrait": "zzxa_bh_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 14,
+      "emoji": "",
+      "id": 8,
+      "initialposition": "",
+      "name": "玄天神武",
+      "portrait": "xtsw_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 15,
+      "emoji": "",
+      "id": 9,
+      "initialposition": "",
+      "name": "炽羽炎凰·朱雀",
+      "portrait": "cyyh_zq_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 16,
+      "emoji": "",
+      "id": 10,
+      "initialposition": "",
+      "name": "天苍玄魂·青龙",
+      "portrait": "tcxh_ql_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 17,
+      "emoji": "",
+      "id": 11,
+      "initialposition": "",
+      "name": "叽里呱啦",
+      "portrait": "jiliguala_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 18,
+      "emoji": "",
+      "id": 12,
+      "initialposition": "",
+      "name": "呜哩哇啦",
+      "portrait": "wuliwala_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 19,
+      "emoji": "",
+      "id": 13,
+      "initialposition": "",
+      "name": "教官雷蒙",
+      "portrait": "raymond_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 23,
+      "emoji": "",
+      "id": 14,
+      "initialposition": "",
+      "name": "几米",
+      "portrait": "jimi_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 25,
+      "emoji": "",
+      "id": 15,
+      "initialposition": "",
+      "name": "功勋官克罗",
+      "portrait": "crow_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 26,
+      "emoji": "",
+      "id": 16,
+      "initialposition": "",
+      "name": "发明家肖恩",
+      "portrait": "xiroen_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 27,
+      "emoji": "",
+      "id": 17,
+      "initialposition": "",
+      "name": "船长罗杰",
+      "portrait": "roger_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 28,
+      "emoji": "",
+      "id": 18,
+      "initialposition": "-87.5,-113.4",
+      "name": "主播纽斯",
+      "portrait": "news_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 29,
+      "emoji": "",
+      "id": 19,
+      "initialposition": "",
+      "name": "教官雷蒙",
+      "portrait": "raymond_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 30,
+      "emoji": "",
+      "id": 20,
+      "initialposition": "-87.5,-113.4",
+      "name": "主播纽斯",
+      "portrait": "news_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 31,
+      "emoji": "",
+      "id": 21,
+      "initialposition": "",
+      "name": "机械师茜茜",
+      "portrait": "cici_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 32,
+      "emoji": "",
+      "id": 22,
+      "initialposition": "",
+      "name": "叽里呱啦",
+      "portrait": "jiliguala_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 33,
+      "emoji": "",
+      "id": 23,
+      "initialposition": "",
+      "name": "派特博士",
+      "portrait": "pat_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 34,
+      "emoji": "",
+      "id": 24,
+      "initialposition": "",
+      "name": "钢牙鲨",
+      "portrait": "gangyasha_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 43,
+      "emoji": "",
+      "id": 25,
+      "initialposition": "",
+      "name": "爱丽丝",
+      "portrait": "iris_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 44,
+      "emoji": "",
+      "id": 26,
+      "initialposition": "",
+      "name": "未来·小火猴",
+      "portrait": "wl_xhh_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 45,
+      "emoji": "",
+      "id": 27,
+      "initialposition": "",
+      "name": "身穿浴火之翼套装的赛尔",
+      "portrait": "seer_yhzy_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 46,
+      "emoji": "",
+      "id": 28,
+      "initialposition": "",
+      "name": "身穿笑傲巅峰套装的赛尔",
+      "portrait": "seer_xadf_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 47,
+      "emoji": "",
+      "id": 29,
+      "initialposition": "",
+      "name": "罗开",
+      "portrait": "rockey_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 48,
+      "emoji": "",
+      "id": 30,
+      "initialposition": "",
+      "name": "发明家肖恩",
+      "portrait": "xiroen_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 49,
+      "emoji": "",
+      "id": 31,
+      "initialposition": "",
+      "name": "贾斯汀站长",
+      "portrait": "jst_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 50,
+      "emoji": "",
+      "id": 32,
+      "initialposition": "",
+      "name": "卫兵雅各布",
+      "portrait": "seernpc_b_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 51,
+      "emoji": "",
+      "id": 33,
+      "initialposition": "",
+      "name": "卫兵雅",
+      "portrait": "seernpc_b_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 52,
+      "emoji": "",
+      "id": 34,
+      "initialposition": "",
+      "name": "TOE",
+      "portrait": "toe_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 53,
+      "emoji": "",
+      "id": 35,
+      "initialposition": "",
+      "name": "TOE潜水型",
+      "portrait": "toe_2_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 54,
+      "emoji": "",
+      "id": 36,
+      "initialposition": "",
+      "name": "隐士",
+      "portrait": "beier_yinshi_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 55,
+      "emoji": "",
+      "id": 37,
+      "initialposition": "",
+      "name": "厨师长",
+      "portrait": "chefs_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 56,
+      "emoji": "",
+      "id": 38,
+      "initialposition": "",
+      "name": "知味之足",
+      "portrait": "octopusleg_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 57,
+      "emoji": "",
+      "id": 39,
+      "initialposition": "",
+      "name": "定海神针",
+      "portrait": "dhsz_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 58,
+      "emoji": "seer_sea_a_02",
+      "id": 40,
+      "initialposition": "",
+      "name": "我",
+      "portrait": "seer_sea_a_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 59,
+      "emoji": "",
+      "id": 41,
+      "initialposition": "",
+      "name": "卫兵萨曼莎",
+      "portrait": "seernpc_b_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 1230,
+      "emoji": "",
+      "id": 42,
+      "initialposition": "",
+      "name": "巨齿鲨",
+      "portrait": "gangyasha_jcs_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4706,
+      "emoji": "",
+      "id": 43,
+      "initialposition": "",
+      "name": "奥菲利娅？",
+      "portrait": "oph_2_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4716,
+      "emoji": "",
+      "id": 44,
+      "initialposition": "",
+      "name": "赫尔卡长老",
+      "portrait": "eld2_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4718,
+      "emoji": "",
+      "id": 45,
+      "initialposition": "",
+      "name": "渊夜门徒·洛比特",
+      "portrait": "lbt_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4798,
+      "emoji": "",
+      "id": 46,
+      "initialposition": "",
+      "name": "霸颚鲛",
+      "portrait": "gangyasha_bej_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 5823,
+      "emoji": "oph_01",
+      "id": 47,
+      "initialposition": "",
+      "name": "奥菲利娅",
+      "portrait": "oph_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 5824,
+      "emoji": "eld_01",
+      "id": 48,
+      "initialposition": "",
+      "name": "赫尔卡长老",
+      "portrait": "eld_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 5825,
+      "emoji": "",
+      "id": 49,
+      "initialposition": "",
+      "name": "遥远的回声",
+      "portrait": "lm_fg",
+      "scale": 1,
+      "silhouette": 1
+    },
+    {
+      "CharacterID": 61,
+      "emoji": "jhs_01",
+      "id": 50,
+      "initialposition": "",
+      "name": "鸡画师",
+      "portrait": "jhs_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 62,
+      "emoji": "jhs_02",
+      "id": 51,
+      "initialposition": "",
+      "name": "鸡画师",
+      "portrait": "jhs_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 63,
+      "emoji": "hm_01",
+      "id": 52,
+      "initialposition": "",
+      "name": "蛤蟆精",
+      "portrait": "hm_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 64,
+      "emoji": "hm_03",
+      "id": 53,
+      "initialposition": "",
+      "name": "蛤蟆精",
+      "portrait": "hm_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 65,
+      "emoji": "hm_05",
+      "id": 54,
+      "initialposition": "",
+      "name": "蛤蟆精",
+      "portrait": "hm_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 66,
+      "emoji": "hm_02",
+      "id": 55,
+      "initialposition": "",
+      "name": "蛤蟆精",
+      "portrait": "hm_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 67,
+      "emoji": "jhs_03",
+      "id": 56,
+      "initialposition": "",
+      "name": "鸡画师",
+      "portrait": "jhs_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 68,
+      "emoji": "zy_01",
+      "id": 57,
+      "initialposition": "",
+      "name": "小猪妖",
+      "portrait": "zy_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 69,
+      "emoji": "zy_04",
+      "id": 58,
+      "initialposition": "",
+      "name": "小猪妖",
+      "portrait": "zy_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 70,
+      "emoji": "zy_05",
+      "id": 59,
+      "initialposition": "",
+      "name": "小猪妖",
+      "portrait": "zy_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 71,
+      "emoji": "hsl_01",
+      "id": 60,
+      "initialposition": "",
+      "name": "黄鼠狼精",
+      "portrait": "hsl_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 72,
+      "emoji": "hsl_03",
+      "id": 61,
+      "initialposition": "",
+      "name": "黄鼠狼精",
+      "portrait": "hsl_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 73,
+      "emoji": "hsl_04",
+      "id": 62,
+      "initialposition": "",
+      "name": "黄鼠狼精",
+      "portrait": "hsl_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 74,
+      "emoji": "hsl_02",
+      "id": 63,
+      "initialposition": "",
+      "name": "黄鼠狼精",
+      "portrait": "hsl_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 75,
+      "emoji": "xx_01",
+      "id": 64,
+      "initialposition": "",
+      "name": "猩猩怪",
+      "portrait": "xx_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 76,
+      "emoji": "xx_02",
+      "id": 65,
+      "initialposition": "",
+      "name": "猩猩怪",
+      "portrait": "xx_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 77,
+      "emoji": "xx_04",
+      "id": 66,
+      "initialposition": "",
+      "name": "猩猩怪",
+      "portrait": "xx_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 78,
+      "emoji": "",
+      "id": 67,
+      "initialposition": "",
+      "name": "斯嘟尔",
+      "portrait": "siduer_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 79,
+      "emoji": "",
+      "id": 68,
+      "initialposition": "",
+      "name": "小鳍鱼",
+      "portrait": "xiaoqiyu_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 80,
+      "emoji": "",
+      "id": 69,
+      "initialposition": "",
+      "name": "小蘑菇",
+      "portrait": "xiaomogu_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 81,
+      "emoji": "",
+      "id": 70,
+      "initialposition": "",
+      "name": "丽多尔",
+      "portrait": "liduoer_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 82,
+      "emoji": "",
+      "id": 71,
+      "initialposition": "",
+      "name": "白毛老鼠精",
+      "portrait": "lsj_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 83,
+      "emoji": "gw1_01",
+      "id": 72,
+      "initialposition": "",
+      "name": "黄狗大王",
+      "portrait": "gw1_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 84,
+      "emoji": "gw1_02",
+      "id": 73,
+      "initialposition": "",
+      "name": "黄狗大王",
+      "portrait": "gw1_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 85,
+      "emoji": "gw1_03",
+      "id": 74,
+      "initialposition": "",
+      "name": "黄狗大王",
+      "portrait": "gw1_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 86,
+      "emoji": "gw1_04",
+      "id": 75,
+      "initialposition": "",
+      "name": "黄狗大王",
+      "portrait": "gw1_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 87,
+      "emoji": "",
+      "id": 76,
+      "initialposition": "",
+      "name": "黑狗大王",
+      "portrait": "gw2_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 88,
+      "emoji": "hm_04",
+      "id": 77,
+      "initialposition": "",
+      "name": "蛤蟆精",
+      "portrait": "hm_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 89,
+      "emoji": "",
+      "id": 78,
+      "initialposition": "",
+      "name": "伊芙",
+      "portrait": "yf_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 90,
+      "emoji": "dxtl_01_fg",
+      "id": 79,
+      "initialposition": "",
+      "name": "西塔伦",
+      "portrait": "dxtl_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 91,
+      "emoji": "nsLLK_01_fg",
+      "id": 80,
+      "initialposition": "",
+      "name": "南霜",
+      "portrait": "nsLLK_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 92,
+      "emoji": "",
+      "id": 81,
+      "initialposition": "",
+      "name": "蓓丽安特",
+      "portrait": "blat_01_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 93,
+      "emoji": "",
+      "id": 82,
+      "initialposition": "",
+      "name": "NONO",
+      "portrait": "nono_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4819,
+      "emoji": "",
+      "id": 83,
+      "initialposition": "",
+      "name": "月桂小兔",
+      "portrait": "ygxt_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4820,
+      "emoji": "",
+      "id": 84,
+      "initialposition": "",
+      "name": "贝尔恩克",
+      "portrait": "beierenke_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 1238,
+      "emoji": "",
+      "id": 85,
+      "initialposition": "",
+      "name": "炽翼火龙",
+      "portrait": "chiyihuolong_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 1759,
+      "emoji": "",
+      "id": 86,
+      "initialposition": "",
+      "name": "赤西格",
+      "portrait": "chixige_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 35,
+      "emoji": "",
+      "id": 87,
+      "initialposition": "",
+      "name": "吉尔",
+      "portrait": "jier_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 94,
+      "emoji": "",
+      "id": 88,
+      "initialposition": "",
+      "name": "吉尔",
+      "portrait": "jiersp_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 3786,
+      "emoji": "",
+      "id": 89,
+      "initialposition": "",
+      "name": "火炎巨鹿·里奥斯",
+      "portrait": "liaosi_hyjl_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4824,
+      "emoji": "",
+      "id": 90,
+      "initialposition": "",
+      "name": "茸炘兔",
+      "portrait": "rxt_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4822,
+      "emoji": "",
+      "id": 91,
+      "initialposition": "",
+      "name": "星光·里奥斯",
+      "portrait": "liaosi_xg_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 95,
+      "emoji": "",
+      "id": 92,
+      "initialposition": "",
+      "name": "海盗精英·α",
+      "portrait": "obisoldier_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 96,
+      "emoji": "",
+      "id": 93,
+      "initialposition": "",
+      "name": "海盗精英·γ",
+      "portrait": "obisoldier4_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4825,
+      "emoji": "kbd_01",
+      "id": 94,
+      "initialposition": "",
+      "name": "卡布达",
+      "portrait": "kbd_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4827,
+      "emoji": "zzzt_1",
+      "id": 95,
+      "initialposition": "",
+      "name": "蜘蛛侦探",
+      "portrait": "zzzt_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4830,
+      "emoji": "xzll_1",
+      "id": 96,
+      "initialposition": "",
+      "name": "蝎子莱莱",
+      "portrait": "xzll_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4834,
+      "emoji": "zleb_1",
+      "id": 97,
+      "initialposition": "",
+      "name": "蟑螂恶霸",
+      "portrait": "zleb_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 3372,
+      "emoji": "",
+      "id": 98,
+      "initialposition": "",
+      "name": "列奥尼达",
+      "portrait": "land_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 3105,
+      "emoji": "",
+      "id": 99,
+      "initialposition": "",
+      "name": "沧岚",
+      "portrait": "canglan_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 1960,
+      "emoji": "",
+      "id": 100,
+      "initialposition": "",
+      "name": "黄金天马",
+      "portrait": "hjtm_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6000,
+      "emoji": "",
+      "id": 101,
+      "initialposition": "",
+      "name": "保姆派派",
+      "portrait": "bmpp_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6001,
+      "emoji": "",
+      "id": 102,
+      "initialposition": "",
+      "name": "观星派派",
+      "portrait": "gxpp_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6002,
+      "emoji": "",
+      "id": 103,
+      "initialposition": "",
+      "name": "小豆芽",
+      "portrait": "xdy_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6003,
+      "emoji": "",
+      "id": 104,
+      "initialposition": "",
+      "name": "丁格",
+      "portrait": "dg_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6004,
+      "emoji": "",
+      "id": 105,
+      "initialposition": "",
+      "name": "“太阳”",
+      "portrait": "tyyl_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6005,
+      "emoji": "",
+      "id": 106,
+      "initialposition": "-87.5,-113.4",
+      "name": "纽斯",
+      "portrait": "news_celebrete_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6006,
+      "emoji": "",
+      "id": 107,
+      "initialposition": "",
+      "name": "“闪光皮皮”",
+      "portrait": "sgppd_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6007,
+      "emoji": "",
+      "id": 108,
+      "initialposition": "",
+      "name": "“露露”",
+      "portrait": "lld_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6008,
+      "emoji": "",
+      "id": 109,
+      "initialposition": "",
+      "name": "重装·派鲁基达",
+      "portrait": "zzpljd_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6009,
+      "emoji": "",
+      "id": 110,
+      "initialposition": "",
+      "name": "迪达",
+      "portrait": "dida_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6010,
+      "emoji": "",
+      "id": 111,
+      "initialposition": "",
+      "name": "幽浮",
+      "portrait": "youfu_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6011,
+      "emoji": "",
+      "id": 112,
+      "initialposition": "",
+      "name": "派派",
+      "portrait": "paipai_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6012,
+      "emoji": "",
+      "id": 113,
+      "initialposition": "",
+      "name": "斯比亚",
+      "portrait": "sibiya_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6013,
+      "emoji": "",
+      "id": 114,
+      "initialposition": "",
+      "name": "猩红的残像",
+      "portrait": "xinghong_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6014,
+      "emoji": "",
+      "id": 115,
+      "initialposition": "",
+      "name": "幽蓝的残像",
+      "portrait": "youlan_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6015,
+      "emoji": "",
+      "id": 116,
+      "initialposition": "",
+      "name": "沙漠士兵",
+      "portrait": "ndlsoldier_fg",
+      "scale": 1.100000023841858,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6016,
+      "emoji": "vilpriest_01",
+      "id": 117,
+      "initialposition": "",
+      "name": "乡村祭司",
+      "portrait": "vilpriest_fg",
+      "scale": 1.25,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6017,
+      "emoji": "",
+      "id": 118,
+      "initialposition": "",
+      "name": "游牧民",
+      "portrait": "nomadw_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6018,
+      "emoji": "",
+      "id": 119,
+      "initialposition": "",
+      "name": "游牧民",
+      "portrait": "nomadm_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6019,
+      "emoji": "",
+      "id": 120,
+      "initialposition": "",
+      "name": "粉围巾米鲁",
+      "portrait": "milu1_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6020,
+      "emoji": "",
+      "id": 121,
+      "initialposition": "",
+      "name": "紫围巾米鲁",
+      "portrait": "milu2_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6021,
+      "emoji": "",
+      "id": 122,
+      "initialposition": "",
+      "name": "绿围巾米鲁",
+      "portrait": "milu3_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6022,
+      "emoji": "",
+      "id": 123,
+      "initialposition": "",
+      "name": "蓝围巾米鲁",
+      "portrait": "milu4_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6023,
+      "emoji": "",
+      "id": 124,
+      "initialposition": "",
+      "name": "肥美的米鲁",
+      "portrait": "milu5_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6024,
+      "emoji": "",
+      "id": 125,
+      "initialposition": "",
+      "name": "米鲁哥哥",
+      "portrait": "milu6_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6025,
+      "emoji": "",
+      "id": 126,
+      "initialposition": "",
+      "name": "米鲁卫兵",
+      "portrait": "milu7_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6026,
+      "emoji": "",
+      "id": 127,
+      "initialposition": "",
+      "name": "米鲁首领",
+      "portrait": "milu8_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6027,
+      "emoji": "",
+      "id": 128,
+      "initialposition": "",
+      "name": "米鲁妹妹",
+      "portrait": "meimei1_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6028,
+      "emoji": "",
+      "id": 129,
+      "initialposition": "",
+      "name": "米鲁妹妹",
+      "portrait": "meimei2_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 6029,
+      "emoji": "",
+      "id": 130,
+      "initialposition": "",
+      "name": "米鲁妹妹",
+      "portrait": "meimei3_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4853,
+      "emoji": "",
+      "id": 131,
+      "initialposition": "",
+      "name": "梅赫维特",
+      "portrait": "mhwt3_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 97,
+      "emoji": "",
+      "id": 132,
+      "initialposition": "",
+      "name": "朴叶蛾",
+      "portrait": "pye_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 98,
+      "emoji": "xiersela_01",
+      "id": 133,
+      "initialposition": "",
+      "name": "希尔瑟拉",
+      "portrait": "xiersela_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4858,
+      "emoji": "",
+      "id": 134,
+      "initialposition": "",
+      "name": "灯蛾",
+      "portrait": "denge_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4869,
+      "emoji": "",
+      "id": 135,
+      "initialposition": "",
+      "name": "颅腹虫",
+      "portrait": "ifc_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4857,
+      "emoji": "",
+      "id": 136,
+      "initialposition": "",
+      "name": "戟决先锋",
+      "portrait": "jjxf_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10002,
+      "emoji": "",
+      "id": 137,
+      "initialposition": "-87.5,-113.4",
+      "name": "春节纽斯",
+      "portrait": "news_spring_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10010,
+      "emoji": "",
+      "id": 138,
+      "initialposition": "",
+      "name": "利牙鱼玩偶",
+      "portrait": "gangyasha_liyayu_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10011,
+      "emoji": "",
+      "id": 139,
+      "initialposition": "",
+      "name": "利利玩偶",
+      "portrait": "cscjingling8_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10012,
+      "emoji": "",
+      "id": 140,
+      "initialposition": "",
+      "name": "依依玩偶",
+      "portrait": "cscjingling1_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10013,
+      "emoji": "",
+      "id": 141,
+      "initialposition": "",
+      "name": "果冻鸭玩偶",
+      "portrait": "cscjingling9_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10014,
+      "emoji": "",
+      "id": 142,
+      "initialposition": "",
+      "name": "凯拉利玩偶",
+      "portrait": "cscjingling6_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10015,
+      "emoji": "",
+      "id": 143,
+      "initialposition": "",
+      "name": "瑞克玩偶",
+      "portrait": "cscjingling4_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10016,
+      "emoji": "",
+      "id": 144,
+      "initialposition": "",
+      "name": "吉宝玩偶",
+      "portrait": "cscjingling2_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10017,
+      "emoji": "",
+      "id": 145,
+      "initialposition": "",
+      "name": "迪达玩偶",
+      "portrait": "dida_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10018,
+      "emoji": "",
+      "id": 146,
+      "initialposition": "",
+      "name": "鲁克玩偶",
+      "portrait": "cscjingling7_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 10019,
+      "emoji": "",
+      "id": 147,
+      "initialposition": "",
+      "name": "神秘的花灯马",
+      "portrait": "cschuadeng_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 99,
+      "emoji": "",
+      "id": 148,
+      "initialposition": "",
+      "name": "阿拿拿",
+      "portrait": "ann_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 100,
+      "emoji": "",
+      "id": 149,
+      "initialposition": "",
+      "name": "记忆水晶",
+      "portrait": "sinnermind_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 101,
+      "emoji": "",
+      "id": 150,
+      "initialposition": "",
+      "name": "启迪者S451",
+      "portrait": "qdz2_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 102,
+      "emoji": "b12_02",
+      "id": 151,
+      "initialposition": "0,-115",
+      "name": "反抗军线人",
+      "portrait": "b12_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 103,
+      "emoji": "",
+      "id": 152,
+      "initialposition": "",
+      "name": "守卫机器人",
+      "portrait": "borucanpc1_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 104,
+      "emoji": "",
+      "id": 153,
+      "initialposition": "",
+      "name": "圣仆",
+      "portrait": "acolyte_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 105,
+      "emoji": "xmn_01",
+      "id": 154,
+      "initialposition": "",
+      "name": "西蒙妮",
+      "portrait": "xmn_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 106,
+      "emoji": "twy_01",
+      "id": 155,
+      "initialposition": "",
+      "name": "特维耶",
+      "portrait": "twy_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 107,
+      "emoji": "servitor1_01",
+      "id": 156,
+      "initialposition": "",
+      "name": "反抗军",
+      "portrait": "servitor1_fg",
+      "scale": 1,
+      "silhouette": 0
+    }
+  ]
+}

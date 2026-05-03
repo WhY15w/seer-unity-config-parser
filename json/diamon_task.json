@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "H5go": "4_每日登录游戏",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "每日首次登陆游戏",
+      "Taskschedule": 1,
+      "Tasktags": "登陆好礼",
+      "Tasktype": 1,
+      "id": 1
+    },
+    {
+      "H5go": "2_59",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "在星愿漂流瓶中完成3次许愿",
+      "Taskschedule": 3,
+      "Tasktags": "星愿漂流瓶",
+      "Tasktype": 2,
+      "id": 2
+    },
+    {
+      "H5go": "2_24",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "向5位好友赠送友谊之星",
+      "Taskschedule": 5,
+      "Tasktags": "友谊维系",
+      "Tasktype": 3,
+      "id": 3
+    },
+    {
+      "H5go": "2_24",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "领取5位好友赠送的友谊之星",
+      "Taskschedule": 5,
+      "Tasktags": "友谊见证",
+      "Tasktype": 4,
+      "id": 4
+    },
+    {
+      "H5go": "2_18",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "在泰坦矿洞中完成任意1种模式",
+      "Taskschedule": 1,
+      "Tasktags": "泰坦矿洞",
+      "Tasktype": 5,
+      "id": 5
+    },
+    {
+      "H5go": "2_18",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "在X战队密室中完成1次试炼",
+      "Taskschedule": 1,
+      "Tasktags": "X战队密室",
+      "Tasktype": 6,
+      "id": 6
+    },
+    {
+      "H5go": "2_18",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "在精灵王的试炼中挑战5次BOSS",
+      "Taskschedule": 5,
+      "Tasktags": "精灵王的试炼",
+      "Tasktype": 7,
+      "id": 7
+    },
+    {
+      "H5go": "2_56",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "在SPT挑战中探索5次",
+      "Taskschedule": 5,
+      "Tasktags": "SPT挑战",
+      "Tasktype": 8,
+      "id": 8
+    },
+    {
+      "H5go": "2_18",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "在经验训练场中完成3次训练",
+      "Taskschedule": 3,
+      "Tasktags": "经验训练场",
+      "Tasktype": 9,
+      "id": 9
+    },
+    {
+      "H5go": "2_18",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "在学习力训练场中完成3次训练",
+      "Taskschedule": 3,
+      "Tasktags": "学习力训练场",
+      "Tasktype": 10,
+      "id": 10
+    },
+    {
+      "H5go": "2_8",
+      "Rewardcnt": "10_1",
+      "Rewardid": "1_204001",
+      "Rewardtype": "1_3",
+      "Taskdescription": "在巅峰圣战中完成1场6V6模式",
+      "Taskschedule": 3,
+      "Tasktags": "巅峰圣战",
+      "Tasktype": 11,
+      "id": 11
+    }
+  ]
+}

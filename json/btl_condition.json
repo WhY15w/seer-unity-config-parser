@@ -1,0 +1,526 @@
+{
+  "data": [
+    {
+      "baseconid": 1,
+      "btldesc": "在10回合内战胜圣羽天翔·英普瑞",
+      "id": 1,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 1,
+      "btldesc": "在5回合内战胜极天之翼·托鲁克",
+      "id": 2,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 11,
+      "btldesc": "对异星装甲·赛伯斯造成的单次最高伤害达到1500",
+      "id": 3,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 11,
+      "btldesc": "对不灭地威·萨瑞卡造成的单次最高伤害达到3000",
+      "id": 4,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 5,
+      "btldesc": "自身体力值≥400时击败风暴女神·斯蒂亚",
+      "id": 5,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 5,
+      "btldesc": "自身体力值≥600时击败正义圣盾·凯普特",
+      "id": 6,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 12,
+      "btldesc": "出战精灵不超过4个的情况下战胜",
+      "id": 7,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 12,
+      "btldesc": "出战精灵不超过2个的情况下战胜",
+      "id": 8,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 13,
+      "btldesc": "无精灵阵亡",
+      "id": 9,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 12,
+      "btldesc": "上场精灵不超过4个",
+      "id": 10,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 14,
+      "btldesc": "最后一击伤害大于1000",
+      "id": 11,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 15,
+      "btldesc": "使用克制关系为普通的精灵击败",
+      "id": 12,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 16,
+      "btldesc": "超过5回合后击败",
+      "id": 13,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 15,
+      "btldesc": "使用克制关系为微弱的精灵击败",
+      "id": 14,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 15,
+      "btldesc": "使用克制关系为克制的精灵击败",
+      "id": 15,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 16,
+      "btldesc": "超过8回合后击败",
+      "id": 16,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 18,
+      "btldesc": "最后一击伤害低于500",
+      "id": 17,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 1,
+      "btldesc": "5回合内击败",
+      "id": 18,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 17,
+      "btldesc": "上场精灵超过3只",
+      "id": 19,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 12,
+      "btldesc": "上场精灵不超过2只",
+      "id": 20,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 19,
+      "btldesc": "死亡精灵数量等于1",
+      "id": 21,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 20,
+      "btldesc": "所有回合先出手",
+      "id": 22,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 21,
+      "btldesc": "使用自然系技能击败",
+      "id": 23,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 21,
+      "btldesc": "使用冰系技能击败",
+      "id": 24,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 21,
+      "btldesc": "使用超能系技能击败",
+      "id": 25,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 22,
+      "btldesc": "全程不使用属性技能击败",
+      "id": 26,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 22,
+      "btldesc": "全程不使用特攻技能击败",
+      "id": 27,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 22,
+      "btldesc": "全程不使用物攻技能击败",
+      "id": 28,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 23,
+      "btldesc": "最后一击使用技能威力不超过40",
+      "id": 29,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 24,
+      "btldesc": "全程后手击败",
+      "id": 30,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 25,
+      "btldesc": "全程不使用本系技能击败",
+      "id": 31,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 26,
+      "btldesc": "致命一击次数小于2",
+      "id": 32,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 21,
+      "btldesc": "使用飞行系技能击败",
+      "id": 33,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 27,
+      "btldesc": "全程不造成固伤击败",
+      "id": 34,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 21,
+      "btldesc": "使用水系技能击败",
+      "id": 35,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 21,
+      "btldesc": "使用草系技能击败",
+      "id": 36,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 21,
+      "btldesc": "使用火系技能击败",
+      "id": 37,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 28,
+      "btldesc": "单精灵战胜",
+      "id": 38,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 29,
+      "btldesc": "所有回合伤害不超过500",
+      "id": 39,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 30,
+      "btldesc": "必须全为雌性精灵",
+      "id": 40,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 31,
+      "btldesc": "必须全为满级精灵",
+      "id": 41,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 32,
+      "btldesc": "必须全为双属性精灵",
+      "id": 42,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 32,
+      "btldesc": "必须全为单属性精灵",
+      "id": 43,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 33,
+      "btldesc": "必须有2只不超过10级的精灵",
+      "id": 44,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 34,
+      "btldesc": "必须有4只满级的水系精灵",
+      "id": 45,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 34,
+      "btldesc": "必须有4只满级的火系精灵",
+      "id": 46,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 34,
+      "btldesc": "必须有4只满级的草系精灵",
+      "id": 47,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 26,
+      "btldesc": "致命一击次数小于3",
+      "id": 48,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 18,
+      "btldesc": "最后一击伤害低于700",
+      "id": 49,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 14,
+      "btldesc": "最后一击伤害大于2000",
+      "id": 50,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 12,
+      "btldesc": "上场精灵不超过3只",
+      "id": 51,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 23,
+      "btldesc": "最后一击使用技能威力不超过90",
+      "id": 52,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 17,
+      "btldesc": "上场精灵超过4只",
+      "id": 53,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 18,
+      "btldesc": "最后一击伤害低于400",
+      "id": 54,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 16,
+      "btldesc": "超过10回合后击败",
+      "id": 55,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 29,
+      "btldesc": "所有回合伤害不超过1000",
+      "id": 56,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 14,
+      "btldesc": "最后一击伤害大于1500",
+      "id": 57,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 23,
+      "btldesc": "最后一击使用技能威力不超过120",
+      "id": 58,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 23,
+      "btldesc": "最后一击使用技能威力不超过60",
+      "id": 59,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 26,
+      "btldesc": "致命一击次数小于4",
+      "id": 60,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 14,
+      "btldesc": "最后一击伤害大于2500",
+      "id": 61,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 29,
+      "btldesc": "所有回合伤害不超过900",
+      "id": 62,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 23,
+      "btldesc": "最后一击使用技能威力不超过90",
+      "id": 63,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 12,
+      "btldesc": "上场精灵不超过2只",
+      "id": 64,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 1,
+      "btldesc": "4回合内击败",
+      "id": 65,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 1,
+      "btldesc": "3回合内击败",
+      "id": 66,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 14,
+      "btldesc": "最后一击伤害大于3000",
+      "id": 67,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 14,
+      "btldesc": "最后一击伤害大于4000",
+      "id": 68,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 14,
+      "btldesc": "最后一击伤害大于5000",
+      "id": 69,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 23,
+      "btldesc": "最后一击使用技能威力不超过30",
+      "id": 70,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 23,
+      "btldesc": "最后一击使用技能威力不超过10",
+      "id": 71,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 19,
+      "btldesc": "死亡精灵数量等于2",
+      "id": 72,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 19,
+      "btldesc": "死亡精灵数量等于3",
+      "id": 73,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 19,
+      "btldesc": "死亡精灵数量等于4",
+      "id": 74,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 26,
+      "btldesc": "致命一击次数小于2",
+      "id": 75,
+      "sendNumber": 1
+    },
+    {
+      "baseconid": 29,
+      "btldesc": "所有回合伤害不超过2000",
+      "id": 76,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 29,
+      "btldesc": "所有回合伤害不超过1500",
+      "id": 77,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 14,
+      "btldesc": "最后一击伤害大于10000",
+      "id": 78,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 18,
+      "btldesc": "最后一击伤害低于1000",
+      "id": 79,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 13,
+      "btldesc": "无精灵阵亡",
+      "id": 80,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 12,
+      "btldesc": "上场精灵不超过2只",
+      "id": 81,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 12,
+      "btldesc": "上场精灵不超过3只",
+      "id": 82,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 20,
+      "btldesc": "所有回合先出手",
+      "id": 83,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 35,
+      "btldesc": "最后一击没打出致命一击",
+      "id": 84,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 35,
+      "btldesc": "最后一击可打出致命一击",
+      "id": 85,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 36,
+      "btldesc": "最后一击时自身不在能力提升",
+      "id": 86,
+      "sendNumber": 0
+    },
+    {
+      "baseconid": 36,
+      "btldesc": "最后一击时自身处于能力提升",
+      "id": 87,
+      "sendNumber": 0
+    }
+  ]
+}

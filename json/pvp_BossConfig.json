@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "baseData": "200_700_520_400_400_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 1,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 3291,
+      "monsterLv": 100,
+      "monsterMove": "30381_30380_25295_25294_30376",
+      "monsterName": "瀚宇星皇",
+      "monsterNewse": "2501"
+    },
+    {
+      "baseData": "200_700_500_400_400_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 2,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 4387,
+      "monsterLv": 100,
+      "monsterMove": "35951_35950_28000_27999_35946",
+      "monsterName": "坦普瑞",
+      "monsterNewse": "5876"
+    },
+    {
+      "baseData": "200_700_450_500_500_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 3,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 3414,
+      "monsterLv": 100,
+      "monsterMove": "30994_25605_25604_30992",
+      "monsterName": "混沌魔君索伦森",
+      "monsterNewse": "2641"
+    },
+    {
+      "baseData": "800_200_500_400_400_900",
+      "extraData": "0_0_0_0_0_0",
+      "id": 4,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 3291,
+      "monsterLv": 100,
+      "monsterMove": "30381_30380_25295_25294_30376",
+      "monsterName": "瀚宇星皇",
+      "monsterNewse": "2501"
+    },
+    {
+      "baseData": "600_200_500_500_500_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 5,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 4422,
+      "monsterLv": 100,
+      "monsterMove": "36147_36146_28091_28090_36141",
+      "monsterName": "天奔流·东辉",
+      "monsterNewse": "5930"
+    },
+    {
+      "baseData": "200_550_400_550_550_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 6,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 4496,
+      "monsterLv": 100,
+      "monsterMove": "36547",
+      "monsterName": "箫澈",
+      "monsterNewse": "6003"
+    },
+    {
+      "baseData": "700_200_300_250_250_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 7,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 3637,
+      "monsterLv": 100,
+      "monsterMove": "32178",
+      "monsterName": "不灭地威·萨瑞卡",
+      "monsterNewse": "5740"
+    },
+    {
+      "baseData": "200_700_300_500_500_300",
+      "extraData": "0_0_0_0_0_0",
+      "id": 8,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 4500,
+      "monsterLv": 100,
+      "monsterMove": "28327_36635_36633",
+      "monsterName": "武心婵",
+      "monsterNewse": "6016"
+    },
+    {
+      "baseData": "500_200_450_550_550_1050",
+      "extraData": "0_0_0_0_0_0",
+      "id": 9,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 3291,
+      "monsterLv": 100,
+      "monsterMove": "30381_30380_25295_25294_30376",
+      "monsterName": "瀚宇星皇",
+      "monsterNewse": "2501"
+    },
+    {
+      "baseData": "200_600_600_400_400_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 10,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 4126,
+      "monsterLv": 100,
+      "monsterMove": "34598_27347",
+      "monsterName": "乌拉诺斯",
+      "monsterNewse": "5628"
+    },
+    {
+      "baseData": "650_200_650_450_450_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 11,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 4511,
+      "monsterLv": 100,
+      "monsterMove": "28319_28320_36628",
+      "monsterName": "不破帝·南霜",
+      "monsterNewse": "6015"
+    },
+    {
+      "baseData": "200_700_450_500_500_800",
+      "extraData": "0_0_0_0_0_0",
+      "id": 12,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 4430,
+      "monsterLv": 100,
+      "monsterMove": "36189_36184",
+      "monsterName": "极光仙子",
+      "monsterNewse": "5936"
+    },
+    {
+      "baseData": "200_700_500_400_400_1000",
+      "extraData": "0_0_0_0_0_0",
+      "id": 13,
+      "mintmarkData": "0_0_0_0_0_0",
+      "monsterEffect_id": 0,
+      "monsterId": 4387,
+      "monsterLv": 100,
+      "monsterMove": "35951_35950_28000_27999_35946",
+      "monsterName": "坦普瑞",
+      "monsterNewse": "5876"
+    }
+  ]
+}

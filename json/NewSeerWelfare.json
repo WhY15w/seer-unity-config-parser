@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "Go": 142,
+      "beginning": "",
+      "ending": "",
+      "id": 1,
+      "name": "newSeer7Sign",
+      "redPointID": 1,
+      "sorting": 1,
+      "statLog": "",
+      "type": 1
+    },
+    {
+      "Go": 146,
+      "beginning": "",
+      "ending": "",
+      "id": 2,
+      "name": "newSeerFirstKeJin",
+      "redPointID": 0,
+      "sorting": 1,
+      "statLog": "",
+      "type": 1
+    },
+    {
+      "Go": 213,
+      "beginning": "",
+      "ending": "",
+      "id": 3,
+      "name": "newSeerGift",
+      "redPointID": 0,
+      "sorting": 1,
+      "statLog": "",
+      "type": 1
+    }
+  ]
+}

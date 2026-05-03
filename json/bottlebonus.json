@@ -1,0 +1,474 @@
+{
+  "data": [
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 1,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 300405,
+      "type": 1
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 2,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 300671,
+      "type": 1
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 3,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 300021,
+      "type": 1
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 4,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 300065,
+      "type": 1
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 5,
+      "needcnt": 20,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 300672,
+      "type": 1
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 6,
+      "needcnt": 20,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 300741,
+      "type": 1
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 7,
+      "needcnt": 15,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 300075,
+      "type": 1
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 8,
+      "needcnt": 15,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 300129,
+      "type": 1
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 2,
+      "id": 9,
+      "needcnt": 15,
+      "needitem": 1720852,
+      "output": 10,
+      "realid": 1706927,
+      "type": 2
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 2,
+      "id": 10,
+      "needcnt": 15,
+      "needitem": 1720852,
+      "output": 10,
+      "realid": 1706928,
+      "type": 2
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 2,
+      "id": 11,
+      "needcnt": 20,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 1706924,
+      "type": 2
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 2,
+      "id": 12,
+      "needcnt": 20,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 1706925,
+      "type": 2
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 2,
+      "id": 13,
+      "needcnt": 20,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 1706826,
+      "type": 2
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 14,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 1706926,
+      "type": 2
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 15,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 40922,
+      "type": 3
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 16,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 40923,
+      "type": 3
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 17,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 40924,
+      "type": 3
+    },
+    {
+      "exchangecut": 3,
+      "exchangenum": 1,
+      "id": 18,
+      "needcnt": 30,
+      "needitem": 1720852,
+      "output": 1,
+      "realid": 40925,
+      "type": 3
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 19,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 1296,
+      "type": 6
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 20,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 2136,
+      "type": 6
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 21,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 2063,
+      "type": 6
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 22,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 555,
+      "type": 6
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 23,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300401,
+      "type": 7
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 24,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300402,
+      "type": 7
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 25,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300403,
+      "type": 7
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 26,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300404,
+      "type": 7
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 27,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300405,
+      "type": 7
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 28,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 5,
+      "realid": 1706927,
+      "type": 8
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 29,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 5,
+      "realid": 1706928,
+      "type": 8
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 30,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 1706924,
+      "type": 8
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 31,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 1706925,
+      "type": 8
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 32,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 1706826,
+      "type": 8
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 33,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 1706926,
+      "type": 8
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 34,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300063,
+      "type": 9
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 35,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300065,
+      "type": 9
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 36,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300070,
+      "type": 9
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 37,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300075,
+      "type": 9
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 38,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 40506,
+      "type": 10
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 39,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 40507,
+      "type": 10
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 40,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 40508,
+      "type": 10
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 41,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 40509,
+      "type": 10
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 42,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 40510,
+      "type": 10
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 43,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 40511,
+      "type": 10
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 44,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300157,
+      "type": 11
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 45,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300019,
+      "type": 11
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 46,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300064,
+      "type": 11
+    },
+    {
+      "exchangecut": 0,
+      "exchangenum": 0,
+      "id": 47,
+      "needcnt": 0,
+      "needitem": 0,
+      "output": 1,
+      "realid": 300135,
+      "type": 11
+    }
+  ]
+}

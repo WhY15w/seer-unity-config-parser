@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "health": 1,
+      "id": 1,
+      "path": "Assets/Game/UI/stgstage/stg/STG.prefab",
+      "realId": 5,
+      "type": 1
+    },
+    {
+      "health": 1,
+      "id": 2,
+      "path": "",
+      "realId": 1,
+      "type": 2
+    },
+    {
+      "child": [
+        1,
+        2
+      ],
+      "health": 1,
+      "id": 3,
+      "path": "Assets/Game/Scenes/MiniGame/YearBossTest.unity",
+      "realId": 1,
+      "type": 3
+    },
+    {
+      "health": 1,
+      "id": 4,
+      "path": "",
+      "realId": 2,
+      "type": 2
+    },
+    {
+      "health": 1,
+      "id": 5,
+      "path": "",
+      "realId": 3,
+      "type": 2
+    },
+    {
+      "health": 1,
+      "id": 6,
+      "path": "",
+      "realId": 4,
+      "type": 2
+    },
+    {
+      "health": 1,
+      "id": 7,
+      "path": "Assets/Game/UI/stgstage/stg/STG.prefab",
+      "realId": 8,
+      "type": 1
+    },
+    {
+      "health": 1,
+      "id": 8,
+      "path": "Assets/Game/UI/stgstage/stg/STG.prefab",
+      "realId": 11,
+      "type": 1
+    },
+    {
+      "health": 1,
+      "id": 9,
+      "path": "Assets/Game/UI/stgstage/stg/STG.prefab",
+      "realId": 13,
+      "type": 1
+    },
+    {
+      "health": 1,
+      "id": 10,
+      "path": "Assets/Game/UI/stgstage/stg/STG.prefab",
+      "realId": 4,
+      "type": 1
+    },
+    {
+      "health": 1,
+      "id": 11,
+      "path": "Assets/Game/UI/stgstage/stg/STG.prefab",
+      "realId": 15,
+      "type": 1
+    },
+    {
+      "health": 1,
+      "id": 12,
+      "path": "",
+      "realId": 5,
+      "type": 2
+    },
+    {
+      "health": 1,
+      "id": 13,
+      "path": "",
+      "realId": 1,
+      "type": 4
+    }
+  ]
+}

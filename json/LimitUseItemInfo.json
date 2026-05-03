@@ -1,0 +1,532 @@
+{
+  "data": [
+    {
+      "LimitUseItemId": 300024,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "精灵还原药剂",
+      "LimitUseItemUserInfo": 201401,
+      "LimitUseType": 1,
+      "id": 1
+    },
+    {
+      "LimitUseItemId": 300025,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "性格重塑胶囊",
+      "LimitUseItemUserInfo": 201402,
+      "LimitUseType": 1,
+      "id": 2
+    },
+    {
+      "LimitUseItemId": 300052,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "融合精灵特性重组剂",
+      "LimitUseItemUserInfo": 201403,
+      "LimitUseType": 1,
+      "id": 3
+    },
+    {
+      "LimitUseItemId": 300053,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特性开启晶片",
+      "LimitUseItemUserInfo": 201404,
+      "LimitUseType": 1,
+      "id": 4
+    },
+    {
+      "LimitUseItemId": 300054,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特性重组剂",
+      "LimitUseItemUserInfo": 201405,
+      "LimitUseType": 1,
+      "id": 5
+    },
+    {
+      "LimitUseItemId": 300063,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特性开启晶片Ω",
+      "LimitUseItemUserInfo": 201406,
+      "LimitUseType": 1,
+      "id": 6
+    },
+    {
+      "LimitUseItemId": 300065,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特性重组剂Ω",
+      "LimitUseItemUserInfo": 201407,
+      "LimitUseType": 1,
+      "id": 7
+    },
+    {
+      "LimitUseItemId": 300070,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "性格重塑胶囊Ω",
+      "LimitUseItemUserInfo": 201408,
+      "LimitUseType": 1,
+      "id": 8
+    },
+    {
+      "LimitUseItemId": 300075,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "精灵还原药剂Ω",
+      "LimitUseItemUserInfo": 201409,
+      "LimitUseType": 1,
+      "id": 9
+    },
+    {
+      "LimitUseItemId": 300118,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "融合精灵特性重组剂Ω",
+      "LimitUseItemUserInfo": 201410,
+      "LimitUseType": 1,
+      "id": 10
+    },
+    {
+      "LimitUseItemId": 300119,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "攻击性格生成剂",
+      "LimitUseItemUserInfo": 201411,
+      "LimitUseType": 1,
+      "id": 11
+    },
+    {
+      "LimitUseItemId": 300120,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "防御性格生成剂",
+      "LimitUseItemUserInfo": 201412,
+      "LimitUseType": 1,
+      "id": 12
+    },
+    {
+      "LimitUseItemId": 300201,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "白色性格果实",
+      "LimitUseItemUserInfo": 201413,
+      "LimitUseType": 1,
+      "id": 13
+    },
+    {
+      "LimitUseItemId": 300202,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "绿色性格果实",
+      "LimitUseItemUserInfo": 201414,
+      "LimitUseType": 1,
+      "id": 14
+    },
+    {
+      "LimitUseItemId": 300212,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "炫彩性格果实",
+      "LimitUseItemUserInfo": 201415,
+      "LimitUseType": 1,
+      "id": 15
+    },
+    {
+      "LimitUseItemId": 300213,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "红色性格果实",
+      "LimitUseItemUserInfo": 201416,
+      "LimitUseType": 1,
+      "id": 16
+    },
+    {
+      "LimitUseItemId": 300214,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "粉色性格果实",
+      "LimitUseItemUserInfo": 201417,
+      "LimitUseType": 1,
+      "id": 17
+    },
+    {
+      "LimitUseItemId": 300215,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "绿色性格果实",
+      "LimitUseItemUserInfo": 201418,
+      "LimitUseType": 1,
+      "id": 18
+    },
+    {
+      "LimitUseItemId": 300216,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "黄色性格果实",
+      "LimitUseItemUserInfo": 201419,
+      "LimitUseType": 1,
+      "id": 19
+    },
+    {
+      "LimitUseItemId": 300217,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "蓝色性格果实",
+      "LimitUseItemUserInfo": 201420,
+      "LimitUseType": 1,
+      "id": 20
+    },
+    {
+      "LimitUseItemId": 300218,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "白色性格果实",
+      "LimitUseItemUserInfo": 201421,
+      "LimitUseType": 1,
+      "id": 21
+    },
+    {
+      "LimitUseItemId": 300401,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "D级技能石",
+      "LimitUseItemUserInfo": 201422,
+      "LimitUseType": 1,
+      "id": 22
+    },
+    {
+      "LimitUseItemId": 300402,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "C级技能石",
+      "LimitUseItemUserInfo": 201423,
+      "LimitUseType": 1,
+      "id": 23
+    },
+    {
+      "LimitUseItemId": 300403,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "B级技能石",
+      "LimitUseItemUserInfo": 201424,
+      "LimitUseType": 1,
+      "id": 24
+    },
+    {
+      "LimitUseItemId": 300404,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "A级技能石",
+      "LimitUseItemUserInfo": 201425,
+      "LimitUseType": 1,
+      "id": 25
+    },
+    {
+      "LimitUseItemId": 300405,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "S级技能石",
+      "LimitUseItemUserInfo": 201426,
+      "LimitUseType": 1,
+      "id": 26
+    },
+    {
+      "LimitUseItemId": 300602,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特攻性格生成剂",
+      "LimitUseItemUserInfo": 201427,
+      "LimitUseType": 1,
+      "id": 27
+    },
+    {
+      "LimitUseItemId": 300603,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特防性格生成剂",
+      "LimitUseItemUserInfo": 201428,
+      "LimitUseType": 1,
+      "id": 28
+    },
+    {
+      "LimitUseItemId": 300604,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "速度性格生成剂",
+      "LimitUseItemUserInfo": 201429,
+      "LimitUseType": 1,
+      "id": 29
+    },
+    {
+      "LimitUseItemId": 300605,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "平衡性格生成剂",
+      "LimitUseItemUserInfo": 201430,
+      "LimitUseType": 1,
+      "id": 30
+    },
+    {
+      "LimitUseItemId": 300630,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "基因改造道具Ω",
+      "LimitUseItemUserInfo": 201431,
+      "LimitUseType": 1,
+      "id": 31
+    },
+    {
+      "LimitUseItemId": 300631,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "神经元再生道具Ω",
+      "LimitUseItemUserInfo": 201432,
+      "LimitUseType": 1,
+      "id": 32
+    },
+    {
+      "LimitUseItemId": 300659,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "精灵还原药剂折扣版",
+      "LimitUseItemUserInfo": 201433,
+      "LimitUseType": 1,
+      "id": 33
+    },
+    {
+      "LimitUseItemId": 300660,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "性格重塑胶囊折扣版",
+      "LimitUseItemUserInfo": 201434,
+      "LimitUseType": 1,
+      "id": 34
+    },
+    {
+      "LimitUseItemId": 300661,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特性开启晶片折扣版",
+      "LimitUseItemUserInfo": 201435,
+      "LimitUseType": 1,
+      "id": 35
+    },
+    {
+      "LimitUseItemId": 300662,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特性重组剂折扣版",
+      "LimitUseItemUserInfo": 201436,
+      "LimitUseType": 1,
+      "id": 36
+    },
+    {
+      "LimitUseItemId": 300668,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "天赋改造药剂",
+      "LimitUseItemUserInfo": 201437,
+      "LimitUseType": 1,
+      "id": 37
+    },
+    {
+      "LimitUseItemId": 300673,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "天赋改造药剂Ω",
+      "LimitUseItemUserInfo": 201438,
+      "LimitUseType": 1,
+      "id": 38
+    },
+    {
+      "LimitUseItemId": 300675,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "攻击性格转化剂Ω",
+      "LimitUseItemUserInfo": 201439,
+      "LimitUseType": 1,
+      "id": 39
+    },
+    {
+      "LimitUseItemId": 300676,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特攻性格转化剂Ω",
+      "LimitUseItemUserInfo": 201440,
+      "LimitUseType": 1,
+      "id": 40
+    },
+    {
+      "LimitUseItemId": 300677,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "防御性格转化剂Ω",
+      "LimitUseItemUserInfo": 201441,
+      "LimitUseType": 1,
+      "id": 41
+    },
+    {
+      "LimitUseItemId": 300678,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特防性格转化剂Ω",
+      "LimitUseItemUserInfo": 201442,
+      "LimitUseType": 1,
+      "id": 42
+    },
+    {
+      "LimitUseItemId": 300679,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "速度性格转化剂Ω",
+      "LimitUseItemUserInfo": 201443,
+      "LimitUseType": 1,
+      "id": 43
+    },
+    {
+      "LimitUseItemId": 300680,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "平衡性格转化剂Ω",
+      "LimitUseItemUserInfo": 201444,
+      "LimitUseType": 1,
+      "id": 44
+    },
+    {
+      "LimitUseItemId": 300688,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "专属特性开启晶片",
+      "LimitUseItemUserInfo": 201445,
+      "LimitUseType": 1,
+      "id": 45
+    },
+    {
+      "LimitUseItemId": 300689,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "专属特性重组剂",
+      "LimitUseItemUserInfo": 201446,
+      "LimitUseType": 1,
+      "id": 46
+    },
+    {
+      "LimitUseItemId": 300692,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "专属特性开启晶片",
+      "LimitUseItemUserInfo": 201447,
+      "LimitUseType": 1,
+      "id": 47
+    },
+    {
+      "LimitUseItemId": 300693,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "专属特性重组剂",
+      "LimitUseItemUserInfo": 201448,
+      "LimitUseType": 1,
+      "id": 48
+    },
+    {
+      "LimitUseItemId": 300714,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "攻击性格生成剂Ω",
+      "LimitUseItemUserInfo": 201449,
+      "LimitUseType": 1,
+      "id": 49
+    },
+    {
+      "LimitUseItemId": 300715,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "防御性格生成剂Ω",
+      "LimitUseItemUserInfo": 201450,
+      "LimitUseType": 1,
+      "id": 50
+    },
+    {
+      "LimitUseItemId": 300718,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特攻性格生成剂Ω",
+      "LimitUseItemUserInfo": 201451,
+      "LimitUseType": 1,
+      "id": 51
+    },
+    {
+      "LimitUseItemId": 300719,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特防性格生成剂Ω",
+      "LimitUseItemUserInfo": 201452,
+      "LimitUseType": 1,
+      "id": 52
+    },
+    {
+      "LimitUseItemId": 300720,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "速度性格生成剂Ω",
+      "LimitUseItemUserInfo": 201453,
+      "LimitUseType": 1,
+      "id": 53
+    },
+    {
+      "LimitUseItemId": 300721,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "平衡性格生成剂Ω",
+      "LimitUseItemUserInfo": 201454,
+      "LimitUseType": 1,
+      "id": 54
+    },
+    {
+      "LimitUseItemId": 300727,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "精灵还原药剂折扣版Ω",
+      "LimitUseItemUserInfo": 201455,
+      "LimitUseType": 1,
+      "id": 55
+    },
+    {
+      "LimitUseItemId": 300728,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "性格重塑胶囊折扣版Ω",
+      "LimitUseItemUserInfo": 201456,
+      "LimitUseType": 1,
+      "id": 56
+    },
+    {
+      "LimitUseItemId": 300729,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特性开启晶片折扣版Ω",
+      "LimitUseItemUserInfo": 201457,
+      "LimitUseType": 1,
+      "id": 57
+    },
+    {
+      "LimitUseItemId": 300730,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "特性重组剂折扣版Ω",
+      "LimitUseItemUserInfo": 201458,
+      "LimitUseType": 1,
+      "id": 58
+    },
+    {
+      "LimitUseItemId": 300790,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "天赋平衡药剂Ω",
+      "LimitUseItemUserInfo": 201459,
+      "LimitUseType": 1,
+      "id": 59
+    },
+    {
+      "LimitUseItemId": 300839,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "专属特性开启药剂",
+      "LimitUseItemUserInfo": 201460,
+      "LimitUseType": 1,
+      "id": 60
+    },
+    {
+      "LimitUseItemId": 300849,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "专属特性重组剂",
+      "LimitUseItemUserInfo": 201461,
+      "LimitUseType": 1,
+      "id": 61
+    },
+    {
+      "LimitUseItemId": 300869,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "专属特性开启药剂",
+      "LimitUseItemUserInfo": 201462,
+      "LimitUseType": 1,
+      "id": 62
+    },
+    {
+      "LimitUseItemId": 400951,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "百变性格果实",
+      "LimitUseItemUserInfo": 201463,
+      "LimitUseType": 1,
+      "id": 63
+    },
+    {
+      "LimitUseItemId": 1706826,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "泰坦神石",
+      "LimitUseItemUserInfo": 201464,
+      "LimitUseType": 1,
+      "id": 64
+    },
+    {
+      "LimitUseItemId": 1706926,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "轮回神石",
+      "LimitUseItemUserInfo": 201465,
+      "LimitUseType": 1,
+      "id": 65
+    },
+    {
+      "LimitUseItemId": 1723856,
+      "LimitUseItemMaxNum": 50,
+      "LimitUseItemName": "二代刻印宝石原核",
+      "LimitUseItemUserInfo": 201466,
+      "LimitUseType": 1,
+      "id": 66
+    }
+  ]
+}
