@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "actName": "npc_act_5",
+      "id": 1,
+      "name": "voice_firstRound_1",
+      "probability": 3,
+      "sceneApply": "voice_firstRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 2,
+      "name": "voice_firstRound_2",
+      "probability": 3,
+      "sceneApply": "voice_firstRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_5",
+      "id": 3,
+      "name": "voice_firstRound_3",
+      "probability": 3,
+      "sceneApply": "voice_firstRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_2",
+      "id": 4,
+      "name": "voice_firstRound_4",
+      "probability": 1,
+      "sceneApply": "voice_firstRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 5,
+      "name": "voice_purchaseRound_1",
+      "probability": 1,
+      "sceneApply": "voice_purchaseRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_1",
+      "id": 6,
+      "name": "voice_purchaseRound_2",
+      "probability": 1,
+      "sceneApply": "voice_purchaseRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_2",
+      "id": 7,
+      "name": "voice_purchaseRound_3",
+      "probability": 1,
+      "sceneApply": "voice_purchaseRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 8,
+      "name": "voice_purchaseRound_4",
+      "probability": 1,
+      "sceneApply": "voice_purchaseRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_5",
+      "id": 9,
+      "name": "voice_purchaseRound_5",
+      "probability": 1,
+      "sceneApply": "voice_purchaseRound",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 10,
+      "name": "voice_buyCard_1",
+      "probability": 3,
+      "sceneApply": "voice_buyCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_3",
+      "id": 11,
+      "name": "voice_buyCard_2",
+      "probability": 1,
+      "sceneApply": "voice_buyCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_1",
+      "id": 12,
+      "name": "voice_buyHighCard_1",
+      "probability": 1,
+      "sceneApply": "voice_buyHighCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_1",
+      "id": 13,
+      "name": "voice_buyHighCard_2",
+      "probability": 1,
+      "sceneApply": "voice_buyHighCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 14,
+      "name": "voice_sellCard",
+      "probability": 1,
+      "sceneApply": "voice_sellCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 15,
+      "name": "voice_upgradeCard_1",
+      "probability": 3,
+      "sceneApply": "voice_upgradeCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_5",
+      "id": 16,
+      "name": "voice_upgradeCard_2",
+      "probability": 1,
+      "sceneApply": "voice_upgradeCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_2",
+      "id": 17,
+      "name": "voice_upgradeCard_3",
+      "probability": 1,
+      "sceneApply": "voice_upgradeCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_1",
+      "id": 18,
+      "name": "voice_upgradeHighCard",
+      "probability": 1,
+      "sceneApply": "voice_upgradeHighCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_2",
+      "id": 19,
+      "name": "voice_cardToBuy_1",
+      "probability": 2,
+      "sceneApply": "voice_cardToBuy",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_1",
+      "id": 20,
+      "name": "voice_cardToBuy_2",
+      "probability": 1,
+      "sceneApply": "voice_cardToBuy",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 21,
+      "name": "voice_cardToBuy_3",
+      "probability": 1,
+      "sceneApply": "voice_cardToBuy",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 22,
+      "name": "voice_lockCard_1",
+      "probability": 1,
+      "sceneApply": "voice_lockCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_5",
+      "id": 23,
+      "name": "voice_lockCard_2",
+      "probability": 1,
+      "sceneApply": "voice_lockCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_2",
+      "id": 24,
+      "name": "voice_unlockCard",
+      "probability": 1,
+      "sceneApply": "voice_unlockCard",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_1",
+      "id": 25,
+      "name": "voice_refresh_1",
+      "probability": 5,
+      "sceneApply": "voice_refresh",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_3",
+      "id": 26,
+      "name": "voice_refresh_2",
+      "probability": 2,
+      "sceneApply": "voice_refresh",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_5",
+      "id": 27,
+      "name": "voice_refresh_3",
+      "probability": 1,
+      "sceneApply": "voice_refresh",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_2",
+      "id": 28,
+      "name": "voice_timout",
+      "probability": 1,
+      "sceneApply": "voice_timout",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_1",
+      "id": 29,
+      "name": "voice_upgradeShop_1",
+      "probability": 2,
+      "sceneApply": "voice_upgradeShop",
+      "useID": 1,
+      "useType": 1
+    },
+    {
+      "actName": "npc_act_4",
+      "id": 30,
+      "name": "voice_upgradeShop_2",
+      "probability": 1,
+      "sceneApply": "voice_upgradeShop",
+      "useID": 1,
+      "useType": 1
+    }
+  ]
+}

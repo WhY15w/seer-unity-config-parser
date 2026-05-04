@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "Video": "voice_team",
+      "id": 1,
+      "playerId": 1,
+      "videoDes": "来一起演奏！",
+      "videoType": "待机语音1"
+    },
+    {
+      "Video": "voice_party",
+      "id": 2,
+      "playerId": 1,
+      "videoDes": "派对时间，少不了音乐！",
+      "videoType": "待机语音2"
+    },
+    {
+      "Video": "voice_startMatch_1",
+      "id": 3,
+      "playerId": 1,
+      "videoDes": "让我看看我的观众在哪里？",
+      "videoType": "待机语音3"
+    },
+    {
+      "Video": "voice_startMatch_2",
+      "id": 4,
+      "playerId": 1,
+      "videoDes": "舞台已就位，观众已入场！",
+      "videoType": "待机语音4"
+    },
+    {
+      "Video": "voice_matchSuccess_1",
+      "id": 5,
+      "playerId": 1,
+      "videoDes": "表演，马上开始！",
+      "videoType": "待机语音5"
+    },
+    {
+      "Video": "voice_matchSuccess_2",
+      "id": 6,
+      "playerId": 1,
+      "videoDes": "准备演奏，星辰之籁！",
+      "videoType": "待机语音6"
+    },
+    {
+      "Video": "voice_gameStart_1",
+      "id": 7,
+      "playerId": 1,
+      "videoDes": "所有观众，都准备好为我应援吧！",
+      "videoType": "待机语音7"
+    },
+    {
+      "Video": "voice_action_1",
+      "id": 8,
+      "playerId": 1,
+      "videoDes": "哒啦啦啦~哒啦啦啦~",
+      "videoType": "待机语音8"
+    },
+    {
+      "Video": "voice_action_2",
+      "id": 9,
+      "playerId": 1,
+      "videoDes": "静下心，仔细听~",
+      "videoType": "待机语音9"
+    },
+    {
+      "Video": "voice_action_3",
+      "id": 10,
+      "playerId": 1,
+      "videoDes": "嘿！躁动起来！",
+      "videoType": "待机语音10"
+    },
+    {
+      "Video": "voice_battleRound_1",
+      "id": 11,
+      "playerId": 1,
+      "videoDes": "跟上节奏！一定不会输！",
+      "videoType": "待机语音11"
+    },
+    {
+      "Video": "voice_battleRound_2",
+      "id": 12,
+      "playerId": 1,
+      "videoDes": "来尝尝我的热情攻击！",
+      "videoType": "待机语音12"
+    },
+    {
+      "Video": "voice_battleWin_1",
+      "id": 13,
+      "playerId": 1,
+      "videoDes": "呼——我喜欢这种挥洒汗水的感觉！",
+      "videoType": "待机语音13"
+    },
+    {
+      "Video": "voice_battleWin_2",
+      "id": 14,
+      "playerId": 1,
+      "videoDes": "我们才是今晚的主角！",
+      "videoType": "待机语音14"
+    },
+    {
+      "Video": "voice_battleDraw",
+      "id": 15,
+      "playerId": 1,
+      "videoDes": "音符碰撞！这是一首战斗圆舞曲！",
+      "videoType": "待机语音15"
+    },
+    {
+      "Video": "voice_battleLose_1",
+      "id": 16,
+      "playerId": 1,
+      "videoDes": "不能松懈，演出还要继续！",
+      "videoType": "待机语音16"
+    },
+    {
+      "Video": "voice_battleLose_2",
+      "id": 17,
+      "playerId": 1,
+      "videoDes": "是不是得重新调整一下聚光灯位置？",
+      "videoType": "待机语音17"
+    },
+    {
+      "Video": "voice_finalWin",
+      "id": 18,
+      "playerId": 1,
+      "videoDes": "嘻嘻，完美收场！",
+      "videoType": "待机语音18"
+    },
+    {
+      "Video": "voice_scoreUp_1",
+      "id": 19,
+      "playerId": 1,
+      "videoDes": "Thank you for coming~",
+      "videoType": "待机语音19"
+    },
+    {
+      "Video": "voice_scoreUp_2",
+      "id": 20,
+      "playerId": 1,
+      "videoDes": "期待，下一场的表演会更加火热！",
+      "videoType": "待机语音20"
+    }
+  ]
+}

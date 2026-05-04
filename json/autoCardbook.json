@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "BuffIcon": "2,4",
+      "CardRecom": "1,2,3,4",
+      "NatureId": 1,
+      "Title": "草系阵容推荐",
+      "id": 1
+    },
+    {
+      "BuffIcon": "1,3",
+      "CardRecom": "5,6,7,8",
+      "NatureId": 2,
+      "Title": "水系阵容推荐",
+      "id": 2
+    },
+    {
+      "BuffIcon": "2,5",
+      "CardRecom": "9,10,11,12",
+      "NatureId": 3,
+      "Title": "火系阵容推荐",
+      "id": 3
+    },
+    {
+      "BuffIcon": "2,6",
+      "CardRecom": "13,14,15,16",
+      "NatureId": 5,
+      "Title": "电系阵容推荐",
+      "id": 4
+    },
+    {
+      "BuffIcon": "11,12",
+      "CardRecom": "17,18,19,20",
+      "NatureId": 7,
+      "Title": "地面系阵容推荐",
+      "id": 5
+    }
+  ]
+}

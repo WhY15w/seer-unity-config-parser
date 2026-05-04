@@ -120,6 +120,46 @@ import { parsePvpRaceConfig } from "../bytes2json/pvpRace";
 import { parsePvpRewardConfig } from "../bytes2json/pvpReward";
 import { parsePvpShopConfig } from "../bytes2json/pvpShop";
 import { parsePvpShopBisaifuConfig } from "../bytes2json/pvpShopBisaifu";
+import { parseAchievementbonusConfig } from "../bytes2json/achievementbonus";
+import { parseActiveSortConfig } from "../bytes2json/activeSort";
+import { parseActiveSortBisaifuConfig } from "../bytes2json/activeSortBisaifu";
+import { parseActivityCenterConfig } from "../bytes2json/activityCenter";
+import { parseActivityCenterBisaifuConfig } from "../bytes2json/activityCenterBisaifu";
+import { parseActivityCenterTestConfig } from "../bytes2json/activityCenterTest";
+import { parseActivityShopConfigConfig } from "../bytes2json/activityShopConfig";
+import { parseActivityTaskConfigConfig } from "../bytes2json/activityTaskConfig";
+import { parseAdastraActivityRewardConfig } from "../bytes2json/adastraActivityReward";
+import { parseAdAstraConditionConfig } from "../bytes2json/adAstraCondition";
+import { parseAdAstraGalaxyConfig } from "../bytes2json/adAstraGalaxy";
+import { parseAdAstraGalaxyGuoqingConfig } from "../bytes2json/adAstraGalaxyGuoqing";
+import { parseAdAstraGalaxyTempConfig } from "../bytes2json/adAstraGalaxyTemp";
+import { parseAdAstraLevelConfig } from "../bytes2json/adAstraLevel";
+import { parseAdAstraShopConfig } from "../bytes2json/adAstraShop";
+import { parseAdAstraStarAwardConfig } from "../bytes2json/adAstraStarAward";
+import { parseAnniversaryVaultConfig } from "../bytes2json/anniversaryVault";
+import { parseAnnouncementConfig } from "../bytes2json/announcement";
+import { parseArchivesBookConfig } from "../bytes2json/archivesBook";
+import { parseArchivesStoryConfig } from "../bytes2json/archivesStory";
+import { parseArchivesStoryTempConfig } from "../bytes2json/archivesStoryTemp";
+import { parseAurumEndgameOptionsConfigConfig } from "../bytes2json/aurumEndgameOptionsConfig";
+import { parseAutoCardbookConfig } from "../bytes2json/autoCardbook";
+import { parseAutoCardBuffWikiConfig } from "../bytes2json/autoCardBuffWiki";
+
+import { parseAutocardCVConfig } from "../bytes2json/autocardCV";
+import { parseAutocardScreenConfig } from "../bytes2json/autocardScreen";
+import { parseAutocardShopConfig } from "../bytes2json/autocardShop";
+import { parseAutoCardVideoConfig } from "../bytes2json/autoCardVideo";
+import { parseAutoOpenPanelConfig } from "../bytes2json/autoOpenPanel";
+import { parseAwakenbossbuffConfig } from "../bytes2json/awakenbossbuff";
+import { parseAwakenbossconfigConfig } from "../bytes2json/awakenbossconfig";
+import { parseAwakenbosslevelConfig } from "../bytes2json/awakenbosslevel";
+import { parseAwakenconditionConfig } from "../bytes2json/awakencondition";
+import { parseAwakenlevelConfig } from "../bytes2json/awakenlevel";
+import { parseAwakenlistConfig } from "../bytes2json/awakenlist";
+import { parseAwakentaskConfig } from "../bytes2json/awakentask";
+import { parseBackFlowTaskConfig } from "../bytes2json/backFlowTask";
+import { parseBadgeBattlePassRewardConfig } from "../bytes2json/badgeBattlePassReward";
+import { parseBadgeBattlePassTaskConfig } from "../bytes2json/badgeBattlePassTask";
 
 const failures: { name: string; error: string }[] = [];
 
@@ -314,9 +354,7 @@ safeRun("drinkrecipe", () =>
 safeRun("dungeon_enter", () =>
   parseDungeonEnterConfig("./ConfigPackage/export/dungeon_enter.bytes"),
 );
-safeRun("emoji", () =>
-  parseEmojiConfig("./ConfigPackage/export/emoji.bytes"),
-);
+safeRun("emoji", () => parseEmojiConfig("./ConfigPackage/export/emoji.bytes"));
 safeRun("eventSchedule", () =>
   parseEventScheduleConfig("./ConfigPackage/export/eventSchedule.bytes"),
 );
@@ -327,7 +365,9 @@ safeRun("exchangeRestrict", () =>
   parseExchangeRestrictConfig("./ConfigPackage/export/exchangeRestrict.bytes"),
 );
 safeRun("ExplorationReward", () =>
-  parseExplorationRewardConfig("./ConfigPackage/export/ExplorationReward.bytes"),
+  parseExplorationRewardConfig(
+    "./ConfigPackage/export/ExplorationReward.bytes",
+  ),
 );
 safeRun("express_jump", () =>
   parseExpressJumpConfig("./ConfigPackage/export/express_jump.bytes"),
@@ -351,7 +391,9 @@ safeRun("globalStr", () =>
   parseGlobalStrConfig("./ConfigPackage/export/globalStr.bytes"),
 );
 safeRun("guidePetRecommend", () =>
-  parseGuidePetRecommendConfig("./ConfigPackage/export/guidePetRecommend.bytes"),
+  parseGuidePetRecommendConfig(
+    "./ConfigPackage/export/guidePetRecommend.bytes",
+  ),
 );
 safeRun("h5_12th_box", () =>
   parseH512thBoxConfig("./ConfigPackage/export/h5_12th_box.bytes"),
@@ -375,7 +417,9 @@ safeRun("LevelCondition", () =>
   parseLevelConditionConfig("./ConfigPackage/export/LevelCondition.bytes"),
 );
 safeRun("learningpower_tower", () =>
-  parseLearningpowerTowerConfig("./ConfigPackage/export/learningpower_tower.bytes"),
+  parseLearningpowerTowerConfig(
+    "./ConfigPackage/export/learningpower_tower.bytes",
+  ),
 );
 safeRun("LimitUseItemInfo", () =>
   parseLimitUseItemInfoConfig("./ConfigPackage/export/LimitUseItemInfo.bytes"),
@@ -408,7 +452,9 @@ safeRun("mount_tail", () =>
   parseMountTailConfig("./ConfigPackage/export/mount_tail.bytes"),
 );
 safeRun("newBraveChallenge", () =>
-  parseNewBraveChallengeConfig("./ConfigPackage/export/newBraveChallenge.bytes"),
+  parseNewBraveChallengeConfig(
+    "./ConfigPackage/export/newBraveChallenge.bytes",
+  ),
 );
 safeRun("newBraveLv", () =>
   parseNewBraveLvConfig("./ConfigPackage/export/newBraveLv.bytes"),
@@ -420,10 +466,14 @@ safeRun("new_monster_level", () =>
   parseNewMonsterLevelConfig("./ConfigPackage/export/new_monster_level.bytes"),
 );
 safeRun("new_monster_level_bisaifu", () =>
-  parseNewMonsterLevelBisaifuConfig("./ConfigPackage/export/new_monster_level_bisaifu.bytes"),
+  parseNewMonsterLevelBisaifuConfig(
+    "./ConfigPackage/export/new_monster_level_bisaifu.bytes",
+  ),
 );
 safeRun("new_monster_level_temp", () =>
-  parseNewMonsterLevelTempConfig("./ConfigPackage/export/new_monster_level_temp.bytes"),
+  parseNewMonsterLevelTempConfig(
+    "./ConfigPackage/export/new_monster_level_temp.bytes",
+  ),
 );
 safeRun("NewSeerWelfare", () =>
   parseNewSeerWelfareConfig("./ConfigPackage/export/NewSeerWelfare.bytes"),
@@ -431,17 +481,15 @@ safeRun("NewSeerWelfare", () =>
 safeRun("newSetGame", () =>
   parseNewSetGameConfig("./ConfigPackage/export/newSetGame.bytes"),
 );
-safeRun("npc", () =>
-  parseNpcConfig("./ConfigPackage/export/npc.bytes"),
-);
-safeRun("Popup", () =>
-  parsePopupConfig("./ConfigPackage/export/Popup.bytes"),
-);
+safeRun("npc", () => parseNpcConfig("./ConfigPackage/export/npc.bytes"));
+safeRun("Popup", () => parsePopupConfig("./ConfigPackage/export/Popup.bytes"));
 safeRun("PreferentialBest", () =>
   parsePreferentialBestConfig("./ConfigPackage/export/PreferentialBest.bytes"),
 );
 safeRun("privateCostDiamondReward", () =>
-  parsePrivateCostDiamondRewardConfig("./ConfigPackage/export/privateCostDiamondReward.bytes"),
+  parsePrivateCostDiamondRewardConfig(
+    "./ConfigPackage/export/privateCostDiamondReward.bytes",
+  ),
 );
 safeRun("privateShop", () =>
   parsePrivateShopConfig("./ConfigPackage/export/privateShop.bytes"),
@@ -450,17 +498,23 @@ safeRun("privateSign", () =>
   parsePrivateSignConfig("./ConfigPackage/export/privateSign.bytes"),
 );
 safeRun("privateTrainExtraReward", () =>
-  parsePrivateTrainExtraRewardConfig("./ConfigPackage/export/privateTrainExtraReward.bytes"),
+  parsePrivateTrainExtraRewardConfig(
+    "./ConfigPackage/export/privateTrainExtraReward.bytes",
+  ),
 );
 safeRun("privateTrainTask", () =>
   parsePrivateTrainTaskConfig("./ConfigPackage/export/privateTrainTask.bytes"),
 );
 // PveBossBraveTower.bytes is already JSON (pre-parsed), skip binary parsing
 safeRun("PveBossExperienceTraining", () =>
-  parsePveBossExperienceTrainingConfig("./ConfigPackage/export/PveBossExperienceTraining.bytes"),
+  parsePveBossExperienceTrainingConfig(
+    "./ConfigPackage/export/PveBossExperienceTraining.bytes",
+  ),
 );
 safeRun("PveBossLearningTraining", () =>
-  parsePveBossLearningTrainingConfig("./ConfigPackage/export/PveBossLearningTraining.bytes"),
+  parsePveBossLearningTrainingConfig(
+    "./ConfigPackage/export/PveBossLearningTraining.bytes",
+  ),
 );
 safeRun("pveEnter", () =>
   parsePveEnterConfig("./ConfigPackage/export/pveEnter.bytes"),
@@ -469,7 +523,9 @@ safeRun("pvp_BossConfig", () =>
   parsePvpBossConfigConfig("./ConfigPackage/export/pvp_BossConfig.bytes"),
 );
 safeRun("pvp_expert_seasonrank", () =>
-  parsePvpExpertSeasonrankConfig("./ConfigPackage/export/pvp_expert_seasonrank.bytes"),
+  parsePvpExpertSeasonrankConfig(
+    "./ConfigPackage/export/pvp_expert_seasonrank.bytes",
+  ),
 );
 safeRun("pvp_honorpantheon", () =>
   parsePvpHonorpantheonConfig("./ConfigPackage/export/pvp_honorpantheon.bytes"),
@@ -494,6 +550,143 @@ safeRun("pvp_shop", () =>
 );
 safeRun("pvp_shop_bisaifu", () =>
   parsePvpShopBisaifuConfig("./ConfigPackage/export/pvp_shop_bisaifu.bytes"),
+);
+safeRun("achievementbonus", () =>
+  parseAchievementbonusConfig("./ConfigPackage/export/achievementbonus.bytes"),
+);
+safeRun("active_sort", () =>
+  parseActiveSortConfig("./ConfigPackage/export/active_sort.bytes"),
+);
+safeRun("active_sort_bisaifu", () =>
+  parseActiveSortBisaifuConfig(
+    "./ConfigPackage/export/active_sort_bisaifu.bytes",
+  ),
+);
+safeRun("ActivityCenter", () =>
+  parseActivityCenterConfig("./ConfigPackage/export/ActivityCenter.bytes"),
+);
+safeRun("ActivityCenter_bisaifu", () =>
+  parseActivityCenterBisaifuConfig(
+    "./ConfigPackage/export/ActivityCenter_bisaifu.bytes",
+  ),
+);
+safeRun("ActivityCenter_test", () =>
+  parseActivityCenterTestConfig(
+    "./ConfigPackage/export/ActivityCenter_test.bytes",
+  ),
+);
+safeRun("Activity_ShopConfig", () =>
+  parseActivityShopConfigConfig(
+    "./ConfigPackage/export/Activity_ShopConfig.bytes",
+  ),
+);
+safeRun("Activity_TaskConfig", () =>
+  parseActivityTaskConfigConfig(
+    "./ConfigPackage/export/Activity_TaskConfig.bytes",
+  ),
+);
+safeRun("AdastraActivityReward", () =>
+  parseAdastraActivityRewardConfig(
+    "./ConfigPackage/export/AdastraActivityReward.bytes",
+  ),
+);
+safeRun("AdAstraCondition", () =>
+  parseAdAstraConditionConfig("./ConfigPackage/export/AdAstraCondition.bytes"),
+);
+safeRun("AdAstraGalaxy", () =>
+  parseAdAstraGalaxyConfig("./ConfigPackage/export/AdAstraGalaxy.bytes"),
+);
+safeRun("AdAstraGalaxy_guoqing", () =>
+  parseAdAstraGalaxyGuoqingConfig(
+    "./ConfigPackage/export/AdAstraGalaxy_guoqing.bytes",
+  ),
+);
+safeRun("AdAstraGalaxy_temp", () =>
+  parseAdAstraGalaxyTempConfig(
+    "./ConfigPackage/export/AdAstraGalaxy_temp.bytes",
+  ),
+);
+safeRun("AdAstraLevel", () =>
+  parseAdAstraLevelConfig("./ConfigPackage/export/AdAstraLevel.bytes"),
+);
+safeRun("AdAstraShop", () =>
+  parseAdAstraShopConfig("./ConfigPackage/export/AdAstraShop.bytes"),
+);
+safeRun("AdAstraStarAward", () =>
+  parseAdAstraStarAwardConfig("./ConfigPackage/export/AdAstraStarAward.bytes"),
+);
+safeRun("AnniversaryVault", () =>
+  parseAnniversaryVaultConfig("./ConfigPackage/export/AnniversaryVault.bytes"),
+);
+safeRun("announcement", () =>
+  parseAnnouncementConfig("./ConfigPackage/export/announcement.bytes"),
+);
+safeRun("archivesBook", () =>
+  parseArchivesBookConfig("./ConfigPackage/export/archivesBook.bytes"),
+);
+safeRun("archivesStory", () =>
+  parseArchivesStoryConfig("./ConfigPackage/export/archivesStory.bytes"),
+);
+safeRun("archivesStory_temp", () =>
+  parseArchivesStoryTempConfig(
+    "./ConfigPackage/export/archivesStory_temp.bytes",
+  ),
+);
+safeRun("aurumEndgameOptionsConfig", () =>
+  parseAurumEndgameOptionsConfigConfig(
+    "./ConfigPackage/export/aurumEndgameOptionsConfig.bytes",
+  ),
+);
+safeRun("autoCardbook", () =>
+  parseAutoCardbookConfig("./ConfigPackage/export/autoCardbook.bytes"),
+);
+safeRun("autoCardBuffWiki", () =>
+  parseAutoCardBuffWikiConfig("./ConfigPackage/export/autoCardBuffWiki.bytes"),
+);
+safeRun("autocardCV", () =>
+  parseAutocardCVConfig("./ConfigPackage/export/autocardCV.bytes"),
+);
+safeRun("autocardScreen", () =>
+  parseAutocardScreenConfig("./ConfigPackage/export/autocardScreen.bytes"),
+);
+safeRun("autocardShop", () =>
+  parseAutocardShopConfig("./ConfigPackage/export/autocardShop.bytes"),
+);
+safeRun("autoCardVideo", () =>
+  parseAutoCardVideoConfig("./ConfigPackage/export/autoCardVideo.bytes"),
+);
+safeRun("autoOpenPanel", () =>
+  parseAutoOpenPanelConfig("./ConfigPackage/export/autoOpenPanel.bytes"),
+);
+safeRun("awakenbossbuff", () =>
+  parseAwakenbossbuffConfig("./ConfigPackage/export/awakenbossbuff.bytes"),
+);
+safeRun("awakenbossconfig", () =>
+  parseAwakenbossconfigConfig("./ConfigPackage/export/awakenbossconfig.bytes"),
+);
+safeRun("awakenbosslevel", () =>
+  parseAwakenbosslevelConfig("./ConfigPackage/export/awakenbosslevel.bytes"),
+);
+safeRun("awakencondition", () =>
+  parseAwakenconditionConfig("./ConfigPackage/export/awakencondition.bytes"),
+);
+safeRun("awakenlevel", () =>
+  parseAwakenlevelConfig("./ConfigPackage/export/awakenlevel.bytes"),
+);
+safeRun("awakenlist", () =>
+  parseAwakenlistConfig("./ConfigPackage/export/awakenlist.bytes"),
+);
+safeRun("awakentask", () =>
+  parseAwakentaskConfig("./ConfigPackage/export/awakentask.bytes"),
+);
+safeRun("BackFlowTask", () =>
+  parseBackFlowTaskConfig("./ConfigPackage/export/BackFlowTask.bytes"),
+);
+safeRun("badgeBattlePass_reward", () =>
+  parseBadgeBattlePassRewardConfig("./ConfigPackage/export/badgeBattlePass_reward.bytes"),
+);
+safeRun("badgeBattlePass_task", () =>
+  parseBadgeBattlePassTaskConfig("./ConfigPackage/export/badgeBattlePass_task.bytes"),
 );
 
 async function sendFeishuAlert() {

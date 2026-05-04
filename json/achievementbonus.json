@@ -1,0 +1,9716 @@
+{
+  "data": [
+    {
+      "Branch": 1,
+      "Rule": 1,
+      "id": 1,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 2,
+      "id": 2,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 3,
+      "id": 3,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 4,
+      "id": 4,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 5,
+      "id": 5,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 6,
+      "id": 6,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 7,
+      "id": 7,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 8,
+      "id": 8,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 9,
+      "id": 9,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 10,
+      "id": 10,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 1,
+      "Rule": 11,
+      "id": 11,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 1,
+      "id": 12,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 2,
+      "id": 13,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 3,
+      "id": 14,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 4,
+      "id": 15,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 5,
+      "id": 16,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 6,
+      "id": 17,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 7,
+      "id": 18,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 8,
+      "id": 19,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 9,
+      "id": 20,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 10,
+      "id": 21,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 11,
+      "id": 22,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 12,
+      "id": 23,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 13,
+      "id": 24,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 14,
+      "id": 25,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 15,
+      "id": 26,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 16,
+      "id": 27,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 17,
+      "id": 28,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 18,
+      "id": 29,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 19,
+      "id": 30,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 20,
+      "id": 31,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 21,
+      "id": 32,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 22,
+      "id": 33,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 23,
+      "id": 34,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 24,
+      "id": 35,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 25,
+      "id": 36,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 26,
+      "id": 37,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 27,
+      "id": 38,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 28,
+      "id": 39,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 29,
+      "id": 40,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 30,
+      "id": 41,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 2,
+      "Rule": 31,
+      "id": 42,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 3,
+      "Rule": 1,
+      "id": 43,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 3,
+      "Rule": 2,
+      "id": 44,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 3,
+      "Rule": 3,
+      "id": 45,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 3,
+      "Rule": 4,
+      "id": 46,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 3,
+      "Rule": 5,
+      "id": 47,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 3,
+      "Rule": 6,
+      "id": 48,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 3,
+      "Rule": 7,
+      "id": 49,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 3,
+      "Rule": 8,
+      "id": 50,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 4,
+      "Rule": 1,
+      "id": 51,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 4,
+      "Rule": 2,
+      "id": 52,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 4,
+      "Rule": 3,
+      "id": 53,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 4,
+      "Rule": 4,
+      "id": 54,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 4,
+      "Rule": 5,
+      "id": 55,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 4,
+      "Rule": 6,
+      "id": 56,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 5,
+      "Rule": 1,
+      "id": 57,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 5,
+      "Rule": 2,
+      "id": 58,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 5,
+      "Rule": 3,
+      "id": 59,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 5,
+      "Rule": 4,
+      "id": 60,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 5,
+      "Rule": 5,
+      "id": 61,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 6,
+      "Rule": 1,
+      "id": 62,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 6,
+      "Rule": 2,
+      "id": 63,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 7,
+      "Rule": 1,
+      "id": 64,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 7,
+      "Rule": 2,
+      "id": 65,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 7,
+      "Rule": 3,
+      "id": 66,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 7,
+      "Rule": 4,
+      "id": 67,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 7,
+      "Rule": 5,
+      "id": 68,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 7,
+      "Rule": 6,
+      "id": 69,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 8,
+      "Rule": 1,
+      "id": 70,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 8,
+      "Rule": 2,
+      "id": 71,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 8,
+      "Rule": 3,
+      "id": 72,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 8,
+      "Rule": 4,
+      "id": 73,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 8,
+      "Rule": 5,
+      "id": 74,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 8,
+      "Rule": 6,
+      "id": 75,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 8,
+      "Rule": 7,
+      "id": 76,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 8,
+      "Rule": 8,
+      "id": 77,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 1,
+      "id": 78,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 2,
+      "id": 79,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 3,
+      "id": 80,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 4,
+      "id": 81,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 5,
+      "id": 82,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 6,
+      "id": 83,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 7,
+      "id": 84,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 8,
+      "id": 85,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 9,
+      "id": 86,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 9,
+      "Rule": 10,
+      "id": 87,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 10,
+      "Rule": 1,
+      "id": 88,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 10,
+      "Rule": 2,
+      "id": 89,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 11,
+      "Rule": 1,
+      "id": 90,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 11,
+      "Rule": 2,
+      "id": 91,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 11,
+      "Rule": 3,
+      "id": 92,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 12,
+      "Rule": 1,
+      "id": 93,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 12,
+      "Rule": 2,
+      "id": 94,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 12,
+      "Rule": 3,
+      "id": 95,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 12,
+      "Rule": 4,
+      "id": 96,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 12,
+      "Rule": 5,
+      "id": 97,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 13,
+      "Rule": 1,
+      "id": 98,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 13,
+      "Rule": 2,
+      "id": 99,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 13,
+      "Rule": 3,
+      "id": 100,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 13,
+      "Rule": 4,
+      "id": 101,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 13,
+      "Rule": 5,
+      "id": 102,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 14,
+      "Rule": 1,
+      "id": 103,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 14,
+      "Rule": 2,
+      "id": 104,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 14,
+      "Rule": 3,
+      "id": 105,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 14,
+      "Rule": 4,
+      "id": 106,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 15,
+      "Rule": 1,
+      "id": 107,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 15,
+      "Rule": 2,
+      "id": 108,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 15,
+      "Rule": 3,
+      "id": 109,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 15,
+      "Rule": 4,
+      "id": 110,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 15,
+      "Rule": 5,
+      "id": 111,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 15,
+      "Rule": 6,
+      "id": 112,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 16,
+      "Rule": 1,
+      "id": 113,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 16,
+      "Rule": 2,
+      "id": 114,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 16,
+      "Rule": 3,
+      "id": 115,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 16,
+      "Rule": 4,
+      "id": 116,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 16,
+      "Rule": 5,
+      "id": 117,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 17,
+      "Rule": 1,
+      "id": 118,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 17,
+      "Rule": 2,
+      "id": 119,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 17,
+      "Rule": 3,
+      "id": 120,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 17,
+      "Rule": 4,
+      "id": 121,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 17,
+      "Rule": 5,
+      "id": 122,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 17,
+      "Rule": 6,
+      "id": 123,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 18,
+      "Rule": 1,
+      "id": 124,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 18,
+      "Rule": 2,
+      "id": 125,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 18,
+      "Rule": 3,
+      "id": 126,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 18,
+      "Rule": 4,
+      "id": 127,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 18,
+      "Rule": 5,
+      "id": 128,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 19,
+      "Rule": 1,
+      "id": 129,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 19,
+      "Rule": 2,
+      "id": 130,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 19,
+      "Rule": 3,
+      "id": 131,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 19,
+      "Rule": 4,
+      "id": 132,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 19,
+      "Rule": 5,
+      "id": 133,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 19,
+      "Rule": 6,
+      "id": 134,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 20,
+      "Rule": 1,
+      "id": 135,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 1,
+      "id": 136,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 2,
+      "id": 137,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 3,
+      "id": 138,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 4,
+      "id": 139,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 5,
+      "id": 140,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 6,
+      "id": 141,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 7,
+      "id": 142,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 8,
+      "id": 143,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 21,
+      "Rule": 9,
+      "id": 144,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 22,
+      "Rule": 1,
+      "id": 145,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 23,
+      "Rule": 1,
+      "id": 146,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 23,
+      "Rule": 2,
+      "id": 147,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 23,
+      "Rule": 3,
+      "id": 148,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 23,
+      "Rule": 4,
+      "id": 149,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 23,
+      "Rule": 5,
+      "id": 150,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 23,
+      "Rule": 6,
+      "id": 151,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 23,
+      "Rule": 7,
+      "id": 152,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 24,
+      "Rule": 1,
+      "id": 153,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 24,
+      "Rule": 2,
+      "id": 154,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 24,
+      "Rule": 3,
+      "id": 155,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 25,
+      "Rule": 1,
+      "id": 156,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 25,
+      "Rule": 2,
+      "id": 157,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 25,
+      "Rule": 3,
+      "id": 158,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 25,
+      "Rule": 4,
+      "id": 159,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 25,
+      "Rule": 5,
+      "id": 160,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 25,
+      "Rule": 6,
+      "id": 161,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 26,
+      "Rule": 1,
+      "id": 162,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 26,
+      "Rule": 2,
+      "id": 163,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 27,
+      "Rule": 1,
+      "id": 164,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 27,
+      "Rule": 2,
+      "id": 165,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 27,
+      "Rule": 3,
+      "id": 166,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 28,
+      "Rule": 1,
+      "id": 167,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 28,
+      "Rule": 2,
+      "id": 168,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 28,
+      "Rule": 3,
+      "id": 169,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 28,
+      "Rule": 4,
+      "id": 170,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 28,
+      "Rule": 5,
+      "id": 171,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 28,
+      "Rule": 6,
+      "id": 172,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 28,
+      "Rule": 7,
+      "id": 173,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 28,
+      "Rule": 8,
+      "id": 174,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 29,
+      "Rule": 1,
+      "id": 175,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 29,
+      "Rule": 2,
+      "id": 176,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 30,
+      "Rule": 1,
+      "id": 177,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 30,
+      "Rule": 2,
+      "id": 178,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 30,
+      "Rule": 3,
+      "id": 179,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 31,
+      "Rule": 1,
+      "id": 180,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 32,
+      "Rule": 1,
+      "id": 181,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 32,
+      "Rule": 2,
+      "id": 182,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 32,
+      "Rule": 3,
+      "id": 183,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 32,
+      "Rule": 4,
+      "id": 184,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 32,
+      "Rule": 5,
+      "id": 185,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 33,
+      "Rule": 1,
+      "id": 186,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 33,
+      "Rule": 2,
+      "id": 187,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 33,
+      "Rule": 3,
+      "id": 188,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 34,
+      "Rule": 1,
+      "id": 189,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 34,
+      "Rule": 2,
+      "id": 190,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 34,
+      "Rule": 3,
+      "id": 191,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 34,
+      "Rule": 4,
+      "id": 192,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 35,
+      "Rule": 1,
+      "id": 193,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 35,
+      "Rule": 2,
+      "id": 194,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 35,
+      "Rule": 3,
+      "id": 195,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 35,
+      "Rule": 4,
+      "id": 196,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 36,
+      "Rule": 1,
+      "id": 197,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 36,
+      "Rule": 2,
+      "id": 198,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 36,
+      "Rule": 3,
+      "id": 199,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 36,
+      "Rule": 4,
+      "id": 200,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 37,
+      "Rule": 1,
+      "id": 201,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 38,
+      "Rule": 1,
+      "id": 202,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 39,
+      "Rule": 1,
+      "id": 203,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 40,
+      "Rule": 1,
+      "id": 204,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 40,
+      "Rule": 2,
+      "id": 205,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 40,
+      "Rule": 3,
+      "id": 206,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 40,
+      "Rule": 4,
+      "id": 207,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 40,
+      "Rule": 5,
+      "id": 208,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 41,
+      "Rule": 1,
+      "id": 209,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 41,
+      "Rule": 2,
+      "id": 210,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 41,
+      "Rule": 3,
+      "id": 211,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 41,
+      "Rule": 4,
+      "id": 212,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 41,
+      "Rule": 5,
+      "id": 213,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 42,
+      "Rule": 1,
+      "id": 214,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 42,
+      "Rule": 2,
+      "id": 215,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 42,
+      "Rule": 3,
+      "id": 216,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 43,
+      "Rule": 1,
+      "id": 217,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 43,
+      "Rule": 2,
+      "id": 218,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 43,
+      "Rule": 3,
+      "id": 219,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 43,
+      "Rule": 4,
+      "id": 220,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 43,
+      "Rule": 5,
+      "id": 221,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 44,
+      "Rule": 1,
+      "id": 222,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 44,
+      "Rule": 2,
+      "id": 223,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 44,
+      "Rule": 3,
+      "id": 224,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 44,
+      "Rule": 4,
+      "id": 225,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 44,
+      "Rule": 5,
+      "id": 226,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 44,
+      "Rule": 6,
+      "id": 227,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 45,
+      "Rule": 1,
+      "id": 228,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 45,
+      "Rule": 2,
+      "id": 229,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 45,
+      "Rule": 3,
+      "id": 230,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 45,
+      "Rule": 4,
+      "id": 231,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 45,
+      "Rule": 5,
+      "id": 232,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 46,
+      "Rule": 1,
+      "id": 233,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 46,
+      "Rule": 2,
+      "id": 234,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 46,
+      "Rule": 3,
+      "id": 235,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 46,
+      "Rule": 4,
+      "id": 236,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 46,
+      "Rule": 5,
+      "id": 237,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 47,
+      "Rule": 1,
+      "id": 238,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 47,
+      "Rule": 2,
+      "id": 239,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 47,
+      "Rule": 3,
+      "id": 240,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 48,
+      "Rule": 1,
+      "id": 241,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 48,
+      "Rule": 2,
+      "id": 242,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 48,
+      "Rule": 3,
+      "id": 243,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 49,
+      "Rule": 1,
+      "id": 244,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 50,
+      "Rule": 1,
+      "id": 245,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 50,
+      "Rule": 2,
+      "id": 246,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 50,
+      "Rule": 3,
+      "id": 247,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 51,
+      "Rule": 1,
+      "id": 248,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 51,
+      "Rule": 2,
+      "id": 249,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 51,
+      "Rule": 3,
+      "id": 250,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 51,
+      "Rule": 4,
+      "id": 251,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 52,
+      "Rule": 1,
+      "id": 252,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 53,
+      "Rule": 1,
+      "id": 253,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 53,
+      "Rule": 2,
+      "id": 254,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 53,
+      "Rule": 3,
+      "id": 255,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 53,
+      "Rule": 4,
+      "id": 256,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 53,
+      "Rule": 5,
+      "id": 257,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 53,
+      "Rule": 6,
+      "id": 258,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 54,
+      "Rule": 1,
+      "id": 259,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 54,
+      "Rule": 2,
+      "id": 260,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 54,
+      "Rule": 3,
+      "id": 261,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 55,
+      "Rule": 1,
+      "id": 262,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 55,
+      "Rule": 2,
+      "id": 263,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 55,
+      "Rule": 3,
+      "id": 264,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 55,
+      "Rule": 4,
+      "id": 265,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 56,
+      "Rule": 1,
+      "id": 266,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 57,
+      "Rule": 1,
+      "id": 267,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 1,
+      "id": 268,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 2,
+      "id": 269,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 3,
+      "id": 270,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 4,
+      "id": 271,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 5,
+      "id": 272,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 6,
+      "id": 273,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 7,
+      "id": 274,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 8,
+      "id": 275,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 59,
+      "Rule": 1,
+      "id": 276,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 59,
+      "Rule": 2,
+      "id": 277,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 59,
+      "Rule": 3,
+      "id": 278,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 59,
+      "Rule": 4,
+      "id": 279,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 59,
+      "Rule": 5,
+      "id": 280,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 59,
+      "Rule": 6,
+      "id": 281,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 60,
+      "Rule": 1,
+      "id": 282,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 60,
+      "Rule": 2,
+      "id": 283,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 60,
+      "Rule": 3,
+      "id": 284,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 60,
+      "Rule": 4,
+      "id": 285,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 60,
+      "Rule": 5,
+      "id": 286,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 61,
+      "Rule": 1,
+      "id": 287,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 61,
+      "Rule": 2,
+      "id": 288,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 61,
+      "Rule": 3,
+      "id": 289,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 61,
+      "Rule": 4,
+      "id": 290,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 61,
+      "Rule": 5,
+      "id": 291,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 61,
+      "Rule": 6,
+      "id": 292,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 1,
+      "id": 293,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 2,
+      "id": 294,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 3,
+      "id": 295,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 4,
+      "id": 296,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 5,
+      "id": 297,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 6,
+      "id": 298,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 7,
+      "id": 299,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 8,
+      "id": 300,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 9,
+      "id": 301,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 62,
+      "Rule": 10,
+      "id": 302,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 1,
+      "id": 303,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 2,
+      "id": 304,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 3,
+      "id": 305,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 4,
+      "id": 306,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 5,
+      "id": 307,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 6,
+      "id": 308,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 7,
+      "id": 309,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 8,
+      "id": 310,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 9,
+      "id": 311,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 10,
+      "id": 312,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 11,
+      "id": 313,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 12,
+      "id": 314,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 13,
+      "id": 315,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 14,
+      "id": 316,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 15,
+      "id": 317,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 16,
+      "id": 318,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 17,
+      "id": 319,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 18,
+      "id": 320,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 19,
+      "id": 321,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 20,
+      "id": 322,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 21,
+      "id": 323,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 22,
+      "id": 324,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 23,
+      "id": 325,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 24,
+      "id": 326,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 25,
+      "id": 327,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 26,
+      "id": 328,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 27,
+      "id": 329,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 28,
+      "id": 330,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 29,
+      "id": 331,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 30,
+      "id": 332,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 31,
+      "id": 333,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 63,
+      "Rule": 32,
+      "id": 334,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 1,
+      "id": 335,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 2,
+      "id": 336,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 3,
+      "id": 337,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 4,
+      "id": 338,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 5,
+      "id": 339,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 6,
+      "id": 340,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 7,
+      "id": 341,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 8,
+      "id": 342,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 9,
+      "id": 343,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 10,
+      "id": 344,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 11,
+      "id": 345,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 12,
+      "id": 346,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 13,
+      "id": 347,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 14,
+      "id": 348,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 15,
+      "id": 349,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 16,
+      "id": 350,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 17,
+      "id": 351,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 18,
+      "id": 352,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 19,
+      "id": 353,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 20,
+      "id": 354,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 21,
+      "id": 355,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 22,
+      "id": 356,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 23,
+      "id": 357,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 24,
+      "id": 358,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 25,
+      "id": 359,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 26,
+      "id": 360,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 27,
+      "id": 361,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 28,
+      "id": 362,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 29,
+      "id": 363,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 30,
+      "id": 364,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 31,
+      "id": 365,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 64,
+      "Rule": 32,
+      "id": 366,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 65,
+      "Rule": 1,
+      "id": 367,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 65,
+      "Rule": 2,
+      "id": 368,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 65,
+      "Rule": 3,
+      "id": 369,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 65,
+      "Rule": 4,
+      "id": 370,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 65,
+      "Rule": 5,
+      "id": 371,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 66,
+      "Rule": 1,
+      "id": 372,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 66,
+      "Rule": 2,
+      "id": 373,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 66,
+      "Rule": 3,
+      "id": 374,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 66,
+      "Rule": 4,
+      "id": 375,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 67,
+      "Rule": 1,
+      "id": 376,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 67,
+      "Rule": 2,
+      "id": 377,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 67,
+      "Rule": 3,
+      "id": 378,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 67,
+      "Rule": 4,
+      "id": 379,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 68,
+      "Rule": 1,
+      "id": 380,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 68,
+      "Rule": 2,
+      "id": 381,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 68,
+      "Rule": 3,
+      "id": 382,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 68,
+      "Rule": 4,
+      "id": 383,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 69,
+      "Rule": 1,
+      "id": 384,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 69,
+      "Rule": 2,
+      "id": 385,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 69,
+      "Rule": 3,
+      "id": 386,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 70,
+      "Rule": 1,
+      "id": 387,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 70,
+      "Rule": 2,
+      "id": 388,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 70,
+      "Rule": 3,
+      "id": 389,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 70,
+      "Rule": 4,
+      "id": 390,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 70,
+      "Rule": 5,
+      "id": 391,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 71,
+      "Rule": 1,
+      "id": 392,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 71,
+      "Rule": 2,
+      "id": 393,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 71,
+      "Rule": 3,
+      "id": 394,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 72,
+      "Rule": 1,
+      "id": 395,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 72,
+      "Rule": 2,
+      "id": 396,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 72,
+      "Rule": 3,
+      "id": 397,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 72,
+      "Rule": 4,
+      "id": 398,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 73,
+      "Rule": 1,
+      "id": 399,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 73,
+      "Rule": 2,
+      "id": 400,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 73,
+      "Rule": 3,
+      "id": 401,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 73,
+      "Rule": 4,
+      "id": 402,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 74,
+      "Rule": 1,
+      "id": 403,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 75,
+      "Rule": 1,
+      "id": 404,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 76,
+      "Rule": 1,
+      "id": 405,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 76,
+      "Rule": 2,
+      "id": 406,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 76,
+      "Rule": 3,
+      "id": 407,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 76,
+      "Rule": 4,
+      "id": 408,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 76,
+      "Rule": 5,
+      "id": 409,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 77,
+      "Rule": 1,
+      "id": 410,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 77,
+      "Rule": 2,
+      "id": 411,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 77,
+      "Rule": 3,
+      "id": 412,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 78,
+      "Rule": 1,
+      "id": 413,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 79,
+      "Rule": 1,
+      "id": 414,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 79,
+      "Rule": 2,
+      "id": 415,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 79,
+      "Rule": 3,
+      "id": 416,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 80,
+      "Rule": 1,
+      "id": 417,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 1,
+      "id": 418,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 2,
+      "id": 419,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 3,
+      "id": 420,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 4,
+      "id": 421,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 5,
+      "id": 422,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 6,
+      "id": 423,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 7,
+      "id": 424,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 8,
+      "id": 425,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 9,
+      "id": 426,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 10,
+      "id": 427,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 11,
+      "id": 428,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 12,
+      "id": 429,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 13,
+      "id": 430,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 81,
+      "Rule": 14,
+      "id": 431,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 82,
+      "Rule": 1,
+      "id": 432,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 82,
+      "Rule": 2,
+      "id": 433,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 82,
+      "Rule": 3,
+      "id": 434,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 82,
+      "Rule": 4,
+      "id": 435,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 1,
+      "id": 436,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 2,
+      "id": 437,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 3,
+      "id": 438,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 4,
+      "id": 439,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 5,
+      "id": 440,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 6,
+      "id": 441,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 7,
+      "id": 442,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 8,
+      "id": 443,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 9,
+      "id": 444,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 10,
+      "id": 445,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 11,
+      "id": 446,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 12,
+      "id": 447,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 13,
+      "id": 448,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 14,
+      "id": 449,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 15,
+      "id": 450,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 16,
+      "id": 451,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 17,
+      "id": 452,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 18,
+      "id": 453,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 19,
+      "id": 454,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 20,
+      "id": 455,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 21,
+      "id": 456,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 22,
+      "id": 457,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 23,
+      "id": 458,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 24,
+      "id": 459,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 25,
+      "id": 460,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 26,
+      "id": 461,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 83,
+      "Rule": 27,
+      "id": 462,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 84,
+      "Rule": 1,
+      "id": 463,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 85,
+      "Rule": 1,
+      "id": 464,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 1,
+      "id": 465,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 2,
+      "id": 466,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 3,
+      "id": 467,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 4,
+      "id": 468,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 5,
+      "id": 469,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 6,
+      "id": 470,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 7,
+      "id": 471,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 8,
+      "id": 472,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 9,
+      "id": 473,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 10,
+      "id": 474,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 11,
+      "id": 475,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 12,
+      "id": 476,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 13,
+      "id": 477,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 14,
+      "id": 478,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 15,
+      "id": 479,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 16,
+      "id": 480,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 17,
+      "id": 481,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 18,
+      "id": 482,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 19,
+      "id": 483,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 20,
+      "id": 484,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 21,
+      "id": 485,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 22,
+      "id": 486,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 23,
+      "id": 487,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 24,
+      "id": 488,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 25,
+      "id": 489,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 26,
+      "id": 490,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 27,
+      "id": 491,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 28,
+      "id": 492,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 29,
+      "id": 493,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 30,
+      "id": 494,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 31,
+      "id": 495,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 86,
+      "Rule": 32,
+      "id": 496,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 87,
+      "Rule": 1,
+      "id": 497,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 87,
+      "Rule": 2,
+      "id": 498,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 87,
+      "Rule": 3,
+      "id": 499,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 88,
+      "Rule": 1,
+      "id": 500,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 88,
+      "Rule": 2,
+      "id": 501,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 88,
+      "Rule": 3,
+      "id": 502,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 89,
+      "Rule": 1,
+      "id": 503,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 89,
+      "Rule": 2,
+      "id": 504,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 89,
+      "Rule": 3,
+      "id": 505,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 90,
+      "Rule": 1,
+      "id": 506,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 90,
+      "Rule": 2,
+      "id": 507,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 90,
+      "Rule": 3,
+      "id": 508,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 90,
+      "Rule": 4,
+      "id": 509,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 91,
+      "Rule": 1,
+      "id": 510,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 91,
+      "Rule": 2,
+      "id": 511,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 92,
+      "Rule": 1,
+      "id": 512,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 92,
+      "Rule": 2,
+      "id": 513,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 92,
+      "Rule": 3,
+      "id": 514,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 92,
+      "Rule": 4,
+      "id": 515,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 92,
+      "Rule": 5,
+      "id": 516,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 93,
+      "Rule": 1,
+      "id": 517,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 93,
+      "Rule": 2,
+      "id": 518,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 93,
+      "Rule": 3,
+      "id": 519,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 94,
+      "Rule": 1,
+      "id": 520,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 94,
+      "Rule": 2,
+      "id": 521,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 95,
+      "Rule": 1,
+      "id": 522,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 95,
+      "Rule": 2,
+      "id": 523,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 95,
+      "Rule": 3,
+      "id": 524,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 95,
+      "Rule": 4,
+      "id": 525,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 95,
+      "Rule": 5,
+      "id": 526,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 96,
+      "Rule": 1,
+      "id": 527,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 96,
+      "Rule": 2,
+      "id": 528,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 96,
+      "Rule": 3,
+      "id": 529,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 96,
+      "Rule": 4,
+      "id": 530,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 1,
+      "id": 531,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 2,
+      "id": 532,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 3,
+      "id": 533,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 4,
+      "id": 534,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 5,
+      "id": 535,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 6,
+      "id": 536,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 7,
+      "id": 537,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 8,
+      "id": 538,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 9,
+      "id": 539,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 97,
+      "Rule": 10,
+      "id": 540,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 98,
+      "Rule": 1,
+      "id": 541,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 98,
+      "Rule": 2,
+      "id": 542,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 98,
+      "Rule": 3,
+      "id": 543,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 98,
+      "Rule": 4,
+      "id": 544,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 98,
+      "Rule": 5,
+      "id": 545,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 99,
+      "Rule": 1,
+      "id": 546,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 99,
+      "Rule": 2,
+      "id": 547,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 99,
+      "Rule": 3,
+      "id": 548,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 99,
+      "Rule": 4,
+      "id": 549,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 99,
+      "Rule": 5,
+      "id": 550,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 100,
+      "Rule": 1,
+      "id": 551,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 100,
+      "Rule": 2,
+      "id": 552,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 100,
+      "Rule": 3,
+      "id": 553,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 100,
+      "Rule": 4,
+      "id": 554,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 101,
+      "Rule": 1,
+      "id": 555,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 101,
+      "Rule": 2,
+      "id": 556,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 101,
+      "Rule": 3,
+      "id": 557,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 101,
+      "Rule": 4,
+      "id": 558,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 102,
+      "Rule": 1,
+      "id": 559,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 102,
+      "Rule": 2,
+      "id": 560,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 102,
+      "Rule": 3,
+      "id": 561,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 102,
+      "Rule": 4,
+      "id": 562,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 1,
+      "id": 563,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 2,
+      "id": 564,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 3,
+      "id": 565,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 4,
+      "id": 566,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 5,
+      "id": 567,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 6,
+      "id": 568,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 7,
+      "id": 569,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 8,
+      "id": 570,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 9,
+      "id": 571,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 10,
+      "id": 572,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 11,
+      "id": 573,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 12,
+      "id": 574,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 13,
+      "id": 575,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 14,
+      "id": 576,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 15,
+      "id": 577,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 16,
+      "id": 578,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 17,
+      "id": 579,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 18,
+      "id": 580,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 19,
+      "id": 581,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 20,
+      "id": 582,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 21,
+      "id": 583,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 22,
+      "id": 584,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 23,
+      "id": 585,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 24,
+      "id": 586,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 25,
+      "id": 587,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 26,
+      "id": 588,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 27,
+      "id": 589,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 28,
+      "id": 590,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 29,
+      "id": 591,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 30,
+      "id": 592,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 31,
+      "id": 593,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 103,
+      "Rule": 32,
+      "id": 594,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 1,
+      "id": 595,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 2,
+      "id": 596,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 3,
+      "id": 597,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 4,
+      "id": 598,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 5,
+      "id": 599,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 6,
+      "id": 600,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 7,
+      "id": 601,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 8,
+      "id": 602,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 9,
+      "id": 603,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 10,
+      "id": 604,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 11,
+      "id": 605,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 12,
+      "id": 606,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 13,
+      "id": 607,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 14,
+      "id": 608,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 15,
+      "id": 609,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 16,
+      "id": 610,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 17,
+      "id": 611,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 18,
+      "id": 612,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 19,
+      "id": 613,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 20,
+      "id": 614,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 21,
+      "id": 615,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 22,
+      "id": 616,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 23,
+      "id": 617,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 24,
+      "id": 618,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 25,
+      "id": 619,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 26,
+      "id": 620,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 27,
+      "id": 621,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 28,
+      "id": 622,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 29,
+      "id": 623,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 30,
+      "id": 624,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 31,
+      "id": 625,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 104,
+      "Rule": 32,
+      "id": 626,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 1,
+      "id": 627,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 2,
+      "id": 628,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 3,
+      "id": 629,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 4,
+      "id": 630,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 5,
+      "id": 631,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 6,
+      "id": 632,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 7,
+      "id": 633,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 8,
+      "id": 634,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 105,
+      "Rule": 9,
+      "id": 635,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 107,
+      "Rule": 1,
+      "id": 636,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 108,
+      "Rule": 1,
+      "id": 637,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 108,
+      "Rule": 2,
+      "id": 638,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 109,
+      "Rule": 1,
+      "id": 639,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 109,
+      "Rule": 2,
+      "id": 640,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 109,
+      "Rule": 3,
+      "id": 641,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 109,
+      "Rule": 4,
+      "id": 642,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 1,
+      "id": 643,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 2,
+      "id": 644,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 3,
+      "id": 645,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 4,
+      "id": 646,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 5,
+      "id": 647,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 6,
+      "id": 648,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 7,
+      "id": 649,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 8,
+      "id": 650,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 9,
+      "id": 651,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 10,
+      "id": 652,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 11,
+      "id": 653,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 12,
+      "id": 654,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 13,
+      "id": 655,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 14,
+      "id": 656,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 15,
+      "id": 657,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 110,
+      "Rule": 16,
+      "id": 658,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 112,
+      "Rule": 1,
+      "id": 659,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 113,
+      "Rule": 1,
+      "id": 660,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 114,
+      "Rule": 1,
+      "id": 661,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 115,
+      "Rule": 1,
+      "id": 662,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 116,
+      "Rule": 1,
+      "id": 663,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 116,
+      "Rule": 2,
+      "id": 664,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 116,
+      "Rule": 3,
+      "id": 665,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 116,
+      "Rule": 4,
+      "id": 666,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 116,
+      "Rule": 5,
+      "id": 667,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 117,
+      "Rule": 1,
+      "id": 668,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 117,
+      "Rule": 2,
+      "id": 669,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 117,
+      "Rule": 3,
+      "id": 670,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 117,
+      "Rule": 4,
+      "id": 671,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 117,
+      "Rule": 5,
+      "id": 672,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 118,
+      "Rule": 1,
+      "id": 673,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 118,
+      "Rule": 2,
+      "id": 674,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 118,
+      "Rule": 3,
+      "id": 675,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 118,
+      "Rule": 4,
+      "id": 676,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 118,
+      "Rule": 5,
+      "id": 677,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 118,
+      "Rule": 6,
+      "id": 678,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 118,
+      "Rule": 7,
+      "id": 679,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 118,
+      "Rule": 8,
+      "id": 680,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 119,
+      "Rule": 1,
+      "id": 681,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 119,
+      "Rule": 2,
+      "id": 682,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 119,
+      "Rule": 3,
+      "id": 683,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 121,
+      "Rule": 1,
+      "id": 684,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 121,
+      "Rule": 2,
+      "id": 685,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 121,
+      "Rule": 3,
+      "id": 686,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 1,
+      "id": 687,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 2,
+      "id": 688,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 3,
+      "id": 689,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 4,
+      "id": 690,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 5,
+      "id": 691,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 6,
+      "id": 692,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 7,
+      "id": 693,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 8,
+      "id": 694,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 9,
+      "id": 695,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 10,
+      "id": 696,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 11,
+      "id": 697,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 12,
+      "id": 698,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 13,
+      "id": 699,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 14,
+      "id": 700,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 15,
+      "id": 701,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 16,
+      "id": 702,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 17,
+      "id": 703,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 18,
+      "id": 704,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 19,
+      "id": 705,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 20,
+      "id": 706,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 21,
+      "id": 707,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 22,
+      "id": 708,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 23,
+      "id": 709,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 24,
+      "id": 710,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 25,
+      "id": 711,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 26,
+      "id": 712,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 27,
+      "id": 713,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 28,
+      "id": 714,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 29,
+      "id": 715,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 30,
+      "id": 716,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 31,
+      "id": 717,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 122,
+      "Rule": 32,
+      "id": 718,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 123,
+      "Rule": 1,
+      "id": 719,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 1,
+      "id": 720,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 2,
+      "id": 721,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 3,
+      "id": 722,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 4,
+      "id": 723,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 5,
+      "id": 724,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 6,
+      "id": 725,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 7,
+      "id": 726,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 8,
+      "id": 727,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 9,
+      "id": 728,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 10,
+      "id": 729,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 11,
+      "id": 730,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 124,
+      "Rule": 12,
+      "id": 731,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 125,
+      "Rule": 1,
+      "id": 732,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 125,
+      "Rule": 2,
+      "id": 733,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 125,
+      "Rule": 3,
+      "id": 734,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 125,
+      "Rule": 4,
+      "id": 735,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 125,
+      "Rule": 5,
+      "id": 736,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 1,
+      "id": 737,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 2,
+      "id": 738,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 3,
+      "id": 739,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 4,
+      "id": 740,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 5,
+      "id": 741,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 6,
+      "id": 742,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 7,
+      "id": 743,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 8,
+      "id": 744,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 9,
+      "id": 745,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 10,
+      "id": 746,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 11,
+      "id": 747,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 12,
+      "id": 748,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 13,
+      "id": 749,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 14,
+      "id": 750,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 15,
+      "id": 751,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 16,
+      "id": 752,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 17,
+      "id": 753,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 18,
+      "id": 754,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 19,
+      "id": 755,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 20,
+      "id": 756,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 21,
+      "id": 757,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 22,
+      "id": 758,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 23,
+      "id": 759,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 24,
+      "id": 760,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 25,
+      "id": 761,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 26,
+      "id": 762,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 27,
+      "id": 763,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 28,
+      "id": 764,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 29,
+      "id": 765,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 30,
+      "id": 766,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 31,
+      "id": 767,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 126,
+      "Rule": 32,
+      "id": 768,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 127,
+      "Rule": 1,
+      "id": 769,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 128,
+      "Rule": 1,
+      "id": 770,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 128,
+      "Rule": 2,
+      "id": 771,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 128,
+      "Rule": 3,
+      "id": 772,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 128,
+      "Rule": 4,
+      "id": 773,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 1,
+      "id": 774,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 2,
+      "id": 775,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 3,
+      "id": 776,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 4,
+      "id": 777,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 5,
+      "id": 778,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 6,
+      "id": 779,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 7,
+      "id": 780,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 8,
+      "id": 781,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 9,
+      "id": 782,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 10,
+      "id": 783,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 11,
+      "id": 784,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 12,
+      "id": 785,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 13,
+      "id": 786,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 14,
+      "id": 787,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 15,
+      "id": 788,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 16,
+      "id": 789,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 17,
+      "id": 790,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 18,
+      "id": 791,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 19,
+      "id": 792,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 20,
+      "id": 793,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 21,
+      "id": 794,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 22,
+      "id": 795,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 23,
+      "id": 796,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 24,
+      "id": 797,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 25,
+      "id": 798,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 26,
+      "id": 799,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 27,
+      "id": 800,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 28,
+      "id": 801,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 29,
+      "id": 802,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 30,
+      "id": 803,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 31,
+      "id": 804,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 129,
+      "Rule": 32,
+      "id": 805,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 130,
+      "Rule": 1,
+      "id": 806,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 130,
+      "Rule": 2,
+      "id": 807,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 1,
+      "id": 808,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 2,
+      "id": 809,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 3,
+      "id": 810,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 4,
+      "id": 811,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 5,
+      "id": 812,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 6,
+      "id": 813,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 7,
+      "id": 814,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 8,
+      "id": 815,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 9,
+      "id": 816,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 10,
+      "id": 817,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 11,
+      "id": 818,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 12,
+      "id": 819,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 13,
+      "id": 820,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 14,
+      "id": 821,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 15,
+      "id": 822,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 16,
+      "id": 823,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 17,
+      "id": 824,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 18,
+      "id": 825,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 19,
+      "id": 826,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 20,
+      "id": 827,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 21,
+      "id": 828,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 22,
+      "id": 829,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 23,
+      "id": 830,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 24,
+      "id": 831,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 25,
+      "id": 832,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 26,
+      "id": 833,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 27,
+      "id": 834,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 28,
+      "id": 835,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 29,
+      "id": 836,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 30,
+      "id": 837,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 31,
+      "id": 838,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 131,
+      "Rule": 32,
+      "id": 839,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 132,
+      "Rule": 1,
+      "id": 840,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 132,
+      "Rule": 2,
+      "id": 841,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 132,
+      "Rule": 3,
+      "id": 842,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 132,
+      "Rule": 4,
+      "id": 843,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 133,
+      "Rule": 1,
+      "id": 844,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 133,
+      "Rule": 2,
+      "id": 845,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 133,
+      "Rule": 3,
+      "id": 846,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 134,
+      "Rule": 1,
+      "id": 847,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 134,
+      "Rule": 2,
+      "id": 848,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 134,
+      "Rule": 3,
+      "id": 849,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 134,
+      "Rule": 4,
+      "id": 850,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 1,
+      "id": 851,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 2,
+      "id": 852,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 3,
+      "id": 853,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 4,
+      "id": 854,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 5,
+      "id": 855,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 6,
+      "id": 856,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 7,
+      "id": 857,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 8,
+      "id": 858,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 9,
+      "id": 859,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 10,
+      "id": 860,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 11,
+      "id": 861,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 12,
+      "id": 862,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 136,
+      "Rule": 1,
+      "id": 863,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 136,
+      "Rule": 2,
+      "id": 864,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 136,
+      "Rule": 3,
+      "id": 865,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 137,
+      "Rule": 1,
+      "id": 866,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 137,
+      "Rule": 2,
+      "id": 867,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 137,
+      "Rule": 3,
+      "id": 868,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 138,
+      "Rule": 1,
+      "id": 869,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 139,
+      "Rule": 1,
+      "id": 870,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 140,
+      "Rule": 1,
+      "id": 871,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 141,
+      "Rule": 1,
+      "id": 872,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 1,
+      "id": 873,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 2,
+      "id": 874,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 13,
+      "id": 875,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 136,
+      "Rule": 14,
+      "id": 876,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 14,
+      "id": 877,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 15,
+      "id": 878,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 143,
+      "Rule": 1,
+      "id": 879,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 16,
+      "id": 880,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 17,
+      "id": 881,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 18,
+      "id": 882,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 19,
+      "id": 883,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 20,
+      "id": 884,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 21,
+      "id": 885,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 3,
+      "id": 886,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 143,
+      "Rule": 1,
+      "id": 887,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 144,
+      "Rule": 1,
+      "id": 888,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 144,
+      "Rule": 2,
+      "id": 889,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 144,
+      "Rule": 3,
+      "id": 890,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 144,
+      "Rule": 4,
+      "id": 891,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 22,
+      "id": 892,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 23,
+      "id": 893,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 24,
+      "id": 894,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 25,
+      "id": 895,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 4,
+      "id": 896,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 5,
+      "id": 897,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 1,
+      "id": 898,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 26,
+      "id": 899,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 27,
+      "id": 900,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 28,
+      "id": 901,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 29,
+      "id": 902,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 2,
+      "id": 903,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 3,
+      "id": 904,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 6,
+      "id": 905,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 4,
+      "id": 906,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 7,
+      "id": 907,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 5,
+      "id": 908,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 6,
+      "id": 909,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 7,
+      "id": 910,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 8,
+      "id": 911,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 146,
+      "Rule": 1,
+      "id": 912,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 146,
+      "Rule": 2,
+      "id": 913,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 146,
+      "Rule": 3,
+      "id": 914,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 146,
+      "Rule": 4,
+      "id": 915,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 146,
+      "Rule": 5,
+      "id": 916,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 147,
+      "Rule": 1,
+      "id": 917,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 147,
+      "Rule": 2,
+      "id": 918,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 147,
+      "Rule": 3,
+      "id": 919,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 147,
+      "Rule": 4,
+      "id": 920,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 147,
+      "Rule": 5,
+      "id": 921,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 148,
+      "Rule": 1,
+      "id": 922,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 148,
+      "Rule": 2,
+      "id": 923,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 148,
+      "Rule": 3,
+      "id": 924,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 148,
+      "Rule": 4,
+      "id": 925,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 148,
+      "Rule": 5,
+      "id": 926,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 9,
+      "id": 927,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 10,
+      "id": 928,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 11,
+      "id": 929,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 30,
+      "id": 930,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 12,
+      "id": 931,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 13,
+      "id": 932,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 8,
+      "id": 934,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 14,
+      "id": 935,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 15,
+      "id": 936,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 31,
+      "id": 937,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 16,
+      "id": 938,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 17,
+      "id": 939,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 135,
+      "Rule": 32,
+      "id": 940,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 142,
+      "Rule": 9,
+      "id": 941,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 1,
+      "id": 942,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 150,
+      "Rule": 1,
+      "id": 943,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 150,
+      "Rule": 2,
+      "id": 944,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 150,
+      "Rule": 3,
+      "id": 945,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 150,
+      "Rule": 4,
+      "id": 946,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 150,
+      "Rule": 5,
+      "id": 947,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 18,
+      "id": 948,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 19,
+      "id": 949,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 20,
+      "id": 950,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 2,
+      "id": 951,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 3,
+      "id": 952,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 21,
+      "id": 953,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 22,
+      "id": 954,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 23,
+      "id": 955,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 24,
+      "id": 956,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 4,
+      "id": 957,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 25,
+      "id": 958,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 26,
+      "id": 959,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 5,
+      "id": 960,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 6,
+      "id": 961,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 27,
+      "id": 962,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 28,
+      "id": 963,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 7,
+      "id": 964,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 29,
+      "id": 965,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 30,
+      "id": 966,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 8,
+      "id": 967,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 9,
+      "id": 968,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 31,
+      "id": 969,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 10,
+      "id": 970,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 145,
+      "Rule": 32,
+      "id": 971,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 11,
+      "id": 972,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 12,
+      "id": 973,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 13,
+      "id": 974,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 1,
+      "id": 975,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 14,
+      "id": 976,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 2,
+      "id": 977,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 15,
+      "id": 978,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 3,
+      "id": 979,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 4,
+      "id": 980,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 16,
+      "id": 981,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 17,
+      "id": 982,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 18,
+      "id": 983,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 19,
+      "id": 984,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 5,
+      "id": 985,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 20,
+      "id": 986,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 6,
+      "id": 987,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 72,
+      "Rule": 5,
+      "id": 988,
+      "rewardcnt": "5000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 154,
+      "Rule": 1,
+      "id": 989,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 21,
+      "id": 990,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 155,
+      "Rule": 1,
+      "id": 991,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 155,
+      "Rule": 2,
+      "id": 992,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 155,
+      "Rule": 3,
+      "id": 993,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 155,
+      "Rule": 4,
+      "id": 994,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 155,
+      "Rule": 5,
+      "id": 995,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 156,
+      "Rule": 1,
+      "id": 996,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 156,
+      "Rule": 2,
+      "id": 997,
+      "rewardcnt": "5000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 156,
+      "Rule": 3,
+      "id": 998,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 156,
+      "Rule": 4,
+      "id": 999,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 156,
+      "Rule": 5,
+      "id": 1000,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 157,
+      "Rule": 1,
+      "id": 1001,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 157,
+      "Rule": 2,
+      "id": 1002,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 157,
+      "Rule": 3,
+      "id": 1003,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 7,
+      "id": 1004,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 21,
+      "id": 1005,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 8,
+      "id": 1006,
+      "rewardcnt": "5000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 22,
+      "id": 1007,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 9,
+      "id": 1008,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 23,
+      "id": 1009,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 10,
+      "id": 1010,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 24,
+      "id": 1011,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 11,
+      "id": 1012,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 154,
+      "Rule": 2,
+      "id": 1013,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 154,
+      "Rule": 3,
+      "id": 1014,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 158,
+      "Rule": 1,
+      "id": 1015,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 159,
+      "Rule": 1,
+      "id": 1016,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 1,
+      "id": 1017,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 1,
+      "id": 1018,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 154,
+      "Rule": 4,
+      "id": 1019,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 12,
+      "id": 1020,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 25,
+      "id": 1021,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 26,
+      "id": 1022,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 153,
+      "Rule": 13,
+      "id": 1023,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 27,
+      "id": 1024,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 2,
+      "id": 1025,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 3,
+      "id": 1026,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 58,
+      "Rule": 9,
+      "id": 1027,
+      "rewardcnt": "100000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 28,
+      "id": 1028,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 4,
+      "id": 1029,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 29,
+      "id": 1030,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 162,
+      "Rule": 1,
+      "id": 1031,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 162,
+      "Rule": 2,
+      "id": 1032,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 162,
+      "Rule": 3,
+      "id": 1033,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 163,
+      "Rule": 1,
+      "id": 1034,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 163,
+      "Rule": 2,
+      "id": 1035,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 163,
+      "Rule": 3,
+      "id": 1036,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 163,
+      "Rule": 4,
+      "id": 1037,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 164,
+      "Rule": 1,
+      "id": 1038,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 164,
+      "Rule": 2,
+      "id": 1039,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 164,
+      "Rule": 3,
+      "id": 1040,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 164,
+      "Rule": 4,
+      "id": 1041,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 1,
+      "id": 1042,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 2,
+      "id": 1043,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 3,
+      "id": 1044,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 4,
+      "id": 1045,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 5,
+      "id": 1046,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 30,
+      "id": 1047,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 31,
+      "id": 1048,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 152,
+      "Rule": 32,
+      "id": 1049,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 1,
+      "id": 1050,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 6,
+      "id": 1051,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 7,
+      "id": 1052,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 8,
+      "id": 1053,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 9,
+      "id": 1054,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 2,
+      "id": 1055,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 3,
+      "id": 1056,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 10,
+      "id": 1057,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 5,
+      "id": 1058,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 6,
+      "id": 1059,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 7,
+      "id": 1060,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 8,
+      "id": 1061,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 11,
+      "id": 1062,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 12,
+      "id": 1063,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 4,
+      "id": 1064,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 13,
+      "id": 1065,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 2,
+      "id": 1066,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 3,
+      "id": 1067,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 4,
+      "id": 1068,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 14,
+      "id": 1069,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 15,
+      "id": 1070,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 16,
+      "id": 1071,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 5,
+      "id": 1072,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 17,
+      "id": 1073,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 6,
+      "id": 1074,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 9,
+      "id": 1075,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 10,
+      "id": 1076,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 11,
+      "id": 1077,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 12,
+      "id": 1078,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 18,
+      "id": 1079,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 7,
+      "id": 1080,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 19,
+      "id": 1081,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 20,
+      "id": 1082,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 21,
+      "id": 1083,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 8,
+      "id": 1084,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 167,
+      "Rule": 1,
+      "id": 1085,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 22,
+      "id": 1086,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 23,
+      "id": 1087,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 13,
+      "id": 1088,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 14,
+      "id": 1089,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 15,
+      "id": 1090,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 16,
+      "id": 1091,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 24,
+      "id": 1092,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 5,
+      "id": 1093,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 6,
+      "id": 1094,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 25,
+      "id": 1095,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 7,
+      "id": 1096,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 168,
+      "Rule": 1,
+      "id": 1097,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 8,
+      "id": 1098,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 26,
+      "id": 1099,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 9,
+      "id": 1100,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 9,
+      "id": 1101,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 27,
+      "id": 1102,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 17,
+      "id": 1103,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 18,
+      "id": 1104,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 19,
+      "id": 1105,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 20,
+      "id": 1106,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 10,
+      "id": 1107,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 11,
+      "id": 1108,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 12,
+      "id": 1109,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 13,
+      "id": 1110,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 10,
+      "id": 1111,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 28,
+      "id": 1112,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 11,
+      "id": 1113,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 12,
+      "id": 1114,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 29,
+      "id": 1115,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 13,
+      "id": 1116,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 21,
+      "id": 1117,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 22,
+      "id": 1118,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 23,
+      "id": 1119,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 24,
+      "id": 1120,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 14,
+      "id": 1121,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 169,
+      "Rule": 1,
+      "id": 1122,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 14,
+      "id": 1123,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 30,
+      "id": 1124,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 1,
+      "id": 1125,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 2,
+      "id": 1126,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 3,
+      "id": 1127,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 4,
+      "id": 1128,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 5,
+      "id": 1129,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 6,
+      "id": 1130,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 7,
+      "id": 1131,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 8,
+      "id": 1132,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 170,
+      "Rule": 9,
+      "id": 1133,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 15,
+      "id": 1134,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 16,
+      "id": 1135,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 17,
+      "id": 1137,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 18,
+      "id": 1138,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 19,
+      "id": 1139,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 20,
+      "id": 1140,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 21,
+      "id": 1141,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 15,
+      "id": 1142,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 16,
+      "id": 1143,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 25,
+      "id": 1144,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 26,
+      "id": 1145,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 27,
+      "id": 1146,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 28,
+      "id": 1147,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 22,
+      "id": 1148,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 17,
+      "id": 1149,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 31,
+      "id": 1150,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 169,
+      "Rule": 2,
+      "id": 1151,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 18,
+      "id": 1152,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 1,
+      "id": 1153,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 2,
+      "id": 1154,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 3,
+      "id": 1155,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 4,
+      "id": 1156,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 5,
+      "id": 1157,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 6,
+      "id": 1158,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 7,
+      "id": 1159,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 8,
+      "id": 1160,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 9,
+      "id": 1161,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 10,
+      "id": 1162,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 19,
+      "id": 1163,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 160,
+      "Rule": 32,
+      "id": 1164,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 20,
+      "id": 1165,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 11,
+      "id": 1166,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 29,
+      "id": 1167,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 30,
+      "id": 1168,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 31,
+      "id": 1169,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 165,
+      "Rule": 32,
+      "id": 1170,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 1,
+      "id": 1171,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 21,
+      "id": 1172,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 2,
+      "id": 1173,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 173,
+      "Rule": 1,
+      "id": 1174,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 173,
+      "Rule": 2,
+      "id": 1175,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 173,
+      "Rule": 3,
+      "id": 1176,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 173,
+      "Rule": 4,
+      "id": 1177,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 23,
+      "id": 1178,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 24,
+      "id": 1179,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 72,
+      "Rule": 6,
+      "id": 1180,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 25,
+      "id": 1181,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 26,
+      "id": 1182,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 22,
+      "id": 1183,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 3,
+      "id": 1184,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 27,
+      "id": 1185,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 12,
+      "id": 1186,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 28,
+      "id": 1187,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 174,
+      "Rule": 1,
+      "id": 1188,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 174,
+      "Rule": 2,
+      "id": 1189,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 174,
+      "Rule": 3,
+      "id": 1190,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 174,
+      "Rule": 4,
+      "id": 1191,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 4,
+      "id": 1192,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 5,
+      "id": 1193,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 23,
+      "id": 1194,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 13,
+      "id": 1195,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 6,
+      "id": 1196,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 29,
+      "id": 1197,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 30,
+      "id": 1198,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 31,
+      "id": 1199,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 7,
+      "id": 1200,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 166,
+      "Rule": 32,
+      "id": 1201,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 171,
+      "Rule": 14,
+      "id": 1202,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 8,
+      "id": 1203,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 175,
+      "Rule": 1,
+      "id": 1204,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 24,
+      "id": 1205,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 176,
+      "Rule": 1,
+      "id": 1206,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 176,
+      "Rule": 2,
+      "id": 1207,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 9,
+      "id": 1208,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 176,
+      "Rule": 3,
+      "id": 1209,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 10,
+      "id": 1210,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 174,
+      "Rule": 5,
+      "id": 1211,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 174,
+      "Rule": 6,
+      "id": 1212,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 174,
+      "Rule": 7,
+      "id": 1213,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 174,
+      "Rule": 8,
+      "id": 1214,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 176,
+      "Rule": 4,
+      "id": 1216,
+      "rewardcnt": "10000",
+      "rewardid": "1400352",
+      "rewardtype": 1
+    },
+    {
+      "Branch": 161,
+      "Rule": 25,
+      "id": 1215,
+      "rewardcnt": "10000",
+      "rewardid": "3",
+      "rewardtype": 1
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "bonuscard": 20021,
+      "cardmax": 4,
+      "id": 1,
+      "level": 1,
+      "lvlup_cost": 8,
+      "rate1": 100,
+      "rate2": 0,
+      "rate3": 0,
+      "rate4": 0,
+      "rate5": 0,
+      "rate6": 0
+    },
+    {
+      "bonuscard": 20022,
+      "cardmax": 5,
+      "id": 2,
+      "level": 2,
+      "lvlup_cost": 10,
+      "rate1": 65,
+      "rate2": 35,
+      "rate3": 0,
+      "rate4": 0,
+      "rate5": 0,
+      "rate6": 0
+    },
+    {
+      "bonuscard": 20023,
+      "cardmax": 5,
+      "id": 3,
+      "level": 3,
+      "lvlup_cost": 11,
+      "rate1": 50,
+      "rate2": 30,
+      "rate3": 20,
+      "rate4": 0,
+      "rate5": 0,
+      "rate6": 0
+    },
+    {
+      "bonuscard": 20024,
+      "cardmax": 6,
+      "id": 4,
+      "level": 4,
+      "lvlup_cost": 14,
+      "rate1": 15,
+      "rate2": 35,
+      "rate3": 35,
+      "rate4": 15,
+      "rate5": 0,
+      "rate6": 0
+    },
+    {
+      "bonuscard": 20025,
+      "cardmax": 6,
+      "id": 5,
+      "level": 5,
+      "lvlup_cost": 14,
+      "rate1": 12,
+      "rate2": 24,
+      "rate3": 28,
+      "rate4": 24,
+      "rate5": 12,
+      "rate6": 0
+    },
+    {
+      "bonuscard": 20025,
+      "cardmax": 7,
+      "id": 6,
+      "level": 6,
+      "lvlup_cost": 14,
+      "rate1": 8,
+      "rate2": 18,
+      "rate3": 24,
+      "rate4": 24,
+      "rate5": 18,
+      "rate6": 8
+    }
+  ]
+}

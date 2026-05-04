@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "H5jump": [
+        161100
+      ],
+      "NewMsglogId": "2305180119",
+      "describe": "挑战该副本可获得大量经验值、赛尔豆、激励模组、记忆作战模组等奖励",
+      "id": 1,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 3,
+      "time": 1,
+      "time2": "",
+      "title": "经验训练场：累计通关任意xx/xx层",
+      "value": "1"
+    },
+    {
+      "H5jump": [
+        161200
+      ],
+      "NewMsglogId": "2305180120",
+      "describe": "挑战该副本可获得大量学习力、赛尔豆、激励模组、记忆作战模组等奖励",
+      "id": 2,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 4,
+      "time": 1,
+      "time2": "",
+      "title": "学习力训练场：累计通关任意xx/xx层",
+      "value": "1"
+    },
+    {
+      "H5jump": [
+        161300
+      ],
+      "NewMsglogId": "2305180121",
+      "describe": "挑战该副本可获得梦幻宝石、赛尔豆、激励模组、记忆作战模组等奖励",
+      "id": 3,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 5,
+      "time": 1,
+      "time2": "",
+      "title": "勇者之塔：累计通关任意xx/xx层",
+      "value": "15"
+    },
+    {
+      "H5jump": [
+        161500
+      ],
+      "NewMsglogId": "2305180122",
+      "describe": "挑战该副本可获得大量泰坦之灵、泰坦系列全能刻印、刻印宝石等奖励",
+      "id": 4,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 2,
+      "time": 1,
+      "time2": "",
+      "title": "泰坦矿洞：通关xx/xx次任意模式",
+      "value": "1"
+    },
+    {
+      "H5jump": [
+        161400
+      ],
+      "NewMsglogId": "2305180123",
+      "describe": "挑战该副本可获得泰坦神石、轮回神石、红宝石、绿宝石等奖励",
+      "id": 5,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 7,
+      "time": 1,
+      "time2": "",
+      "title": "六界神王殿：通关xx/xx次任意模式",
+      "value": "1"
+    },
+    {
+      "H5jump": [
+        161600
+      ],
+      "NewMsglogId": "2305180124",
+      "describe": "挑战该副本可获得精灵王者、精灵王冠名全能刻印等奖励",
+      "id": 6,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 9,
+      "time": 1,
+      "time2": "",
+      "title": "精灵王的试炼：战胜xx/xx次试炼BOSS",
+      "value": "15"
+    },
+    {
+      "H5jump": [
+        163100
+      ],
+      "NewMsglogId": "2305180125",
+      "describe": "挑战该副本可获得大量功勋点数、通用刻印激活水晶、特性生成晶片等奖励",
+      "id": 7,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 1,
+      "time": 1,
+      "time2": "",
+      "title": "作战实验室：通关xx/xx次任意实验室",
+      "value": "1"
+    },
+    {
+      "H5jump": [
+        140001
+      ],
+      "NewMsglogId": "2305180126",
+      "describe": "挑战该副本可获得星系神兽超进化形态、SPT精灵、SPT成就、能量珠等奖励",
+      "id": 8,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 6,
+      "time": 1,
+      "time2": "",
+      "title": "SPT挑战：通关xx/xx次任意难度SPT",
+      "value": "15"
+    },
+    {
+      "H5jump": [
+        153100
+      ],
+      "NewMsglogId": "2305180127",
+      "describe": "挑战因子关卡可以获得精灵因子，用来合成对应精灵、专属特性、第五技能",
+      "id": 9,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 11,
+      "time": 1,
+      "time2": "",
+      "title": "任意因子关卡：通关xx/xx次",
+      "value": "3"
+    },
+    {
+      "H5addition": [
+        "1",
+        "5,6,7"
+      ],
+      "H5jump": [
+        162100
+      ],
+      "NewMsglogId": "2305180128",
+      "describe": "挑战该副本可获得通用刻印激活水晶、性格转化药剂、体力上限提升药剂等奖励",
+      "id": 10,
+      "init": 1,
+      "num": 1,
+      "rewardinfo": [
+        1,
+        1723167,
+        1,
+        1,
+        1723255,
+        1
+      ],
+      "taskparam": "1_0_0_0",
+      "tasktype": 10,
+      "time": 1,
+      "time2": "",
+      "title": "忍法研习社：累计通关xx/xx次",
+      "value": "5"
+    }
+  ]
+}

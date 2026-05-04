@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "content": "1_1_100",
+      "costID": 1727037,
+      "costNum": 1,
+      "desc": "",
+      "id": 1,
+      "limitNum": 0,
+      "limitType": 0,
+      "type": 1
+    },
+    {
+      "content": "1_1_2600001",
+      "costID": 1727037,
+      "costNum": 100,
+      "desc": "",
+      "id": 2,
+      "limitNum": 0,
+      "limitType": 0,
+      "type": 2
+    }
+  ]
+}
