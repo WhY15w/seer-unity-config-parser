@@ -561,7 +561,7 @@
     {
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0,
-      "effectIcon": "",
+      "effectIcon": "1",
       "id": 10069,
       "object": "卡牌",
       "param": "a",
@@ -579,7 +579,7 @@
     {
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0,
-      "effectIcon": "",
+      "effectIcon": "1",
       "id": 10071,
       "object": "卡牌",
       "param": "a_b_c_d",
@@ -1011,7 +1011,7 @@
     {
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0,
-      "effectIcon": "",
+      "effectIcon": "1",
       "id": 10119,
       "object": "卡牌",
       "param": "a_b_c_d",

@@ -1357,72 +1357,12 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4444,
-            "ImageID": 4444,
+            "ID": 4901,
+            "ImageID": 4901,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
             "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4898,
-            "ImageID": 4898,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4899,
-            "ImageID": 4899,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4900,
-            "ImageID": 4900,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 827,
-            "ImageID": 1400827,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4444,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 828,
-            "ImageID": 1400828,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 3586,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 829,
-            "ImageID": 1400829,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4358,
-            "type": 1
           }
         ]
       }
@@ -18442,7 +18382,7 @@
         "DefName": "斯蒂丽亚",
         "Features": "斯蒂亚超进化形态！通过汲取“风岚”宝石的力量，对风的力量的掌控至臻化境!",
         "ID": 2851,
-        "Target": ""
+        "Target": "150116"
       },
       {
         "DefName": "赤瞳缪斯",
@@ -18472,7 +18412,7 @@
         "DefName": "萨瑞罗斯",
         "Features": "萨瑞卡超进化！所有力量得到了全面的提升，X战队的团战中坚力量!",
         "ID": 2856,
-        "Target": ""
+        "Target": "150117"
       },
       {
         "DefName": "达克斯特",
@@ -18502,7 +18442,7 @@
         "DefName": "托鲁克尔",
         "Features": "托鲁克超进化！拥有令所有精灵都望尘莫及的速度，并把这种逆天般的速度转化为强大的战斗力!",
         "ID": 2861,
-        "Target": ""
+        "Target": "150118"
       },
       {
         "DefName": "苏希斯",
@@ -18532,7 +18472,7 @@
         "DefName": "赛伯斯塔",
         "Features": "赛伯斯特超进化形态！超强炮台重组完成，机械核心整装待发！正义炮台，即将发射!",
         "ID": 2866,
-        "Target": ""
+        "Target": "150119"
       },
       {
         "DefName": "森林弓骑兵",
@@ -18682,7 +18622,7 @@
         "DefName": "凯普斯特",
         "Features": "先锋队长为了正义而蜕变出全新的能量。圣盾经过重新的锻造，更加的坚实，绝对是正义的守护者!",
         "ID": 2891,
-        "Target": ""
+        "Target": "150120"
       },
       {
         "DefName": "希尔妮妮",
@@ -18724,7 +18664,7 @@
         "DefName": "英普力亚",
         "Features": "英普瑞斯超进化！为了守卫最终的正义而开启的更强进化，拥有更加强悍的消耗能力!",
         "ID": 2898,
-        "Target": ""
+        "Target": "150121"
       },
       {
         "DefName": "爆炎莱茵",
@@ -30617,6 +30557,12 @@
         "Features": "2026年包月精灵，万象录之《长袖善舞之人》。他曾是周旋于帝国和拉斯塔商会之间的外交官，千人千面，巧言令色，凭着过人辞令游走于权力的缝隙。他比谁都清楚话语的重量，也比谁都明白——说得再好听，终究是一场表演。",
         "ID": 4900,
         "Target": "121000"
+      },
+      {
+        "DefName": "战斗",
+        "Features": "特维耶，波卢卡反抗军侦查连队的队长。性格轻浮的他不厌其烦的“骚扰”每一个战友，但那也成为了反抗军艰难生活中的小小调味剂。",
+        "ID": 4901,
+        "Target": "153201/906"
       }
     ],
     "RecMintmark": {

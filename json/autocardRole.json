@@ -402,7 +402,7 @@
     },
     {
       "BuffId": "30028",
-      "BuffParam": "4_1_1_1",
+      "BuffParam": "5_1_1_1",
       "CountNum": 1,
       "Display": 1,
       "desc": "这位赛尔对草系精灵表现出浓厚的兴趣，甚至将自己打扮成迷你芽的模样。嗯…看来下次的科尔星的外勤任务已经有人选了。",
@@ -416,7 +416,7 @@
       "skillID": 21,
       "skillName": "植物亲和",
       "skillRoundLimit": 0,
-      "skillTxt": "使用4张草系精灵牌后，招募一张不超过当前商店等级的草系精灵牌（距离触发：{0}）",
+      "skillTxt": "使用5张草系精灵牌后，招募一张不超过当前商店等级的草系精灵牌（距离触发：{0}）",
       "skillType": 0,
       "skillUpgrade": ""
     },
@@ -451,7 +451,7 @@
       "name": "遗迹流浪者·修",
       "nature": 7,
       "picID": 23,
-      "skillCostNum": 2,
+      "skillCostNum": 1,
       "skillGameLimit": 0,
       "skillID": 23,
       "skillName": "遗迹揭秘",
