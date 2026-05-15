@@ -14744,10 +14744,10 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "ID": 821,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 3729,
         "Name": "侠影之道·浩瀚昆仑",
         "SkinKind": [
@@ -14816,10 +14816,10 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "ID": 825,
-        "Jumptarget": 114065,
+        "Jumptarget": 0,
         "MonID": 3575,
         "Name": "烬灭之灾·天邪龙王",
         "SkinKind": [
@@ -14834,10 +14834,10 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "ID": 826,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 3870,
         "Name": "凯兮",
         "SkinKind": [
@@ -14852,10 +14852,10 @@
         "Type": 0
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "ID": 827,
-        "Jumptarget": 114067,
+        "Jumptarget": 0,
         "MonID": 4444,
         "Name": "戾夜萃魂·百罗鬼帝",
         "SkinKind": [
@@ -14870,10 +14870,10 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "ID": 828,
-        "Jumptarget": 114068,
+        "Jumptarget": 0,
         "MonID": 3586,
         "Name": "破晓者·英卡洛斯",
         "SkinKind": [
@@ -14888,12 +14888,48 @@
         "Type": 3
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "ID": 829,
-        "Jumptarget": 114069,
+        "Jumptarget": 0,
         "MonID": 4358,
         "Name": "极速抢修·杰特洛",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 830,
+        "Jumptarget": 114071,
+        "MonID": 3886,
+        "Name": "凛夜将至·柯尔德",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 831,
+        "Jumptarget": 2,
+        "MonID": 4629,
+        "Name": "荣光之约·蒙鲁特",
         "SkinKind": [
           {
             "ID": 1,

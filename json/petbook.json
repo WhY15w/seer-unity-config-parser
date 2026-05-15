@@ -1357,12 +1357,42 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4901,
-            "ImageID": 4901,
+            "ID": 4902,
+            "ImageID": 4902,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
             "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 4903,
+            "ImageID": 4903,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 830,
+            "ImageID": 1400830,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 3886,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 831,
+            "ImageID": 1400831,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4629,
+            "type": 1
           }
         ]
       }
@@ -21652,7 +21682,7 @@
         "DefName": "格劳恩斯",
         "Features": "火系精灵王艾恩斯与电系精灵王格劳瑞的合体形态，成为了火、电双属性的精灵王，不仅拥有烈火般强劲的实力，还有象征荣耀的谦逊性格！",
         "ID": 3407,
-        "Target": ""
+        "Target": "150123"
       },
       {
         "DefName": "杰诺",
@@ -23032,7 +23062,7 @@
         "DefName": "不灭地威·萨瑞卡",
         "Features": "X战队之萨瑞卡完全体形态，拥有着绝对防御的护盾，几乎可以抵挡任何的攻击伤害！最喜欢吃的食物是力量肉丸...",
         "ID": 3637,
-        "Target": ""
+        "Target": "150122"
       },
       {
         "DefName": "伽楼儿",
@@ -27826,7 +27856,7 @@
         "DefName": "百罗鬼帝",
         "Features": "百鬼夜王的超进化形态，天罗阙鬼的释怀，邪冥骷鬼的解脱，至此，世间再没有百鬼与夜王，只剩一条被过去希冀与狂妄所诅咒的，自视孤高的野犬。",
         "ID": 4444,
-        "Target": "114066"
+        "Target": ""
       },
       {
         "DefName": "古温婆婆",
@@ -30559,10 +30589,22 @@
         "Target": "121000"
       },
       {
-        "DefName": "战斗",
+        "DefName": "特维耶",
         "Features": "特维耶，波卢卡反抗军侦查连队的队长。性格轻浮的他不厌其烦的“骚扰”每一个战友，但那也成为了反抗军艰难生活中的小小调味剂。",
         "ID": 4901,
         "Target": "153201/906"
+      },
+      {
+        "DefName": "莱布缇",
+        "Features": "“博士”，万神殿系统的创造者，黄金教廷的背叛者，出卖了整个世界之人，带领赛尔等人前往了毁灭的家园阿派罗尼亚。",
+        "ID": 4902,
+        "Target": "153201/914"
+      },
+      {
+        "DefName": "帝录天锋",
+        "Features": "帝王之刃的完全体形态，上古的封印终于破除，魔剑原本的样貌终于重见天日！",
+        "ID": 4903,
+        "Target": "114070"
       }
     ],
     "RecMintmark": {

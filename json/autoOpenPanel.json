@@ -651,7 +651,7 @@
     {
       "actionName": "百鬼夜王新形态售卖强弹",
       "controller": "AutoOpenLocalDaily",
-      "endTime": "2027_05_15 10:00:00",
+      "endTime": "2026_05_15 10:00:00",
       "id": 56,
       "moduleId": 1028,
       "param1": "getblgdPanelAlert",

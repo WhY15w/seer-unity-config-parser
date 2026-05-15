@@ -9711,6 +9711,14 @@
       "rewardcnt": "10000",
       "rewardid": "3",
       "rewardtype": 1
+    },
+    {
+      "Branch": 172,
+      "Rule": 11,
+      "id": 1217,
+      "rewardcnt": "10000",
+      "rewardid": "1",
+      "rewardtype": 1
     }
   ]
 }

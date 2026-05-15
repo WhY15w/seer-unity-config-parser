@@ -176,11 +176,11 @@
       "dailyRed": 0,
       "dest": "",
       "finishtime": "",
-      "iOSreviewshow": 1,
+      "iOSreviewshow": 0,
       "id": 12,
       "image": "newBrave_head",
       "isdeadline": 0,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 360000,
       "name": "传说之路",
       "priority": 5,
@@ -188,7 +188,7 @@
         311000
       ],
       "statlog": "",
-      "truepos": 1,
+      "truepos": 0,
       "type": 2
     },
     {
