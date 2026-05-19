@@ -160,6 +160,20 @@ import { parseAwakentaskConfig } from "../bytes2json/awakentask";
 import { parseBackFlowTaskConfig } from "../bytes2json/backFlowTask";
 import { parseBadgeBattlePassRewardConfig } from "../bytes2json/badgeBattlePassReward";
 import { parseBadgeBattlePassTaskConfig } from "../bytes2json/badgeBattlePassTask";
+import { parseBagTowerEquipEffectConfig } from "../bytes2json/bagTowerEquipEffect";
+import { parseBagTowerEquipSynthesisConfig } from "../bytes2json/bagTowerEquipSynthesis";
+import { parseBagTowerEquipUpgradeConfig } from "../bytes2json/bagTowerEquipUpgrade";
+import { parseBagTowerMonsterConfig } from "../bytes2json/bagTowerMonster";
+import { parseBagTowerPlaerExpConfig } from "../bytes2json/bagTowerPlaerExp";
+import { parseBagTowerStageConfig } from "../bytes2json/bagTowerStage";
+import { parseBagTowerStageFightConfig } from "../bytes2json/bagTowerStageFight";
+import { parseBagTowerStageWaveConfig } from "../bytes2json/bagTowerStageWave";
+import { parseBannerConfig } from "../bytes2json/banner";
+import { parseBannerBisaifuConfig } from "../bytes2json/bannerBisaifu";
+import { parseWishpetConfig } from "../bytes2json/wishpet";
+import { parseWishpartConfig } from "../bytes2json/wishpart";
+import { parseWishskinConfig } from "../bytes2json/wishskin";
+import { parseWishsuitConfig } from "../bytes2json/wishsuit";
 
 const failures: { name: string; error: string }[] = [];
 
@@ -683,10 +697,66 @@ safeRun("BackFlowTask", () =>
   parseBackFlowTaskConfig("./ConfigPackage/export/BackFlowTask.bytes"),
 );
 safeRun("badgeBattlePass_reward", () =>
-  parseBadgeBattlePassRewardConfig("./ConfigPackage/export/badgeBattlePass_reward.bytes"),
+  parseBadgeBattlePassRewardConfig(
+    "./ConfigPackage/export/badgeBattlePass_reward.bytes",
+  ),
 );
 safeRun("badgeBattlePass_task", () =>
-  parseBadgeBattlePassTaskConfig("./ConfigPackage/export/badgeBattlePass_task.bytes"),
+  parseBadgeBattlePassTaskConfig(
+    "./ConfigPackage/export/badgeBattlePass_task.bytes",
+  ),
+);
+safeRun("bagTower_EquipEffect", () =>
+  parseBagTowerEquipEffectConfig(
+    "./ConfigPackage/export/bagTower_EquipEffect.bytes",
+  ),
+);
+safeRun("bagTower_EquipSynthesis", () =>
+  parseBagTowerEquipSynthesisConfig(
+    "./ConfigPackage/export/bagTower_EquipSynthesis.bytes",
+  ),
+);
+safeRun("bagTower_EquipUpgrade", () =>
+  parseBagTowerEquipUpgradeConfig(
+    "./ConfigPackage/export/bagTower_EquipUpgrade.bytes",
+  ),
+);
+safeRun("bagTower_Monster", () =>
+  parseBagTowerMonsterConfig("./ConfigPackage/export/bagTower_Monster.bytes"),
+);
+safeRun("bagTower_PlaerExp", () =>
+  parseBagTowerPlaerExpConfig("./ConfigPackage/export/bagTower_PlaerExp.bytes"),
+);
+safeRun("bagTower_Stage", () =>
+  parseBagTowerStageConfig("./ConfigPackage/export/bagTower_Stage.bytes"),
+);
+safeRun("bagTower_StageFight", () =>
+  parseBagTowerStageFightConfig(
+    "./ConfigPackage/export/bagTower_StageFight.bytes",
+  ),
+);
+safeRun("bagTower_StageWave", () =>
+  parseBagTowerStageWaveConfig(
+    "./ConfigPackage/export/bagTower_StageWave.bytes",
+  ),
+);
+safeRun("banner", () =>
+  parseBannerConfig("./ConfigPackage/export/banner.bytes"),
+);
+safeRun("banner_bisaifu", () =>
+  parseBannerBisaifuConfig("./ConfigPackage/export/banner_bisaifu.bytes"),
+);
+safeRun("Wishpet", () =>
+  parseWishpetConfig("./ConfigPackage/export/Wishpet.bytes"),
+);
+safeRun("Wishpart", () =>
+  parseWishpartConfig("./ConfigPackage/export/Wishpart.bytes"),
+);
+safeRun("Wishskin", () =>
+  parseWishskinConfig("./ConfigPackage/export/Wishskin.bytes"),
+);
+safeRun("Wishsuit", () =>
+  parseWishsuitConfig("./ConfigPackage/export/Wishsuit.bytes"),
 );
 
 async function sendFeishuAlert() {

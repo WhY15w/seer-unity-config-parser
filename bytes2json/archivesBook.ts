@@ -28,7 +28,10 @@ const archivesBookInfoSchema: FieldSchema = [
   ["txtdivide", optionalArray("int")],
 ];
 
-export const parseArchivesBookConfig = createSimpleListParser<IArchivesBookInfo, ArchivesBookConfig>({
+export const parseArchivesBookConfig = createSimpleListParser<
+  IArchivesBookInfo,
+  ArchivesBookConfig
+>({
   name: "archivesBook",
   outputPath: "./json/archivesBook.json",
   dataKey: "data",
