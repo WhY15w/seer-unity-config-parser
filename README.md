@@ -4,42 +4,32 @@
 
 本项目为[赛尔号信息聚合页](https://seerinfo.yuyuqaq.cn/)的衍生子项目
 
-Made with ❤️ by HurryWang(聿聿)
-
 ## 功能特性
 
-- 🔄 自动更新配置包版本
-- 📦 Unity 资源包解析（使用 Python UnityPy）
-- 🔧 二进制配置文件解析
-- 🚀 高并发下载和处理
-
-## 致谢
-
-<https://github.com/median-dxz/assets-manifest-praser>
-
-<https://github.com/SeerAPI/Albi0>
-
-<https://github.com/K0lb3/UnityPy>
-
-## 提取结果
-
-<div align="center">
-  <img src="img/img.png" alt="res">
-</div>
+-  自动更新配置包版本
+-  Unity 资源包解析（使用 Python UnityPy）
+-  二进制配置文件解析
 
 ## 项目结构
 
 ```
-├── bytes2json/          # 二进制转JSON解析器
-│   └── buff.ts         # buff配置解析器
-├── parser/             # 核心解析器
-│   ├── updater/        # 更新器模块
-│   ├── index.ts        # 主入口
-│   └── UnityFSParser.py # Unity资源包解析器
-├── utils/              # 工具类
-│   └── BytesReader.ts  # 二进制数据读取器
-└── test/               # 测试文件
-    └── index.ts        # 测试示例
+├── bytes2json/          # 二进制转 JSON 解析器
+├── parser/              # 下载 & Unity 资源包解析
+│   ├── updater/         # YooAsset 版本管理 & 下载器
+│   ├── index.ts         # 更新入口
+│   └── UnityFSParser.py # Unity 资源包提取
+├── main/index.ts        # 批量转换入口（注册所有解析器）
+├── scripts/             # 后处理脚本
+│   ├── validate-json.ts
+│   ├── detect-changes.ts
+│   └── mergeItemsOptimizeCatItems.ts
+├── utils/               # 工具类
+│   ├── BytesReader.ts
+│   ├── ConfigParserTemplate.ts   # 声明式 Schema 解析模板
+│   └── feishu.ts                 # 飞书告警
+├── cache/               # 哈希缓存
+├── json/                # 输出 JSON（gitignored）
+└── ConfigPackage/       # 下载的原始配置包（gitignored）
 ```
 
 ## 快速开始
@@ -47,143 +37,72 @@ Made with ❤️ by HurryWang(聿聿)
 ### 安装依赖
 
 ```bash
-npm install
+pnpm install
 
-pip install UnityPy
+pip install -r requirements.txt
 ```
 
 ### 运行完整流程
 
 ```bash
-npm start
+pnpm start
 ```
 
-这将执行：
-
-1. 更新配置包
-2. 解析 Unity 资源包
-3. 转换为 JSON 格式
+这将依次执行：
+1. `update` — 下载最新配置包到 `ConfigPackage/`
+2. `export` — 提取 Unity 资源包中的 `.bytes` 文件
+3. `main` — 将 `.bytes` 解析为 JSON
+4. `mergeItemsOptimizeCatItems` — 合并两个物品分类文件
+5. `validate` — 校验 JSON 结构
+6. `detect-changes` — 对比缓存哈希，输出变更
 
 ### 分步执行
 
 ```bash
 # 1. 更新配置包
-npm run update
+pnpm run update
 
-# 2. 解析Unity资源包
-npm run export
+# 2. 解析 Unity 资源包
+pnpm run export
 
-# 3. 测试转换
-npm run test
+# 3. 批量转换为 JSON
+pnpm run main
+
+# 仅执行前三步（无校验/变更检测）
+pnpm run dev
 ```
 
 ## 使用示例
 
 ### 解析 buff 配置
 
-```typescript
-import { readFileSync } from "fs";
-import { parseBuffConfig } from "./bytes2json/buff";
-
-// 读取二进制配置文件
-const fileBuffer = readFileSync("./ConfigPackage/export/buff.bytes");
-const data = new Uint8Array(fileBuffer);
-
-// 解析配置
-const buffConfig = parseBuffConfig(data);
-console.log(buffConfig);
-```
-
-### 自定义配置解析器
-
-参考 `bytes2json/buff.ts` 的实现模式：
+参考 `bytes2json/buff.ts` 的实现模式，使用 `ConfigParserTemplate` 声明式 Schema：
 
 ```typescript
-import { BytesReader, LengthType } from "../utils/BytesReader";
+import { createSimpleListParser, text, int, optionalArray } from "../utils/ConfigParserTemplate";
 
-interface MyConfig {
-  // 定义你的配置结构
-}
+const schema = [
+  ["Desc", text()],
+  ["Tag", text()],
+  ["icon", optionalArray("int")],
+  ["id", int()],
+];
 
-export function parseMyConfig(data: Uint8Array): MyConfig {
-  const reader = new BytesReader(data, {
-    lengthType: LengthType.Uint16,
-    littleEndian: true,
-  });
-
-  // 实现解析逻辑
-  return {};
-}
-```
-
-## API 文档
-
-### BytesReader
-
-二进制数据读取器，支持多种数据类型：
-
-- `boolean()` - 读取布尔值
-- `byte()` - 读取字节
-- `short()` / `ushort()` - 读取短整型
-- `int()` / `uint()` - 读取整型
-- `long()` / `ulong()` - 读取长整型
-- `float()` / `double()` - 读取浮点数
-- `text()` - 读取文本（自动处理长度前缀）
-
-### 更新器
-
-支持自动检测和下载最新的配置包：
-
-```typescript
-import Updater from "./parser/updater/Updater";
-import Downloader from "./parser/updater/Downloader";
-import YooVersionManager from "./parser/updater/YooVersionManager";
-
-const updater = new Updater(
-  "config-name",
-  "description",
-  versionManager,
-  downloader
-);
-
-await updater.update();
-```
-
-## 配置说明
-
-### 下载器配置
-
-在 `parser/index.ts` 中可以配置请求头：
-
-```typescript
-const downloader = new Downloader({
-  headers: {
-    "user-agent": "your-user-agent",
-    referer: "your-referer",
-  },
+export const parseBuffConfig = createSimpleListParser({
+  name: "buff",
+  outputPath: "./json/buff.json",
+  dataKey: "data",
+  itemSchema: schema,
 });
 ```
 
-### 版本管理
-
-支持本地版本缓存和远程版本比较，自动检测需要更新的文件。
-
-## 依赖项
-
-- **axios** - HTTP 客户端
-- **cli-progress** - 进度条显示
-- **p-queue** - 并发控制
-- **UnityPy** - Unity 资源包解析（Python）
-
-## 开发
-
 ### 添加新的配置解析器
 
-1. 在 `bytes2json/` 目录下创建新的解析器文件
-2. 实现解析函数，参考 `buff.ts` 的模式
-3. 在 `test/index.ts` 中添加测试用例
+1. 在 `bytes2json/` 下创建解析器，优先使用 `ConfigParserTemplate` 提供的 `createSimpleListParser` 或 `createConfigParser`
+2. 在 `main/index.ts` 中 `import` 并用 `safeRun()` 注册
+3. 可选的：`scripts/validate-json.ts` 中补充校验规则
 
-### 调试
+### 调试模式
 
 BytesReader 支持调试模式，可以追踪读取过程：
 
@@ -191,9 +110,29 @@ BytesReader 支持调试模式，可以追踪读取过程：
 const reader = new BytesReader(data, options, "debug-tag");
 ```
 
-## 贡献
+## API 文档
 
-欢迎提交 Issue 和 Pull Request 来完善项目！
+### BytesReader
+
+二进制数据读取器，默认 **小端序**，文本长度前缀为 `Uint16`：
+
+- `boolean()` / `byte()` / `short()` / `ushort()`
+- `int()` / `uint()` / `long()` / `ulong()`
+- `float()` / `double()` / `text()`
+
+### ConfigParserTemplate
+
+声明式 Schema 模板，支持 `int`/`uint`/`short`/`ushort`/`byte`/`long`/`ulong`/`float`/`double`/`text`/`boolean` 基本类型，以及 `optionalArray`/`array`/`optionalArrayStruct`/`arrayStruct`/`optionalObject`/`struct`/`custom` 复合类型。详见 `utils/ConfigParserTemplate.ts`。
+
+## 持续集成
+
+GitHub Action 每周五（12:00/14:00 CST）自动运行完整流程，检测到 JSON 变更自动提交。支持 `workflow_dispatch` 手动触发。
+
+## 致谢
+
+- <https://github.com/median-dxz/assets-manifest-praser>
+- <https://github.com/SeerAPI/Albi0>
+- <https://github.com/K0lb3/UnityPy>
 
 ## 许可证
 
