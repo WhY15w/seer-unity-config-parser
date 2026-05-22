@@ -10,7 +10,9 @@
       "moveSpeed": 3,
       "name": "布布种子",
       "rarity": 1,
-      "resource": "bubuzhongzi"
+      "resource": "bubuzhongzi",
+      "skin": "",
+      "tag": ""
     },
     {
       "action1": "",
@@ -22,7 +24,9 @@
       "moveSpeed": 3,
       "name": "伊优",
       "rarity": 1,
-      "resource": "yiyou"
+      "resource": "yiyou",
+      "skin": "",
+      "tag": ""
     },
     {
       "action1": "",
@@ -34,7 +38,9 @@
       "moveSpeed": 3,
       "name": "小火猴",
       "rarity": 1,
-      "resource": "xiaohuohou"
+      "resource": "xiaohuohou",
+      "skin": "",
+      "tag": ""
     }
   ]
 }

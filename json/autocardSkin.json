@@ -2,7 +2,9 @@
   "data": [
     {
       "contentId": 41,
+      "getDes": "2026年愚人节活动领取",
       "id": 50005,
+      "jumpId": 0,
       "name": "card_50005",
       "series": 1,
       "skinName": "抽象大师",

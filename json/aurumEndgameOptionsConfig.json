@@ -18,7 +18,7 @@
     {
       "attritube": "spell100IsEnlarge",
       "branchid": 2,
-      "desc": "每层充能会使赛尔激光宽度+25%",
+      "desc": "每层充能会使赛尔激光宽度+50%",
       "group": 0,
       "id": 2,
       "maxnum": 1,
@@ -483,7 +483,7 @@
     {
       "attritube": "spell100Damage",
       "branchid": 0,
-      "desc": "赛尔激光的伤害+12%",
+      "desc": "赛尔激光的伤害+20%",
       "group": 1,
       "id": 33,
       "maxnum": 10,
@@ -493,12 +493,12 @@
       "root": 1,
       "treeid": 0,
       "type": 1,
-      "value": 120
+      "value": 200
     },
     {
       "attritube": "spell100Damage",
       "branchid": 0,
-      "desc": "赛尔激光的伤害+25%",
+      "desc": "赛尔激光的伤害+35%",
       "group": 1,
       "id": 34,
       "maxnum": 5,
@@ -508,7 +508,7 @@
       "root": 1,
       "treeid": 0,
       "type": 1,
-      "value": 250
+      "value": 350
     },
     {
       "attritube": "spell100Damage",
@@ -543,7 +543,7 @@
     {
       "attritube": "hx1Damage",
       "branchid": 0,
-      "desc": "荣光之形的伤害+25%",
+      "desc": "荣光之形的伤害+35%",
       "group": 1,
       "id": 37,
       "maxnum": 5,
@@ -553,12 +553,12 @@
       "root": 1,
       "treeid": 0,
       "type": 1,
-      "value": 250
+      "value": 350
     },
     {
       "attritube": "spell100CoolDown",
       "branchid": 0,
-      "desc": "赛尔激光的冷却时间-12%",
+      "desc": "赛尔激光的冷却时间-15%",
       "group": 1,
       "id": 38,
       "maxnum": 2,
@@ -568,7 +568,7 @@
       "root": 1,
       "treeid": 0,
       "type": 1,
-      "value": -120
+      "value": -150
     },
     {
       "attritube": "spell100KnockBack",
@@ -633,7 +633,7 @@
     {
       "attritube": "spell200Damage",
       "branchid": 0,
-      "desc": "心耀苍生的伤害+12%",
+      "desc": "心耀苍生的伤害+25%",
       "group": 1,
       "id": 43,
       "maxnum": 10,
@@ -643,22 +643,22 @@
       "root": 2,
       "treeid": 0,
       "type": 1,
-      "value": 120
+      "value": 250
     },
     {
       "attritube": "spell200Damage",
       "branchid": 0,
-      "desc": "心耀苍生的伤害+25%",
+      "desc": "心耀苍生的伤害+40%",
       "group": 1,
       "id": 44,
-      "maxnum": 4,
+      "maxnum": 6,
       "name": "伤害强化",
       "rarity": 2,
       "related": 0,
       "root": 2,
       "treeid": 0,
       "type": 1,
-      "value": 250
+      "value": 400
     },
     {
       "attritube": "spell200HealBasic",
@@ -681,7 +681,7 @@
       "desc": "心耀苍生的恢复效果+12%",
       "group": 1,
       "id": 46,
-      "maxnum": 10,
+      "maxnum": 5,
       "name": "恢复强化",
       "rarity": 1,
       "related": 0,
@@ -709,7 +709,7 @@
       "attritube": "hx2RangeUp",
       "branchid": 0,
       "desc": "萌芽之形的恢复范围+20%",
-      "group": 1,
+      "group": 2,
       "id": 48,
       "maxnum": 3,
       "name": "萌芽强化",
@@ -783,7 +783,7 @@
     {
       "attritube": "spell300Damage",
       "branchid": 0,
-      "desc": "满月镰斩的伤害+12%",
+      "desc": "满月镰斩的伤害+20%",
       "group": 1,
       "id": 53,
       "maxnum": 10,
@@ -793,12 +793,12 @@
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 120
+      "value": 200
     },
     {
       "attritube": "spell300Damage",
       "branchid": 0,
-      "desc": "满月镰斩的伤害+25%",
+      "desc": "满月镰斩的伤害+35%",
       "group": 1,
       "id": 54,
       "maxnum": 5,
@@ -808,7 +808,7 @@
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 250
+      "value": 350
     },
     {
       "attritube": "spell300Damage",
@@ -828,7 +828,7 @@
     {
       "attritube": "hx3Damage",
       "branchid": 0,
-      "desc": "初诞之形的伤害+12%",
+      "desc": "初诞之形的伤害+25%",
       "group": 1,
       "id": 56,
       "maxnum": 10,
@@ -838,12 +838,12 @@
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 120
+      "value": 250
     },
     {
       "attritube": "hx3Damage",
       "branchid": 0,
-      "desc": "初诞之形的伤害+25%",
+      "desc": "初诞之形的伤害+40%",
       "group": 1,
       "id": 57,
       "maxnum": 5,
@@ -853,7 +853,7 @@
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 250
+      "value": 400
     },
     {
       "attritube": "hx3PropSize",
@@ -888,7 +888,7 @@
     {
       "attritube": "spell300PathDamage",
       "branchid": 0,
-      "desc": "技能留下的轨迹伤害+12%",
+      "desc": "技能留下的轨迹伤害+25%",
       "group": 1,
       "id": 60,
       "maxnum": 5,
@@ -898,12 +898,12 @@
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 120
+      "value": 250
     },
     {
       "attritube": "spell300PathDamage",
       "branchid": 0,
-      "desc": "技能留下的轨迹伤害+25%",
+      "desc": "技能留下的轨迹伤害+50%",
       "group": 1,
       "id": 61,
       "maxnum": 3,
@@ -913,7 +913,7 @@
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 250
+      "value": 500
     },
     {
       "attritube": "hx3IsEnergyPowerUp",
@@ -933,7 +933,7 @@
     {
       "attritube": "spell400Damage",
       "branchid": 0,
-      "desc": "集束导弹的伤害+12%",
+      "desc": "集束导弹的伤害+20%",
       "group": 1,
       "id": 63,
       "maxnum": 10,
@@ -943,12 +943,12 @@
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 120
+      "value": 200
     },
     {
       "attritube": "spell400Damage",
       "branchid": 0,
-      "desc": "集束导弹的伤害+25%",
+      "desc": "集束导弹的伤害+35%",
       "group": 1,
       "id": 64,
       "maxnum": 5,
@@ -958,7 +958,7 @@
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 250
+      "value": 350
     },
     {
       "attritube": "spell400Damage",
@@ -978,7 +978,7 @@
     {
       "attritube": "hx4HealthUp",
       "branchid": 0,
-      "desc": "纷争之形的生命值+20%",
+      "desc": "纷争之形的生命值+30%",
       "group": 1,
       "id": 66,
       "maxnum": 8,
@@ -988,12 +988,12 @@
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 200
+      "value": 300
     },
     {
       "attritube": "hx4HealthUp",
       "branchid": 0,
-      "desc": "纷争之形的生命值+40%",
+      "desc": "纷争之形的生命值+45%",
       "group": 1,
       "id": 67,
       "maxnum": 4,
@@ -1003,7 +1003,7 @@
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 400
+      "value": 450
     },
     {
       "attritube": "hx4HealthUp",
@@ -1023,7 +1023,7 @@
     {
       "attritube": "hx4LaunchBulletProp",
       "branchid": 0,
-      "desc": "纷争之形受到伤害时，有15%概率发射一发能量弹",
+      "desc": "纷争之形受到伤害时，有30%概率发射一发能量弹",
       "group": 2,
       "id": 69,
       "maxnum": 1,
@@ -1033,12 +1033,12 @@
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 150
+      "value": 300
     },
     {
       "attritube": "hx4Damage",
       "branchid": 0,
-      "desc": "纷争之形能量弹的伤害+15%",
+      "desc": "纷争之形能量弹的伤害+50%",
       "group": 1,
       "id": 70,
       "maxnum": 4,
@@ -1048,7 +1048,7 @@
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 150
+      "value": 500
     },
     {
       "attritube": "hx4LaunchBulletProp",
@@ -1068,7 +1068,7 @@
     {
       "attritube": "hx4IsHittedBlust",
       "branchid": 0,
-      "desc": "纷争之形每受到12次伤害，就会对周围造成一次高额伤害",
+      "desc": "纷争之形每受到7次伤害，就会对周围造成一次高额伤害",
       "group": 2,
       "id": 72,
       "maxnum": 1,

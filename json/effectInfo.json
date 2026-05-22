@@ -5731,10 +5731,10 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手下{0}回合自身攻击[color=#52a5f2]先制[/color]+{1}（boss有效）",
+        "analyze": "[sprite name=iconHit]未[color=#57c975]击败[/color]对手下{0}回合自身[color=#52a5f2]技能先制[/color]+{1}（boss有效）",
         "argsNum": 2,
         "id": 820,
-        "info": "未击败对手下{0}回合自身攻击先制+{1}",
+        "info": "未击败对手则下{0}回合自身技能先制+{1}",
         "key": "",
         "type": 0
       },
@@ -8739,10 +8739,10 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]{0}回合内每回合都有{1}%概率令对手[color=#57c975]{2}[/color]，[color=#52a5f2]未触发[/color][color=#57c975]{3}[/color]则下{4}次受到的伤害减少{5}点",
+        "analyze": "[sprite name=iconHit]{0}回合内自身技能额外{1}%概率令对手[color=#57c975]{2}[/color]，[color=#52a5f2]未触发[/color][color=#57c975]{3}[/color]则自身下{4}次受到的攻击伤害减少{5}点",
         "argsNum": 6,
         "id": 1162,
-        "info": "{0}回合内每回合都有{1}%概率令对手{2}，未触发{3}则下{4}次受到的伤害减少{5}点",
+        "info": "{0}回合内自身技能额外{1}%概率令对手{2}，未触发{3}则自身下{4}次受到的攻击伤害减少{5}点",
         "key": "",
         "param": [
           1,
@@ -9107,10 +9107,10 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]造成的伤害低于{0}则自身下{1}次受到的伤害降低{2}点（boss有效）",
+        "analyze": "[sprite name=iconHit]造成的伤害低于{0}则自身下{1}次受到的攻击伤害降低{2}点（boss有效）",
         "argsNum": 3,
         "id": 1202,
-        "info": "造成的伤害低于{0}则自身下{1}次受到的伤害降低{2}点",
+        "info": "造成的伤害低于{0}则自身下{1}次受到的攻击伤害降低{2}点",
         "key": "",
         "type": 0
       },
@@ -20456,10 +20456,10 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=iconHit]对手每处于{0}回合状态[color=#52a5f2]吸取[/color]对手{1}点体力，[color=#52a5f2]自身先制(340)[/color]等级高于{2}时效果翻倍",
+        "analyze": "[sprite name=iconHit]对手每处于{0}回合异常状态[color=#52a5f2]吸取[/color]对手{1}点体力，[color=#52a5f2]自身先制(340)[/color]等级高于{2}时效果翻倍",
         "argsNum": 3,
         "id": 2477,
-        "info": "对手每处于{0}回合状态吸取对手{1}点体力，自身先制等级高于{2}时效果翻倍",
+        "info": "对手每处于{0}回合异常状态吸取对手{1}点体力，自身先制等级高于{2}时效果翻倍",
         "key": "",
         "type": 0
       }

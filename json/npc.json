@@ -1559,6 +1559,26 @@
       "portrait": "servitor1_fg",
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "CharacterID": 108,
+      "emoji": "",
+      "id": 157,
+      "initialposition": "",
+      "name": "勇敢的小孩",
+      "portrait": "aplstudenta_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 109,
+      "emoji": "aplnpcb_02",
+      "id": 158,
+      "initialposition": "",
+      "name": "艾琳",
+      "portrait": "aplnpcb_fg",
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

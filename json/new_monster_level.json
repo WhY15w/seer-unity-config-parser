@@ -9783,7 +9783,7 @@
         4,
         3
       ],
-      "moduleid": -295002,
+      "moduleid": -295009,
       "monsterid": 3512,
       "param": "",
       "quality": "",
@@ -9808,7 +9808,7 @@
         4,
         3
       ],
-      "moduleid": -295002,
+      "moduleid": -295009,
       "monsterid": 3404,
       "param": "",
       "quality": "",
@@ -15927,13 +15927,16 @@
       "hide": "",
       "id": 606,
       "image": "3797",
-      "isnew": "",
-      "moduleid": 0,
+      "isnew": "2026_05_29 10:00:00",
+      "menutype": [
+        3
+      ],
+      "moduleid": -150124,
       "monsterid": 3797,
       "param": "",
       "quality": "",
       "recommendTime": "",
-      "sort": 0,
+      "sort": 101,
       "statlog": "",
       "upgrade": [
         2
@@ -16507,7 +16510,7 @@
       "hide": "",
       "id": 630,
       "image": "3637",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         3
       ],
@@ -23049,7 +23052,7 @@
         3
       ],
       "upgradeHide": "",
-      "upgradeNew": "2026_05_28 10:00:00",
+      "upgradeNew": "2026_05_29 10:00:00",
       "upgradeSort": 0,
       "upgradeSource": 3,
       "weekly": 0,
@@ -23076,7 +23079,7 @@
         3
       ],
       "upgradeHide": "",
-      "upgradeNew": "2026_05_28 10:00:00",
+      "upgradeNew": "2026_05_29 10:00:01",
       "upgradeSort": 0,
       "upgradeSource": 3,
       "weekly": 0,
@@ -23100,7 +23103,7 @@
         3
       ],
       "upgradeHide": "",
-      "upgradeNew": "2026_05_28 10:00:00",
+      "upgradeNew": "2026_05_29 10:00:02",
       "upgradeSort": 0,
       "upgradeSource": 3,
       "weekly": 0,
@@ -23124,7 +23127,7 @@
         3
       ],
       "upgradeHide": "",
-      "upgradeNew": "2026_05_28 10:00:00",
+      "upgradeNew": "2026_05_29 10:00:03",
       "upgradeSort": 0,
       "upgradeSource": 3,
       "weekly": 0,
@@ -23444,7 +23447,7 @@
       "hide": "",
       "id": 913,
       "image": "3407",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         3
       ],
@@ -23468,7 +23471,7 @@
       "hide": "",
       "id": 914,
       "image": "4902",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         1
       ],
@@ -23479,6 +23482,30 @@
       "recommendTime": "",
       "sort": 1,
       "statlog": "H5精灵因子关卡系统功能,莱布缇,点击进入关卡_点击兑换",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 1,
+      "hide": "",
+      "id": 915,
+      "image": "4904",
+      "isnew": "1",
+      "menutype": [
+        1
+      ],
+      "moduleid": 151,
+      "monsterid": 4904,
+      "param": "{Design:245}",
+      "quality": "s",
+      "recommendTime": "",
+      "sort": 1,
+      "statlog": "H5精灵因子关卡系统功能,小珍妮,点击进入关卡_点击兑换",
       "upgradeHide": "",
       "upgradeNew": "",
       "upgradeSort": 0,

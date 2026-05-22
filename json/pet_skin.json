@@ -11057,7 +11057,7 @@
         "Go": "",
         "GoType": "",
         "ID": 616,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4636,
         "Name": "熙风悠游·西塔伦",
         "SkinKind": [
@@ -13595,7 +13595,7 @@
         "Go": "",
         "GoType": "",
         "ID": 757,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4644,
         "Name": "领衔·克雷弗德",
         "SkinKind": [
@@ -13613,7 +13613,7 @@
         "Go": "",
         "GoType": "",
         "ID": 758,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4643,
         "Name": "朔星·蓓丽安特",
         "SkinKind": [
@@ -13631,7 +13631,7 @@
         "Go": "",
         "GoType": "",
         "ID": 759,
-        "Jumptarget": 0,
+        "Jumptarget": 111800,
         "MonID": 4636,
         "Name": "光阴十年·西塔伦",
         "SkinKind": [
@@ -14940,6 +14940,60 @@
           }
         ],
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 832,
+        "Jumptarget": 114073,
+        "MonID": 4344,
+        "Name": "莱卡的守望·潘克多斯",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 22,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 833,
+        "Jumptarget": 114073,
+        "MonID": 4463,
+        "Name": "莱卡的守望·斯克鲁恩",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 22,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 834,
+        "Jumptarget": 114073,
+        "MonID": 4606,
+        "Name": "莱卡的守望·加尔鲁特",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 22,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 18
       }
     ]
   }

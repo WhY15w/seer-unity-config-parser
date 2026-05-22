@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4902,
-            "ImageID": 4902,
+            "ID": 4904,
+            "ImageID": 4904,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,31 +1367,31 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4903,
-            "ImageID": 4903,
+            "ID": 832,
+            "ImageID": 1400832,
             "Label": 0,
             "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 830,
-            "ImageID": 1400830,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 3886,
+            "monID": 4344,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 831,
-            "ImageID": 1400831,
+            "ID": 833,
+            "ImageID": 1400833,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4629,
+            "monID": 4463,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 834,
+            "ImageID": 1400834,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4606,
             "type": 1
           }
         ]
@@ -23986,7 +23986,7 @@
         "DefName": "混沌魔眼耶里梅斯",
         "Features": "混沌之力沐浴贯彻，天蛇之瞳侵染混沌，黑暗正稳步前行，耶里梅斯正在逐渐沉沦...",
         "ID": 3797,
-        "Target": ""
+        "Target": "150124"
       },
       {
         "DefName": "杰内",
@@ -27262,7 +27262,7 @@
         "DefName": "潘克多斯",
         "Features": "潘多斯的超进化形态，对鬼火元素的运用已经出神入化，任何妄想与其为敌的对手都将被无情焚毁，化为灰烬！",
         "ID": 4344,
-        "Target": ""
+        "Target": "114074"
       },
       {
         "DefName": "圣心女皇·卡托娜",
@@ -27970,7 +27970,7 @@
         "DefName": "斯克鲁恩",
         "Features": "斯克鲁的超进化形态，霜寒之力已经融入他的身躯，任何伤害到他的敌人都无法逃离他的封印！",
         "ID": 4463,
-        "Target": ""
+        "Target": "114074"
       },
       {
         "DefName": "小丝",
@@ -28822,7 +28822,7 @@
         "DefName": "加尔鲁特",
         "Features": "加尔鲁什的进化形态，获得现任草系精灵王的认可后实力进一步提升，已经能熟练采用站立姿态进入战斗！",
         "ID": 4606,
-        "Target": ""
+        "Target": "114074"
       },
       {
         "DefName": "小灯龙",
@@ -29002,7 +29002,7 @@
         "DefName": "西塔伦",
         "Features": "洛林卡星上遇到的新伙伴——想变成一朵绒绒菊，随风飘荡，永远也不停歇。",
         "ID": 4636,
-        "Target": ""
+        "Target": "111800"
       },
       {
         "DefName": "绒绒菊",
@@ -29044,13 +29044,13 @@
         "DefName": "蓓丽安特",
         "Features": "「群星之集」的指引者——群星与魔法，世界本源的回响。",
         "ID": 4643,
-        "Target": ""
+        "Target": "111800"
       },
       {
         "DefName": "克雷弗德",
         "Features": "「工业学会」的领衔人——能源、技术， 文明演化的黄金螺旋。",
         "ID": 4644,
-        "Target": ""
+        "Target": "111800"
       },
       {
         "DefName": "佩因尔",
@@ -30605,6 +30605,12 @@
         "Features": "帝王之刃的完全体形态，上古的封印终于破除，魔剑原本的样貌终于重见天日！",
         "ID": 4903,
         "Target": "114070"
+      },
+      {
+        "DefName": "小珍妮",
+        "Features": "全称为向导机器人珍妮999型，集家用、公用、助理、清洁等多功能于一身，阿派罗尼亚人的好帮手！",
+        "ID": 4904,
+        "Target": "153201/915"
       }
     ],
     "RecMintmark": {

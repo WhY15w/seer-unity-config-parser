@@ -671,6 +671,30 @@
       "param3": "pop3",
       "startTime": "2026_04_30 10:00:00",
       "state": 1
+    },
+    {
+      "actionName": "15周年签到",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2026_06_04 23:59:59",
+      "id": 58,
+      "moduleId": 885,
+      "param1": "fifteenyearsign",
+      "param2": "",
+      "param3": "pop",
+      "startTime": "2026_05_22 10:00:00",
+      "state": 1
+    },
+    {
+      "actionName": "iOS跑马灯",
+      "controller": "AutoOpenLocalOneNoticeIOS",
+      "endTime": "",
+      "id": 59,
+      "moduleId": 0,
+      "param1": "iOSNotice",
+      "param2": "前往淘米充值中心充值：https://pay.61.com/m/",
+      "param3": "",
+      "startTime": "",
+      "state": 1
     }
   ]
 }
