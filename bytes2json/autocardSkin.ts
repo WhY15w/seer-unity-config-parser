@@ -6,10 +6,12 @@ import {
 } from "../utils/ConfigParserTemplate";
 
 export interface IAutocardSkinInfo {
+  getDes: string;
   name: string;
   skinName: string;
   contentId: number;
   id: number;
+  jumpId: number;
   series: number;
   type: number;
 }
@@ -20,7 +22,9 @@ export interface AutocardSkinConfig {
 
 const autocardSkinInfoSchema: FieldSchema = [
   ["contentId", int()],
+  ["getDes", text()],
   ["id", int()],
+  ["jumpId", int()],
   ["name", text()],
   ["series", int()],
   ["skinName", text()],

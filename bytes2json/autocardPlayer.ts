@@ -12,6 +12,8 @@ export interface IAutocardPlayerInfo {
   des: string;
   name: string;
   resource: string;
+  skin: string;
+  tag: string;
   id: number;
   jumpinfo: number;
   moveSpeed: number;
@@ -33,6 +35,8 @@ const autocardPlayerInfoSchema: FieldSchema = [
   ["name", text()],
   ["rarity", int()],
   ["resource", text()],
+  ["skin", text()],
+  ["tag", text()],
 ];
 
 export const parseAutocardPlayerConfig = createSimpleListParser<
