@@ -38,13 +38,16 @@ const activityShopConfigInfoSchema: FieldSchema = [
   ["quantity", int()],
   ["shoptype", text()],
   ["sort", int()],
-  ["timeend", long()],
+  ["timeend", int()],
   ["timelimit", int()],
   ["timestart", int()],
   ["userinfo", int()],
 ];
 
-export const parseActivityShopConfigConfig = createSimpleListParser<IActivityShopConfigInfo, ActivityShopConfigConfig>({
+export const parseActivityShopConfigConfig = createSimpleListParser<
+  IActivityShopConfigInfo,
+  ActivityShopConfigConfig
+>({
   name: "Activity_ShopConfig",
   outputPath: "./json/Activity_ShopConfig.json",
   dataKey: "data",
