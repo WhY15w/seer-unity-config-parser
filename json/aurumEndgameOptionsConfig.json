@@ -3,7 +3,7 @@
     {
       "attritube": "hx1IsLowBoost",
       "branchid": 1,
-      "desc": "荣光之形的攻击速度随着生命降低而增加",
+      "desc": "【化形】荣光之形的攻击速度随着生命降低而增加\r\n【技能】赛尔激光的基础攻击力+20%",
       "group": 0,
       "id": 1,
       "maxnum": 1,
@@ -18,7 +18,7 @@
     {
       "attritube": "spell100IsEnlarge",
       "branchid": 2,
-      "desc": "每层充能会使赛尔激光宽度+50%",
+      "desc": "【技能】赛尔激光的基础攻击力+40%；每层充能会使赛尔激光宽度+50%",
       "group": 0,
       "id": 2,
       "maxnum": 1,
@@ -33,7 +33,7 @@
     {
       "attritube": "hx1IsCheckExplosion",
       "branchid": 2,
-      "desc": "荣光之形周围有初诞之形时，能量弹会造成范围伤害",
+      "desc": "【化形】荣光之形周围有初诞之形时，能量弹会造成范围伤害\r\n【技能】赛尔激光的基础攻击力+40%",
       "group": 0,
       "id": 3,
       "maxnum": 1,
@@ -48,7 +48,7 @@
     {
       "attritube": "spell100IsBoost",
       "branchid": 3,
-      "desc": "赛尔激光命中化形后，会使其攻击速度提升50%，持续12秒",
+      "desc": "【技能】赛尔激光的基础攻击力+60%；命中化形后，会使其攻击速度提升50%，持续12秒",
       "group": 0,
       "id": 4,
       "maxnum": 1,
@@ -63,7 +63,7 @@
     {
       "attritube": "hx1TargetNum",
       "branchid": 3,
-      "desc": "荣光之形同时攻击的目标数+1",
+      "desc": "【化形】荣光之形同时攻击的目标数+1\r\n【技能】赛尔激光的基础攻击力+60%",
       "group": 0,
       "id": 5,
       "maxnum": 1,
@@ -78,7 +78,7 @@
     {
       "attritube": "spell100ChargeLimit",
       "branchid": 4,
-      "desc": "赛尔激光的最大充能次数+1",
+      "desc": "【技能】赛尔激光的基础攻击力+80%；最大充能次数+1",
       "group": 0,
       "id": 6,
       "maxnum": 1,
@@ -93,7 +93,7 @@
     {
       "attritube": "hx1IsCheckLaser",
       "branchid": 4,
-      "desc": "当荣光之形附近拥有1个以上荣光之形时，攻击模式变为发射激光",
+      "desc": "【化形】当荣光之形附近拥有至少2个除自身外的荣光之形时，攻击模式变为发射激光\r\n【技能】赛尔激光的基础攻击力+80%",
       "group": 0,
       "id": 7,
       "maxnum": 1,
@@ -108,7 +108,7 @@
     {
       "attritube": "hx1IsEnergyBuff",
       "branchid": 5,
-      "desc": "召唤荣光之形时消耗的荣光能量越多，荣光之形攻击力越高",
+      "desc": "【化形】召唤荣光之形时消耗的荣光能量越多，荣光之形攻击力越高\r\n【技能】赛尔激光的基础攻击力+100%",
       "group": 0,
       "id": 8,
       "maxnum": 1,
@@ -123,7 +123,7 @@
     {
       "attritube": "spell200HealPower",
       "branchid": 1,
-      "desc": "心耀苍生命中化形后，会恢复其6点生命值，效果随充能数增强",
+      "desc": "【技能】心耀苍生的基础攻击力+20%；命中化形后，会恢复其8点生命值，效果随充能数增强",
       "group": 0,
       "id": 9,
       "maxnum": 1,
@@ -133,12 +133,12 @@
       "root": 2,
       "treeid": 2,
       "type": 0,
-      "value": 6
+      "value": 8
     },
     {
       "attritube": "spell200ChargeLimit",
       "branchid": 2,
-      "desc": "心耀苍生的最大充能次数+1",
+      "desc": "【技能】心耀苍生的基础攻击力+40%；最大充能次数+1",
       "group": 0,
       "id": 10,
       "maxnum": 1,
@@ -153,7 +153,7 @@
     {
       "attritube": "hx2IsCheckExpand",
       "branchid": 2,
-      "desc": "萌芽之形周围的每一个萌芽之形都会使自身恢复范围增加",
+      "desc": "【化形】萌芽之形周围的每一个萌芽之形都会使自身恢复范围增加\r\n【技能】心耀苍生的基础攻击力+40%",
       "group": 0,
       "id": 11,
       "maxnum": 1,
@@ -168,7 +168,7 @@
     {
       "attritube": "spell200IsEnlarge",
       "branchid": 3,
-      "desc": "每层充能会使心耀苍生的范围+20%",
+      "desc": "【技能】心耀苍生的基础攻击力+60%；每层充能会使心耀苍生的范围+60%",
       "group": 0,
       "id": 12,
       "maxnum": 1,
@@ -178,12 +178,12 @@
       "root": 2,
       "treeid": 2,
       "type": 0,
-      "value": 200
+      "value": 1
     },
     {
       "attritube": "hx4IsCheckHarder",
       "branchid": 3,
-      "desc": "萌芽之形会使范围内的纷争之形变大，并获得减伤效果",
+      "desc": "【化形】萌芽之形会使范围内的纷争之形变大，并获得减伤效果\r\n【技能】心耀苍生的基础攻击力+60%",
       "group": 0,
       "id": 13,
       "maxnum": 1,
@@ -198,7 +198,7 @@
     {
       "attritube": "spell200HealPower",
       "branchid": 4,
-      "desc": "心耀苍生的恢复力+3",
+      "desc": "【技能】心耀苍生的基础攻击力+80%；心耀苍生的基础恢复量+4",
       "group": 0,
       "id": 14,
       "maxnum": 1,
@@ -208,12 +208,12 @@
       "root": 2,
       "treeid": 2,
       "type": 0,
-      "value": 3
+      "value": 4
     },
     {
       "attritube": "hx2IsCheckLaser",
       "branchid": 4,
-      "desc": "萌芽之形周围有荣光之形时，获得发射治疗弹的能力",
+      "desc": "【化形】萌芽之形周围有荣光之形时，获得发射治疗弹的能力\r\n【技能】心耀苍生的基础攻击力+80%",
       "group": 0,
       "id": 15,
       "maxnum": 1,
@@ -228,7 +228,7 @@
     {
       "attritube": "hx2IsEnergyHeal",
       "branchid": 5,
-      "desc": "每通过召唤化形消耗1点萌芽能量，萌芽之形就会恢复自身5点生命值",
+      "desc": "【化形】每通过召唤化形消耗1点萌芽能量，萌芽之形就会恢复自身5点生命值\r\n【技能】心耀苍生的基础攻击力+100%",
       "group": 0,
       "id": 16,
       "maxnum": 1,
@@ -243,7 +243,7 @@
     {
       "attritube": "spell300IsCallBack",
       "branchid": 1,
-      "desc": "满月镰斩会在持续时间结束后返回，再一次造成伤害",
+      "desc": "【技能】满月镰斩的基础攻击力+20%；在持续时间结束后会返回原点，对沿途敌人造成伤害",
       "group": 0,
       "id": 17,
       "maxnum": 1,
@@ -258,7 +258,7 @@
     {
       "attritube": "spell300ChargeLimit",
       "branchid": 2,
-      "desc": "满月镰斩的充能次数+1",
+      "desc": "【技能】满月镰斩的基础攻击力+40%；最大充能次数+1",
       "group": 0,
       "id": 18,
       "maxnum": 1,
@@ -273,7 +273,7 @@
     {
       "attritube": "hx3IsCheckConnet",
       "branchid": 2,
-      "desc": "初诞之形之间会互相连接，并不断来回发射四叶草攻击敌人",
+      "desc": "【化形】初诞之形之间会互相连接，并不断来回发射四叶草攻击敌人\r\n【技能】满月镰斩的基础攻击力+40%\r\n",
       "group": 0,
       "id": 19,
       "maxnum": 1,
@@ -288,7 +288,7 @@
     {
       "attritube": "spell300IsKillDelay",
       "branchid": 3,
-      "desc": "满月镰斩在持续时间内，每击杀一个敌人持续时长+0.25s",
+      "desc": "【技能】满月镰斩的基础攻击力+60%；在持续时间内，每击杀一个敌人持续时长+0.25s",
       "group": 0,
       "id": 20,
       "maxnum": 1,
@@ -303,7 +303,7 @@
     {
       "attritube": "hx3IsLaunchBullet",
       "branchid": 3,
-      "desc": "初诞之形击杀敌人后会发射3发追踪弹",
+      "desc": "【化形】初诞之形击杀敌人后会发射3发追踪弹\r\n【技能】满月镰斩的基础攻击力+60%",
       "group": 0,
       "id": 21,
       "maxnum": 1,
@@ -318,7 +318,7 @@
     {
       "attritube": "spell300Size",
       "branchid": 4,
-      "desc": "满月镰斩的伤害范围+25%",
+      "desc": "【技能】满月镰斩的基础攻击力+80%；伤害范围+25%",
       "group": 0,
       "id": 22,
       "maxnum": 1,
@@ -333,7 +333,7 @@
     {
       "attritube": "hx3IsSlowDown",
       "branchid": 4,
-      "desc": "初诞之形的攻击会使敌人减速",
+      "desc": "【化形】初诞之形的攻击会使敌人减速\r\n【技能】满月镰斩的基础攻击力+80%",
       "group": 0,
       "id": 23,
       "maxnum": 1,
@@ -348,7 +348,7 @@
     {
       "attritube": "hx3IsVampire",
       "branchid": 5,
-      "desc": "初诞之形命中敌人后会回复自身0.5点生命值，对统一目标有1s冷却",
+      "desc": "【化形】初诞之形命中敌人后会回复自身0.5点生命值，对统一目标有1s冷却\r\n【技能】满月镰斩的基础攻击力+100%",
       "group": 0,
       "id": 24,
       "maxnum": 1,
@@ -363,7 +363,7 @@
     {
       "attritube": "hx4HealthUp",
       "branchid": 1,
-      "desc": "纷争之形的生命值+30%",
+      "desc": "【化形】纷争之形的生命值+30%\r\n【技能】集束导弹的基础攻击力+20%",
       "group": 0,
       "id": 25,
       "maxnum": 1,
@@ -378,7 +378,7 @@
     {
       "attritube": "spell400ChargeLimit",
       "branchid": 2,
-      "desc": "集束导弹充能上限+1",
+      "desc": "【技能】集束导弹的基础攻击力+40%；最大充能次数+1",
       "group": 0,
       "id": 26,
       "maxnum": 1,
@@ -393,7 +393,7 @@
     {
       "attritube": "hx4IsCheckWall",
       "branchid": 2,
-      "desc": "纷争之形之间会召唤可以抵挡敌人的城墙，每个纷争之形最多连接2个城墙",
+      "desc": "【化形】纷争之形之间会召唤可以抵挡敌人的城墙，每个纷争之形最多连接2个城墙\r\n【技能】集束导弹的基础攻击力+40%",
       "group": 0,
       "id": 27,
       "maxnum": 1,
@@ -408,7 +408,7 @@
     {
       "attritube": "spell400IsReward",
       "branchid": 3,
-      "desc": "集束导弹击杀敌人后有75%概率再发射一发导弹",
+      "desc": "【技能】集束导弹的基础攻击力+60%；技能击杀敌人后有75%概率再发射一发导弹",
       "group": 0,
       "id": 28,
       "maxnum": 1,
@@ -423,7 +423,7 @@
     {
       "attritube": "hx4IsEnergyHealthUp",
       "branchid": 3,
-      "desc": "召唤纷争之形时，消耗的纷争能量越多，生命值越高",
+      "desc": "【化形】召唤纷争之形时，消耗的纷争能量越多，生命值越高\r\n【技能】集束导弹的基础攻击力+60%",
       "group": 0,
       "id": 29,
       "maxnum": 1,
@@ -438,7 +438,7 @@
     {
       "attritube": "spell400ChargeNum",
       "branchid": 4,
-      "desc": "集束导弹发射的导弹数量增加",
+      "desc": "【技能】集束导弹的基础攻击力+80%；技能发射的导弹数量增加",
       "group": 0,
       "id": 30,
       "maxnum": 1,
@@ -448,12 +448,12 @@
       "root": 4,
       "treeid": 4,
       "type": 0,
-      "value": 2
+      "value": 6
     },
     {
       "attritube": "hx4IsCheckFaster",
       "branchid": 4,
-      "desc": "纷争之形周围有初诞之形时，自生获得25%的闪避效果",
+      "desc": "【化形】纷争之形周围有初诞之形时，自生获得25%的闪避效果\r\n【技能】集束导弹的基础攻击力+80%",
       "group": 0,
       "id": 31,
       "maxnum": 1,
@@ -468,7 +468,7 @@
     {
       "attritube": "hx4IsProtectOther",
       "branchid": 5,
-      "desc": "纷争之形可以 保护周围的最多3个化形，代替其承受伤害",
+      "desc": "【化形】纷争之形可以 保护周围的最多3个化形，代替其承受伤害\r\n【技能】集束导弹的基础攻击力+100%",
       "group": 0,
       "id": 32,
       "maxnum": 1,
@@ -483,7 +483,7 @@
     {
       "attritube": "spell100Damage",
       "branchid": 0,
-      "desc": "赛尔激光的伤害+20%",
+      "desc": "【技能】赛尔激光的伤害+30%",
       "group": 1,
       "id": 33,
       "maxnum": 10,
@@ -493,12 +493,12 @@
       "root": 1,
       "treeid": 0,
       "type": 1,
-      "value": 200
+      "value": 300
     },
     {
       "attritube": "spell100Damage",
       "branchid": 0,
-      "desc": "赛尔激光的伤害+35%",
+      "desc": "【技能】赛尔激光的伤害+45%",
       "group": 1,
       "id": 34,
       "maxnum": 5,
@@ -508,12 +508,12 @@
       "root": 1,
       "treeid": 0,
       "type": 1,
-      "value": 350
+      "value": 450
     },
     {
       "attritube": "spell100Damage",
       "branchid": 0,
-      "desc": "赛尔激光的伤害+50%",
+      "desc": "【技能】赛尔激光的伤害+60%",
       "group": 1,
       "id": 35,
       "maxnum": 2,
@@ -523,12 +523,12 @@
       "root": 1,
       "treeid": 0,
       "type": 1,
-      "value": 500
+      "value": 600
     },
     {
       "attritube": "spell100CoolDown",
       "branchid": 0,
-      "desc": "赛尔激光的冷却时间-8%",
+      "desc": "【技能】赛尔激光的冷却时间-8%",
       "group": 1,
       "id": 36,
       "maxnum": 2,
@@ -543,7 +543,7 @@
     {
       "attritube": "hx1Damage",
       "branchid": 0,
-      "desc": "荣光之形的伤害+35%",
+      "desc": "【化形】荣光之形的伤害+35%",
       "group": 1,
       "id": 37,
       "maxnum": 5,
@@ -558,7 +558,7 @@
     {
       "attritube": "spell100CoolDown",
       "branchid": 0,
-      "desc": "赛尔激光的冷却时间-15%",
+      "desc": "【技能】赛尔激光的冷却时间-15%",
       "group": 1,
       "id": 38,
       "maxnum": 2,
@@ -573,7 +573,7 @@
     {
       "attritube": "spell100KnockBack",
       "branchid": 0,
-      "desc": "赛尔激光现在会击退敌人",
+      "desc": "【技能】赛尔激光现在会击退敌人",
       "group": 2,
       "id": 39,
       "maxnum": 1,
@@ -588,7 +588,7 @@
     {
       "attritube": "spell100KBForce",
       "branchid": 0,
-      "desc": "赛尔激光的击退效果+20%",
+      "desc": "【技能】赛尔激光的击退效果+20%",
       "group": 1,
       "id": 40,
       "maxnum": 5,
@@ -603,7 +603,7 @@
     {
       "attritube": "hx1IsKnockBack",
       "branchid": 0,
-      "desc": "荣光之形的攻击现在也会击退敌人",
+      "desc": "【化形】荣光之形的攻击现在也会击退敌人",
       "group": 2,
       "id": 41,
       "maxnum": 1,
@@ -618,7 +618,7 @@
     {
       "attritube": "hx1IsDuraBoost",
       "branchid": 0,
-      "desc": "荣光之形攻击同一个目标时，攻速会随着攻击时长变快",
+      "desc": "【化形】荣光之形攻击同一个目标时，攻速会随着攻击时长变快",
       "group": 2,
       "id": 42,
       "maxnum": 1,
@@ -633,7 +633,7 @@
     {
       "attritube": "spell200Damage",
       "branchid": 0,
-      "desc": "心耀苍生的伤害+25%",
+      "desc": "【技能】心耀苍生的伤害+25%",
       "group": 1,
       "id": 43,
       "maxnum": 10,
@@ -648,7 +648,7 @@
     {
       "attritube": "spell200Damage",
       "branchid": 0,
-      "desc": "心耀苍生的伤害+40%",
+      "desc": "【技能】心耀苍生的伤害+40%",
       "group": 1,
       "id": 44,
       "maxnum": 6,
@@ -661,9 +661,9 @@
       "value": 400
     },
     {
-      "attritube": "spell200HealBasic",
+      "attritube": "spell200HealPower",
       "branchid": 0,
-      "desc": "心耀苍生的恢复力+2",
+      "desc": "【技能】心耀苍生的基础恢复量+2",
       "group": 1,
       "id": 45,
       "maxnum": 3,
@@ -676,30 +676,30 @@
       "value": 2
     },
     {
-      "attritube": "spell200HealPower",
+      "attritube": "spell200Heal",
       "branchid": 0,
-      "desc": "心耀苍生的恢复效果+12%",
+      "desc": "【技能】心耀苍生的恢复效果+12%",
       "group": 1,
       "id": 46,
       "maxnum": 5,
       "name": "恢复强化",
       "rarity": 1,
-      "related": 0,
+      "related": 9,
       "root": 2,
       "treeid": 0,
       "type": 1,
       "value": 120
     },
     {
-      "attritube": "spell200HealPower",
+      "attritube": "spell200Heal",
       "branchid": 0,
-      "desc": "心耀苍生的恢复效果+25%",
+      "desc": "【技能】心耀苍生的恢复效果+25%",
       "group": 1,
       "id": 47,
       "maxnum": 5,
       "name": "恢复强化",
       "rarity": 2,
-      "related": 0,
+      "related": 9,
       "root": 2,
       "treeid": 0,
       "type": 1,
@@ -708,7 +708,7 @@
     {
       "attritube": "hx2RangeUp",
       "branchid": 0,
-      "desc": "萌芽之形的恢复范围+20%",
+      "desc": "【化形】萌芽之形的恢复范围+20%",
       "group": 2,
       "id": 48,
       "maxnum": 3,
@@ -723,7 +723,7 @@
     {
       "attritube": "hx2IsHealPlanet",
       "branchid": 0,
-      "desc": "每当有1个萌芽之形存活超过55s时，恢复星球5点生命值",
+      "desc": "【化形】每当有1个萌芽之形存活超过55s时，恢复星球5点生命值",
       "group": 2,
       "id": 49,
       "maxnum": 1,
@@ -738,7 +738,7 @@
     {
       "attritube": "hx2HealPlanetValue",
       "branchid": 0,
-      "desc": "萌芽之形星球生命值回复量+2",
+      "desc": "【化形】萌芽之形对星球生命值的回复量+2",
       "group": 1,
       "id": 50,
       "maxnum": 5,
@@ -753,7 +753,7 @@
     {
       "attritube": "hx2HealPlanetValue",
       "branchid": 0,
-      "desc": "萌芽之形星球生命值回复量+5",
+      "desc": "【化形】萌芽之形对星球生命值的回复量+5",
       "group": 1,
       "id": 51,
       "maxnum": 2,
@@ -768,7 +768,7 @@
     {
       "attritube": "hx2IsDeathHeal",
       "branchid": 0,
-      "desc": "萌芽之形死亡时，会恢复范围内所有化形10生命，并获1层心耀苍生充能",
+      "desc": "【化形】萌芽之形死亡时，会恢复范围内所有化形10生命，并获1层心耀苍生充能",
       "group": 2,
       "id": 52,
       "maxnum": 1,
@@ -783,7 +783,7 @@
     {
       "attritube": "spell300Damage",
       "branchid": 0,
-      "desc": "满月镰斩的伤害+20%",
+      "desc": "【技能】满月镰斩的伤害+20%",
       "group": 1,
       "id": 53,
       "maxnum": 10,
@@ -798,7 +798,7 @@
     {
       "attritube": "spell300Damage",
       "branchid": 0,
-      "desc": "满月镰斩的伤害+35%",
+      "desc": "【技能】满月镰斩的伤害+35%",
       "group": 1,
       "id": 54,
       "maxnum": 5,
@@ -813,7 +813,7 @@
     {
       "attritube": "spell300Damage",
       "branchid": 0,
-      "desc": "满月镰斩的伤害+50%",
+      "desc": "【技能】满月镰斩的伤害+50%",
       "group": 1,
       "id": 55,
       "maxnum": 2,
@@ -828,7 +828,7 @@
     {
       "attritube": "hx3Damage",
       "branchid": 0,
-      "desc": "初诞之形的伤害+25%",
+      "desc": "【化形】初诞之形的伤害+25%",
       "group": 1,
       "id": 56,
       "maxnum": 10,
@@ -843,7 +843,7 @@
     {
       "attritube": "hx3Damage",
       "branchid": 0,
-      "desc": "初诞之形的伤害+40%",
+      "desc": "【化形】初诞之形的伤害+40%",
       "group": 1,
       "id": 57,
       "maxnum": 5,
@@ -858,7 +858,7 @@
     {
       "attritube": "hx3PropSize",
       "branchid": 0,
-      "desc": "四叶草的大小+25%",
+      "desc": "【化形】四叶草的大小+25%",
       "group": 1,
       "id": 58,
       "maxnum": 2,
@@ -873,7 +873,7 @@
     {
       "attritube": "spell300IsPath",
       "branchid": 0,
-      "desc": "技能在移动过程会留下一条轨迹对敌人造成伤害，一段时间后消失",
+      "desc": "【技能】满月镰斩移动过程会留下一条轨迹对敌人造成伤害，一段时间后消失",
       "group": 2,
       "id": 59,
       "maxnum": 1,
@@ -888,7 +888,7 @@
     {
       "attritube": "spell300PathDamage",
       "branchid": 0,
-      "desc": "技能留下的轨迹伤害+25%",
+      "desc": "【技能】满月镰斩留下的轨迹伤害+25%",
       "group": 1,
       "id": 60,
       "maxnum": 5,
@@ -903,7 +903,7 @@
     {
       "attritube": "spell300PathDamage",
       "branchid": 0,
-      "desc": "技能留下的轨迹伤害+50%",
+      "desc": "【技能】满月镰斩留下的轨迹伤害+50%",
       "group": 1,
       "id": 61,
       "maxnum": 3,
@@ -918,7 +918,7 @@
     {
       "attritube": "hx3IsEnergyPowerUp",
       "branchid": 0,
-      "desc": "召唤初诞之形时，每额外消耗1点初诞能量，旋转的四叶草就多1个",
+      "desc": "【化形】召唤初诞之形时，每额外消耗1点初诞能量，旋转的四叶草就多1个",
       "group": 2,
       "id": 62,
       "maxnum": 1,
@@ -933,7 +933,7 @@
     {
       "attritube": "spell400Damage",
       "branchid": 0,
-      "desc": "集束导弹的伤害+20%",
+      "desc": "【技能】集束导弹的伤害+20%",
       "group": 1,
       "id": 63,
       "maxnum": 10,
@@ -948,7 +948,7 @@
     {
       "attritube": "spell400Damage",
       "branchid": 0,
-      "desc": "集束导弹的伤害+35%",
+      "desc": "【技能】集束导弹的伤害+35%",
       "group": 1,
       "id": 64,
       "maxnum": 5,
@@ -963,7 +963,7 @@
     {
       "attritube": "spell400Damage",
       "branchid": 0,
-      "desc": "集束导弹的伤害+50%",
+      "desc": "【技能】集束导弹的伤害+50%",
       "group": 1,
       "id": 65,
       "maxnum": 3,
@@ -978,7 +978,7 @@
     {
       "attritube": "hx4HealthUp",
       "branchid": 0,
-      "desc": "纷争之形的生命值+30%",
+      "desc": "【化形】纷争之形的生命值+30%",
       "group": 1,
       "id": 66,
       "maxnum": 8,
@@ -993,7 +993,7 @@
     {
       "attritube": "hx4HealthUp",
       "branchid": 0,
-      "desc": "纷争之形的生命值+45%",
+      "desc": "【化形】纷争之形的生命值+45%",
       "group": 1,
       "id": 67,
       "maxnum": 4,
@@ -1008,7 +1008,7 @@
     {
       "attritube": "hx4HealthUp",
       "branchid": 0,
-      "desc": "纷争之形的生命值+60%",
+      "desc": "【化形】纷争之形的生命值+60%",
       "group": 1,
       "id": 68,
       "maxnum": 2,
@@ -1023,7 +1023,7 @@
     {
       "attritube": "hx4LaunchBulletProp",
       "branchid": 0,
-      "desc": "纷争之形受到伤害时，有30%概率发射一发能量弹",
+      "desc": "【化形】纷争之形受到伤害时，有30%概率发射一枚导弹",
       "group": 2,
       "id": 69,
       "maxnum": 1,
@@ -1038,7 +1038,7 @@
     {
       "attritube": "hx4Damage",
       "branchid": 0,
-      "desc": "纷争之形能量弹的伤害+50%",
+      "desc": "【化形】纷争之形的伤害+50%",
       "group": 1,
       "id": 70,
       "maxnum": 4,
@@ -1053,10 +1053,10 @@
     {
       "attritube": "hx4LaunchBulletProp",
       "branchid": 0,
-      "desc": "纷争之形受伤发射能量弹的概率+10%",
+      "desc": "【化形】纷争之形受伤发射导弹的概率+20%",
       "group": 1,
       "id": 71,
-      "maxnum": 4,
+      "maxnum": 2,
       "name": "反击加速",
       "rarity": 2,
       "related": 69,
@@ -1066,9 +1066,9 @@
       "value": 100
     },
     {
-      "attritube": "hx4IsHittedBlust",
+      "attritube": "hx4IsHittedBlast",
       "branchid": 0,
-      "desc": "纷争之形每受到7次伤害，就会对周围造成一次高额伤害",
+      "desc": "【化形】纷争之形每受到7次伤害，就会对周围造成一次高额伤害",
       "group": 2,
       "id": 72,
       "maxnum": 1,

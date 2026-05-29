@@ -8485,6 +8485,20 @@
                     "proicon": 1489,
                     "title": "自由之化身",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "通关S-西西弗【地狱难度】关卡获得",
+                    "ID": 12,
+                    "SpeNameBonus": 590,
+                    "Threshold": "12",
+                    "abtext": "",
+                    "achName": "希望之化身",
+                    "hide": 0,
+                    "proicon": 1493,
+                    "title": "希望之化身",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",
@@ -18135,10 +18149,10 @@
                     "SpeNameBonus": 572,
                     "Threshold": "29",
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "hide": 0,
                     "proicon": 1469,
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF"
                   },
                   {

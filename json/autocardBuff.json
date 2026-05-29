@@ -2047,6 +2047,105 @@
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0,
       "effectIcon": "",
+      "id": 30037,
+      "object": "技能",
+      "param": "a_b_c_d_e",
+      "paramDes": "放置精灵卡牌入场时，若为a系且位于手牌中位置b(0:最左侧，1:最右侧)，为其附加BUFF(ID(c)，BUFFParam(d,e,f)"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30038,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "本局游戏内，刷新商店时，最右侧精灵牌为a系精灵牌"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30039,
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "受到致死伤害时，若免疫该伤害，商店开始阶段获得a枚金币"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30040,
+      "object": "技能",
+      "param": "a_b_c_d_e",
+      "paramDes": "选择一只己方精灵，使其获得+a/+b，每购买c张卡牌后额外获得+d/+e"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30041,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "受到致死伤害时，免疫该次伤害，全局生效a次"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30042,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "选择一只己方精灵，将其出售并获得其普通原始复制（游戏开始2回合后可使用）"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30043,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "选择一只己方精灵，触发其入场效果"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30044,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "选择一张商店的精灵牌，获得该精灵牌并使其属性值翻倍"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30045,
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "第一回合商店阶段，招募一张等级a的精灵牌并将其锁定，无法使用和出售，也不参与任何觉醒，累计消耗b枚金币后解除锁定"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30046,
+      "object": "技能",
+      "param": "a_b_c_d",
+      "paramDes": "战斗开始时，使己方随机a只精灵从嘲讽、护盾、连击、强毒中获得1个随机关键词，每b回合额外增加c个生效精灵，最高d只"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
+      "id": 30047,
+      "object": "技能",
+      "param": "a",
+      "paramDes": "额外拥有a点生命值"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
       "id": 40001,
       "object": "商店",
       "param": "a_b_c",

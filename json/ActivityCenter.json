@@ -275,9 +275,9 @@
     {
       "Go": 182,
       "args": "",
-      "beginning": "2026_05_15 10:00:00",
+      "beginning": "2026_05_29 10:00:00",
       "channel": 0,
-      "ending": "2026_05_29 10:00:00",
+      "ending": "2026_06_12 10:00:00",
       "helptips": 0,
       "iOSreviewshow": 0,
       "id": 20,
@@ -1023,9 +1023,9 @@
     {
       "Go": 450,
       "args": "",
-      "beginning": "2026_04_30 10:00:00",
+      "beginning": "2026_05_29 10:00:00",
       "channel": 0,
-      "ending": "2026_05_22 10:00:00",
+      "ending": "2026_06_19 10:00:00",
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 65,
@@ -4293,12 +4293,12 @@
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 268,
-      "isShow": 0,
+      "isShow": 1,
       "labelName": "特性晶片更新",
       "name": "attributeGenerationChipCenter",
-      "redbadge": 342009,
+      "redbadge": 342017,
       "signType": 0,
-      "sorting": 7,
+      "sorting": 5,
       "type": 1
     },
     {
@@ -4466,7 +4466,7 @@
       "isShow": 0,
       "labelName": "黄金的万象",
       "name": "goldmyriad",
-      "redbadge": 261,
+      "redbadge": 288,
       "signType": 0,
       "sorting": 5,
       "type": 5
@@ -4837,7 +4837,7 @@
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 300,
-      "isShow": 1,
+      "isShow": 0,
       "labelName": "刻印之轮更新",
       "name": "markWheelPromotionPanel",
       "redbadge": 279,
@@ -5879,8 +5879,8 @@
       "name": "autocardActivateEntrance",
       "redbadge": 400004,
       "signType": 0,
-      "sorting": 1,
-      "type": 8
+      "sorting": 13,
+      "type": 1
     },
     {
       "Go": 1008,
@@ -5896,8 +5896,8 @@
       "name": "autocardInvitation",
       "redbadge": 400001,
       "signType": 0,
-      "sorting": 1,
-      "type": 8
+      "sorting": 14,
+      "type": 1
     },
     {
       "Go": 1004,
@@ -6253,7 +6253,7 @@
       "name": "XiaomiSIM",
       "redbadge": 116172,
       "signType": 0,
-      "sorting": 17,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -6758,7 +6758,7 @@
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 414,
-      "isShow": 1,
+      "isShow": 0,
       "labelName": "星际招募更新",
       "name": "petRecruitPromotionPanel",
       "redbadge": 0,
@@ -6831,7 +6831,7 @@
       "name": "0515freepet",
       "redbadge": 282,
       "signType": 0,
-      "sorting": 9,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -6888,9 +6888,9 @@
     {
       "Go": 1036,
       "args": "",
-      "beginning": "",
+      "beginning": "2026_05_22 10:00:00",
       "channel": 0,
-      "ending": "",
+      "ending": "2026_06_26 10:00:00",
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 422,
@@ -6899,8 +6899,8 @@
       "name": "storyAnniversary2026Activitycenter",
       "redbadge": 292,
       "signType": 0,
-      "sorting": 11,
-      "type": 1
+      "sorting": 3,
+      "type": 8
     },
     {
       "Go": 881,
@@ -6916,7 +6916,7 @@
       "name": "fifteenyearsign",
       "redbadge": 290,
       "signType": 0,
-      "sorting": 6,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -6933,7 +6933,7 @@
       "name": "signinSFWPanel",
       "redbadge": 293,
       "signType": 0,
-      "sorting": 5,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -6950,7 +6950,7 @@
       "name": "SanYgmActivityPanel",
       "redbadge": 0,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -6967,7 +6967,7 @@
       "name": "eyesOfLaikaEntryPanel",
       "redbadge": 287,
       "signType": 0,
-      "sorting": 2,
+      "sorting": 7,
       "type": 1
     },
     {
@@ -6984,7 +6984,7 @@
       "name": "getmagazinecenterpanel",
       "redbadge": 291,
       "signType": 0,
-      "sorting": 7,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -6999,7 +6999,7 @@
       "isShow": 1,
       "labelName": "黄金的万象",
       "name": "goldmyriad0522",
-      "redbadge": 0,
+      "redbadge": 288,
       "signType": 0,
       "sorting": 11,
       "type": 5
@@ -7018,7 +7018,7 @@
       "name": "VigilforLaikaSkin",
       "redbadge": 289,
       "signType": 0,
-      "sorting": 4,
+      "sorting": 6,
       "type": 1
     },
     {
@@ -7030,13 +7030,149 @@
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 430,
-      "isShow": 1,
+      "isShow": 0,
       "labelName": "混沌魔眼耶里梅斯",
       "name": "ChaosMagicEyeJerezMegaCenter",
       "redbadge": 0,
       "signType": 0,
       "sorting": 8,
       "type": 1
+    },
+    {
+      "Go": 1042,
+      "args": "",
+      "beginning": "2026_05_29 10:00:00",
+      "channel": 0,
+      "ending": "2026_06_05 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 431,
+      "isShow": 1,
+      "labelName": "都市调音台",
+      "name": "tiaoyinActivity",
+      "redbadge": 294,
+      "signType": 0,
+      "sorting": 3,
+      "type": 1
+    },
+    {
+      "Go": 1043,
+      "args": "",
+      "beginning": "2026_05_29 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_14 23:59:59",
+      "helptips": 0,
+      "iOSreviewshow": 0,
+      "id": 432,
+      "isShow": 1,
+      "labelName": "庆典彩蛋",
+      "name": "moneyageActivity",
+      "redbadge": 295,
+      "signType": 0,
+      "sorting": 1,
+      "type": 8
+    },
+    {
+      "Go": 886,
+      "args": "",
+      "beginning": "2026_05_29 10:00:00",
+      "channel": 0,
+      "ending": "2026_06_19 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 433,
+      "isShow": 1,
+      "labelName": "卡通玩具·萨瑞卡",
+      "name": "SareikaSkinMegaPanel",
+      "redbadge": 300,
+      "signType": 0,
+      "sorting": 4,
+      "type": 1
+    },
+    {
+      "Go": 1044,
+      "args": "",
+      "beginning": "2026_05_29 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_03 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 0,
+      "id": 434,
+      "isShow": 1,
+      "labelName": "周年献礼",
+      "name": "livesharepanel",
+      "redbadge": 296,
+      "signType": 0,
+      "sorting": 2,
+      "type": 8
+    },
+    {
+      "Go": 445,
+      "args": "Assets/Game/UI/getmyxhmainPanel/getmyxhcenterPanel.prefab",
+      "beginning": "",
+      "channel": 0,
+      "ending": "",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 435,
+      "isShow": 1,
+      "labelName": "墨影星魂",
+      "name": "InkShadowStarSoul",
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 8,
+      "type": 1
+    },
+    {
+      "Go": 1046,
+      "args": "1",
+      "beginning": "2026_05_29 10:00:00",
+      "channel": 0,
+      "ending": "2026_06_05 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 436,
+      "isShow": 1,
+      "labelName": "欢乐接宝藏",
+      "name": "happyTreasureHuntEntryPanel",
+      "redbadge": 297,
+      "signType": 0,
+      "sorting": 2,
+      "type": 1
+    },
+    {
+      "Go": 445,
+      "args": "Assets/Game/UI/FourNinePlusMine/FourNineActivityCenterPanel.prefab",
+      "beginning": "",
+      "channel": 0,
+      "ending": "",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 437,
+      "isShow": 1,
+      "labelName": "四九圣尊",
+      "name": "FourNinePlusMegaCenter",
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 8,
+      "type": 1
+    },
+    {
+      "Go": 445,
+      "args": "Assets/Game/UI/getfn4399/getfn4399.prefab",
+      "beginning": "2026_05_29 10:00:00",
+      "channel": 3,
+      "ending": "2026_06_12 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 0,
+      "id": 438,
+      "isShow": 1,
+      "labelName": "四九圣尊返场福利",
+      "name": "getfn4399",
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 13,
+      "type": 5
     }
   ]
 }

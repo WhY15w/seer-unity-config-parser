@@ -362,21 +362,21 @@
     },
     {
       "awakentype": 1,
-      "bosslevelid": 24,
-      "diamondid": 262321,
-      "enddate": "2026/4/30/10",
+      "bosslevelid": 25,
+      "diamondid": 262474,
+      "enddate": "2026/7/3/10",
       "exchangepercnt": 0,
       "fragmentid": 0,
       "fragmentnum": 0,
-      "id": 25,
+      "id": 26,
       "itemnum": 720,
-      "itemurl": 1727909,
+      "itemurl": 1728111,
       "jumpparam": "1",
       "limitid": "3107;3435;4262",
-      "monstername": "圣光莫妮卡",
-      "mosterurl": 3711,
-      "onekeyproductid": 262322,
-      "startdate": "2026/3/20/10"
+      "monstername": "格劳恩斯",
+      "mosterurl": 3407,
+      "onekeyproductid": 262475,
+      "startdate": "2026/5/29/10"
     }
   ]
 }

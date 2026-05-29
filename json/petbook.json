@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4904,
-            "ImageID": 4904,
+            "ID": 4905,
+            "ImageID": 4905,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,31 +1367,41 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 832,
-            "ImageID": 1400832,
+            "ID": 4906,
+            "ImageID": 4906,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4344,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 4907,
+            "ImageID": 4907,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 835,
+            "ImageID": 1400835,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 3637,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 833,
-            "ImageID": 1400833,
+            "ID": 836,
+            "ImageID": 1400836,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4463,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 834,
-            "ImageID": 1400834,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4606,
+            "monID": 4834,
             "type": 1
           }
         ]
@@ -16858,7 +16868,7 @@
         "DefName": "四九战将",
         "Features": "四九战将，无比犀利！",
         "ID": 2587,
-        "Target": ""
+        "Target": "150126"
       },
       {
         "DefName": "贝迪",
@@ -19876,7 +19886,7 @@
         "DefName": "四九战王",
         "Features": "四九战将的超进化形态，变得更加的犀利了！",
         "ID": 3099,
-        "Target": ""
+        "Target": "150127"
       },
       {
         "DefName": "源力·劫",
@@ -24796,7 +24806,7 @@
         "DefName": "墨影星魂",
         "Features": "凝魂炼影皆傲骨，挚怀笃情唯月照。纤纤情丝无绝尽，傲睨万物藏柔情。",
         "ID": 3932,
-        "Target": ""
+        "Target": "150125"
       },
       {
         "DefName": "离歌",
@@ -30611,6 +30621,24 @@
         "Features": "全称为向导机器人珍妮999型，集家用、公用、助理、清洁等多功能于一身，阿派罗尼亚人的好帮手！",
         "ID": 4904,
         "Target": "153201/915"
+      },
+      {
+        "DefName": "西西弗",
+        "Features": "在毁灭的阿派罗尼亚上相遇的黄金圣徒，西西弗是希望之化身。他在成长，而且无比坚强。即便参透了生活的本质，也坚定地选择去面对。",
+        "ID": 4905,
+        "Target": "153201/918"
+      },
+      {
+        "DefName": "阿西列维",
+        "Features": "2026年包月精灵，万象录之《抛砖引玉之人》。他是阿派罗尼亚游历四方的吟游诗人，也是《万象录》的作者。他将见闻经历编纂成一片片华丽的诗篇，将过往的故事不断传唱下去。",
+        "ID": 4906,
+        "Target": "121000"
+      },
+      {
+        "DefName": "佩提",
+        "Features": "拥有奇特力量的神秘小精灵，据说接近喜欢交朋友的它后可以短暂改变自己的画风呢！",
+        "ID": 4907,
+        "Target": "114075"
       }
     ],
     "RecMintmark": {
