@@ -819,6 +819,13 @@
         "PartItemType": "eye",
         "WishpartID": 20130,
         "WishrankID": 25
+      },
+      {
+        "PartItemID": 1301103,
+        "PartItemName": "逆转观测者",
+        "PartItemType": "eye",
+        "WishpartID": 20131,
+        "WishrankID": 22
       }
     ]
   }

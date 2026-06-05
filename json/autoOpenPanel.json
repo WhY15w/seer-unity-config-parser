@@ -695,6 +695,54 @@
       "param3": "",
       "startTime": "",
       "state": 1
+    },
+    {
+      "actionName": "星光拾忆弹窗",
+      "controller": "AutoOpenLocalOnce",
+      "endTime": "2026_07_03 10:00:00",
+      "id": 60,
+      "moduleId": 889,
+      "param1": "seventeenyearstar",
+      "param2": "",
+      "param3": "pop3",
+      "startTime": "2026_06_05 10:00:00",
+      "state": 1
+    },
+    {
+      "actionName": "17周年重点资源宣传",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2026_07_03 10:00:00",
+      "id": 61,
+      "moduleId": 1061,
+      "param1": "",
+      "param2": "",
+      "param3": "",
+      "startTime": "2026_06_05 10:00:00",
+      "state": 1
+    },
+    {
+      "actionName": "付费资源合集",
+      "controller": "AutoOpenBuySuggerereCompilationPopController",
+      "endTime": "2026_07_03 10:00:00",
+      "id": 62,
+      "moduleId": 1062,
+      "param1": "",
+      "param2": "",
+      "param3": "loginPop",
+      "startTime": "2026_06_05 10:00:00",
+      "state": 1
+    },
+    {
+      "actionName": "薇儿斯弹窗",
+      "controller": "AutoOpenLoginCanSkip",
+      "endTime": "2026_07_03 10:00:00",
+      "id": 63,
+      "moduleId": 892,
+      "param1": "VersePetSell",
+      "param2": "",
+      "param3": "",
+      "startTime": "2026_06_05 10:00:00",
+      "state": 1
     }
   ]
 }

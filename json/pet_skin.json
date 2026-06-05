@@ -15030,6 +15030,114 @@
           }
         ],
         "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 837,
+        "Jumptarget": 114084,
+        "MonID": 4000,
+        "Name": "于生命中得见·薇尔诗",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 23,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 20
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 838,
+        "Jumptarget": 114086,
+        "MonID": 4853,
+        "Name": "超算魅影·梅赫维特",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 4
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 839,
+        "Jumptarget": 114087,
+        "MonID": 4909,
+        "Name": "审判天使·钢傀",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 4
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 840,
+        "Jumptarget": 114090,
+        "MonID": 4911,
+        "Name": "星际领航员·艾欧丽娅",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "",
+        "GoType": "",
+        "ID": 841,
+        "Jumptarget": 0,
+        "MonID": 4760,
+        "Name": "闪耀探险家·嗒啦啦",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 2
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 842,
+        "Jumptarget": 114078,
+        "MonID": 4909,
+        "Name": "限制解除·钢傀",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 2
       }
     ]
   }

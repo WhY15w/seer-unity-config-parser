@@ -458,6 +458,23 @@
       "statlog": "",
       "truepos": 1,
       "type": 1
+    },
+    {
+      "controller": "",
+      "dailyRed": 0,
+      "dest": "1061",
+      "finishtime": "2026/7/3 10:00:00",
+      "iOSreviewshow": 0,
+      "id": 28,
+      "image": "17thAnniversaryPerks",
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "name": "周年庆典",
+      "priority": 21,
+      "statlog": "",
+      "truepos": 1,
+      "type": 2
     }
   ]
 }

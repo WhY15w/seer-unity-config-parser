@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4905,
-            "ImageID": 4905,
+            "ID": 4000,
+            "ImageID": 4000,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,8 +1367,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4906,
-            "ImageID": 4906,
+            "ID": 4908,
+            "ImageID": 4908,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1377,8 +1377,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4907,
-            "ImageID": 4907,
+            "ID": 4909,
+            "ImageID": 4909,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1387,21 +1387,81 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 835,
-            "ImageID": 1400835,
+            "ID": 4910,
+            "ImageID": 4910,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3637,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 4911,
+            "ImageID": 4911,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 837,
+            "ImageID": 1400837,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4000,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 836,
-            "ImageID": 1400836,
+            "ID": 838,
+            "ImageID": 1400838,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4834,
+            "monID": 4853,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 839,
+            "ImageID": 1400839,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4909,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 840,
+            "ImageID": 1400840,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4911,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 841,
+            "ImageID": 1400841,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4760,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 842,
+            "ImageID": 1400842,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4909,
             "type": 1
           }
         ]
@@ -25211,6 +25271,12 @@
         "Target": "140000"
       },
       {
+        "DefName": "薇尔诗",
+        "Features": "奥朗星系的世界精神，于众生愿望中化形降世的神明。",
+        "ID": 4000,
+        "Target": "114082"
+      },
+      {
         "DefName": "无上·万魔天尊",
         "Features": "魔尊的完全体，真正实力的展现，与其为敌将令你不寒而栗！",
         "ID": 4001,
@@ -30639,6 +30705,30 @@
         "Features": "拥有奇特力量的神秘小精灵，据说接近喜欢交朋友的它后可以短暂改变自己的画风呢！",
         "ID": 4907,
         "Target": "114075"
+      },
+      {
+        "DefName": "蕊沃尔",
+        "Features": "来自七人众的蕊沃尔，是一名热血演奏者，她拒绝无聊的规矩，以反抗之心守护众人。",
+        "ID": 4908,
+        "Target": "153201/923"
+      },
+      {
+        "DefName": "钢傀",
+        "Features": "失忆的机甲驾驶者钢傀，性直爽敢闯，在旅行中寻回记忆，并同你结成了要好的兄弟。",
+        "ID": 4909,
+        "Target": "114078"
+      },
+      {
+        "DefName": "波动态幽魂",
+        "Features": "黄金的波动下，残留在现世的遗愿，昭示着阿派罗尼亚曾经无尽的遗憾。",
+        "ID": 4910,
+        "Target": "400024"
+      },
+      {
+        "DefName": "星光·艾欧丽娅",
+        "Features": "艾欧丽娅星光蜕变，凝练冰霜与自然之风，温柔坚定守护挚伴，与你共赴未来星海。",
+        "ID": 4911,
+        "Target": "150128"
       }
     ],
     "RecMintmark": {

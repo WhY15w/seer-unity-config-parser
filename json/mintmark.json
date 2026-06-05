@@ -118349,7 +118349,7 @@
         ],
         "Connect": 0,
         "Des": "百罗鬼帝专属全能刻印",
-        "EffectDes": "攻击4/49,防御3/30,特防3/30,速度4/41,体力8/85",
+        "EffectDes": "防御3/30,特防3/30,速度4/41,体力8/85",
         "Grade": 5,
         "Hide": 0,
         "ID": 42688,
@@ -118436,6 +118436,3417 @@
         "MintmarkClass": 28,
         "Quality": 5,
         "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          4,
+          0,
+          4,
+          4,
+          9
+        ],
+        "Connect": 0,
+        "Des": "黄金残影·理性",
+        "EffectDes": "攻击5/59,防御4/43,特防4/43,速度4/45,体力9/90",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42691,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          59,
+          43,
+          0,
+          43,
+          45,
+          90
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          4,
+          5,
+          4,
+          4,
+          9
+        ],
+        "Connect": 0,
+        "Des": "黄金残影·感性",
+        "EffectDes": "防御4/43,特攻5/59,特防4/43,速度4/45,体力9/90",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42692,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          43,
+          59,
+          43,
+          45,
+          90
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          7,
+          3,
+          3,
+          9
+        ],
+        "Connect": 0,
+        "Des": "黄金残影·反抗",
+        "EffectDes": "防御3/35,特攻7/75,特防3/35,速度3/38,体力9/97",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42693,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          35,
+          75,
+          35,
+          38,
+          97
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          7,
+          3,
+          0,
+          3,
+          3,
+          9
+        ],
+        "Connect": 0,
+        "Des": "黄金残影·希望",
+        "EffectDes": "攻击7/75,防御3/35,特防3/35,速度3/38,体力9/97",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42694,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          75,
+          35,
+          0,
+          35,
+          38,
+          97
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          4,
+          3,
+          3,
+          13
+        ],
+        "Connect": 0,
+        "Des": "黄金残影·自由",
+        "EffectDes": "防御3/32,特攻4/49,特防3/32,速度3/32,体力13/135",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42695,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          32,
+          49,
+          32,
+          32,
+          135
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          3,
+          0,
+          3,
+          3,
+          13
+        ],
+        "Connect": 0,
+        "Des": "黄金残影·创造",
+        "EffectDes": "攻击4/49,防御3/32,特防3/32,速度3/32,体力13/135",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42696,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          49,
+          32,
+          0,
+          32,
+          32,
+          135
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          6,
+          3,
+          6,
+          2,
+          10
+        ],
+        "Connect": 0,
+        "Des": "黄金残影·和谐",
+        "EffectDes": "防御6/60,特攻3/30,特防6/60,速度2/25,体力10/105",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42697,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          60,
+          30,
+          60,
+          25,
+          105
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          6,
+          0,
+          6,
+          2,
+          10
+        ],
+        "Connect": 0,
+        "Des": "黄金残影·信仰",
+        "EffectDes": "攻击3/30,防御6/60,特防6/60,速度2/25,体力10/105",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42698,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          30,
+          60,
+          0,
+          60,
+          25,
+          105
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          5,
+          0,
+          5,
+          2,
+          9
+        ],
+        "Connect": 0,
+        "Des": "四九天启",
+        "EffectDes": "攻击3/32,防御5/50,特防5/50,速度2/28,体力9/90",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42699,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          32,
+          50,
+          0,
+          50,
+          28,
+          90
+        ],
+        "MintmarkClass": 49,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          5,
+          3,
+          5,
+          2,
+          9
+        ],
+        "Connect": 0,
+        "Des": "快爆之印",
+        "EffectDes": "防御5/50,特攻3/32,特防5/50,速度2/28,体力9/90",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42700,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          50,
+          32,
+          50,
+          28,
+          90
+        ],
+        "MintmarkClass": 49,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          5,
+          3,
+          4,
+          9
+        ],
+        "Connect": 0,
+        "Des": "万象心生",
+        "EffectDes": "防御3/32,特攻5/55,特防3/32,速度4/43,体力9/98",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42701,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          32,
+          55,
+          32,
+          43,
+          98
+        ],
+        "MintmarkClass": 61,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          3,
+          0,
+          3,
+          4,
+          9
+        ],
+        "Connect": 0,
+        "Des": "星光誓约",
+        "EffectDes": "攻击5/55,防御3/32,特防3/32,速度4/43,体力9/98",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42702,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          55,
+          32,
+          0,
+          32,
+          43,
+          98
+        ],
+        "MintmarkClass": 61,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          3,
+          3,
+          4,
+          12
+        ],
+        "Connect": 0,
+        "Des": "纯净的心晖",
+        "EffectDes": "防御3/32,特攻3/35,特防3/32,速度4/40,体力12/121",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42703,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          32,
+          35,
+          32,
+          40,
+          121
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          5,
+          3,
+          4,
+          9
+        ],
+        "Connect": 0,
+        "Des": "薇尔诗专属全能刻印",
+        "EffectDes": "防御3/30,特攻5/50,特防3/30,速度4/40,体力9/90",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42704,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          50,
+          30,
+          40,
+          90
+        ],
+        "MintmarkClass": 0,
+        "MonsterID": [
+          4000
+        ],
+        "Quality": 5,
+        "Rare": 1,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          2,
+          0,
+          2,
+          3,
+          8
+        ],
+        "Connect": 41606,
+        "Des": "十年·筑梦",
+        "EffectDes": "体力8/87,攻击4/48,防御2/28,特防2/28,速度3/39",
+        "ExtraAttriValue": [
+          2,
+          2,
+          0,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45001,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          48,
+          28,
+          0,
+          28,
+          39,
+          87
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          4,
+          2,
+          3,
+          8
+        ],
+        "Connect": 41607,
+        "Des": "十年·磨砺",
+        "EffectDes": "体力8/87,特攻4/48,防御2/28,特防2/28,速度3/39",
+        "ExtraAttriValue": [
+          0,
+          2,
+          2,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45002,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          48,
+          28,
+          39,
+          87
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          2,
+          0,
+          2,
+          2,
+          8
+        ],
+        "Connect": 41608,
+        "Des": "十年·光阴",
+        "EffectDes": "体力8/83,攻击6/63,防御2/28,特防2/28,速度2/28",
+        "ExtraAttriValue": [
+          2,
+          2,
+          0,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45003,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          63,
+          28,
+          0,
+          28,
+          28,
+          83
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          6,
+          2,
+          2,
+          8
+        ],
+        "Connect": 41609,
+        "Des": "十年·成长",
+        "EffectDes": "体力8/83,特攻6/63,防御2/28,特防2/28,速度2/28",
+        "ExtraAttriValue": [
+          0,
+          2,
+          2,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45004,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          63,
+          28,
+          28,
+          83
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          3,
+          0,
+          3,
+          2,
+          10
+        ],
+        "Connect": 41610,
+        "Des": "十年·新生",
+        "EffectDes": "体力10/125,攻击3/34,防御3/30,特防3/30,速度2/21",
+        "ExtraAttriValue": [
+          2,
+          2,
+          0,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45005,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          34,
+          30,
+          0,
+          30,
+          21,
+          125
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          3,
+          3,
+          2,
+          10
+        ],
+        "Connect": 41611,
+        "Des": "十年·同舟",
+        "EffectDes": "体力10/125,特攻3/34,防御3/30,特防3/30,速度2/21",
+        "ExtraAttriValue": [
+          0,
+          2,
+          2,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45006,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          34,
+          30,
+          21,
+          125
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          2,
+          4,
+          0,
+          4,
+          2,
+          8
+        ],
+        "Connect": 41612,
+        "Des": "十年·热爱",
+        "EffectDes": "体力8/85,攻击2/25,防御4/48,特防4/48,速度2/24",
+        "ExtraAttriValue": [
+          2,
+          2,
+          0,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45007,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          25,
+          48,
+          0,
+          48,
+          24,
+          85
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          4,
+          2,
+          4,
+          2,
+          8
+        ],
+        "Connect": 41613,
+        "Des": "十年·再续",
+        "EffectDes": "体力8/85,特攻2/25,防御4/48,特防4/48,速度2/24",
+        "ExtraAttriValue": [
+          0,
+          2,
+          2,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45008,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          48,
+          25,
+          48,
+          24,
+          85
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 4,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          3,
+          9
+        ],
+        "Connect": 41700,
+        "Des": "V10-01",
+        "EffectDes": "体力9/90,攻击5/50,防御2/28,特防2/28,速度3/39",
+        "ExtraAttriValue": [
+          2,
+          2,
+          0,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45009,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          50,
+          28,
+          0,
+          28,
+          39,
+          90
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          3,
+          9
+        ],
+        "Connect": 41701,
+        "Des": "V10-02",
+        "EffectDes": "体力9/90,特攻5/50,防御2/28,特防2/28,速度3/39",
+        "ExtraAttriValue": [
+          0,
+          2,
+          2,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45010,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          50,
+          28,
+          39,
+          90
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          2,
+          0,
+          2,
+          2,
+          8
+        ],
+        "Connect": 41702,
+        "Des": "V10-03",
+        "EffectDes": "体力8/87,攻击6/63,防御2/28,特防2/28,速度2/29",
+        "ExtraAttriValue": [
+          2,
+          2,
+          0,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45011,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          63,
+          28,
+          0,
+          28,
+          29,
+          87
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          6,
+          2,
+          2,
+          8
+        ],
+        "Connect": 41703,
+        "Des": "V10-04",
+        "EffectDes": "体力8/87,特攻6/63,防御2/28,特防2/28,速度2/29",
+        "ExtraAttriValue": [
+          0,
+          2,
+          2,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45012,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          63,
+          28,
+          29,
+          87
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          3,
+          0,
+          3,
+          2,
+          10
+        ],
+        "Connect": 41704,
+        "Des": "V10-05",
+        "EffectDes": "体力10/125,攻击3/38,防御3/30,特防3/30,速度2/22",
+        "ExtraAttriValue": [
+          2,
+          2,
+          0,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45013,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          38,
+          30,
+          0,
+          30,
+          22,
+          125
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          3,
+          3,
+          2,
+          10
+        ],
+        "Connect": 41705,
+        "Des": "V10-06",
+        "EffectDes": "体力10/125,特攻3/38,防御3/30,特防3/30,速度2/22",
+        "ExtraAttriValue": [
+          0,
+          2,
+          2,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45014,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          38,
+          30,
+          22,
+          125
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          2,
+          4,
+          0,
+          4,
+          2,
+          8
+        ],
+        "Connect": 41706,
+        "Des": "V10-07",
+        "EffectDes": "体力8/85,攻击2/28,防御4/48,特防4/48,速度2/26",
+        "ExtraAttriValue": [
+          2,
+          2,
+          0,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45015,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          28,
+          48,
+          0,
+          48,
+          26,
+          85
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          4,
+          2,
+          4,
+          2,
+          8
+        ],
+        "Connect": 41707,
+        "Des": "V10-08",
+        "EffectDes": "体力8/85,特攻2/28,防御4/48,特防4/48,速度2/26",
+        "ExtraAttriValue": [
+          0,
+          2,
+          2,
+          2,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45016,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          48,
+          28,
+          48,
+          26,
+          85
+        ],
+        "MintmarkClass": 39,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          3,
+          9
+        ],
+        "Connect": 42214,
+        "Des": "星璨·梦响",
+        "EffectDes": "体力9/90,攻击5/55,防御2/28,特防2/28,速度3/36",
+        "ExtraAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          4,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45017,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          55,
+          28,
+          0,
+          28,
+          36,
+          90
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          3,
+          9
+        ],
+        "Connect": 42215,
+        "Des": "星璨·幻响",
+        "EffectDes": "体力9/90,特攻5/55,防御2/28,特防2/28,速度3/36",
+        "ExtraAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          4,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45018,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          55,
+          28,
+          36,
+          90
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          2,
+          10
+        ],
+        "Connect": 42216,
+        "Des": "星璨·遐响",
+        "EffectDes": "体力10/105,攻击5/50,防御2/28,特防2/28,速度2/28",
+        "ExtraAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          2,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45019,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          50,
+          28,
+          0,
+          28,
+          28,
+          105
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          2,
+          10
+        ],
+        "Connect": 42217,
+        "Des": "星璨·狂响",
+        "EffectDes": "体力10/105,特攻5/50,防御2/28,特防2/28,速度2/28",
+        "ExtraAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          2,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45020,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          50,
+          28,
+          28,
+          105
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          4,
+          0,
+          4,
+          2,
+          8
+        ],
+        "Connect": 42218,
+        "Des": "星璨·沉响",
+        "EffectDes": "体力8/82,攻击5/50,防御4/40,特防4/40,速度2/28",
+        "ExtraAttriValue": [
+          4,
+          3,
+          0,
+          3,
+          2,
+          8
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45021,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          50,
+          40,
+          0,
+          40,
+          28,
+          82
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          4,
+          5,
+          4,
+          2,
+          8
+        ],
+        "Connect": 42219,
+        "Des": "星璨·彻响",
+        "EffectDes": "体力8/82,特攻5/50,防御4/40,特防4/40,速度2/28",
+        "ExtraAttriValue": [
+          0,
+          3,
+          4,
+          3,
+          2,
+          8
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45022,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          40,
+          50,
+          40,
+          28,
+          82
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          2,
+          0,
+          2,
+          3,
+          10
+        ],
+        "Connect": 42232,
+        "Des": "灵籁·欢夏",
+        "EffectDes": "体力10/102,攻击4/45,防御2/28,特防2/28,速度3/36",
+        "ExtraAttriValue": [
+          3,
+          2,
+          0,
+          2,
+          4,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45023,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          45,
+          28,
+          0,
+          28,
+          36,
+          102
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          4,
+          2,
+          3,
+          10
+        ],
+        "Connect": 42233,
+        "Des": "灵籁·觅夏",
+        "EffectDes": "体力10/102,特攻4/45,防御2/28,特防2/28,速度3/36",
+        "ExtraAttriValue": [
+          0,
+          2,
+          3,
+          2,
+          4,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45024,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          45,
+          28,
+          36,
+          102
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          4,
+          0,
+          4,
+          2,
+          10
+        ],
+        "Connect": 42234,
+        "Des": "灵籁·逐夏",
+        "EffectDes": "体力10/102,攻击3/30,防御4/40,特防4/40,速度2/24",
+        "ExtraAttriValue": [
+          2,
+          5,
+          0,
+          5,
+          2,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45025,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          30,
+          40,
+          0,
+          40,
+          24,
+          102
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          4,
+          3,
+          4,
+          2,
+          10
+        ],
+        "Connect": 42235,
+        "Des": "灵籁·伴夏",
+        "EffectDes": "体力10/102,特攻3/30,防御4/40,特防4/40,速度2/24",
+        "ExtraAttriValue": [
+          0,
+          5,
+          2,
+          5,
+          2,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45026,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          40,
+          30,
+          40,
+          24,
+          102
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          4,
+          0,
+          4,
+          3,
+          8
+        ],
+        "Connect": 42236,
+        "Des": "灵籁·爽夏",
+        "EffectDes": "体力8/82,攻击3/36,防御4/40,特防4/40,速度3/36",
+        "ExtraAttriValue": [
+          4,
+          5,
+          0,
+          5,
+          4,
+          8
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45027,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          36,
+          40,
+          0,
+          40,
+          36,
+          82
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          4,
+          3,
+          4,
+          3,
+          8
+        ],
+        "Connect": 42237,
+        "Des": "灵籁·沁夏",
+        "EffectDes": "体力8/82,特攻3/36,防御4/40,特防4/40,速度3/36",
+        "ExtraAttriValue": [
+          0,
+          5,
+          4,
+          5,
+          4,
+          8
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45028,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          40,
+          36,
+          40,
+          36,
+          82
+        ],
+        "MintmarkClass": 66,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          2,
+          0,
+          2,
+          4,
+          9
+        ],
+        "Connect": 42240,
+        "Des": "K13-01",
+        "EffectDes": "体力9/95,攻击4/49,防御2/28,特防2/28,速度4/40",
+        "ExtraAttriValue": [
+          3,
+          2,
+          0,
+          2,
+          3,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45029,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          49,
+          28,
+          0,
+          28,
+          40,
+          95
+        ],
+        "MintmarkClass": 67,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          4,
+          2,
+          4,
+          9
+        ],
+        "Connect": 42241,
+        "Des": "K13-02",
+        "EffectDes": "体力9/95,特攻4/49,防御2/28,特防2/28,速度4/40",
+        "ExtraAttriValue": [
+          0,
+          2,
+          3,
+          2,
+          3,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45030,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          49,
+          28,
+          40,
+          95
+        ],
+        "MintmarkClass": 67,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          2,
+          0,
+          2,
+          3,
+          8
+        ],
+        "Connect": 42242,
+        "Des": "K13-03",
+        "EffectDes": "体力8/84,攻击6/65,防御2/29,特防2/29,速度3/33",
+        "ExtraAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          3,
+          3
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45031,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          65,
+          29,
+          0,
+          29,
+          33,
+          84
+        ],
+        "MintmarkClass": 67,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          6,
+          2,
+          3,
+          8
+        ],
+        "Connect": 42243,
+        "Des": "K13-04",
+        "EffectDes": "体力8/84,特攻6/65,防御2/29,特防2/29,速度3/33",
+        "ExtraAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          3,
+          3
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45032,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          29,
+          65,
+          29,
+          33,
+          84
+        ],
+        "MintmarkClass": 67,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          3,
+          0,
+          3,
+          2,
+          10
+        ],
+        "Connect": 42244,
+        "Des": "K13-05",
+        "EffectDes": "体力10/123,攻击3/35,防御3/33,特防3/33,速度2/26",
+        "ExtraAttriValue": [
+          7,
+          0,
+          0,
+          0,
+          1,
+          7
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45033,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          35,
+          33,
+          0,
+          33,
+          26,
+          123
+        ],
+        "MintmarkClass": 67,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          3,
+          3,
+          2,
+          10
+        ],
+        "Connect": 42245,
+        "Des": "K13-06",
+        "EffectDes": "体力10/123,特攻3/35,防御3/33,特防3/33,速度2/26",
+        "ExtraAttriValue": [
+          0,
+          0,
+          7,
+          0,
+          1,
+          7
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45034,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          33,
+          35,
+          33,
+          26,
+          123
+        ],
+        "MintmarkClass": 67,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          2,
+          5,
+          0,
+          5,
+          2,
+          9
+        ],
+        "Connect": 42246,
+        "Des": "K13-07",
+        "EffectDes": "体力9/91,攻击2/25,防御5/50,特防5/50,速度2/24",
+        "ExtraAttriValue": [
+          0,
+          4,
+          0,
+          4,
+          3,
+          4
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45035,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          25,
+          50,
+          0,
+          50,
+          24,
+          91
+        ],
+        "MintmarkClass": 67,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          5,
+          2,
+          5,
+          2,
+          9
+        ],
+        "Connect": 42247,
+        "Des": "K13-08",
+        "EffectDes": "体力9/91,特攻2/25,防御5/50,特防5/50,速度2/24",
+        "ExtraAttriValue": [
+          0,
+          4,
+          0,
+          4,
+          3,
+          4
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45036,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          50,
+          25,
+          50,
+          24,
+          91
+        ],
+        "MintmarkClass": 67,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          4,
+          3,
+          3,
+          10
+        ],
+        "Connect": 42366,
+        "Des": "瓏腾四海",
+        "EffectDes": "体力10/100,防御3/30,特攻4/48,特防3/30,速度3/37",
+        "ExtraAttriValue": [
+          0,
+          2,
+          4,
+          2,
+          2,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45037,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          48,
+          30,
+          37,
+          100
+        ],
+        "MintmarkClass": 74,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          3,
+          9
+        ],
+        "Connect": 42367,
+        "Des": "悍武一方",
+        "EffectDes": "体力9/90,攻击5/58,防御2/24,特防2/24,速度3/39",
+        "ExtraAttriValue": [
+          0,
+          5,
+          0,
+          5,
+          2,
+          8
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45038,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          58,
+          24,
+          0,
+          24,
+          39,
+          90
+        ],
+        "MintmarkClass": 74,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          4,
+          9
+        ],
+        "Connect": 42368,
+        "Des": "沧吟星海·逐",
+        "EffectDes": "攻击5/55,防御2/27,特防2/27,速度4/41,体力9/90",
+        "ExtraAttriValue": [
+          3,
+          5,
+          0,
+          5,
+          2,
+          0
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45039,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          55,
+          27,
+          0,
+          27,
+          41,
+          90
+        ],
+        "MintmarkClass": 75,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          4,
+          9
+        ],
+        "Connect": 42369,
+        "Des": "沧吟星海·浪",
+        "EffectDes": "防御2/27,特攻5/55,特防2/27,速度4/41,体力9/90",
+        "ExtraAttriValue": [
+          0,
+          5,
+          3,
+          5,
+          2,
+          0
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45040,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          27,
+          55,
+          27,
+          41,
+          90
+        ],
+        "MintmarkClass": 75,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          3,
+          0,
+          3,
+          3,
+          8
+        ],
+        "Connect": 42370,
+        "Des": "沧吟星海·歌",
+        "EffectDes": "攻击6/65,防御3/30,特防3/30,速度3/35,体力8/80",
+        "ExtraAttriValue": [
+          5,
+          0,
+          0,
+          0,
+          3,
+          7
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45041,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          65,
+          30,
+          0,
+          30,
+          35,
+          80
+        ],
+        "MintmarkClass": 75,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          6,
+          3,
+          3,
+          8
+        ],
+        "Connect": 42371,
+        "Des": "沧吟星海·诗",
+        "EffectDes": "防御3/30,特攻6/65,特防3/30,速度3/35,体力8/80",
+        "ExtraAttriValue": [
+          0,
+          0,
+          5,
+          0,
+          3,
+          7
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45042,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          65,
+          30,
+          35,
+          80
+        ],
+        "MintmarkClass": 75,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          3,
+          0,
+          3,
+          2,
+          12
+        ],
+        "Connect": 42372,
+        "Des": "沧吟星海·辉",
+        "EffectDes": "攻击4/45,防御3/30,特防3/30,速度2/25,体力12/120",
+        "ExtraAttriValue": [
+          3,
+          0,
+          0,
+          0,
+          2,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45043,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          45,
+          30,
+          0,
+          30,
+          25,
+          120
+        ],
+        "MintmarkClass": 75,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          4,
+          3,
+          2,
+          12
+        ],
+        "Connect": 42373,
+        "Des": "沧吟星海·痕",
+        "EffectDes": "防御3/30,特攻4/45,特防3/30,速度2/25,体力12/120",
+        "ExtraAttriValue": [
+          0,
+          0,
+          3,
+          0,
+          2,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45044,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          45,
+          30,
+          25,
+          120
+        ],
+        "MintmarkClass": 75,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          2,
+          5,
+          0,
+          5,
+          2,
+          9
+        ],
+        "Connect": 42374,
+        "Des": "沧吟星海·瀚",
+        "EffectDes": "攻击2/25,防御5/50,特防5/50,速度2/20,体力9/95",
+        "ExtraAttriValue": [
+          0,
+          5,
+          0,
+          5,
+          0,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45045,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          25,
+          50,
+          0,
+          50,
+          20,
+          95
+        ],
+        "MintmarkClass": 75,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          5,
+          2,
+          5,
+          2,
+          9
+        ],
+        "Connect": 42375,
+        "Des": "沧吟星海·澜",
+        "EffectDes": "防御5/50,特攻2/25,特防5/50,速度2/20,体力9/95",
+        "ExtraAttriValue": [
+          0,
+          5,
+          0,
+          5,
+          0,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45046,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          50,
+          25,
+          50,
+          20,
+          95
+        ],
+        "MintmarkClass": 75,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          4,
+          2,
+          4,
+          11
+        ],
+        "Connect": 42496,
+        "Des": "本源回响",
+        "EffectDes": "防御2/28,特攻4/46,特防2/28,速度4/43,体力11/110",
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45047,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          28,
+          46,
+          28,
+          43,
+          110
+        ],
+        "MintmarkClass": 83,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          2,
+          0,
+          2,
+          4,
+          11
+        ],
+        "Connect": 42497,
+        "Des": "黄金螺旋",
+        "EffectDes": "攻击4/46,防御2/28,特防2/28,速度4/43,体力11/110",
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45048,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          46,
+          28,
+          0,
+          28,
+          43,
+          110
+        ],
+        "MintmarkClass": 83,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          3,
+          0,
+          3,
+          3,
+          8
+        ],
+        "Connect": 42501,
+        "Des": "群星·奇旅",
+        "EffectDes": "攻击5/54,防御3/30,特防3/30,速度3/39,体力8/82",
+        "ExtraAttriValue": [
+          5,
+          3,
+          0,
+          3,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45049,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          54,
+          30,
+          0,
+          30,
+          39,
+          82
+        ],
+        "MintmarkClass": 84,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          5,
+          3,
+          3,
+          8
+        ],
+        "Connect": 42502,
+        "Des": "群星·远航",
+        "EffectDes": "防御3/30,特攻5/54,特防3/30,速度3/39,体力8/82",
+        "ExtraAttriValue": [
+          0,
+          3,
+          5,
+          3,
+          4,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45050,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          54,
+          30,
+          39,
+          82
+        ],
+        "MintmarkClass": 84,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          2,
+          0,
+          2,
+          3,
+          8
+        ],
+        "Connect": 42503,
+        "Des": "群星·相遇",
+        "EffectDes": "攻击6/65,防御2/26,特防2/26,速度3/38,体力8/80",
+        "ExtraAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          2,
+          9
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45051,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          65,
+          26,
+          0,
+          26,
+          38,
+          80
+        ],
+        "MintmarkClass": 84,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          6,
+          2,
+          3,
+          8
+        ],
+        "Connect": 42504,
+        "Des": "群星·重逢",
+        "EffectDes": "防御2/26,特攻6/65,特防2/26,速度3/38,体力8/80",
+        "ExtraAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          2,
+          9
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45052,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          26,
+          65,
+          26,
+          38,
+          80
+        ],
+        "MintmarkClass": 84,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          2,
+          0,
+          2,
+          3,
+          12
+        ],
+        "Connect": 42505,
+        "Des": "群星·知心",
+        "EffectDes": "攻击3/39,防御2/24,特防2/24,速度3/34,体力12/124",
+        "ExtraAttriValue": [
+          4,
+          3,
+          0,
+          3,
+          0,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45053,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          39,
+          24,
+          0,
+          24,
+          34,
+          124
+        ],
+        "MintmarkClass": 84,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          3,
+          2,
+          3,
+          12
+        ],
+        "Connect": 42506,
+        "Des": "群星·共鸣",
+        "EffectDes": "防御2/24,特攻3/39,特防2/24,速度3/34,体力12/124",
+        "ExtraAttriValue": [
+          0,
+          3,
+          4,
+          3,
+          0,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45054,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          24,
+          39,
+          24,
+          34,
+          124
+        ],
+        "MintmarkClass": 84,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          2,
+          5,
+          0,
+          5,
+          2,
+          8
+        ],
+        "Connect": 42507,
+        "Des": "群星·记忆",
+        "EffectDes": "攻击2/20,防御5/55,特防5/55,速度2/20,体力8/85",
+        "ExtraAttriValue": [
+          5,
+          5,
+          0,
+          5,
+          0,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45055,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          20,
+          55,
+          0,
+          55,
+          20,
+          85
+        ],
+        "MintmarkClass": 84,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          5,
+          2,
+          5,
+          2,
+          8
+        ],
+        "Connect": 42508,
+        "Des": "群星·印象",
+        "EffectDes": "防御5/55,特攻2/20,特防5/55,速度2/20,体力8/85",
+        "ExtraAttriValue": [
+          0,
+          5,
+          5,
+          5,
+          0,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45056,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          55,
+          20,
+          55,
+          20,
+          85
+        ],
+        "MintmarkClass": 84,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 3,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          3,
+          0,
+          3,
+          4,
+          8
+        ],
+        "Connect": 42542,
+        "Des": "赫星千年·雷神",
+        "EffectDes": "攻击5/50,防御3/33,特防3/33,速度4/40,体力8/89",
+        "ExtraAttriValue": [
+          6,
+          3,
+          0,
+          3,
+          3,
+          0
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45057,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          50,
+          33,
+          0,
+          33,
+          40,
+          89
+        ],
+        "MintmarkClass": 86,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          5,
+          3,
+          4,
+          8
+        ],
+        "Connect": 42543,
+        "Des": "赫星千年·黎明",
+        "EffectDes": "防御3/33,特攻5/50,特防3/33,速度4/40,体力8/89",
+        "ExtraAttriValue": [
+          0,
+          3,
+          6,
+          3,
+          3,
+          0
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45058,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          33,
+          50,
+          33,
+          40,
+          89
+        ],
+        "MintmarkClass": 86,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          3,
+          0,
+          3,
+          3,
+          9
+        ],
+        "Connect": 42544,
+        "Des": "赫星千年·贪妄",
+        "EffectDes": "攻击6/60,防御3/30,特防3/30,速度3/33,体力9/92",
+        "ExtraAttriValue": [
+          5,
+          4,
+          0,
+          4,
+          2,
+          0
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45059,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          60,
+          30,
+          0,
+          30,
+          33,
+          92
+        ],
+        "MintmarkClass": 86,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          6,
+          3,
+          3,
+          9
+        ],
+        "Connect": 42545,
+        "Des": "赫星千年·契约",
+        "EffectDes": "防御3/30,特攻6/60,特防3/30,速度3/33,体力9/92",
+        "ExtraAttriValue": [
+          0,
+          4,
+          5,
+          4,
+          2,
+          0
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45060,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          60,
+          30,
+          33,
+          92
+        ],
+        "MintmarkClass": 86,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          2,
+          0,
+          2,
+          2,
+          12
+        ],
+        "Connect": 42546,
+        "Des": "赫星千年·超越",
+        "EffectDes": "攻击4/42,防御2/29,特防2/29,速度2/24,体力12/120",
+        "ExtraAttriValue": [
+          0,
+          3,
+          0,
+          3,
+          0,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45061,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          42,
+          29,
+          0,
+          29,
+          24,
+          120
+        ],
+        "MintmarkClass": 86,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          4,
+          2,
+          2,
+          12
+        ],
+        "Connect": 42547,
+        "Des": "赫星千年·虚空",
+        "EffectDes": "防御2/29,特攻4/42,特防2/29,速度2/24,体力12/120",
+        "ExtraAttriValue": [
+          0,
+          3,
+          0,
+          3,
+          0,
+          10
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45062,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          29,
+          42,
+          29,
+          24,
+          120
+        ],
+        "MintmarkClass": 86,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          4,
+          0,
+          4,
+          2,
+          9
+        ],
+        "Connect": 42548,
+        "Des": "赫星千年·圣律",
+        "EffectDes": "攻击3/32,防御4/45,特防4/45,速度2/28,体力9/95",
+        "ExtraAttriValue": [
+          0,
+          5,
+          0,
+          5,
+          0,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45063,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          32,
+          45,
+          0,
+          45,
+          28,
+          95
+        ],
+        "MintmarkClass": 86,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          4,
+          3,
+          4,
+          2,
+          9
+        ],
+        "Connect": 42549,
+        "Des": "赫星千年·时界",
+        "EffectDes": "防御4/45,特攻3/32,特防4/45,速度2/28,体力9/95",
+        "ExtraAttriValue": [
+          0,
+          5,
+          0,
+          5,
+          0,
+          5
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45064,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          45,
+          32,
+          45,
+          28,
+          95
+        ],
+        "MintmarkClass": 86,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          3,
+          0,
+          3,
+          4,
+          8
+        ],
+        "Connect": 42576,
+        "Des": "宿命雷魂",
+        "EffectDes": "攻击+6/60,防御+3/32,特防+3/32,速度+4/43,体力+8/88",
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45065,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          60,
+          32,
+          0,
+          32,
+          43,
+          88
+        ],
+        "MintmarkClass": 15,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          7,
+          3,
+          0,
+          3,
+          3,
+          9
+        ],
+        "Connect": 42577,
+        "Des": "宿命战魂",
+        "EffectDes": "攻击+7/70,防御+3/30,特防+3/30,速度+3/30,体力+9/95",
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45066,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          70,
+          30,
+          0,
+          30,
+          30,
+          95
+        ],
+        "MintmarkClass": 15,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          2,
+          0,
+          2,
+          3,
+          7
+        ],
+        "Connect": 42578,
+        "Des": "记忆之证·雷伊",
+        "EffectDes": "攻击5/50,防御2/25,特防2/25,速度3/35,体力7/75",
+        "ExtraAttriValue": [
+          10,
+          8,
+          0,
+          8,
+          8,
+          11
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45067,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          50,
+          25,
+          0,
+          25,
+          35,
+          75
+        ],
+        "MintmarkClass": 89,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          5,
+          2,
+          3,
+          7
+        ],
+        "Connect": 42579,
+        "Des": "记忆之证·回溯",
+        "EffectDes": "防御2/25,特攻5/50,特防2/25,速度3/35,体力7/75",
+        "ExtraAttriValue": [
+          0,
+          8,
+          10,
+          8,
+          8,
+          11
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45068,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          25,
+          50,
+          25,
+          35,
+          75
+        ],
+        "MintmarkClass": 89,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          1,
+          0,
+          1,
+          3,
+          8
+        ],
+        "Connect": 42580,
+        "Des": "记忆之证·盖亚",
+        "EffectDes": "攻击6/60,防御1/19,特防1/19,速度3/30,体力8/82",
+        "ExtraAttriValue": [
+          10,
+          9,
+          0,
+          9,
+          8,
+          9
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45069,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          60,
+          19,
+          0,
+          19,
+          30,
+          82
+        ],
+        "MintmarkClass": 89,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          1,
+          6,
+          1,
+          3,
+          8
+        ],
+        "Connect": 42581,
+        "Des": "记忆之证·敌手",
+        "EffectDes": "防御1/19,特攻6/60,特防1/19,速度3/30,体力8/82",
+        "ExtraAttriValue": [
+          0,
+          9,
+          10,
+          9,
+          8,
+          9
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45070,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          19,
+          60,
+          19,
+          30,
+          82
+        ],
+        "MintmarkClass": 89,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          3,
+          2,
+          0,
+          2,
+          2,
+          12
+        ],
+        "Connect": 42582,
+        "Des": "记忆之证·勇士",
+        "EffectDes": "攻击3/30,防御2/25,特防2/25,速度2/20,体力12/120",
+        "ExtraAttriValue": [
+          13,
+          4,
+          0,
+          4,
+          10,
+          14
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45071,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          30,
+          25,
+          0,
+          25,
+          20,
+          120
+        ],
+        "MintmarkClass": 89,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          3,
+          2,
+          2,
+          12
+        ],
+        "Connect": 42583,
+        "Des": "记忆之证·魔王",
+        "EffectDes": "防御2/25,特攻3/30,特防2/25,速度2/20,体力12/120",
+        "ExtraAttriValue": [
+          0,
+          4,
+          13,
+          4,
+          10,
+          14
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45072,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          25,
+          30,
+          25,
+          20,
+          120
+        ],
+        "MintmarkClass": 89,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          2,
+          4,
+          0,
+          4,
+          2,
+          8
+        ],
+        "Connect": 42584,
+        "Des": "记忆之证·矿藏",
+        "EffectDes": "攻击2/20,防御4/45,特防4/45,速度2/20,体力8/80",
+        "ExtraAttriValue": [
+          5,
+          10,
+          0,
+          10,
+          0,
+          20
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45073,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          20,
+          45,
+          0,
+          45,
+          20,
+          80
+        ],
+        "MintmarkClass": 89,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          4,
+          2,
+          4,
+          2,
+          8
+        ],
+        "Connect": 42585,
+        "Des": "记忆之证·琉梦",
+        "EffectDes": "防御4/45,特攻2/20,特防4/45,速度2/20,体力8/80",
+        "ExtraAttriValue": [
+          0,
+          10,
+          5,
+          10,
+          0,
+          20
+        ],
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45074,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          45,
+          20,
+          45,
+          20,
+          80
+        ],
+        "MintmarkClass": 89,
+        "Quality": 5,
+        "Rare": 5,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          3,
+          0,
+          3,
+          3,
+          13
+        ],
+        "Connect": 42611,
+        "Des": "航行6000天",
+        "EffectDes": "攻击4/40,防御3/30,特防3/30,速度3/30,体力13/130",
+        "Grade": 5,
+        "Hide": 1,
+        "ID": 45075,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          40,
+          30,
+          0,
+          30,
+          30,
+          130
+        ],
+        "MintmarkClass": 11,
+        "Quality": 5,
+        "Rare": 4,
         "Rarity": 0,
         "TotalConsume": 0,
         "Type": 3
@@ -118909,6 +122320,18 @@
       {
         "ClassName": "星辉系列",
         "ID": 93
+      },
+      {
+        "ClassName": "测试系列",
+        "ID": 94
+      },
+      {
+        "ClassName": "薇系列",
+        "ID": 95
+      },
+      {
+        "ClassName": "黄金残影系列",
+        "ID": 96
       }
     ]
   }

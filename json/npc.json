@@ -1579,6 +1579,26 @@
       "portrait": "aplnpcb_fg",
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "CharacterID": 4892,
+      "emoji": "",
+      "id": 159,
+      "initialposition": "",
+      "name": "迪利吉",
+      "portrait": "dlj_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 4906,
+      "emoji": "",
+      "id": 160,
+      "initialposition": "",
+      "name": "阿西列维",
+      "portrait": "axlw_fg",
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

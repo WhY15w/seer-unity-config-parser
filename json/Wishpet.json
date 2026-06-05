@@ -14580,6 +14580,132 @@
         "MonsterStar": 3,
         "WishProgress": 30,
         "WishpetID": 42627
+      },
+      {
+        "MonsterID": 4719,
+        "MonsterStar": 3,
+        "WishProgress": 30,
+        "WishpetID": 42628
+      },
+      {
+        "MonsterID": 4722,
+        "MonsterStar": 2,
+        "WishProgress": 9,
+        "WishpetID": 42629
+      },
+      {
+        "MonsterID": 4727,
+        "MonsterStar": 3,
+        "WishProgress": 40,
+        "WishpetID": 42630
+      },
+      {
+        "MonsterID": 4735,
+        "MonsterStar": 3,
+        "WishProgress": 40,
+        "WishpetID": 42631
+      },
+      {
+        "MonsterID": 4742,
+        "MonsterStar": 3,
+        "WishProgress": 30,
+        "WishpetID": 42632
+      },
+      {
+        "MonsterID": 4745,
+        "MonsterStar": 6,
+        "WishProgress": 250,
+        "WishpetID": 42633
+      },
+      {
+        "MonsterID": 4750,
+        "MonsterStar": 6,
+        "WishProgress": 250,
+        "WishpetID": 42634
+      },
+      {
+        "MonsterID": 4754,
+        "MonsterStar": 3,
+        "WishProgress": 40,
+        "WishpetID": 42635
+      },
+      {
+        "MonsterID": 4764,
+        "MonsterStar": 3,
+        "WishProgress": 40,
+        "WishpetID": 42636
+      },
+      {
+        "MonsterID": 4788,
+        "MonsterStar": 3,
+        "WishProgress": 40,
+        "WishpetID": 42637
+      },
+      {
+        "MonsterID": 4800,
+        "MonsterStar": 6,
+        "WishProgress": 250,
+        "WishpetID": 42638
+      },
+      {
+        "MonsterID": 4806,
+        "MonsterStar": 3,
+        "WishProgress": 35,
+        "WishpetID": 42639
+      },
+      {
+        "MonsterID": 4808,
+        "MonsterStar": 5,
+        "WishProgress": 100,
+        "WishpetID": 42640
+      },
+      {
+        "MonsterID": 4812,
+        "MonsterStar": 3,
+        "WishProgress": 30,
+        "WishpetID": 42641
+      },
+      {
+        "MonsterID": 4813,
+        "MonsterStar": 3,
+        "WishProgress": 30,
+        "WishpetID": 42642
+      },
+      {
+        "MonsterID": 4815,
+        "MonsterStar": 3,
+        "WishProgress": 40,
+        "WishpetID": 42643
+      },
+      {
+        "MonsterID": 4819,
+        "MonsterStar": 2,
+        "WishProgress": 15,
+        "WishpetID": 42644
+      },
+      {
+        "MonsterID": 4840,
+        "MonsterStar": 5,
+        "WishProgress": 100,
+        "WishpetID": 42645
+      },
+      {
+        "MonsterID": 4849,
+        "MonsterStar": 2,
+        "WishProgress": 15,
+        "WishpetID": 42646
+      },
+      {
+        "MonsterID": 2516,
+        "MonsterStar": 3,
+        "WishProgress": 40,
+        "WishpetID": 42647
+      },
+      {
+        "MonsterID": 2524,
+        "MonsterStar": 3,
+        "WishProgress": 40,
+        "WishpetID": 42648
       }
     ]
   }
