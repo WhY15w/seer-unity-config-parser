@@ -1,6 +1,7 @@
 import Downloader from "./updater/Downloader";
 import YooVersionManager from "./updater/YooVersionManager";
 import Updater from "./updater/Updater";
+import { sendTextMessage } from "../utils/feishu";
 
 async function runUpdate() {
   const downloader = new Downloader({
@@ -14,14 +15,14 @@ async function runUpdate() {
   const versionManager = new YooVersionManager(
     "ConfigPackage",
     "https://newseer.61.com/Assets/StandaloneWindows64/ConfigPackage/",
-    "./ConfigPackage/"
+    "./ConfigPackage/",
   );
 
   const updater = new Updater(
     "newseer.config",
     "seerUnity ConfigPackage Part",
     versionManager,
-    downloader
+    downloader,
   );
 
   const info = await updater.getVersionInfo();
@@ -31,4 +32,8 @@ async function runUpdate() {
   await updater.update(20);
 }
 
-runUpdate().catch((e) => console.error("更新失败:", e));
+runUpdate().catch((e) => {
+  console.error("更新失败:", e);
+  sendTextMessage("更新失败:" + e.message);
+  process.exitCode = 1;
+});
