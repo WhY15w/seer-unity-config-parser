@@ -38,7 +38,7 @@ const activityShopConfigInfoSchema: FieldSchema = [
   ["quantity", int()],
   ["shoptype", text()],
   ["sort", int()],
-  ["timeend", int()],
+  ["timeend", long()],
   ["timelimit", int()],
   ["timestart", int()],
   ["userinfo", int()],
