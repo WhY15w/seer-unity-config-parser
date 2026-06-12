@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4000,
-            "ImageID": 4000,
+            "ID": 4912,
+            "ImageID": 4912,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,8 +1367,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4908,
-            "ImageID": 4908,
+            "ID": 4913,
+            "ImageID": 4913,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1377,8 +1377,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4909,
-            "ImageID": 4909,
+            "ID": 4914,
+            "ImageID": 4914,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1387,58 +1387,28 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4910,
-            "ImageID": 4910,
+            "ID": 843,
+            "ImageID": 1400843,
             "Label": 0,
             "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4911,
-            "ImageID": 4911,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 837,
-            "ImageID": 1400837,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4000,
+            "monID": 3940,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 838,
-            "ImageID": 1400838,
+            "ID": 844,
+            "ImageID": 1400844,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4853,
+            "monID": 4912,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 839,
-            "ImageID": 1400839,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4909,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 840,
-            "ImageID": 1400840,
+            "ID": 845,
+            "ImageID": 1400845,
             "Label": 0,
             "Redirect": "module",
             "monID": 4911,
@@ -1447,21 +1417,21 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 841,
-            "ImageID": 1400841,
+            "ID": 846,
+            "ImageID": 1400846,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4760,
+            "monID": 4911,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 842,
-            "ImageID": 1400842,
+            "ID": 847,
+            "ImageID": 1400846,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4909,
+            "monID": 4911,
             "type": 1
           }
         ]
@@ -30494,7 +30464,7 @@
         "DefName": "妙时天女",
         "Features": "来自“东之圈”星球赤洲星的大佛，拥有黑白两面。白面掌管吉时佳节的欢庆，是一位善神，黑面又称“厉世天母”，掌控祭祀与狂欢。",
         "ID": 4872,
-        "Target": "114042"
+        "Target": "114095"
       },
       {
         "DefName": "宵灵·午驹",
@@ -30729,6 +30699,24 @@
         "Features": "艾欧丽娅星光蜕变，凝练冰霜与自然之风，温柔坚定守护挚伴，与你共赴未来星海。",
         "ID": 4911,
         "Target": "150128"
+      },
+      {
+        "DefName": "生之焰·灰蛾",
+        "Features": "在苦难中成长的复仇者，灰蛾在与大家同行后化恨为护，以生命守护挚绊。",
+        "ID": 4912,
+        "Target": "114091"
+      },
+      {
+        "DefName": "夏哆",
+        "Features": "遗留在众星博物馆中的一名小管理员，自从经历了那次的“波动”后，身体就变成了这副模样。",
+        "ID": 4913,
+        "Target": "400025"
+      },
+      {
+        "DefName": "奇灵画像",
+        "Features": "狡猾的家伙，居然伪装成画像来偷袭探险的正义伙伴，必须狠狠修理一番！",
+        "ID": 4914,
+        "Target": "400025"
       }
     ],
     "RecMintmark": {

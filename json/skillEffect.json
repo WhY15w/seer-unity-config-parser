@@ -34289,6 +34289,21 @@
       "tagBboss": 1,
       "tagC": "",
       "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "",
+      "id": 2506,
+      "ifTextItalic": "",
+      "info": "消耗自身本场战斗系别中的火系，之后本场战斗自身获得的渐烬改为2层天烬海",
+      "isif": 0,
+      "tagA": "",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
     }
   ]
 }

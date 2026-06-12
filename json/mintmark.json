@@ -118465,7 +118465,7 @@
           45,
           90
         ],
-        "MintmarkClass": 95,
+        "MintmarkClass": 96,
         "Quality": 5,
         "Rare": 5,
         "Rarity": 0,
@@ -118497,7 +118497,7 @@
           45,
           90
         ],
-        "MintmarkClass": 95,
+        "MintmarkClass": 96,
         "Quality": 5,
         "Rare": 5,
         "Rarity": 0,
@@ -118529,7 +118529,7 @@
           38,
           97
         ],
-        "MintmarkClass": 95,
+        "MintmarkClass": 96,
         "Quality": 5,
         "Rare": 5,
         "Rarity": 0,
@@ -118561,7 +118561,7 @@
           38,
           97
         ],
-        "MintmarkClass": 95,
+        "MintmarkClass": 96,
         "Quality": 5,
         "Rare": 5,
         "Rarity": 0,
@@ -118593,7 +118593,7 @@
           32,
           135
         ],
-        "MintmarkClass": 95,
+        "MintmarkClass": 96,
         "Quality": 5,
         "Rare": 5,
         "Rarity": 0,
@@ -118625,7 +118625,7 @@
           32,
           135
         ],
-        "MintmarkClass": 95,
+        "MintmarkClass": 96,
         "Quality": 5,
         "Rare": 5,
         "Rarity": 0,
@@ -118657,7 +118657,7 @@
           25,
           105
         ],
-        "MintmarkClass": 95,
+        "MintmarkClass": 96,
         "Quality": 5,
         "Rare": 5,
         "Rarity": 0,
@@ -118689,7 +118689,7 @@
           25,
           105
         ],
-        "MintmarkClass": 95,
+        "MintmarkClass": 96,
         "Quality": 5,
         "Rare": 5,
         "Rarity": 0,
@@ -118884,6 +118884,297 @@
         "MintmarkClass": 0,
         "MonsterID": [
           4000
+        ],
+        "Quality": 5,
+        "Rare": 1,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          3,
+          0,
+          3,
+          4,
+          8
+        ],
+        "Connect": 0,
+        "Des": "薇之初曦",
+        "EffectDes": "攻击4/48,防御3/30,特防3/30,速度4/41,体力8/86",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42705,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          48,
+          30,
+          0,
+          30,
+          41,
+          86
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          3,
+          4,
+          3,
+          4,
+          8
+        ],
+        "Connect": 0,
+        "Des": "薇之朝露",
+        "EffectDes": "防御3/30,特攻4/48,特防3/30,速度4/41,体力8/86",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42706,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          30,
+          48,
+          30,
+          41,
+          86
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          6,
+          2,
+          3,
+          8
+        ],
+        "Connect": 0,
+        "Des": "薇之轻涟",
+        "EffectDes": "防御2/25,特攻6/65,特防2/25,速度3/32,体力8/88",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42707,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          25,
+          65,
+          25,
+          32,
+          88
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          6,
+          2,
+          0,
+          2,
+          3,
+          8
+        ],
+        "Connect": 0,
+        "Des": "薇之纤雨",
+        "EffectDes": "攻击6/65,防御2/25,特防2/25,速度3/32,体力8/88",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42708,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          65,
+          25,
+          0,
+          25,
+          32,
+          88
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          2,
+          4,
+          2,
+          2,
+          11
+        ],
+        "Connect": 0,
+        "Des": "薇之晴岚",
+        "EffectDes": "防御2/26,特攻4/43,特防2/26,速度2/25,体力11/115",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42709,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          26,
+          43,
+          26,
+          25,
+          115
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
+          2,
+          0,
+          2,
+          2,
+          11
+        ],
+        "Connect": 0,
+        "Des": "薇之谧夜",
+        "EffectDes": "攻击4/43,防御2/26,特防2/26,速度2/25,体力11/115",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42710,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          43,
+          26,
+          0,
+          26,
+          25,
+          115
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          0,
+          5,
+          2,
+          5,
+          2,
+          9
+        ],
+        "Connect": 0,
+        "Des": "薇之新芽",
+        "EffectDes": "防御5/51,特攻2/21,特防5/51,速度2/21,体力9/91",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42711,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          0,
+          51,
+          21,
+          51,
+          21,
+          91
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          2,
+          5,
+          0,
+          5,
+          2,
+          9
+        ],
+        "Connect": 0,
+        "Des": "薇之守候",
+        "EffectDes": "攻击2/21,防御5/51,特防5/51,速度2/21,体力9/91",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42712,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          21,
+          51,
+          0,
+          51,
+          21,
+          91
+        ],
+        "MintmarkClass": 95,
+        "Quality": 5,
+        "Rare": 3,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          5,
+          3,
+          0,
+          3,
+          4,
+          9
+        ],
+        "Connect": 0,
+        "Des": "生之焰·灰蛾专属全能刻印",
+        "EffectDes": "攻击5/50,防御3/30,特防3/30,速度4/40,体力9/90",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42713,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          50,
+          30,
+          0,
+          30,
+          40,
+          90
+        ],
+        "MintmarkClass": 0,
+        "MonsterID": [
+          4912
         ],
         "Quality": 5,
         "Rare": 1,

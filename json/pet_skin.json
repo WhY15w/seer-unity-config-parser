@@ -12425,7 +12425,7 @@
         "Go": "",
         "GoType": "",
         "ID": 692,
-        "Jumptarget": 0,
+        "Jumptarget": 510007,
         "MonID": 4717,
         "Name": "文明之忏·尤纳斯",
         "SkinKind": [
@@ -13145,7 +13145,7 @@
         "Go": "",
         "GoType": "",
         "ID": 732,
-        "Jumptarget": 510004,
+        "Jumptarget": 510007,
         "MonID": 4717,
         "Name": "黑日之灾·尤纳斯",
         "SkinKind": [
@@ -13433,7 +13433,7 @@
         "Go": "",
         "GoType": "",
         "ID": 748,
-        "Jumptarget": 510004,
+        "Jumptarget": 510007,
         "MonID": 4421,
         "Name": "沧浪龙吟·赵云",
         "SkinKind": [
@@ -14639,7 +14639,7 @@
         "Go": "",
         "GoType": "",
         "ID": 815,
-        "Jumptarget": 0,
+        "Jumptarget": 410000,
         "MonID": 4717,
         "Name": "怪盗气球·尤纳斯",
         "SkinKind": [
@@ -15138,6 +15138,96 @@
           }
         ],
         "Type": 2
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 843,
+        "Jumptarget": 2,
+        "MonID": 3940,
+        "Name": "傲世飞将·吕布",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 844,
+        "Jumptarget": 114092,
+        "MonID": 4912,
+        "Name": "无法抵达的梦·灰蛾",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 4
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 845,
+        "Jumptarget": 114093,
+        "MonID": 4911,
+        "Name": "星冕纱华·艾欧丽娅",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 4
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 846,
+        "Jumptarget": 114094,
+        "MonID": 4911,
+        "Name": "阿娅",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 0
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 847,
+        "Jumptarget": 114094,
+        "MonID": 4911,
+        "Name": "艾丽娅",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 0
       }
     ]
   }

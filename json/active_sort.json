@@ -401,6 +401,9 @@
       "jumptarget": 420000,
       "name": "传奇扭蛋机",
       "priority": 4,
+      "reddotid": [
+        342027
+      ],
       "statlog": "2026运营活动,0213新春扭蛋机,点击主界面按钮【新春扭蛋机】",
       "truepos": 1,
       "type": 1

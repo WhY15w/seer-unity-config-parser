@@ -531,7 +531,7 @@
       "desc": "【技能】赛尔激光的冷却时间-8%",
       "group": 1,
       "id": 36,
-      "maxnum": 2,
+      "maxnum": 5,
       "name": "冷却缩短",
       "rarity": 1,
       "related": 0,
@@ -546,7 +546,7 @@
       "desc": "【化形】荣光之形的伤害+35%",
       "group": 1,
       "id": 37,
-      "maxnum": 5,
+      "maxnum": 10,
       "name": "荣光强化",
       "rarity": 2,
       "related": 0,
@@ -636,7 +636,7 @@
       "desc": "【技能】心耀苍生的伤害+25%",
       "group": 1,
       "id": 43,
-      "maxnum": 10,
+      "maxnum": 12,
       "name": "伤害强化",
       "rarity": 1,
       "related": 0,
@@ -676,19 +676,19 @@
       "value": 2
     },
     {
-      "attritube": "spell200Heal",
+      "attritube": "spell200CoolDown",
       "branchid": 0,
-      "desc": "【技能】心耀苍生的恢复效果+12%",
+      "desc": "【技能】心耀苍生的冷却时间-8%",
       "group": 1,
       "id": 46,
       "maxnum": 5,
-      "name": "恢复强化",
+      "name": "冷却缩短",
       "rarity": 1,
       "related": 9,
       "root": 2,
       "treeid": 0,
       "type": 1,
-      "value": 120
+      "value": -80
     },
     {
       "attritube": "spell200Heal",
@@ -773,7 +773,7 @@
       "id": 52,
       "maxnum": 1,
       "name": "最后波纹",
-      "rarity": 3,
+      "rarity": 2,
       "related": 0,
       "root": 2,
       "treeid": 0,
@@ -796,19 +796,19 @@
       "value": 200
     },
     {
-      "attritube": "spell300Damage",
+      "attritube": "spell300CoolDown",
       "branchid": 0,
-      "desc": "【技能】满月镰斩的伤害+35%",
+      "desc": "【技能】满月镰斩的冷却时间-12%",
       "group": 1,
       "id": 54,
       "maxnum": 5,
-      "name": "伤害强化",
+      "name": "冷却缩短",
       "rarity": 2,
       "related": 0,
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 350
+      "value": -120
     },
     {
       "attritube": "spell300Damage",
@@ -831,7 +831,7 @@
       "desc": "【化形】初诞之形的伤害+25%",
       "group": 1,
       "id": 56,
-      "maxnum": 10,
+      "maxnum": 5,
       "name": "初诞强化",
       "rarity": 1,
       "related": 0,
@@ -856,13 +856,13 @@
       "value": 400
     },
     {
-      "attritube": "hx3PropSize",
+      "attritube": "spell300QuickHx3",
       "branchid": 0,
-      "desc": "【化形】四叶草的大小+25%",
+      "desc": "【技能】场上每存在一个初诞之形，满月镰斩的冷却时间-0.25s",
       "group": 1,
       "id": 58,
-      "maxnum": 2,
-      "name": "范围强化",
+      "maxnum": 1,
+      "name": "化形呼应",
       "rarity": 3,
       "related": 0,
       "root": 3,
@@ -891,7 +891,7 @@
       "desc": "【技能】满月镰斩留下的轨迹伤害+25%",
       "group": 1,
       "id": 60,
-      "maxnum": 5,
+      "maxnum": 10,
       "name": "轨迹强化",
       "rarity": 1,
       "related": 59,
@@ -901,19 +901,19 @@
       "value": 250
     },
     {
-      "attritube": "spell300PathDamage",
+      "attritube": "hx3PropSize",
       "branchid": 0,
-      "desc": "【技能】满月镰斩留下的轨迹伤害+50%",
+      "desc": "【化形】四叶草的大小+30%",
       "group": 1,
       "id": 61,
       "maxnum": 3,
-      "name": "轨迹强化",
+      "name": "范围强化",
       "rarity": 2,
       "related": 59,
       "root": 3,
       "treeid": 0,
       "type": 1,
-      "value": 500
+      "value": 300
     },
     {
       "attritube": "hx3IsEnergyPowerUp",
@@ -946,19 +946,19 @@
       "value": 200
     },
     {
-      "attritube": "spell400Damage",
+      "attritube": "spell400CoolDown",
       "branchid": 0,
-      "desc": "【技能】集束导弹的伤害+35%",
+      "desc": "【技能】集束导弹的冷却时间-12%",
       "group": 1,
       "id": 64,
       "maxnum": 5,
-      "name": "伤害强化",
+      "name": "冷却缩短",
       "rarity": 2,
       "related": 0,
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 350
+      "value": -120
     },
     {
       "attritube": "spell400Damage",
@@ -981,7 +981,7 @@
       "desc": "【化形】纷争之形的生命值+30%",
       "group": 1,
       "id": 66,
-      "maxnum": 8,
+      "maxnum": 10,
       "name": "纷争强化",
       "rarity": 1,
       "related": 0,
@@ -1006,19 +1006,19 @@
       "value": 450
     },
     {
-      "attritube": "hx4HealthUp",
+      "attritube": "spell400QuickHx4",
       "branchid": 0,
-      "desc": "【化形】纷争之形的生命值+60%",
+      "desc": "【技能】场上每存在1个纷争之形，集束导弹的冷却时间-0.25s",
       "group": 1,
       "id": 68,
-      "maxnum": 2,
-      "name": "纷争强化",
+      "maxnum": 1,
+      "name": "化形呼唤",
       "rarity": 3,
       "related": 0,
       "root": 4,
       "treeid": 0,
       "type": 1,
-      "value": 600
+      "value": 250
     },
     {
       "attritube": "hx4LaunchBulletProp",

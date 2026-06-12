@@ -275,9 +275,9 @@
     {
       "Go": 182,
       "args": "",
-      "beginning": "2026_05_29 10:00:00",
+      "beginning": "2026_06_12 10:00:00",
       "channel": 0,
-      "ending": "2026_06_12 10:00:00",
+      "ending": "2026_06_26 10:00:00",
       "helptips": 0,
       "iOSreviewshow": 0,
       "id": 20,
@@ -1187,7 +1187,7 @@
       "name": "wishList",
       "redbadge": 36,
       "signType": 1,
-      "sorting": 2,
+      "sorting": 20,
       "type": 8
     },
     {
@@ -4425,14 +4425,14 @@
       "args": "",
       "beginning": "2026_01_16 10:00:00",
       "channel": 0,
-      "ending": "2026_06_12 10:00:00",
+      "ending": "2026_09_03 10:00:00",
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 276,
       "isShow": 1,
       "labelName": "传奇扭蛋机",
       "name": "elfGacha",
-      "redbadge": 342010,
+      "redbadge": 342027,
       "signType": 0,
       "sorting": 19,
       "type": 1
@@ -4916,18 +4916,18 @@
     {
       "Go": 783,
       "args": "",
-      "beginning": "2026_02_20 00:00:00",
+      "beginning": "2026_06_12 00:00:00",
       "channel": 0,
-      "ending": "2026_03_06 10:00:00",
+      "ending": "2026_07_03 10:00:00",
       "helptips": 396,
       "iOSreviewshow": 1,
       "id": 305,
       "isShow": 1,
-      "labelName": "永烬劫炎·上古炎兽",
+      "labelName": "上古炎兽新形态",
       "name": "GetShangGuYanShou",
-      "redbadge": 218,
+      "redbadge": 320,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 5,
       "type": 8
     },
     {
@@ -6899,7 +6899,7 @@
       "name": "storyAnniversary2026Activitycenter",
       "redbadge": 292,
       "signType": 0,
-      "sorting": 18,
+      "sorting": 210,
       "type": 8
     },
     {
@@ -7069,7 +7069,7 @@
       "name": "moneyageActivity",
       "redbadge": 295,
       "signType": 0,
-      "sorting": 13,
+      "sorting": 150,
       "type": 8
     },
     {
@@ -7103,7 +7103,7 @@
       "name": "livesharepanel",
       "redbadge": 296,
       "signType": 0,
-      "sorting": 17,
+      "sorting": 200,
       "type": 8
     },
     {
@@ -7205,7 +7205,7 @@
       "name": "17starrySky",
       "redbadge": 299,
       "signType": 0,
-      "sorting": 15,
+      "sorting": 170,
       "type": 8
     },
     {
@@ -7222,7 +7222,7 @@
       "name": "ChaosuanSkinMegaPanel",
       "redbadge": 305,
       "signType": 0,
-      "sorting": 11,
+      "sorting": 130,
       "type": 8
     },
     {
@@ -7239,7 +7239,7 @@
       "name": "seventeenthAnniversaryMintmarkPanel",
       "redbadge": 311,
       "signType": 0,
-      "sorting": 7,
+      "sorting": 70,
       "type": 8
     },
     {
@@ -7256,7 +7256,7 @@
       "name": "versePetSell",
       "redbadge": 0,
       "signType": 0,
-      "sorting": 6,
+      "sorting": 60,
       "type": 8
     },
     {
@@ -7273,7 +7273,7 @@
       "name": "17yearsstarlight",
       "redbadge": 301,
       "signType": 0,
-      "sorting": 5,
+      "sorting": 50,
       "type": 8
     },
     {
@@ -7290,7 +7290,7 @@
       "name": "staraiouliyaActivity",
       "redbadge": 302,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 30,
       "type": 8
     },
     {
@@ -7324,7 +7324,7 @@
       "name": "AnnivSkinCardMegaPanel",
       "redbadge": 304,
       "signType": 0,
-      "sorting": 8,
+      "sorting": 80,
       "type": 8
     },
     {
@@ -7341,7 +7341,7 @@
       "name": "ShengpAngleSkinMegaPanel",
       "redbadge": 306,
       "signType": 0,
-      "sorting": 10,
+      "sorting": 120,
       "type": 8
     },
     {
@@ -7358,7 +7358,7 @@
       "name": "weiSkinActivity",
       "redbadge": 309,
       "signType": 0,
-      "sorting": 9,
+      "sorting": 90,
       "type": 8
     },
     {
@@ -7375,7 +7375,7 @@
       "name": "seer17thAnniversaryHelpsGetGift",
       "redbadge": 307,
       "signType": 0,
-      "sorting": 14,
+      "sorting": 160,
       "type": 8
     },
     {
@@ -7409,7 +7409,7 @@
       "name": "17thAnniversaryGiftPanel",
       "redbadge": 308,
       "signType": 0,
-      "sorting": 16,
+      "sorting": 180,
       "type": 8
     },
     {
@@ -7426,7 +7426,7 @@
       "name": "getgkpanel",
       "redbadge": 310,
       "signType": 0,
-      "sorting": 4,
+      "sorting": 40,
       "type": 8
     },
     {
@@ -7477,7 +7477,7 @@
       "name": "sign0605",
       "redbadge": 313,
       "signType": 0,
-      "sorting": 20,
+      "sorting": 230,
       "type": 8
     },
     {
@@ -7543,9 +7543,145 @@
       "isShow": 1,
       "labelName": "周年庆主题曲",
       "name": "seventeensong",
+      "redbadge": 316,
+      "signType": 0,
+      "sorting": 229,
+      "type": 8
+    },
+    {
+      "Go": 894,
+      "args": "",
+      "beginning": "2026_06_12 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_03 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 0,
+      "id": 461,
+      "isShow": 1,
+      "labelName": "星冕纱华",
+      "name": "StarAiouSkinMegaPanel",
+      "redbadge": 317,
+      "signType": 0,
+      "sorting": 6,
+      "type": 8
+    },
+    {
+      "Go": 1111,
+      "args": "",
+      "beginning": "2026_06_12 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_03 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 462,
+      "isShow": 1,
+      "labelName": "生之焰·灰蛾",
+      "name": "getszyhecenter",
+      "redbadge": 325,
+      "signType": 0,
+      "sorting": 4,
+      "type": 8
+    },
+    {
+      "Go": 1112,
+      "args": "",
+      "beginning": "2026_06_12 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_03 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 0,
+      "id": 463,
+      "isShow": 1,
+      "labelName": "无法抵达的梦",
+      "name": "UnreachableDreamSkinMegaPanel",
+      "redbadge": 318,
+      "signType": 0,
+      "sorting": 7,
+      "type": 8
+    },
+    {
+      "Go": 1109,
+      "args": "",
+      "beginning": "2026_06_12 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_03 10:00:00",
+      "helptips": 434,
+      "iOSreviewshow": 1,
+      "id": 464,
+      "isShow": 1,
+      "labelName": "妙时天女",
+      "name": "theFifthBuddhaRuturnPanel",
+      "redbadge": 321,
+      "signType": 0,
+      "sorting": 5,
+      "type": 8
+    },
+    {
+      "Go": 1065,
+      "args": "",
+      "beginning": "2026_06_12 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_03 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 465,
+      "isShow": 1,
+      "labelName": "黄金城攻防战",
+      "name": "guntower",
       "redbadge": 315,
       "signType": 0,
-      "sorting": 21,
+      "sorting": 3,
+      "type": 8
+    },
+    {
+      "Go": 1110,
+      "args": "",
+      "beginning": "2026_06_12 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_03 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 466,
+      "isShow": 1,
+      "labelName": "艾欧丽娅的试炼",
+      "name": "aolyTrial",
+      "redbadge": 322,
+      "signType": 0,
+      "sorting": 181,
+      "type": 8
+    },
+    {
+      "Go": 445,
+      "args": "Assets/Game/UI/mysteryBoxGameEntryActivity/mysteryBoxGameEntry.prefab",
+      "beginning": "2026_06_12 10:00:00",
+      "channel": 0,
+      "ending": "2026_07_03 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 467,
+      "isShow": 1,
+      "labelName": "星宝拍卖会",
+      "name": "mysteryBoxGameEntry",
+      "redbadge": 324,
+      "signType": 0,
+      "sorting": 2,
+      "type": 8
+    },
+    {
+      "Go": 445,
+      "args": "Assets/Game/UI/apeironia_2_game/apeironia_2_explore.prefab",
+      "beginning": "",
+      "channel": 0,
+      "ending": "",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 468,
+      "isShow": 1,
+      "labelName": "探索众星博物馆",
+      "name": "apeironia_2_explore",
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 228,
       "type": 8
     }
   ]
