@@ -26,9 +26,19 @@
       "picID": "electric"
     },
     {
+      "id": 6,
+      "name": "机械",
+      "picID": "steel"
+    },
+    {
       "id": 7,
       "name": "地面",
       "picID": "ground"
+    },
+    {
+      "id": 15,
+      "name": "龙",
+      "picID": "dragon"
     },
     {
       "id": 999,

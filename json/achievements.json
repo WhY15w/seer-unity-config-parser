@@ -8527,6 +8527,20 @@
                     "proicon": 1498,
                     "title": "反抗之化身",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "通关S-西曼德妮【地狱难度】关卡获得",
+                    "ID": 14,
+                    "SpeNameBonus": 597,
+                    "Threshold": "14",
+                    "abtext": "",
+                    "achName": "创造之化身",
+                    "hide": 0,
+                    "proicon": 1500,
+                    "title": "创造之化身",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",
@@ -8753,6 +8767,48 @@
                     "proicon": 1476,
                     "title": "群星闪耀",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "s1赛季群星牌首次达到专家段位",
+                    "ID": 2,
+                    "SpeNameBonus": 0,
+                    "Threshold": "2",
+                    "abtext": "",
+                    "achName": "s1赛季群星牌专家",
+                    "hide": 0,
+                    "proicon": 1501,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "s1赛季群星牌首次达到传奇段位",
+                    "ID": 3,
+                    "SpeNameBonus": 0,
+                    "Threshold": "3",
+                    "abtext": "",
+                    "achName": "s1赛季群星牌传奇",
+                    "hide": 0,
+                    "proicon": 1502,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "s1赛季群星牌首次达到群星之巅段位",
+                    "ID": 4,
+                    "SpeNameBonus": 0,
+                    "Threshold": "4",
+                    "abtext": "",
+                    "achName": "s1赛季群星牌群星之巅",
+                    "hide": 0,
+                    "proicon": 1503,
+                    "title": "",
+                    "titleColor": ""
                   }
                 ],
                 "_text": "",
@@ -18177,10 +18233,10 @@
                     "SpeNameBonus": 572,
                     "Threshold": "29",
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业拔除",
+                    "achName": "岁业祓除",
                     "hide": 0,
                     "proicon": 1469,
-                    "title": "岁业拔除",
+                    "title": "岁业祓除",
                     "titleColor": "0xFFFFFF"
                   },
                   {

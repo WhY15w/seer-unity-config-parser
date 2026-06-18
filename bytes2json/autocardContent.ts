@@ -10,18 +10,18 @@ export interface IAutocardContentInfo {
   BuffParam: string;
   cardTxt: string;
   des: string;
-  // effectIcon: string;
   name: string;
+  skins: string;
   attack: number;
   compose: number;
   composeTo: number;
   cost: number;
   CountNum: number;
+  CountType: number;
   Display: number;
+  headpicID: number;
   health: number;
   id: number;
-  // IsDeathEffect: number;
-  // IsPlaceEffect: number;
   isUse: number;
   level: number;
   nature: number;
@@ -38,16 +38,15 @@ const autocardContentInfoSchema: FieldSchema = [
   ["BuffId", text()],
   ["BuffParam", text()],
   ["CountNum", int()],
+  ["CountType", int()],
   ["Display", int()],
-  // ["IsDeathEffect", int()],
-  // ["IsPlaceEffect", int()],
   ["attack", int()],
   ["cardTxt", text()],
   ["compose", int()],
   ["composeTo", int()],
   ["cost", int()],
   ["des", text()],
-  // ["effectIcon", text()],
+  ["headpicID", int()],
   ["health", int()],
   ["id", int()],
   ["isUse", int()],
@@ -55,6 +54,7 @@ const autocardContentInfoSchema: FieldSchema = [
   ["name", text()],
   ["nature", int()],
   ["picID", int()],
+  ["skins", text()],
   ["subtype", int()],
   ["type", int()],
 ];

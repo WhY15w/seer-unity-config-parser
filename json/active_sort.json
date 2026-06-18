@@ -438,6 +438,9 @@
       "jumptarget": 0,
       "name": "",
       "priority": 20,
+      "reddotid": [
+        400038
+      ],
       "statlog": "",
       "truepos": 1,
       "type": 2

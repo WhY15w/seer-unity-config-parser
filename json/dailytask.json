@@ -100,6 +100,15 @@
       "value": "5"
     },
     {
+      "describe": "完成1场群星牌",
+      "id": 12,
+      "rewardinfo": "3_204001_80",
+      "target": 510009,
+      "time": 1,
+      "title": "群星牌",
+      "value": "1"
+    },
+    {
       "describe": "通关5次泰坦矿洞",
       "id": 101,
       "rewardinfo": "3_20210_10",
@@ -206,6 +215,15 @@
       "time": 2,
       "title": "星际迷航",
       "value": "1"
+    },
+    {
+      "describe": "完成10场群星牌",
+      "id": 113,
+      "rewardinfo": "3_20210_160",
+      "target": 510009,
+      "time": 2,
+      "title": "群星牌",
+      "value": "10"
     }
   ]
 }

@@ -45,10 +45,10 @@
       "id": 4,
       "level": 4,
       "lvlup_cost": 14,
-      "rate1": 15,
-      "rate2": 35,
-      "rate3": 35,
-      "rate4": 15,
+      "rate1": 18,
+      "rate2": 32,
+      "rate3": 32,
+      "rate4": 18,
       "rate5": 0,
       "rate6": 0
     },
@@ -58,11 +58,11 @@
       "id": 5,
       "level": 5,
       "lvlup_cost": 14,
-      "rate1": 12,
-      "rate2": 24,
-      "rate3": 28,
-      "rate4": 24,
-      "rate5": 12,
+      "rate1": 15,
+      "rate2": 22,
+      "rate3": 26,
+      "rate4": 22,
+      "rate5": 15,
       "rate6": 0
     },
     {
@@ -71,12 +71,12 @@
       "id": 6,
       "level": 6,
       "lvlup_cost": 14,
-      "rate1": 8,
-      "rate2": 18,
-      "rate3": 24,
-      "rate4": 24,
-      "rate5": 18,
-      "rate6": 8
+      "rate1": 12,
+      "rate2": 16,
+      "rate3": 22,
+      "rate4": 22,
+      "rate5": 16,
+      "rate6": 12
     }
   ]
 }

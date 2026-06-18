@@ -6172,8 +6172,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_1",
+      "userinfo": 152082,
       "value": 2
     },
     {
@@ -6188,8 +6188,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_2",
+      "userinfo": 152082,
       "value": 5
     },
     {
@@ -6204,8 +6204,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_3",
+      "userinfo": 152082,
       "value": 7
     },
     {
@@ -6220,15 +6220,15 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_4",
+      "userinfo": 152082,
       "value": 10
     },
     {
       "activityid": 32,
       "describe": "累计游玩12次游戏",
       "id": 528,
-      "rewardinfo": "1_2500004_1",
+      "rewardinfo": "1_2300046_2",
       "tasksubtype": 0,
       "time": 0,
       "timeend": "1783044000",
@@ -6236,8 +6236,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_5",
+      "userinfo": 152082,
       "value": 12
     },
     {
@@ -6252,8 +6252,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_6",
+      "userinfo": 152082,
       "value": 15
     },
     {
@@ -6268,8 +6268,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_7",
+      "userinfo": 152082,
       "value": 17
     },
     {
@@ -6284,8 +6284,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_8",
+      "userinfo": 152082,
       "value": 20
     },
     {
@@ -6300,8 +6300,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_9",
+      "userinfo": 152082,
       "value": 22
     },
     {
@@ -6316,15 +6316,15 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_10",
+      "userinfo": 152082,
       "value": 25
     },
     {
       "activityid": 32,
       "describe": "累计游玩27次游戏",
       "id": 534,
-      "rewardinfo": "1_2500004_2",
+      "rewardinfo": "1_2500004_1",
       "tasksubtype": 0,
       "time": 0,
       "timeend": "1783044000",
@@ -6332,8 +6332,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_11",
+      "userinfo": 152082,
       "value": 27
     },
     {
@@ -6348,8 +6348,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_12",
+      "userinfo": 152082,
       "value": 30
     },
     {
@@ -6364,15 +6364,15 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_13",
+      "userinfo": 152082,
       "value": 32
     },
     {
       "activityid": 32,
       "describe": "累计游玩35次游戏",
       "id": 537,
-      "rewardinfo": "1_2300046_2",
+      "rewardinfo": "1_2500004_2",
       "tasksubtype": 0,
       "time": 0,
       "timeend": "1783044000",
@@ -6380,8 +6380,8 @@
       "timestart": "1781748000",
       "title": "",
       "userbitbuf": 0,
-      "userbitbuf2": "",
-      "userinfo": 0,
+      "userbitbuf2": "152083_14",
+      "userinfo": 152082,
       "value": 35
     },
     {

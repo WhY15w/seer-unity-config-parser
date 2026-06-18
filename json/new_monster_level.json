@@ -21690,10 +21690,13 @@
       "recommendTime": "",
       "sort": 100,
       "statlog": "H5精灵因子关卡系统功能,埃斯宾诺,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -21833,10 +21836,13 @@
       "recommendTime": "",
       "sort": 100,
       "statlog": "H5精灵因子关卡系统功能,康迪亚克,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -21870,7 +21876,7 @@
       "hide": "",
       "id": 847,
       "image": "4872",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         4,
         1
@@ -21895,7 +21901,7 @@
       "hide": "",
       "id": 848,
       "image": "4875",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         4,
         1
@@ -22610,10 +22616,13 @@
       "recommendTime": "",
       "sort": 100,
       "statlog": "H5精灵因子关卡系统功能,托勒斯,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -22817,10 +22826,13 @@
       "recommendTime": "",
       "sort": 100,
       "statlog": "H5精灵因子关卡系统功能,安瑟伦,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -23464,7 +23476,7 @@
         3
       ],
       "upgradeHide": "",
-      "upgradeNew": "2026_06_26 10:00:00",
+      "upgradeNew": "2026_06_18 10:00:00",
       "upgradeSort": 0,
       "upgradeSource": 1,
       "weekly": 0,
@@ -23487,10 +23499,13 @@
       "recommendTime": "",
       "sort": 100,
       "statlog": "H5精灵因子关卡系统功能,莱布缇,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -23583,10 +23598,13 @@
       "recommendTime": "",
       "sort": 100,
       "statlog": "H5精灵因子关卡系统功能,西西弗,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -23702,10 +23720,13 @@
       "recommendTime": "",
       "sort": 100,
       "statlog": "H5精灵因子关卡系统功能,蕊沃尔,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
       "upgradeHide": "",
-      "upgradeNew": "",
+      "upgradeNew": "2026_07_03 10:00:00",
       "upgradeSort": 0,
-      "upgradeSource": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -23778,7 +23799,7 @@
       "hide": "2026_07_03 10:00:00",
       "id": 927,
       "image": "4912",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         3
       ],
@@ -23802,7 +23823,7 @@
       "hide": "",
       "id": 928,
       "image": "4913",
-      "isnew": "1",
+      "isnew": "",
       "moduleid": -400025,
       "monsterid": 4913,
       "param": "",
@@ -23823,7 +23844,7 @@
       "hide": "",
       "id": 929,
       "image": "4914",
-      "isnew": "1",
+      "isnew": "",
       "moduleid": -400025,
       "monsterid": 4914,
       "param": "",
@@ -23835,6 +23856,57 @@
       "upgradeNew": "",
       "upgradeSort": 0,
       "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 0,
+      "hide": "",
+      "id": 930,
+      "image": "3518",
+      "isnew": "",
+      "menutype": [
+        3
+      ],
+      "moduleid": -150129,
+      "monsterid": 3518,
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "sort": 100,
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 1,
+      "hide": "",
+      "id": 931,
+      "image": "4915",
+      "isnew": "1",
+      "menutype": [
+        1
+      ],
+      "moduleid": 151,
+      "monsterid": 4915,
+      "param": "{Design:248}",
+      "quality": "s",
+      "recommendTime": "",
+      "sort": 100,
+      "statlog": "H5精灵因子关卡系统功能,西曼德妮,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
+      "upgradeHide": "",
+      "upgradeNew": "2026_07_03 10:00:00",
+      "upgradeSort": 0,
+      "upgradeSource": 5,
       "weekly": 0,
       "weeklyAdd": 0
     }
