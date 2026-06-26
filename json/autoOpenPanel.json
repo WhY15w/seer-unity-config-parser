@@ -743,6 +743,18 @@
       "param3": "",
       "startTime": "2026_06_05 10:00:00",
       "state": 1
+    },
+    {
+      "actionName": "暑假月卡",
+      "controller": "AutoOpenBitsetAndDailyController",
+      "endTime": "2026_07_10 10:00:00",
+      "id": 64,
+      "moduleId": 508,
+      "param1": "9924",
+      "param2": "0",
+      "param3": "",
+      "startTime": "2026_07_03 10:00:00",
+      "state": 1
     }
   ]
 }

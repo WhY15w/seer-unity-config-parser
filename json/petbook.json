@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4915,
-            "ImageID": 4915,
+            "ID": 4916,
+            "ImageID": 4916,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,21 +1367,21 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 848,
-            "ImageID": 1400848,
+            "ID": 850,
+            "ImageID": 1400850,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4915,
+            "monID": 4147,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 849,
-            "ImageID": 1400849,
+            "ID": 851,
+            "ImageID": 1400851,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4908,
+            "monID": 4709,
             "type": 1
           }
         ]
@@ -22476,7 +22476,7 @@
         "DefName": "魔灵王·斯摩亚蒂",
         "Features": "斯摩亚蒂的完全体形态，掌握了逝者巨樽全部的力量！是一个十分恐怖的家伙！",
         "ID": 3541,
-        "Target": ""
+        "Target": "150131"
       },
       {
         "DefName": "瑞冬·萌布布种子",
@@ -22818,7 +22818,7 @@
         "DefName": "戈拉",
         "Features": "突然间出现在灵龟之渊的野生精灵，我们发现，它似乎和玄武之间存在着某种莫名的联系....",
         "ID": 3598,
-        "Target": ""
+        "Target": "400026"
       },
       {
         "DefName": "卡杉德拉",
@@ -25560,7 +25560,7 @@
         "DefName": "法莉",
         "Features": "一名正直而伟大的守护者，她的气息蔓延在仙境的各个角落，带来了无限的生机与希望！",
         "ID": 4061,
-        "Target": ""
+        "Target": "150132"
       },
       {
         "DefName": "莱妮斯",
@@ -30673,6 +30673,12 @@
         "Features": "阿派罗尼亚的首席先驱，以渊博的学识与才华为阿派罗尼亚奠基繁荣。",
         "ID": 4915,
         "Target": "153201/931"
+      },
+      {
+        "DefName": "若兰",
+        "Features": "λ组织的信使若兰，永远温文尔雅，永远疏离。",
+        "ID": 4916,
+        "Target": "153201/933"
       }
     ],
     "RecMintmark": {

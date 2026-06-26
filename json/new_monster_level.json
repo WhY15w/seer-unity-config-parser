@@ -17023,12 +17023,18 @@
       "id": 651,
       "image": "3541",
       "isnew": "",
-      "moduleid": 0,
+      "isrecommend": [
+        1
+      ],
+      "menutype": [
+        3
+      ],
+      "moduleid": -150131,
       "monsterid": 3541,
       "param": "",
       "quality": "",
       "recommendTime": "",
-      "sort": 0,
+      "sort": 3,
       "statlog": "",
       "upgrade": [
         3
@@ -23052,13 +23058,16 @@
       "hide": "",
       "id": 896,
       "image": "3541",
-      "isnew": "",
-      "moduleid": 0,
+      "isnew": "1",
+      "menutype": [
+        3
+      ],
+      "moduleid": -150131,
       "monsterid": 3541,
       "param": "",
       "quality": "",
       "recommendTime": "",
-      "sort": 0,
+      "sort": 3,
       "statlog": "",
       "upgrade": [
         3
@@ -23889,7 +23898,7 @@
       "hide": "",
       "id": 931,
       "image": "4915",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         1
       ],
@@ -23900,6 +23909,57 @@
       "recommendTime": "",
       "sort": 100,
       "statlog": "H5精灵因子关卡系统功能,西曼德妮,点击进入关卡_点击兑换",
+      "upgrade": [
+        2
+      ],
+      "upgradeHide": "",
+      "upgradeNew": "2026_07_03 10:00:00",
+      "upgradeSort": 0,
+      "upgradeSource": 5,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 0,
+      "hide": "",
+      "id": 932,
+      "image": "4061",
+      "isnew": "1",
+      "menutype": [
+        3
+      ],
+      "moduleid": -150132,
+      "monsterid": 4061,
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "sort": 2,
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 1,
+      "hide": "",
+      "id": 933,
+      "image": "4916",
+      "isnew": "1",
+      "menutype": [
+        1
+      ],
+      "moduleid": 151,
+      "monsterid": 4916,
+      "param": "{Design:249}",
+      "quality": "s",
+      "recommendTime": "",
+      "sort": 1,
+      "statlog": "H5精灵因子关卡系统功能,若兰,点击进入关卡_点击兑换",
       "upgrade": [
         2
       ],

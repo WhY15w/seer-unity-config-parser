@@ -19,7 +19,7 @@
       "resource": "bubuzhongzi",
       "skinName": "经典之作",
       "stat": -1214218479,
-      "tag": "1_经典"
+      "tag": "2_经典"
     },
     {
       "MaxLevel": 0,
@@ -40,7 +40,7 @@
       "resource": "yiyou",
       "skinName": "经典之作",
       "stat": -1214218478,
-      "tag": "1_经典"
+      "tag": "2_经典"
     },
     {
       "MaxLevel": 0,
@@ -61,7 +61,7 @@
       "resource": "xiaohuohou",
       "skinName": "经典之作",
       "stat": -1214218477,
-      "tag": "1_经典"
+      "tag": "2_经典"
     },
     {
       "MaxLevel": 2,
@@ -93,7 +93,7 @@
       "bookaction1": "spact_1,spact_2",
       "bookaction2": "attack,attack_sp",
       "bookaction3": "",
-      "des": "雷伊的全身被电流所包围，即使到了棋盘上也是尽显王者风范。",
+      "des": "雷伊的全身被电流所包围，及时到了棋盘上也是尽显王者风范。",
       "getdes": "群星牌相关活动获取",
       "id": 6,
       "jumpinfo": 510001,
@@ -103,7 +103,7 @@
       "resource": "leiyi",
       "skinName": "经典之作",
       "stat": -1214218475,
-      "tag": "2_史诗"
+      "tag": "4_史诗"
     },
     {
       "MaxLevel": 0,
@@ -124,7 +124,7 @@
       "resource": "daer",
       "skinName": "经典之作",
       "stat": -1214218474,
-      "tag": "2_史诗"
+      "tag": "4_史诗"
     },
     {
       "MaxLevel": 0,
@@ -145,7 +145,7 @@
       "resource": "bulu",
       "skinName": "经典之作",
       "stat": -1214218473,
-      "tag": "1_经典"
+      "tag": "2_经典"
     },
     {
       "MaxLevel": 0,
@@ -166,7 +166,7 @@
       "resource": "youyou",
       "skinName": "经典之作",
       "stat": -1214218472,
-      "tag": "1_经典"
+      "tag": "2_经典"
     }
   ]
 }

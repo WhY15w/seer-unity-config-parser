@@ -34304,6 +34304,66 @@
       "tagBboss": 1,
       "tagC": "",
       "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 0,
+      "formattingAdjustment": "对方同时拥有血月、寒月时，令血月、寒月本场战斗不再转移",
+      "id": 2507,
+      "ifTextItalic": "对方同时拥有血月、寒月时",
+      "info": "对方同时拥有血月、寒月时，令血月、寒月本场战斗不再转移",
+      "isif": 1,
+      "tagA": "",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 3,
+      "formattingAdjustment": "消除对手回合类效果并{0}%令自身{1}\r\n-->触发成功则额外令对手{2}",
+      "id": 2508,
+      "ifTextItalic": "触发成功",
+      "info": "消除对手回合类效果并{0}%令自身{1}，触发成功则额外令对手{2}",
+      "isif": 1,
+      "tagA": "消除回合",
+      "tagAboss": 1,
+      "tagB": "施加异常",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 3,
+      "formattingAdjustment": "对手每剩余{0}%体力对手{1}回合内体力恢复效果减少{2}%",
+      "id": 2509,
+      "ifTextItalic": "",
+      "info": "对手每剩余{0}%体力对手{1}回合内体力恢复效果减少{2}%",
+      "isif": 0,
+      "tagA": "降疗",
+      "tagAboss": 1,
+      "tagB": "",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 2,
+      "formattingAdjustment": "对手处于能力提升状态时先制+3且命中时复制对手的能力提升\r\n-->复制成功则对手{0}回合内属性技能命中效果失效\r\n-->对手不处于能力提升状态时令双方全属性+{1}",
+      "id": 2510,
+      "ifTextItalic": "对手处于能力提升状态时|复制成功|对手不处于能力提升状态时",
+      "info": "对手处于能力提升状态时先制+3且命中时复制对手的能力提升，复制成功则对手{0}回合内属性技能命中效果失效，对手不处于能力提升状态时令双方全属性+{1}",
+      "isif": 3,
+      "tagA": "先制",
+      "tagAboss": 1,
+      "tagB": "效果无效",
+      "tagBboss": 1,
+      "tagC": "强化",
+      "tagCboss": 1
     }
   ]
 }

@@ -33340,6 +33340,26 @@
       ],
       "icontype": 0,
       "id": 4576
+    },
+    {
+      "Desc": "{roundnext[0]}所有技能先制+{1}",
+      "Tag": "先制",
+      "desc_tag": "roundnext",
+      "icon": [
+        6
+      ],
+      "icontype": 0,
+      "id": 4577
+    },
+    {
+      "Desc": "{roundnext[0]}所有技能先制+{1}",
+      "Tag": "先制",
+      "desc_tag": "roundnext",
+      "icon": [
+        6
+      ],
+      "icontype": 0,
+      "id": 4578
     }
   ]
 }

@@ -1619,6 +1619,36 @@
       "portrait": "shadow_fg",
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "CharacterID": 4925,
+      "emoji": "",
+      "id": 161,
+      "initialposition": "",
+      "name": "米罗博士",
+      "portrait": "drmilo_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 111,
+      "emoji": "",
+      "id": 162,
+      "initialposition": "",
+      "name": "噗妞",
+      "portrait": "puniu_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 3598,
+      "emoji": "",
+      "id": 165,
+      "initialposition": "",
+      "name": "戈拉",
+      "portrait": "gela_fg",
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

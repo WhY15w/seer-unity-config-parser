@@ -20728,6 +20728,14 @@
         "info": "消耗自身本场战斗系别中的火系，之后本场战斗自身获得的渐烬改为2层天烬海",
         "key": "",
         "type": 0
+      },
+      {
+        "analyze": "[sprite name=iconHit]对方同时拥有[color=#f35555]血月[/color]、[color=#f35555]寒月[/color]时，令[color=#f35555]血月[/color]、[color=#f35555]寒月[/color]本场战斗不再转移",
+        "argsNum": 0,
+        "id": 2507,
+        "info": "对方同时拥有血月、寒月时，令血月、寒月本场战斗不再转移",
+        "key": "",
+        "type": 0
       }
     ],
     "ParamType": [
