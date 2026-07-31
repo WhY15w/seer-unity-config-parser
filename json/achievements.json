@@ -18317,10 +18317,10 @@
                     "SpeNameBonus": 572,
                     "Threshold": "29",
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "hide": 0,
                     "proicon": 1469,
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF"
                   },
                   {
@@ -18581,6 +18581,20 @@
                     "achName": "莱卡的守望",
                     "hide": 0,
                     "proicon": 1491,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "达成深海绮境系列皮肤收集进度",
+                    "ID": 16,
+                    "SpeNameBonus": 0,
+                    "Threshold": "16",
+                    "abtext": "",
+                    "achName": "深海之泪",
+                    "hide": 0,
+                    "proicon": 1511,
                     "title": "",
                     "titleColor": ""
                   }

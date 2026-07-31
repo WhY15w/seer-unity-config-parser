@@ -59,16 +59,6 @@
       "sort": 6,
       "source": "cardAlbum",
       "startTime": 1781748000
-    },
-    {
-      "duration": 5,
-      "endTime": 1789092000,
-      "id": 7,
-      "jumpTo": 520003,
-      "jumpToLink": "",
-      "sort": 7,
-      "source": "cardRank",
-      "startTime": 1781748000
     }
   ]
 }

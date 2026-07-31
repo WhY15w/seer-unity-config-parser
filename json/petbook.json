@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4925,
-            "ImageID": 4925,
+            "ID": 4927,
+            "ImageID": 4927,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,32 +1367,12 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4926,
-            "ImageID": 4926,
+            "ID": 4928,
+            "ImageID": 4928,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
             "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 858,
-            "ImageID": 1400858,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4633,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 859,
-            "ImageID": 1400859,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 3506,
-            "type": 1
           }
         ]
       }
@@ -26452,7 +26432,7 @@
         "DefName": "锢灵·舞",
         "Features": "被复仇之力附身，稚嫩的声音背后挥舞着可以束缚灵魂和力量的锁链！",
         "ID": 4208,
-        "Target": ""
+        "Target": "150137"
       },
       {
         "DefName": "莉姿",
@@ -30743,6 +30723,18 @@
         "Features": "没错，酷酷鲨真的很酷。",
         "ID": 4926,
         "Target": "114105"
+      },
+      {
+        "DefName": "超级噗纽",
+        "Features": "米罗博士自研的防卫型机器人，核心处理器由噗纽升级而来。",
+        "ID": 4927,
+        "Target": "153201/956"
+      },
+      {
+        "DefName": "维克佐斯",
+        "Features": "2026年包月精灵，万象录之《励精图治之人》。他是大众眼中的引路人，汇聚多方思想为大家代言。但在灾难之后，被无数扭曲的灵魂缠身，变成了一具狰狞的怪物。",
+        "ID": 4928,
+        "Target": "121000"
       }
     ],
     "RecMintmark": {

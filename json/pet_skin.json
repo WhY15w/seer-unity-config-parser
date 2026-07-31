@@ -8285,14 +8285,14 @@
         "Go": "",
         "GoType": "",
         "ID": 462,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 4377,
         "Name": "星辰之籁·蒂朵",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 24,
             "Type": 2,
             "Year": 0
           }
@@ -8303,14 +8303,14 @@
         "Go": "",
         "GoType": "",
         "ID": 463,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 4376,
         "Name": "弦灵纯律·岚",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 24,
             "Type": 2,
             "Year": 0
           }
@@ -8321,14 +8321,14 @@
         "Go": "",
         "GoType": "",
         "ID": 464,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 3740,
         "Name": "清凉节拍·沧岚",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 24,
             "Type": 2,
             "Year": 0
           }
@@ -8339,14 +8339,14 @@
         "Go": "",
         "GoType": "",
         "ID": 465,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 3807,
         "Name": "月半舞曲·欧德内里",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 24,
             "Type": 2,
             "Year": 0
           }
@@ -8357,14 +8357,14 @@
         "Go": "",
         "GoType": "",
         "ID": 466,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 4354,
         "Name": "沸腾乐章·萨特",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 24,
             "Type": 2,
             "Year": 0
           }
@@ -8375,14 +8375,14 @@
         "Go": "",
         "GoType": "",
         "ID": 467,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 4377,
         "Name": "汐风微凉·蒂朵",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 25,
             "Type": 2,
             "Year": 0
           }
@@ -8393,14 +8393,14 @@
         "Go": "",
         "GoType": "",
         "ID": 468,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 3613,
         "Name": "夏日甜心·茉蕊儿",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 25,
             "Type": 2,
             "Year": 0
           }
@@ -8411,14 +8411,14 @@
         "Go": "",
         "GoType": "",
         "ID": 469,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 3711,
         "Name": "海风吹拂·莫妮卡",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 25,
             "Type": 2,
             "Year": 0
           }
@@ -8429,14 +8429,14 @@
         "Go": "",
         "GoType": "",
         "ID": 470,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 4068,
         "Name": "悠然云霞·艾希丝",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 25,
             "Type": 2,
             "Year": 0
           }
@@ -8447,14 +8447,14 @@
         "Go": "",
         "GoType": "",
         "ID": 471,
-        "Jumptarget": 0,
+        "Jumptarget": 114117,
         "MonID": 4219,
         "Name": "烈阳盛夏·安卡",
         "SkinKind": [
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 25,
             "Type": 2,
             "Year": 0
           }
@@ -8519,7 +8519,7 @@
         "Go": "",
         "GoType": "",
         "ID": 475,
-        "Jumptarget": 111800,
+        "Jumptarget": 114117,
         "MonID": 4386,
         "Name": "夏梦咏叹调·缔笙",
         "SkinKind": [
@@ -12630,7 +12630,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 26,
             "Type": 2,
             "Year": 0
           }
@@ -15096,7 +15096,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 13,
             "Type": 2,
             "Year": 0
           }
@@ -15330,7 +15330,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 26,
             "Type": 2,
             "Year": 0
           }
@@ -15348,7 +15348,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 26,
             "Type": 2,
             "Year": 0
           }
@@ -15420,7 +15420,7 @@
           {
             "ID": 1,
             "LifeTime": 0,
-            "SkinType": 0,
+            "SkinType": 26,
             "Type": 2,
             "Year": 0
           }
