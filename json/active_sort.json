@@ -498,6 +498,26 @@
       "statlog": "",
       "truepos": 1,
       "type": 2
+    },
+    {
+      "controller": "",
+      "dailyRed": 0,
+      "dest": "1190",
+      "finishtime": "2026/9/4 10:00:00",
+      "iOSreviewshow": 0,
+      "id": 30,
+      "image": "armorHeroBattlePass",
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "name": "极光御令",
+      "priority": 23,
+      "reddotid": [
+        368
+      ],
+      "statlog": "",
+      "truepos": 1,
+      "type": 2
     }
   ]
 }

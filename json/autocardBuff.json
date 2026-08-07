@@ -1813,6 +1813,15 @@
       "IsDeathEffect": 0,
       "IsPlaceEffect": 0,
       "effectIcon": "",
+      "id": 10208,
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "自身在场时，从己方手牌中使用的电力充能会额外释放a次"
+    },
+    {
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0,
+      "effectIcon": "",
       "id": 20001,
       "object": "魔法",
       "param": "a",

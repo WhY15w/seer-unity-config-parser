@@ -24020,7 +24020,7 @@
         3
       ],
       "upgradeHide": "",
-      "upgradeNew": "2026_08_14 10:00:00",
+      "upgradeNew": "2026_08_28 10:00:00",
       "upgradeSort": 0,
       "upgradeSource": 1,
       "weekly": 0,
@@ -24482,7 +24482,7 @@
       "hide": "",
       "id": 955,
       "image": "4208",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         3
       ],
@@ -24506,7 +24506,7 @@
       "hide": "",
       "id": 956,
       "image": "4927",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         1
       ],
@@ -24566,6 +24566,78 @@
       "quality": "",
       "recommendTime": "",
       "sort": 100,
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 1,
+      "hide": "",
+      "id": 959,
+      "image": "4929",
+      "isnew": "1",
+      "menutype": [
+        3
+      ],
+      "moduleid": 151,
+      "monsterid": 4929,
+      "param": "{Design:255}",
+      "quality": "s",
+      "recommendTime": "",
+      "sort": 1,
+      "statlog": "H5精灵因子关卡系统功能,鬼地行者,点击进入关卡_点击兑换",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 0,
+      "hide": "2026_09_04 10:00:00",
+      "id": 960,
+      "image": "4931",
+      "isnew": "2026_08_14 10:00:00",
+      "menutype": [
+        2
+      ],
+      "moduleid": -114123,
+      "monsterid": 4931,
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "sort": 2,
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 0,
+      "hide": "2026_09_04 10:00:00",
+      "id": 961,
+      "image": "4930",
+      "isnew": "1",
+      "menutype": [
+        1
+      ],
+      "moduleid": -114120,
+      "monsterid": 4930,
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "sort": 3,
       "statlog": "",
       "upgradeHide": "",
       "upgradeNew": "",

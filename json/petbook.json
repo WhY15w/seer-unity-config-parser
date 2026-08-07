@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4927,
-            "ImageID": 4927,
+            "ID": 4929,
+            "ImageID": 4929,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,12 +1367,42 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4928,
-            "ImageID": 4928,
+            "ID": 4930,
+            "ImageID": 4930,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
             "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 4931,
+            "ImageID": 4931,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 860,
+            "ImageID": 1400860,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4930,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 861,
+            "ImageID": 1400861,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4378,
+            "type": 1
           }
         ]
       }
@@ -30698,7 +30728,7 @@
         "DefName": "天堂极龙兽",
         "Features": "传说中的神兽自天堂来袭，这一次它必将终结所有罪恶!",
         "ID": 4921,
-        "Target": "114116"
+        "Target": ""
       },
       {
         "DefName": "墟婆",
@@ -30722,7 +30752,7 @@
         "DefName": "酷酷鲨",
         "Features": "没错，酷酷鲨真的很酷。",
         "ID": 4926,
-        "Target": "114105"
+        "Target": ""
       },
       {
         "DefName": "超级噗纽",
@@ -30735,6 +30765,24 @@
         "Features": "2026年包月精灵，万象录之《励精图治之人》。他是大众眼中的引路人，汇聚多方思想为大家代言。但在灾难之后，被无数扭曲的灵魂缠身，变成了一具狰狞的怪物。",
         "ID": 4928,
         "Target": "121000"
+      },
+      {
+        "DefName": "鬼地行者",
+        "Features": "被虚空淬成的议会利刃，沉默地执行每一条指令，也沉默地记着每一笔账。",
+        "ID": 4929,
+        "Target": "153201/959"
+      },
+      {
+        "DefName": "帝皇铠甲",
+        "Features": "集合五行力量，五行万物般的终极威力，由五套光影铠甲组合而成的光之铠甲所诞生的最强战士，能依靠太阳的力量巨大化。",
+        "ID": 4930,
+        "Target": "114120"
+      },
+      {
+        "DefName": "炎龙铠甲",
+        "Features": "由召唤人和火之炎龙铠甲合体而成的战士。五行中属火，战斗风格为在近距离以拳击与对方进行格斗战。",
+        "ID": 4931,
+        "Target": "114123"
       }
     ],
     "RecMintmark": {
