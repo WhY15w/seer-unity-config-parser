@@ -12,7 +12,7 @@
     },
     {
       "duration": 5,
-      "endTime": 1781748000,
+      "endTime": 1796349600,
       "id": 2,
       "jumpTo": 0,
       "jumpToLink": "https://www.soboten.com/ticketclient/index.html?sysNum=b392d3478d2b49519bb7f5001f98af84&deployId=6479398025e547f08528a71119d63c32",
@@ -22,7 +22,7 @@
     },
     {
       "duration": 5,
-      "endTime": 1789092000,
+      "endTime": 1796349600,
       "id": 3,
       "jumpTo": 0,
       "jumpToLink": "",
@@ -32,7 +32,7 @@
     },
     {
       "duration": 5,
-      "endTime": 1789092000,
+      "endTime": 1796349600,
       "id": 4,
       "jumpTo": 520004,
       "jumpToLink": "",
@@ -42,7 +42,7 @@
     },
     {
       "duration": 5,
-      "endTime": 1789092000,
+      "endTime": 1796349600,
       "id": 5,
       "jumpTo": 520001,
       "jumpToLink": "",
@@ -52,12 +52,22 @@
     },
     {
       "duration": 5,
-      "endTime": 1789092000,
+      "endTime": 1796349600,
       "id": 6,
       "jumpTo": 520002,
       "jumpToLink": "",
       "sort": 6,
       "source": "cardAlbum",
+      "startTime": 1781748000
+    },
+    {
+      "duration": 5,
+      "endTime": 1796349600,
+      "id": 6,
+      "jumpTo": 520008,
+      "jumpToLink": "",
+      "sort": 7,
+      "source": "qingdian",
       "startTime": 1781748000
     }
   ]

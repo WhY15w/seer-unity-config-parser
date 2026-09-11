@@ -8865,6 +8865,48 @@
                     "proicon": 1503,
                     "title": "",
                     "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "S2赛季群星牌首次达到专家段位",
+                    "ID": 5,
+                    "SpeNameBonus": 0,
+                    "Threshold": "5",
+                    "abtext": "",
+                    "achName": "S2赛季群星牌专家",
+                    "hide": 0,
+                    "proicon": 1517,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "S2赛季群星牌首次达到传奇段位",
+                    "ID": 6,
+                    "SpeNameBonus": 0,
+                    "Threshold": "6",
+                    "abtext": "",
+                    "achName": "S2赛季群星牌传奇",
+                    "hide": 0,
+                    "proicon": 1518,
+                    "title": "",
+                    "titleColor": ""
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 0,
+                    "Desc": "S2赛季群星牌首次达到群星之巅段位",
+                    "ID": 7,
+                    "SpeNameBonus": 0,
+                    "Threshold": "7",
+                    "abtext": "",
+                    "achName": "S2赛季群星牌群星之巅",
+                    "hide": 0,
+                    "proicon": 1519,
+                    "title": "",
+                    "titleColor": ""
                   }
                 ],
                 "_text": "",
@@ -18387,10 +18429,10 @@
                     "SpeNameBonus": 572,
                     "Threshold": "29",
                     "abtext": "防御+20，特防+20，速度+20，体力+90",
-                    "achName": "岁业祓除",
+                    "achName": "岁业拔除",
                     "hide": 0,
                     "proicon": 1469,
-                    "title": "岁业祓除",
+                    "title": "岁业拔除",
                     "titleColor": "0xFFFFFF"
                   },
                   {

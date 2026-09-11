@@ -396474,6 +396474,15 @@
               "Rec": 1,
               "Tag": 0
             }
+          ],
+          "SpMove": [
+            {
+              "Id": 38525,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 0,
+              "tag": 0
+            }
           ]
         },
         "PetClass": 2095,
@@ -397200,6 +397209,15 @@
               "LearningLv": 61,
               "Rec": 1,
               "Tag": 0
+            }
+          ],
+          "SpMove": [
+            {
+              "Id": 29448,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 0,
+              "tag": 0
             }
           ]
         },
@@ -435336,6 +435354,16 @@
         "RealId": 0,
         "SpAtk": 70,
         "SpDef": 114,
+        "SpExtraMoves": {
+          "Move": [
+            {
+              "Id": 38526,
+              "LearningLv": 70,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
         "Spd": 130,
         "Support": 0,
         "Transform": 0,
@@ -451773,6 +451801,15 @@
               "LearningLv": 61,
               "Rec": 1,
               "Tag": 0
+            }
+          ],
+          "SpMove": [
+            {
+              "Id": 29446,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 0,
+              "tag": 0
             }
           ]
         },
@@ -486542,6 +486579,15 @@
               "LearningLv": 61,
               "Rec": 1,
               "Tag": 0
+            }
+          ],
+          "SpMove": [
+            {
+              "Id": 29447,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 0,
+              "tag": 0
             }
           ]
         },
@@ -608749,6 +608795,201 @@
         "isRidePet": 0
       },
       {
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 115,
+        "DefName": "极度冰凌·阿克希亚",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38524,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 172,
+        "ID": 4942,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 10200,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10201,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20056,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20057,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10202,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10204,
+              "LearningLv": 21,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10203,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20058,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10205,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10206,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20059,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10218,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20060,
+              "LearningLv": 49,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 13176,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10208,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10207,
+              "LearningLv": 61,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10209,
+              "LearningLv": 71,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10210,
+              "LearningLv": 72,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 21668,
+              "LearningLv": 73,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 13177,
+              "LearningLv": 74,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 21669,
+              "LearningLv": 75,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 13178,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38522,
+              "LearningLv": 77,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 29444,
+              "LearningLv": 78,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 29445,
+              "LearningLv": 79,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38523,
+              "LearningLv": 80,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3603,
+        "RealId": 0,
+        "SpAtk": 142,
+        "SpDef": 115,
+        "Spd": 136,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 9,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
         "Atk": 110,
         "CharacterAttrParam": 4,
         "Combo": 0,
@@ -702417,7 +702658,32 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 0,
-        "ID": 1400867,
+        "ID": 1400868,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "无尽夏的夜宴·阿克希亚",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400869,
         "PetClass": 0,
         "RealId": 0,
         "SpAtk": 0,

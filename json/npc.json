@@ -1739,6 +1739,16 @@
       "portrait": "ray9_fg",
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "CharacterID": 4942,
+      "emoji": "akexiya2_01",
+      "id": 175,
+      "initialposition": "",
+      "name": "极度冰凌·阿克希亚",
+      "portrait": "akexiya2_fg",
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

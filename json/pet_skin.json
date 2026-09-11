@@ -15536,10 +15536,10 @@
         "Type": 17
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "ID": 865,
-        "Jumptarget": 114127,
+        "Jumptarget": 0,
         "MonID": 3414,
         "Name": "地核之寂·索伦森",
         "SkinKind": [
@@ -15606,6 +15606,24 @@
           }
         ],
         "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 869,
+        "Jumptarget": 114131,
+        "MonID": 4942,
+        "Name": "无尽夏的夜宴·阿克希亚",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 18
       }
     ]
   }
