@@ -17121,19 +17121,19 @@
       "sort": 0,
       "statlog": "",
       "upgrade": [
-        3
+        2
       ],
       "upgradeHide": "",
       "upgradeNew": "",
-      "upgradeSort": 10,
-      "upgradeSource": 3,
+      "upgradeSort": 30,
+      "upgradeSource": 2,
       "weekly": 0,
       "weeklyAdd": 0
     },
     {
       "difficult": 0,
       "fightType": 0,
-      "hide": "",
+      "hide": "1",
       "id": 655,
       "image": "3425",
       "isnew": "",
@@ -17145,12 +17145,12 @@
       "sort": 0,
       "statlog": "",
       "upgrade": [
-        2
+        3
       ],
       "upgradeHide": "",
       "upgradeNew": "",
       "upgradeSort": 30,
-      "upgradeSource": 2,
+      "upgradeSource": 3,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -25017,7 +25017,7 @@
       "hide": "",
       "id": 977,
       "image": "3683",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         3
       ],
@@ -25041,7 +25041,7 @@
       "hide": "",
       "id": 978,
       "image": "3392",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         3
       ],
@@ -25176,6 +25176,75 @@
       "upgradeNew": "2026_09_18 10:00:00",
       "upgradeSort": 2,
       "upgradeSource": 3,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 1,
+      "hide": "",
+      "id": 984,
+      "image": "4943",
+      "isnew": "1",
+      "menutype": [
+        1
+      ],
+      "moduleid": 151,
+      "monsterid": 4943,
+      "param": "{Design:260}",
+      "quality": "s",
+      "recommendTime": "",
+      "sort": 1,
+      "statlog": "H5精灵因子关卡系统功能,瑞特拉尼,点击进入关卡_点击兑换",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 0,
+      "hide": "",
+      "id": 985,
+      "image": "3432",
+      "isnew": "1",
+      "menutype": [
+        3
+      ],
+      "moduleid": -150147,
+      "monsterid": 3432,
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "sort": 100,
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "difficult": 0,
+      "fightType": 0,
+      "hide": "",
+      "id": 986,
+      "image": "4944",
+      "isnew": "1",
+      "moduleid": -113041,
+      "monsterid": 4944,
+      "param": "",
+      "quality": "",
+      "recommendTime": "",
+      "sort": 2,
+      "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
       "weekly": 0,
       "weeklyAdd": 0
     }

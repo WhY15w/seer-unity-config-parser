@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4942,
-            "ImageID": 4942,
+            "ID": 4943,
+            "ImageID": 4943,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,8 +1367,18 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 869,
-            "ImageID": 1400869,
+            "ID": 4944,
+            "ImageID": 4944,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 870,
+            "ImageID": 1400870,
             "Label": 0,
             "Redirect": "module",
             "monID": 4942,
@@ -21806,7 +21816,7 @@
         "DefName": "柯尔霍德",
         "Features": "冰系精灵王柯尔德和暗影系精灵王霍德尔的合体形态，成为了冰、暗影双属性的精灵王，既有冰雪的凛冽，也有暗影的诡谲！",
         "ID": 3432,
-        "Target": ""
+        "Target": "150147"
       },
       {
         "DefName": "圣光之子",
@@ -30819,6 +30829,18 @@
         "Features": "于绝境中完成自我突破的冰雪女王——当这片土地回应了她的守护，风雪与冰霜，皆为她而战。",
         "ID": 4942,
         "Target": "150142"
+      },
+      {
+        "DefName": "瑞特拉尼",
+        "Features": "瑞特拉尼，瑞特拉一族的虫王。它诞生于星球解放之后的春天，替整族携着千万年的记忆，在山川河泽之间缓缓前行。",
+        "ID": 4943,
+        "Target": "153201/984"
+      },
+      {
+        "DefName": "克律莎",
+        "Features": "一位从遗迹中苏醒的神秘少女，身体内似乎隐藏着神秘的力量。",
+        "ID": 4944,
+        "Target": "113041"
       }
     ],
     "RecMintmark": {

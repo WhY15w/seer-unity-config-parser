@@ -397,6 +397,24 @@
       "startdate": "2026/7/17/10"
     },
     {
+      "awakentype": 2,
+      "bosslevelid": 23,
+      "diamondid": 262144,
+      "enddate": "",
+      "exchangepercnt": 0,
+      "fragmentid": 0,
+      "fragmentnum": 0,
+      "id": 24,
+      "itemnum": 720,
+      "itemurl": 1727700,
+      "jumpparam": "1",
+      "limitid": "3107;3435;4262",
+      "monstername": "洪荒·列奥尼达",
+      "mosterurl": 4125,
+      "onekeyproductid": 262145,
+      "startdate": "2026/9/18/10"
+    },
+    {
       "awakentype": 1,
       "bosslevelid": 26,
       "diamondid": 262621,

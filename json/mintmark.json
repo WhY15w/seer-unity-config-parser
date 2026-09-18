@@ -119645,6 +119645,41 @@
       {
         "BaseAttriValue": [
           4,
+          3,
+          0,
+          3,
+          3,
+          8
+        ],
+        "Connect": 0,
+        "Des": "克律莎专属全能刻印",
+        "EffectDes": "攻击4/44,防御3/30,特防3/30,速度3/35,体力8/81",
+        "Grade": 5,
+        "Hide": 0,
+        "ID": 42728,
+        "Level": 100,
+        "Max": 99,
+        "MaxAttriValue": [
+          44,
+          30,
+          0,
+          30,
+          35,
+          81
+        ],
+        "MintmarkClass": 0,
+        "MonsterID": [
+          4944
+        ],
+        "Quality": 5,
+        "Rare": 1,
+        "Rarity": 0,
+        "TotalConsume": 0,
+        "Type": 3
+      },
+      {
+        "BaseAttriValue": [
+          4,
           2,
           0,
           2,
