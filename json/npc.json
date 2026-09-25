@@ -1749,6 +1749,76 @@
       "portrait": "akexiya2_fg",
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "CharacterID": 118,
+      "emoji": "",
+      "id": 176,
+      "initialposition": "",
+      "name": "神秘的声音",
+      "portrait": "xuanwu_fg",
+      "scale": 1,
+      "silhouette": 1
+    },
+    {
+      "CharacterID": 119,
+      "emoji": "",
+      "id": 177,
+      "initialposition": "",
+      "name": "蘑菇怪的幻影",
+      "portrait": "mgg_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 120,
+      "emoji": "",
+      "id": 178,
+      "initialposition": "",
+      "name": "钢牙鲨的幻影",
+      "portrait": "gangyasha_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 121,
+      "emoji": "",
+      "id": 176,
+      "initialposition": "",
+      "name": "纳多雷的幻影",
+      "portrait": "ndl_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 122,
+      "emoji": "",
+      "id": 180,
+      "initialposition": "",
+      "name": "雷纳多的幻影",
+      "portrait": "lnd_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 123,
+      "emoji": "",
+      "id": 181,
+      "initialposition": "",
+      "name": "提亚斯的幻影",
+      "portrait": "tys_fg",
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "CharacterID": 124,
+      "emoji": "",
+      "id": 182,
+      "initialposition": "",
+      "name": "里奥斯的幻影",
+      "portrait": "las_fg",
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

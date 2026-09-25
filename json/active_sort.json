@@ -295,20 +295,20 @@
       "controller": "",
       "dailyRed": 0,
       "dest": "",
-      "finishtime": "2025/10/10 10:00:00",
+      "finishtime": "2026/10/9 10:00:00",
       "iOSreviewshow": 0,
       "id": 19,
       "image": "nationalDayCard",
       "isdeadline": 1,
-      "isshow": 0,
+      "isshow": 1,
       "jumptarget": 113044,
       "name": "钻石金卡",
       "priority": 14,
       "reddotid": [
-        111
+        411
       ],
       "statlog": "",
-      "truepos": 0,
+      "truepos": 1,
       "type": 2
     },
     {
@@ -515,6 +515,23 @@
       "reddotid": [
         368
       ],
+      "statlog": "",
+      "truepos": 1,
+      "type": 2
+    },
+    {
+      "controller": "",
+      "dailyRed": 0,
+      "dest": "1220",
+      "finishtime": "2026/10/9 10:00:00",
+      "iOSreviewshow": 0,
+      "id": 31,
+      "image": "2026NationalDayPerks",
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "name": "国庆狂欢",
+      "priority": 24,
       "statlog": "",
       "truepos": 1,
       "type": 2

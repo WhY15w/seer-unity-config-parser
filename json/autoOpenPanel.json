@@ -791,6 +791,18 @@
       "param3": "",
       "startTime": "2026_09_24 10:00:00",
       "state": 1
+    },
+    {
+      "actionName": "帝皇之戎",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2026_10_23 10:00:00",
+      "id": 68,
+      "moduleId": 1231,
+      "param1": "DihuangzhirongForcePop",
+      "param2": "",
+      "param3": "loginPop",
+      "startTime": "2026_09_24 10:00:00",
+      "state": 1
     }
   ]
 }

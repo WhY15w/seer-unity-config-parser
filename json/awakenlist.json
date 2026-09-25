@@ -431,6 +431,42 @@
       "mosterurl": 4004,
       "onekeyproductid": 262622,
       "startdate": "2026/7/24/10"
+    },
+    {
+      "awakentype": 1,
+      "bosslevelid": 27,
+      "diamondid": 262784,
+      "enddate": "2026/11/13/10",
+      "exchangepercnt": 0,
+      "fragmentid": 0,
+      "fragmentnum": 0,
+      "id": 28,
+      "itemnum": 720,
+      "itemurl": 1728511,
+      "jumpparam": "1",
+      "limitid": "3414;3594;3411",
+      "monstername": "柯尔霍德",
+      "mosterurl": 3432,
+      "onekeyproductid": 262785,
+      "startdate": "2026/10/2/0"
+    },
+    {
+      "awakentype": 1,
+      "bosslevelid": 0,
+      "diamondid": 0,
+      "enddate": "",
+      "exchangepercnt": 0,
+      "fragmentid": 0,
+      "fragmentnum": 0,
+      "id": 29,
+      "itemnum": 0,
+      "itemurl": 0,
+      "jumpparam": "1",
+      "limitid": "3414;3594;3411",
+      "monstername": "暴乱·格劳瑞",
+      "mosterurl": 3994,
+      "onekeyproductid": 0,
+      "startdate": "2026/12/11/10"
     }
   ]
 }

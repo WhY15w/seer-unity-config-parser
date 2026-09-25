@@ -488261,6 +488261,486 @@
         {
           "Accuracy": 95,
           "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29453,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "肆想片像",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            191,
+            549,
+            583
+          ],
+          "SideEffectArg": [
+            4,
+            3,
+            3
+          ],
+          "Type": 8,
+          "info": "开始免疫并反弹异常状态了；使对手随机进入异常状态；使对手随机技能的PP值归零",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29454,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "惰殆迷思",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            425,
+            651,
+            715
+          ],
+          "SideEffectArg": [
+            4,
+            1,
+            4,
+            0,
+            500,
+            4,
+            -1
+          ],
+          "Type": 8,
+          "info": "随机吸取对手能力；开始慢慢恢复自身体力了；受到攻击对手能力值降低",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29455,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "雷·万鸣天锻",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            191,
+            2576,
+            1683,
+            1200,
+            1834
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            70,
+            4,
+            4,
+            100,
+            0,
+            1,
+            300,
+            70
+          ],
+          "Type": 8,
+          "info": "待添加",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29456,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "雷·传承怒意",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            1014,
+            927,
+            821,
+            47,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            3,
+            1,
+            2,
+            2,
+            3,
+            2,
+            2
+          ],
+          "Type": 8,
+          "info": "全属性都提升了；开始恢复自身体力了；自身的回合类效果无法被消除；抵抗能力下降；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29457,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "战·天擒九域",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            191,
+            47,
+            1475,
+            855
+          ],
+          "SideEffectArg": [
+            5,
+            5,
+            5,
+            100,
+            200
+          ],
+          "Type": 8,
+          "info": "免疫并反弹异常状态；抵抗能力下降；受到的固定伤害、百分比伤害减少了；将受到的伤害反馈给对手",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29458,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "战·力之神谕",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            1014,
+            971,
+            681,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            4,
+            3,
+            2,
+            2,
+            2,
+            2
+          ],
+          "Type": 8,
+          "info": "全属性都提升了；开始慢慢吸取对手体力了，自身体力低于1/2时吸取效果翻倍；自身攻击开始必定致命、必定命中了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29459,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "火炎旋涡",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            191,
+            1255,
+            1314
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            70,
+            2,
+            3,
+            1
+          ],
+          "Type": 8,
+          "info": "开始免疫并反弹异常状态了；开始令对手烧伤了；下1次受到的攻击伤害转化为体力",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29460,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "灼热呼吸",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            1001,
+            1842,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            240,
+            360,
+            2,
+            2
+          ],
+          "Type": 8,
+          "info": "全属性都提升了；开始吸取对手的体力了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29461,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "热烈光晕",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            48,
+            47,
+            1804
+          ],
+          "SideEffectArg": [
+            3,
+            3,
+            1
+          ],
+          "Type": 8,
+          "info": "开始免疫异常状态了；开始免疫能力下降状态了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29462,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "欢声庆语",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            806,
+            1871,
+            843
+          ],
+          "SideEffectArg": [
+            3,
+            1,
+            2,
+            1
+          ],
+          "Type": 8,
+          "info": "受到攻击则自身全属性提升；获得了一定的护盾；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29463,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "质点仪式",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            191,
+            47,
+            907,
+            816,
+            1852
+          ],
+          "SideEffectArg": [
+            5,
+            5,
+            2,
+            1,
+            1
+          ],
+          "Type": 8,
+          "info": "免疫并反弹异常状态；抵抗能力下降；反转了自身的能力下降状态；免疫并反弹对手下次造成的伤害；调节了自身的能力状态",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29464,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "狭间神识",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            1856,
+            165,
+            532,
+            1475,
+            2271
+          ],
+          "SideEffectArg": [
+            1,
+            2,
+            2,
+            4,
+            2,
+            4,
+            50,
+            4,
+            100,
+            9,
+            2
+          ],
+          "Type": 8,
+          "info": "全属性提升了；自身的双防开始提升了；开始恢复体力并造成等量百分比伤害了；自身受到的固定伤害和百分比伤害开始持续减少了；自身的能力提升状态得到了保护",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29465,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "丧月之夜",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            1001,
+            971,
+            1926,
+            2578,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "Type": 8,
+          "info": "全属性都提升了，对手处于异常状态时强化效果翻倍；开始慢慢吸取对手体力了，自身体力低于1/2时吸取效果翻倍；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29466,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "瀚·星火灼夜",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            191,
+            663,
+            738,
+            2533
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            100,
+            7,
+            4,
+            2,
+            100,
+            31,
+            2
+          ],
+          "Type": 8,
+          "info": "开始免疫并反弹受到的异常状态了；对对手的技能施加了限制；释放出皇帝的威仪",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29467,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "宇·列卿如阳",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            993,
+            2580,
+            1647,
+            2586,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            31,
+            3,
+            4,
+            3,
+            2,
+            300,
+            2,
+            100,
+            2,
+            2
+          ],
+          "Type": 8,
+          "info": "全属性提升了；开始吸取对手的体力了；开始无视对手的伤害减少效果了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
           "AtkType": 0,
           "Category": 1,
           "CritRate": 0,
@@ -655908,6 +656388,9 @@
             2003
           ],
           "SideEffectArg": [
+            100,
+            31,
+            3,
             31,
             60
           ],
@@ -702473,6 +702956,7 @@
           ],
           "SideEffectArg": [
             70,
+            0,
             70
           ],
           "Type": 4,
@@ -707332,6 +707816,1065 @@
             20
           ],
           "Type": 127,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38533,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "愚言",
+          "Power": 85,
+          "Priority": 3,
+          "SideEffect": [
+            1114,
+            450
+          ],
+          "SideEffectArg": [
+            2,
+            0,
+            500
+          ],
+          "Type": 42,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38534,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "暗影嗤笑",
+          "Power": 150,
+          "Priority": 0,
+          "SideEffect": [
+            604,
+            846
+          ],
+          "SideEffectArg": [
+            0,
+            300,
+            50,
+            300,
+            50,
+            1
+          ],
+          "Type": 42,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38535,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "地岩暗能击",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            805,
+            1131,
+            1132
+          ],
+          "SideEffectArg": [
+            2,
+            0,
+            500,
+            500,
+            1000,
+            0,
+            500,
+            500,
+            1000
+          ],
+          "Type": 42,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38536,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "雷·裂阳圣耀",
+          "Power": 90,
+          "Priority": 3,
+          "SideEffect": [
+            781,
+            794,
+            882,
+            2570
+          ],
+          "SideEffectArg": [
+            2,
+            2,
+            20
+          ],
+          "Type": 80,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38537,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "雷·寰宇涤魔",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            478,
+            1700,
+            2430,
+            2571,
+            2572
+          ],
+          "SideEffectArg": [
+            3,
+            1,
+            0
+          ],
+          "Type": 80,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38538,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "雷·神天明闪",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            760,
+            2573,
+            1885,
+            2574,
+            2591,
+            2017
+          ],
+          "SideEffectArg": [
+            3,
+            100,
+            19,
+            3,
+            1,
+            100
+          ],
+          "Type": 80,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38539,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "战·盖世破元",
+          "Power": 85,
+          "Priority": 3,
+          "SideEffect": [
+            1179,
+            2145,
+            1265,
+            1147
+          ],
+          "SideEffectArg": [
+            1,
+            100,
+            1,
+            1,
+            50
+          ],
+          "Type": 78,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38540,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "战·混罡乱舞",
+          "Power": 150,
+          "Priority": 1,
+          "SideEffect": [
+            697,
+            699,
+            2575,
+            1043,
+            864
+          ],
+          "SideEffectArg": [
+            2,
+            2,
+            2,
+            1,
+            2
+          ],
+          "Type": 78,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38541,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "战·神破天闪",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            760,
+            779,
+            1776,
+            2574,
+            1156
+          ],
+          "SideEffectArg": [
+            2,
+            3,
+            3
+          ],
+          "Type": 78,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38542,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "易燃肤质",
+          "Power": 85,
+          "Priority": 3,
+          "SideEffect": [
+            1287,
+            932,
+            1106
+          ],
+          "SideEffectArg": [
+            2,
+            30,
+            50,
+            200,
+            100,
+            2
+          ],
+          "Type": 47,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38543,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "红色烈光",
+          "Power": 150,
+          "Priority": 0,
+          "SideEffect": [
+            1395,
+            505,
+            1449
+          ],
+          "SideEffectArg": [
+            150,
+            3,
+            3
+          ],
+          "Type": 47,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38544,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "灵火焚诀",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            901,
+            1280,
+            2022
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            20,
+            5,
+            35,
+            2,
+            2
+          ],
+          "Type": 47,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38545,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "鼎沸焰火",
+          "Power": 85,
+          "Priority": 2,
+          "SideEffect": [
+            1414
+          ],
+          "SideEffectArg": [
+            36
+          ],
+          "Type": 68,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38546,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "和平之歌",
+          "Power": 150,
+          "Priority": 0,
+          "SideEffect": [
+            33,
+            577
+          ],
+          "SideEffectArg": [
+            3,
+            -2
+          ],
+          "Type": 68,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38547,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "至高的喝彩",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            71
+          ],
+          "Type": 68,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38548,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "记忆铭刻",
+          "Power": 85,
+          "Priority": 3,
+          "SideEffect": [
+            856,
+            1119,
+            1120,
+            2593
+          ],
+          "SideEffectArg": [
+            3,
+            1,
+            2,
+            300,
+            300
+          ],
+          "Type": 37,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38549,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "百烈万军破",
+          "Power": 150,
+          "Priority": 0,
+          "SideEffect": [
+            2157,
+            2422,
+            645,
+            1447,
+            811
+          ],
+          "SideEffectArg": [
+            3,
+            3,
+            3,
+            100,
+            28
+          ],
+          "Type": 6,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38550,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "帕诺·七星阵列",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            797,
+            795,
+            2592,
+            2105,
+            2012
+          ],
+          "SideEffectArg": [
+            3,
+            25,
+            100,
+            0,
+            1
+          ],
+          "Type": 37,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38551,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "雾影界天",
+          "Power": 85,
+          "Priority": 3,
+          "SideEffect": [
+            928,
+            426,
+            2579
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            100,
+            1,
+            100,
+            15,
+            100,
+            6,
+            3
+          ],
+          "Type": 45,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38552,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "王·融冬诉死",
+          "Power": 150,
+          "Priority": 0,
+          "SideEffect": [
+            881,
+            2504,
+            2001,
+            1232,
+            2577
+          ],
+          "SideEffectArg": [
+            100,
+            15,
+            3,
+            44,
+            15,
+            0
+          ],
+          "Type": 45,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38553,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "王·冥津哑噤",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            760,
+            1061,
+            2590,
+            1040
+          ],
+          "SideEffectArg": [
+            20,
+            10,
+            40,
+            3,
+            100,
+            44,
+            1
+          ],
+          "Type": 45,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38554,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "雷·震天逆舞",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            979,
+            636
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            0,
+            0
+          ],
+          "Type": 67,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38555,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "灵·万丈剑斩",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            1034,
+            1025
+          ],
+          "SideEffectArg": [
+            2,
+            1
+          ],
+          "Type": 10,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38556,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "沙·狂流裂灭",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            959,
+            1060
+          ],
+          "SideEffectArg": [
+            1,
+            2
+          ],
+          "Type": 42,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38557,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "翼·清风飏云",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            979,
+            538
+          ],
+          "SideEffectArg": [
+            2,
+            2,
+            3,
+            0,
+            0,
+            0,
+            3,
+            0
+          ],
+          "Type": 53,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38558,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "夜·幽空蝠影",
+          "Power": 160,
+          "Priority": 3,
+          "SideEffect": [
+            1616,
+            1124,
+            736
+          ],
+          "SideEffectArg": [
+            2,
+            100,
+            3
+          ],
+          "Type": 48,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38559,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "漆·灭邪虚灵",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            1124,
+            948
+          ],
+          "SideEffectArg": [
+            2,
+            100,
+            6
+          ],
+          "Type": 75,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38560,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "阳·星火流光",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            973,
+            794
+          ],
+          "SideEffectArg": [
+            100,
+            22,
+            2
+          ],
+          "Type": 68,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38561,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "剑·盈龙血刺",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            1224,
+            1123
+          ],
+          "SideEffectArg": [
+            2,
+            1,
+            3
+          ],
+          "Type": 73,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38562,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "拳·无情破碎",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            1034,
+            1012
+          ],
+          "SideEffectArg": [
+            2,
+            500
+          ],
+          "Type": 11,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38563,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "圣·皎月净影",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            979,
+            1180
+          ],
+          "SideEffectArg": [
+            1,
+            3,
+            2
+          ],
+          "Type": 44,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38564,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "海·天水行歌",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            942,
+            629
+          ],
+          "SideEffectArg": [
+            3,
+            0,
+            3
+          ],
+          "Type": 66,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38565,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "凌·霰雪绝霜",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            1616,
+            867,
+            1044
+          ],
+          "SideEffectArg": [
+            3,
+            2
+          ],
+          "Type": 87,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38566,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "御·幻羽神涤",
+          "Power": 160,
+          "Priority": 3,
+          "SideEffect": [
+            1343,
+            1207,
+            2587,
+            2583
+          ],
+          "SideEffectArg": [
+            1,
+            1,
+            3,
+            1,
+            2
+          ],
+          "Type": 61,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38567,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "钺·破夜黎明",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            881,
+            2588,
+            1549,
+            1054,
+            2589,
+            2584
+          ],
+          "SideEffectArg": [
+            200,
+            1,
+            25,
+            100,
+            3,
+            31
+          ],
+          "Type": 61,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 100,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38568,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "群辰·万煌戎行",
+          "Power": 0,
+          "Priority": 3,
+          "SideEffect": [
+            2582,
+            2581,
+            2585
+          ],
+          "SideEffectArg": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "Type": 61,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38569,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "卫·极光圣芒",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            945,
+            905
+          ],
+          "SideEffectArg": [
+            3
+          ],
+          "Type": 18,
           "info": "",
           "ordinary": 0
         },
