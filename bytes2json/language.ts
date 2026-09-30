@@ -9,6 +9,7 @@ export interface ILanguageInfo {
   id: number
   content: string
   key: string
+  showType: number
 }
 
 export interface IRootInterface {
@@ -19,6 +20,7 @@ const languageInfoSchema: FieldSchema = [
   ['content', text()],
   ['id', int()],
   ['key', text()],
+  ['showType', int()],
 ]
 
 export const parseLanguageConfig = createSimpleListParser<

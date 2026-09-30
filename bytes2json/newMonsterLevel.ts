@@ -7,6 +7,7 @@ import {
 } from '../utils/ConfigParserTemplate'
 
 export interface INewMonsterLevelInfo {
+  collective: number
   difficult: number
   fightType: number
   hide: string
@@ -17,6 +18,7 @@ export interface INewMonsterLevelInfo {
   menutype?: number[]
   moduleid: number
   monsterid: number
+  newSort: number
   param: string
   petTag?: number[]
   quality: string
@@ -37,6 +39,7 @@ export interface NewMonsterLevelConfig {
 }
 
 const newMonsterLevelInfoSchema: FieldSchema = [
+  ['collective', int()],
   ['difficult', int()],
   ['fightType', int()],
   ['hide', text()],
@@ -47,6 +50,7 @@ const newMonsterLevelInfoSchema: FieldSchema = [
   ['menutype', optionalArray('int')],
   ['moduleid', int()],
   ['monsterid', int()],
+  ['newSort', int()],
   ['param', text()],
   ['petTag', optionalArray('int')],
   ['quality', text()],
