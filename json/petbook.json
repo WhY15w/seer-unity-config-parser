@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4951,
-            "ImageID": 4951,
+            "ID": 4955,
+            "ImageID": 4955,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,8 +1367,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4952,
-            "ImageID": 4952,
+            "ID": 4956,
+            "ImageID": 4956,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1377,41 +1377,41 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4953,
-            "ImageID": 4953,
+            "ID": 879,
+            "ImageID": 1400879,
             "Label": 0,
             "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4954,
-            "ImageID": 4954,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 877,
-            "ImageID": 1400877,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4373,
+            "monID": 4956,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 878,
-            "ImageID": 1400878,
+            "ID": 880,
+            "ImageID": 1400880,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4658,
+            "monID": 4816,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 881,
+            "ImageID": 1400881,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4401,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 882,
+            "ImageID": 1400882,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4353,
             "type": 1
           }
         ]
@@ -24306,7 +24306,7 @@
         "DefName": "魂帝·天循道",
         "Features": "魂帝超进化形态，铸魂之路，道阻且长！昭昭天命，魂帝重生！",
         "ID": 3847,
-        "Target": ""
+        "Target": "150151"
       },
       {
         "DefName": "时空幻零",
@@ -30750,7 +30750,7 @@
         "DefName": "莫缇",
         "Features": "魔盒的预言，似乎否定了她的价值、她的一切。但若是因此而退却，此后的半生便与走肉无异。这座都市不会只是泡影，纵使终会直面一切的坍塌，至少，让这片钢铁的森林成为指向云端之上的天枪。",
         "ID": 4923,
-        "Target": "200000"
+        "Target": ""
       },
       {
         "DefName": "米罗博士",
@@ -30931,6 +30931,18 @@
         "Features": "神秘的远古之力似乎与赛尔产生了共鸣，神代·布布种子由此被召唤而来，成为赛尔最忠诚的伙伴。",
         "ID": 4954,
         "Target": "520011"
+      },
+      {
+        "DefName": "霍努努",
+        "Features": "霍努努是凯亚召唤出来的第一只精灵，它性格温柔，总是一副好脾气的样子。虽然在岸上移动的速度很慢，但在水中非常灵活。是凯亚的好伙伴。",
+        "ID": 4955,
+        "Target": "153201/1015"
+      },
+      {
+        "DefName": "珀萝",
+        "Features": "无论多少次预演，都达不到完美。路线、时间、凶器、证明，她不断地构想、无限地演练，只为让那混色的魔女血债血偿。推理的世界里，作者是凶手的共犯；在现实的世界里，墨渍是鲜血的前言。",
+        "ID": 4956,
+        "Target": "200000"
       },
       {
         "DefName": "镇世神岳·玄武",

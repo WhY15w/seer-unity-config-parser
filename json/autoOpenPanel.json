@@ -375,13 +375,13 @@
     {
       "actionName": "巅峰赛季更新强弹",
       "controller": "AutoOpenLocalDaily",
-      "endTime": "2026/07/24",
+      "endTime": "2026/10/22",
       "id": 33,
       "moduleId": 409,
       "param1": "peakauto",
       "param2": "",
       "param3": "",
-      "startTime": "2026/07/17",
+      "startTime": "2026/10/16",
       "state": 1
     },
     {

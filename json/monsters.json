@@ -455894,6 +455894,15 @@
               "Rec": 1,
               "Tag": 0
             }
+          ],
+          "SpMove": [
+            {
+              "Id": 38584,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 4,
+              "tag": 0
+            }
           ]
         },
         "PetClass": 2485,
@@ -464988,6 +464997,15 @@
               "LearningLv": 61,
               "Rec": 1,
               "Tag": 0
+            }
+          ],
+          "SpMove": [
+            {
+              "Id": 38583,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 4,
+              "tag": 0
             }
           ]
         },
@@ -509562,6 +509580,15 @@
               "Rec": 1,
               "Tag": 4
             }
+          ],
+          "SpMove": [
+            {
+              "Id": 29477,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 2,
+              "tag": 0
+            }
           ]
         },
         "PetClass": 2860,
@@ -537532,6 +537559,15 @@
               "Rec": 1,
               "Tag": 4
             }
+          ],
+          "SpMove": [
+            {
+              "Id": 38582,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 1,
+              "tag": 0
+            }
           ]
         },
         "PetClass": 3061,
@@ -549998,6 +550034,15 @@
               "LearningLv": 75,
               "Rec": 1,
               "Tag": 4
+            }
+          ],
+          "SpMove": [
+            {
+              "Id": 29476,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 3,
+              "tag": 0
             }
           ]
         },
@@ -610590,6 +610635,276 @@
         "Support": 0,
         "Transform": 0,
         "Type": 82,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 144,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 110,
+        "DefName": "霍努努",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38587,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 167,
+        "ID": 4955,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 10559,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20065,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10225,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20035,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10186,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38585,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 20144,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 11439,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 24616,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 31445,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 25831,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 31446,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29478,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 31447,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29479,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38586,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3616,
+        "RealId": 0,
+        "SpAtk": 70,
+        "SpDef": 110,
+        "Spd": 134,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 66,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 115,
+        "DefName": "珀萝",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 29485,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 172,
+        "ID": 4956,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 38589,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29480,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38590,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29481,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38591,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38592,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 38593,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38594,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29482,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38595,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38596,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29483,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38597,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 38598,
+              "LearningLv": 53,
+              "Rec": 1,
+              "Tag": 4
+            },
+            {
+              "Id": 29484,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38599,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 3
+            }
+          ]
+        },
+        "PetClass": 3617,
+        "RealId": 0,
+        "SpAtk": 134,
+        "SpDef": 115,
+        "Spd": 139,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 56,
         "Vip": 0,
         "isFlyPet": 0,
         "isRidePet": 0
@@ -704679,6 +704994,106 @@
         "Gender": 0,
         "HP": 0,
         "ID": 1400878,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "四幕连环·珀萝",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400879,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "苍蓝幻想·伊芙",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400880,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "戾虐鏖杀·特罗斯",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400881,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "恶戏前奏·花寅",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400882,
         "PetClass": 0,
         "RealId": 0,
         "SpAtk": 0,

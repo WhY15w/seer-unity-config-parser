@@ -1,1088 +1,1088 @@
 [
   {
     "file": "ActivityCenter.json",
-    "hash": "a726fb2d90a64b533be2d80a7a4a8c8b964c5c5e60c5f58b3f2231fb77b84f40",
-    "size": 222976,
-    "lastModified": "2026-10-09T12:31:53.172Z"
+    "hash": "79b9e731110fff59f39b7b6764844a3cb3182f5098e329ecf4c878ab8a51ac2d",
+    "size": 225393,
+    "lastModified": "2026-10-16T08:54:54.263Z"
   },
   {
     "file": "ActivityCenter_bisaifu.json",
     "hash": "9b9b0dcee790f5980d2cee0123e3831f6d171904805ed01ad81e7fd9239f2789",
     "size": 104547,
-    "lastModified": "2026-10-09T12:31:53.175Z"
+    "lastModified": "2026-10-16T08:54:54.266Z"
   },
   {
     "file": "ActivityCenter_test.json",
     "hash": "55bb76b45c1db478c65404f78df4582004e63f25c012f67df5a24ffbb4c1d132",
     "size": 7056,
-    "lastModified": "2026-10-09T12:31:29.698Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "Activity_ShopConfig.json",
     "hash": "f8a019549f4958c42e5bfdbee9c131e9ec3d13adc8288ac09a1ee9ca20284e1c",
     "size": 87575,
-    "lastModified": "2026-10-09T12:31:53.178Z"
+    "lastModified": "2026-10-16T08:54:54.270Z"
   },
   {
     "file": "Activity_TaskConfig.json",
-    "hash": "1a3c82f1bfc4d4ac8ff4cbc56fc1d3d7710a47f2e5c8a03db35f4869e22564e0",
+    "hash": "313a437af29a0d6a2dc28ecaf4b52a5e82e9f1646affc3eacbd4faba03d33ee6",
     "size": 165317,
-    "lastModified": "2026-10-09T12:31:53.187Z"
+    "lastModified": "2026-10-16T08:54:54.279Z"
   },
   {
     "file": "Activity_TimeUpdateConfig.json",
-    "hash": "52a38fb4506578429561b8d51544698016bbe8b8ada35e4b84d93a9d270f59f8",
-    "size": 929,
-    "lastModified": "2026-10-09T12:31:53.187Z"
+    "hash": "68d1bb96a3fea4f709b30aa5bfdcfd40e6de46f602af6e0fdc941461caf38b2a",
+    "size": 927,
+    "lastModified": "2026-10-16T08:54:54.280Z"
   },
   {
     "file": "AdAstraCondition.json",
     "hash": "5e68210a1dcd11eb490489f04cc7115b89c28804ee074390e6a99f4a437f9231",
     "size": 4679,
-    "lastModified": "2026-10-09T12:31:53.187Z"
+    "lastModified": "2026-10-16T08:54:54.280Z"
   },
   {
     "file": "AdAstraGalaxy.json",
-    "hash": "402dba5839bbcb3df444fe6448db389ecf052af29bdd26707214a80c14b6b513",
+    "hash": "85d4ab9220d1da9c96c4a34320293e71cb6dd2e5b605a3dcc724f45c298392fb",
     "size": 6976,
-    "lastModified": "2026-10-09T12:31:53.188Z"
+    "lastModified": "2026-10-16T08:54:54.280Z"
   },
   {
     "file": "AdAstraGalaxy_guoqing.json",
     "hash": "bcdc9a4543331e4e95990639c16583b64fe4057d374a87522a0683c9c87c9b7e",
     "size": 6976,
-    "lastModified": "2026-10-09T12:31:29.698Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "AdAstraGalaxy_temp.json",
     "hash": "7ac3c5a79823cffd80069ef8d39f37b8fe62704b6bae4da0851e473dd11bd0ca",
     "size": 6976,
-    "lastModified": "2026-10-09T12:31:29.698Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "AdAstraLevel.json",
     "hash": "0359477e6a9be8db5f6ddfeffb1f9fb56ed529fdb715b10ffb88cb53454e69df",
     "size": 36728,
-    "lastModified": "2026-10-09T12:31:53.189Z"
+    "lastModified": "2026-10-16T08:54:54.282Z"
   },
   {
     "file": "AdAstraShop.json",
     "hash": "3e9305d922463c9a11f03d9ce6563514ddfebc45a78dffc76bee53f4db2f5681",
     "size": 380,
-    "lastModified": "2026-10-09T12:31:29.698Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "AdAstraStarAward.json",
     "hash": "c23a1c3a4460171511ae1c644f358e84113ceef3f510e746aed19dd6e4db8f88",
     "size": 11262,
-    "lastModified": "2026-10-09T12:31:53.189Z"
+    "lastModified": "2026-10-16T08:54:54.282Z"
   },
   {
     "file": "AdastraActivityReward.json",
     "hash": "661e6da8b1d0272525b26d2cdf44ee4a926407fc043563dbcdb1d32181bf5739",
     "size": 2774,
-    "lastModified": "2026-10-09T12:31:53.187Z"
+    "lastModified": "2026-10-16T08:54:54.280Z"
   },
   {
     "file": "AnniversaryVault.json",
     "hash": "6da824492020ab05596f6e1a2fbc3ca30382eed4d160ee1ad71b44b52ba11937",
     "size": 21653,
-    "lastModified": "2026-10-09T12:31:53.190Z"
+    "lastModified": "2026-10-16T08:54:54.283Z"
   },
   {
     "file": "BackFlowTask.json",
     "hash": "e5b4eed2ad44c58064ac6e84e26f64e61798e9e4b4f87ab3516b69f477189af8",
     "size": 5373,
-    "lastModified": "2026-10-09T12:31:29.698Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "Bravechalltask.json",
     "hash": "5e5d07b729ec1ce738a63dd0fbb685d2e16f34fd48115f5fb5265746b89cf595",
     "size": 35016,
-    "lastModified": "2026-10-09T12:31:29.699Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "Bravecommtask.json",
     "hash": "3da8e5b440b003e41f886245473d0efbc70b65168371d0fa6d965a123cc16d74",
     "size": 33814,
-    "lastModified": "2026-10-09T12:31:29.699Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "ExplorationReward.json",
     "hash": "c06e3bcfef420cc4bc7afae002e8c4074225b84d3013de7573b8c889fe3dd423",
     "size": 7445,
-    "lastModified": "2026-10-09T12:31:53.063Z"
+    "lastModified": "2026-10-16T08:54:54.159Z"
   },
   {
     "file": "FrameInfo.json",
     "hash": "7d0bc007ef6a2da75f8e30284302f872cf6e3d04d374a49e65970d4bf7956bef",
     "size": 120,
-    "lastModified": "2026-10-09T12:31:29.699Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "LevelCondition.json",
     "hash": "9c9402b9940e3dc6194488745660e7f1c1d2a8f16e23713dd9d46196cd7b6db3",
     "size": 1455,
-    "lastModified": "2026-10-09T12:31:53.093Z"
+    "lastModified": "2026-10-16T08:54:54.188Z"
   },
   {
     "file": "LimitUseItemInfo.json",
     "hash": "590459d2217cc5d7c62689e54e1546311ac8834d298f48088ee7f226a26c8a04",
     "size": 13597,
-    "lastModified": "2026-10-09T12:31:29.699Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "LoginGift.json",
     "hash": "a75576ac6bf8ff53346ae1a14e02fe8ae99ca4d5c9365ddb2211739fbfae83f0",
     "size": 437,
-    "lastModified": "2026-10-09T12:31:53.093Z"
+    "lastModified": "2026-10-16T08:54:54.188Z"
   },
   {
     "file": "NewSeerWelfare.json",
     "hash": "ca8d824b71a0280f1fb1c02b88e3da373dcda695ce533ea738f1514906b66e98",
     "size": 616,
-    "lastModified": "2026-10-09T12:31:53.150Z"
+    "lastModified": "2026-10-16T08:54:54.242Z"
   },
   {
     "file": "Popup.json",
     "hash": "1cee6131ec5212644e07189b635cfca5e52c12c19587f515c385dae9f707d7ff",
     "size": 1169,
-    "lastModified": "2026-10-09T12:31:53.153Z"
+    "lastModified": "2026-10-16T08:54:54.245Z"
   },
   {
     "file": "PreferentialBest.json",
     "hash": "d384e786374e8376b99d6d6c8b4ca70545abaff51a3732defa189f4640d4e343",
     "size": 499,
-    "lastModified": "2026-10-09T12:31:29.699Z"
+    "lastModified": "2026-10-16T08:54:33.223Z"
   },
   {
     "file": "PveBossExperienceTraining.json",
     "hash": "d17ed73d05606de0a0c8851ff6e822a63671f766f25315bcd5df79bb76564259",
     "size": 2048,
-    "lastModified": "2026-10-09T12:31:53.155Z"
+    "lastModified": "2026-10-16T08:54:54.246Z"
   },
   {
     "file": "PveBossLearningTraining.json",
     "hash": "e2cbf059221b42595e63fedfc6e57a6b915b3044bfaff650b9bcea55c124e639",
     "size": 2013,
-    "lastModified": "2026-10-09T12:31:53.155Z"
+    "lastModified": "2026-10-16T08:54:54.246Z"
   },
   {
     "file": "WishMintmark.json",
     "hash": "ef5ba5bf7e838097efab4e2d593e995f9e313f0ec8fba74609b5a2ee5a775dd3",
     "size": 83145,
-    "lastModified": "2026-10-09T12:31:53.250Z"
+    "lastModified": "2026-10-16T08:54:54.343Z"
   },
   {
     "file": "Wishpart.json",
     "hash": "c4ce812cd95bced63d44e829ec130c5545a4c090bb22e67b0b58edeb708b2a5f",
     "size": 20701,
-    "lastModified": "2026-10-09T12:31:53.245Z"
+    "lastModified": "2026-10-16T08:54:54.338Z"
   },
   {
     "file": "Wishpet.json",
     "hash": "3c9429c09e4608e32215c4102bc9c0024835596865b444db3bf8f027cd933f33",
     "size": 304347,
-    "lastModified": "2026-10-09T12:31:53.244Z"
+    "lastModified": "2026-10-16T08:54:54.337Z"
   },
   {
     "file": "Wishskin.json",
     "hash": "c55fc3557bd87bfeff21a1d09ecfbb2a7dc7007574a492948dc964323925c228",
     "size": 57751,
-    "lastModified": "2026-10-09T12:31:53.246Z"
+    "lastModified": "2026-10-16T08:54:54.339Z"
   },
   {
     "file": "Wishsuit.json",
     "hash": "1d16227c087b8d8b3e338c982492dd9aaf9bb6493a993c9bc9dc5de05a22ac71",
     "size": 92539,
-    "lastModified": "2026-10-09T12:31:53.248Z"
+    "lastModified": "2026-10-16T08:54:54.341Z"
   },
   {
     "file": "achievementbonus.json",
-    "hash": "87fd53dacf4b6f2b9447a43a8a5e726ad69767b566593b0a4683591d0854e05d",
-    "size": 177437,
-    "lastModified": "2026-10-09T12:31:53.165Z"
+    "hash": "e9ad17b4ec945c76264d1f57db47d69b64a60037dc3a53af65b60618e44203a7",
+    "size": 178015,
+    "lastModified": "2026-10-16T08:54:54.256Z"
   },
   {
     "file": "achievements.json",
-    "hash": "1469009efcf976b6b72a4d9cec2ed45085ea5c6eb9bb9f31dab7159771b4fd80",
-    "size": 695290,
-    "lastModified": "2026-10-09T12:31:52.273Z"
+    "hash": "81899f3089d10857583201e5a5181a555198c17280a639146ff5a42042fd09bc",
+    "size": 697490,
+    "lastModified": "2026-10-16T08:54:53.355Z"
   },
   {
     "file": "active_sort.json",
     "hash": "babb109c30e250ca9bd5de4faed60305509b84adb8283c22132441938ee45007",
     "size": 11076,
-    "lastModified": "2026-10-09T12:31:53.166Z"
+    "lastModified": "2026-10-16T08:54:54.257Z"
   },
   {
     "file": "active_sort_bisaifu.json",
     "hash": "34a6d9ddc2a11bd2a9f4e1524fc100d792ed40b684ad7e708eca95c311c945d4",
     "size": 8316,
-    "lastModified": "2026-10-09T12:31:53.166Z"
+    "lastModified": "2026-10-16T08:54:54.257Z"
   },
   {
     "file": "announcement.json",
     "hash": "0168172fe848a76f72b5e94a7c71185102d1bd0246d68f5e9716b903afe7a77f",
     "size": 80847,
-    "lastModified": "2026-10-09T12:31:29.702Z"
+    "lastModified": "2026-10-16T08:54:33.226Z"
   },
   {
     "file": "archivesBook.json",
     "hash": "1528340d936fcd177dc7d9c0157fb43c7358a989cb2916df95b7ebe429ed448f",
     "size": 8950,
-    "lastModified": "2026-10-09T12:31:53.190Z"
+    "lastModified": "2026-10-16T08:54:54.283Z"
   },
   {
     "file": "archivesStory.json",
-    "hash": "05d626b2c909fa4e9a03c14d5642545ec162d6b02252967586241ec84f14a310",
-    "size": 1175263,
-    "lastModified": "2026-10-09T12:31:53.201Z"
+    "hash": "9b267e384234c7222b8b12f809aae60c0e1ca9b0382ed4d2980b1bc9f68b4e32",
+    "size": 1176549,
+    "lastModified": "2026-10-16T08:54:54.293Z"
   },
   {
     "file": "archivesStory_temp.json",
     "hash": "d356ad8a3fbc24e80641b0a713fa22563c3011355070414e7e30a50f09302bd9",
     "size": 1171760,
-    "lastModified": "2026-10-09T12:31:53.214Z"
+    "lastModified": "2026-10-16T08:54:54.306Z"
   },
   {
     "file": "aurumEndgameOptionsConfig.json",
     "hash": "16efdafabd46ff2155f3a7ee035486564a6ea644f07884b161ea0d3a077bd166",
     "size": 26090,
-    "lastModified": "2026-10-09T12:31:53.216Z"
+    "lastModified": "2026-10-16T08:54:54.307Z"
   },
   {
     "file": "autoCardBuffWiki.json",
     "hash": "5a9d2d379a3a40fffb0a412c49b63e895946bb9b5eca970aa67d7e280985ee51",
     "size": 509,
-    "lastModified": "2026-10-09T12:31:29.712Z"
+    "lastModified": "2026-10-16T08:54:33.236Z"
   },
   {
     "file": "autoCardRecom.json",
     "hash": "382c0af1f69072936bdc8c67dccb6fae4584fd219975cbdde745193e3e7bca15",
     "size": 3576,
-    "lastModified": "2026-10-09T12:31:53.034Z"
+    "lastModified": "2026-10-16T08:54:54.128Z"
   },
   {
     "file": "autoCardVideo.json",
     "hash": "577f7d54aee8fda63423b65a7afc754bca72bc54a9ca3181cdf260cf4264fcd0",
     "size": 3554,
-    "lastModified": "2026-10-09T12:31:53.218Z"
+    "lastModified": "2026-10-16T08:54:54.310Z"
   },
   {
     "file": "autoCardbook.json",
     "hash": "ad20067ab8c3785ac09e9fe6a88d388760a2455cdfaebe408a7ee45d0e2c53ef",
     "size": 734,
-    "lastModified": "2026-10-09T12:31:53.216Z"
+    "lastModified": "2026-10-16T08:54:54.307Z"
   },
   {
     "file": "autoOpenPanel.json",
-    "hash": "2df2c007236feab115b8e2af4721a9ed448e8a40fd2e5d48cc9f389652351d41",
+    "hash": "052780e68865fd549fe6835f41f2e9e692c1c2156e4724b68347f54b2cefade5",
     "size": 19821,
-    "lastModified": "2026-10-09T12:31:53.219Z"
+    "lastModified": "2026-10-16T08:54:54.310Z"
   },
   {
     "file": "autocardBuff.json",
     "hash": "0a86e3d5f3d91ed16abf9f8300789ecbbc702e8f8f6656e96999289379dabacc",
     "size": 86386,
-    "lastModified": "2026-10-09T12:31:29.712Z"
+    "lastModified": "2026-10-16T08:54:33.236Z"
   },
   {
     "file": "autocardCV.json",
     "hash": "a1aaaf45ea70b143dbbe16daef5f2c84fa37c700399e6bf8d8fb121718b1c15b",
     "size": 5879,
-    "lastModified": "2026-10-09T12:31:53.217Z"
+    "lastModified": "2026-10-16T08:54:54.309Z"
   },
   {
     "file": "autocardCondition.json",
     "hash": "f436421f99a0ac5a5d13a0b9b3d5f8c46ef802e9271c3c28a1e5d4d1b25c7533",
     "size": 1128,
-    "lastModified": "2026-10-09T12:31:53.018Z"
+    "lastModified": "2026-10-16T08:54:54.107Z"
   },
   {
     "file": "autocardContent.json",
-    "hash": "56e1354b287096aaa09d811698f1f3d96c2be403a809e8b22cd4ea7f1aa690d5",
-    "size": 319367,
-    "lastModified": "2026-10-09T12:31:53.032Z"
+    "hash": "6da673ee8f0811e17be446c83505b9d064c1ad4f72e695ab3a762e4cb1bb5226",
+    "size": 319510,
+    "lastModified": "2026-10-16T08:54:54.126Z"
   },
   {
     "file": "autocardEffect.json",
     "hash": "eebe9244f862f887d393292ccc26e551c39fe83ab8b9c4423e73be5a477f709a",
     "size": 3392,
-    "lastModified": "2026-10-09T12:31:53.032Z"
+    "lastModified": "2026-10-16T08:54:54.126Z"
   },
   {
     "file": "autocardEffectIconDes.json",
     "hash": "954113b5e3da76704b904c77e6e64eb351d1322159fd8d0688aa968b0fa7466d",
     "size": 1923,
-    "lastModified": "2026-10-09T12:31:53.032Z"
+    "lastModified": "2026-10-16T08:54:54.127Z"
   },
   {
     "file": "autocardNature.json",
     "hash": "55973027cdcca1819ef4c9aa595da6cb895fa6729ca7ee5d8cc74ac4c403ac16",
     "size": 749,
-    "lastModified": "2026-10-09T12:31:53.033Z"
+    "lastModified": "2026-10-16T08:54:54.127Z"
   },
   {
     "file": "autocardPlayer.json",
     "hash": "24128c8998e95913d96ba79fa3a42c4930e6e1e26160820712bcc8a7fbd3ff6d",
     "size": 10102,
-    "lastModified": "2026-10-09T12:31:53.033Z"
+    "lastModified": "2026-10-16T08:54:54.128Z"
   },
   {
     "file": "autocardRole.json",
     "hash": "712ce32cfdd8e395435f4f5d5c6714af453ad46209607051be43f1db1fb43172",
     "size": 36515,
-    "lastModified": "2026-10-09T12:31:53.035Z"
+    "lastModified": "2026-10-16T08:54:54.129Z"
   },
   {
     "file": "autocardScreen.json",
     "hash": "67551adf0e80e1175d84b03f27833cbb916aa5a0d3c663b6ef970d9cd5a69da0",
     "size": 1541,
-    "lastModified": "2026-10-09T12:31:53.218Z"
+    "lastModified": "2026-10-16T08:54:54.309Z"
   },
   {
     "file": "autocardSeason.json",
     "hash": "71282be239194426f30eeed7be9a94f5973a50c64294f474a4ecb211b20ebecf",
     "size": 1614,
-    "lastModified": "2026-10-09T12:31:53.035Z"
+    "lastModified": "2026-10-16T08:54:54.129Z"
   },
   {
     "file": "autocardSeasonEffect.json",
     "hash": "d0050162abbcf1c486b09263783e83c2b8ebee33a1028e78cab07fe50c999972",
     "size": 24696,
-    "lastModified": "2026-10-09T12:31:53.036Z"
+    "lastModified": "2026-10-16T08:54:54.130Z"
   },
   {
     "file": "autocardShop.json",
     "hash": "950a90bd3e7251020781d0389eb1c943a4be79beb9e7564dfea1cac3195f3236",
     "size": 1377,
-    "lastModified": "2026-10-09T12:31:53.218Z"
+    "lastModified": "2026-10-16T08:54:54.309Z"
   },
   {
     "file": "autocardSkin.json",
     "hash": "be8e9d7147f23bc2b287444bb34eaf4159fa5b77d915ccedff5242cca1f21813",
     "size": 3407,
-    "lastModified": "2026-10-09T12:31:29.714Z"
+    "lastModified": "2026-10-16T08:54:33.237Z"
   },
   {
     "file": "awakenbossbuff.json",
     "hash": "96ed185e85e24dc7526b8b895eedcaba929e7f9212b2c265aaa62de27dff917f",
     "size": 970,
-    "lastModified": "2026-10-09T12:31:53.219Z"
+    "lastModified": "2026-10-16T08:54:54.311Z"
   },
   {
     "file": "awakenbossconfig.json",
     "hash": "98ac0f806215d7dadf4400485afb0ad1da0e91e75b769e5253f4a5fc12d7562e",
     "size": 2553,
-    "lastModified": "2026-10-09T12:31:53.220Z"
+    "lastModified": "2026-10-16T08:54:54.311Z"
   },
   {
     "file": "awakenbosslevel.json",
     "hash": "f80c4ed9d45be4fcdb8c15757e9445c52d0b886f04a66418bf6732b0304340ba",
     "size": 8576,
-    "lastModified": "2026-10-09T12:31:53.220Z"
+    "lastModified": "2026-10-16T08:54:54.311Z"
   },
   {
     "file": "awakencondition.json",
     "hash": "7361a74b739811a1c847664a18f52b9ce421afefd82c572c9915e12a4a10502d",
     "size": 5463,
-    "lastModified": "2026-10-09T12:31:53.220Z"
+    "lastModified": "2026-10-16T08:54:54.312Z"
   },
   {
     "file": "awakendetail.json",
     "hash": "c7e4c2c365fe45d67a03f910a61b439f25dadeae92dcb72c72e59a9e4722524a",
     "size": 24787,
-    "lastModified": "2026-10-09T12:31:53.006Z"
+    "lastModified": "2026-10-16T08:54:54.095Z"
   },
   {
     "file": "awakenlevel.json",
     "hash": "713fac6d34ee64232e5085fb8fd9268f22c965e742b9a1312b915e6f6d5f068a",
     "size": 9919,
-    "lastModified": "2026-10-09T12:31:29.714Z"
+    "lastModified": "2026-10-16T08:54:33.237Z"
   },
   {
     "file": "awakenlist.json",
     "hash": "225569360f193f572e10a8b6a0d0dfa59e0486314b5bd3db8dd8b37c4dcca762",
     "size": 11460,
-    "lastModified": "2026-10-09T12:31:53.221Z"
+    "lastModified": "2026-10-16T08:54:54.312Z"
   },
   {
     "file": "awakentask.json",
     "hash": "cb03806e2c9ded177822f52f11e9f5150ccb4df6740568b1816e3bf108ad40b4",
     "size": 10575,
-    "lastModified": "2026-10-09T12:31:29.714Z"
+    "lastModified": "2026-10-16T08:54:33.238Z"
   },
   {
     "file": "badgeBattlePass_reward.json",
     "hash": "2de9828c893b3755482b55be3e70994c553b970a13b7e05b0d7e9fb04efe74a3",
     "size": 7043,
-    "lastModified": "2026-10-09T12:31:53.221Z"
+    "lastModified": "2026-10-16T08:54:54.313Z"
   },
   {
     "file": "badgeBattlePass_task.json",
     "hash": "3ac416098ead234ba7d718ff85cadd9f1d46d1ab9f6b5bc1ad0d8dbfdf664026",
     "size": 1816,
-    "lastModified": "2026-10-09T12:31:53.222Z"
+    "lastModified": "2026-10-16T08:54:54.313Z"
   },
   {
     "file": "bagTower_EquipEffect.json",
     "hash": "e394a271c50d0a0ab2b5c85a07396bb19b1bcbb5a4ef0a85a7f6df4618d055ef",
     "size": 21012,
-    "lastModified": "2026-10-09T12:31:53.222Z"
+    "lastModified": "2026-10-16T08:54:54.314Z"
   },
   {
     "file": "bagTower_EquipSynthesis.json",
     "hash": "8154e00581be9282c022c63a7a65f45369ef45611c339f18bfb985190182d241",
     "size": 11967,
-    "lastModified": "2026-10-09T12:31:53.223Z"
+    "lastModified": "2026-10-16T08:54:54.314Z"
   },
   {
     "file": "bagTower_EquipUpgrade.json",
     "hash": "c669de5522abb76f13a10485afeaa3afdfa5e8dd1fdf876c0832a5090ba52077",
     "size": 17952,
-    "lastModified": "2026-10-09T12:31:53.224Z"
+    "lastModified": "2026-10-16T08:54:54.315Z"
   },
   {
     "file": "bagTower_Monster.json",
     "hash": "0b47f50f5eb5b1f87667e9e6b04708f99158d15c97ccc35e969b5ecc68b02c5b",
     "size": 2002,
-    "lastModified": "2026-10-09T12:31:53.224Z"
+    "lastModified": "2026-10-16T08:54:54.316Z"
   },
   {
     "file": "bagTower_PlaerExp.json",
     "hash": "db25d40877a7c462725058066a288733e7bfe6bd7cec23e59dbcf82b497a810d",
     "size": 1243,
-    "lastModified": "2026-10-09T12:31:53.224Z"
+    "lastModified": "2026-10-16T08:54:54.316Z"
   },
   {
     "file": "bagTower_Stage.json",
     "hash": "20c3adf389254c10f6df49079ad0fc92a5e6696952b281d8617cd5ef58a13789",
     "size": 1219,
-    "lastModified": "2026-10-09T12:31:53.225Z"
+    "lastModified": "2026-10-16T08:54:54.316Z"
   },
   {
     "file": "bagTower_StageFight.json",
     "hash": "6ffb0b0fcad101ca1ec254c4e3b1c59f47e0539c8e821418100dd25d0edd01b7",
     "size": 337554,
-    "lastModified": "2026-10-09T12:31:53.237Z"
+    "lastModified": "2026-10-16T08:54:54.330Z"
   },
   {
     "file": "bagTower_StageWave.json",
     "hash": "1a3de7f9b51eb5e392973c121e77f4c689b4cb04c6d243e1fca551d9561e3717",
     "size": 32974,
-    "lastModified": "2026-10-09T12:31:53.238Z"
+    "lastModified": "2026-10-16T08:54:54.331Z"
   },
   {
     "file": "banner.json",
     "hash": "4fcaa4683ede0ebed742062e8d9380783495b478f993a5baa4cdfb88d38d23ae",
     "size": 1018,
-    "lastModified": "2026-10-09T12:31:53.238Z"
+    "lastModified": "2026-10-16T08:54:54.332Z"
   },
   {
     "file": "banner_bisaifu.json",
     "hash": "4fcaa4683ede0ebed742062e8d9380783495b478f993a5baa4cdfb88d38d23ae",
     "size": 1018,
-    "lastModified": "2026-10-09T12:31:53.238Z"
+    "lastModified": "2026-10-16T08:54:54.332Z"
   },
   {
     "file": "bossInfo.json",
-    "hash": "1715d09ed8e94e0fdaedf629daece54e4744057d419e053f32bd4d693a65cd96",
-    "size": 76624,
-    "lastModified": "2026-10-09T12:31:53.047Z"
+    "hash": "7eef22b10ff42ec0dc7ca7b583d637cd534cd959650ec587139d31471de751c4",
+    "size": 82370,
+    "lastModified": "2026-10-16T08:54:54.144Z"
   },
   {
     "file": "bottlebonus.json",
     "hash": "ba9ce29c988d53eb144cc5383ef7056bbe35972987aa311522a8460fd342d24b",
     "size": 8459,
-    "lastModified": "2026-10-09T12:31:29.715Z"
+    "lastModified": "2026-10-16T08:54:33.239Z"
   },
   {
     "file": "boxordinary.json",
     "hash": "09f536cbd402c59237cafecfd976cf999dc4acbd4e2104feec5346a70bcc2bd2",
     "size": 19810,
-    "lastModified": "2026-10-09T12:31:53.048Z"
+    "lastModified": "2026-10-16T08:54:54.145Z"
   },
   {
     "file": "brave_guide.json",
     "hash": "c9a32cdb9ccc9ad279aead249ffc78fd1adbfb4782e2e8a495aa0a8ef5dfddf8",
     "size": 10445,
-    "lastModified": "2026-10-09T12:31:53.048Z"
+    "lastModified": "2026-10-16T08:54:54.146Z"
   },
   {
     "file": "brave_lv.json",
     "hash": "247f3daaa4b297c900c10acd9660b02f79c8897a67cdcce429b3fdadda40ce40",
     "size": 5265,
-    "lastModified": "2026-10-09T12:31:53.049Z"
+    "lastModified": "2026-10-16T08:54:54.146Z"
   },
   {
     "file": "brave_task.json",
     "hash": "4fea242bf1a4fae2d7616ada5db677af9a5d96d2ee191c279f62b0fbeea5c533",
     "size": 36497,
-    "lastModified": "2026-10-09T12:31:53.051Z"
+    "lastModified": "2026-10-16T08:54:54.148Z"
   },
   {
     "file": "brave_tower.json",
     "hash": "1b96f10461967c754c338a66f6f253911f41b65632f5cd675807709267af7bbd",
     "size": 13100,
-    "lastModified": "2026-10-09T12:31:29.715Z"
+    "lastModified": "2026-10-16T08:54:33.239Z"
   },
   {
     "file": "btl_condition.json",
     "hash": "46b91cacf4fa03ec70a516c33fc4a7ba432d75feb6eb207fb86bcbdaac28a57c",
     "size": 10905,
-    "lastModified": "2026-10-09T12:31:53.054Z"
+    "lastModified": "2026-10-16T08:54:54.150Z"
   },
   {
     "file": "buff.json",
-    "hash": "c88dc7a2f18a3625edef5cfb53bf4bb71cc139c82222a0f45499aaf128614dd9",
-    "size": 748623,
-    "lastModified": "2026-10-09T12:31:52.259Z"
+    "hash": "5c0e1e56eefae98be036a4c442762e07d897ed0285b9679eed8947c93255326d",
+    "size": 749548,
+    "lastModified": "2026-10-16T08:54:53.341Z"
   },
   {
     "file": "channel.json",
     "hash": "f651d28f8a4e0bc23fbb60d7a4dc4d7a92266dff2120e49e13fe39c4679d9eed",
     "size": 2281,
-    "lastModified": "2026-10-09T12:31:53.052Z"
+    "lastModified": "2026-10-16T08:54:54.148Z"
   },
   {
     "file": "chapter.json",
-    "hash": "64c70b14f7f1cad302f98a6a7ce5a37361389ee28f26a22ea8570e14d481a422",
-    "size": 25762,
-    "lastModified": "2026-10-09T12:31:53.053Z"
+    "hash": "bd16411149cc63d44acd71b3cba7a5d19b1f0f86f1148c6d7ec148ea18d8408f",
+    "size": 25768,
+    "lastModified": "2026-10-16T08:54:54.149Z"
   },
   {
     "file": "clothItems.json",
     "hash": "5016c4f77e671e94c6404d079b84c4f3c20d11acb99d1351333b6b40dd6dd114",
     "size": 691938,
-    "lastModified": "2026-10-09T12:31:54.111Z"
+    "lastModified": "2026-10-16T08:54:55.203Z"
   },
   {
     "file": "dailytask.json",
     "hash": "c3076d3a8a8c89b1e3d0d1ab09c79404fbb505569ea34193a096cb3f8e22483a",
     "size": 5157,
-    "lastModified": "2026-10-09T12:31:53.054Z"
+    "lastModified": "2026-10-16T08:54:54.150Z"
   },
   {
     "file": "dailytask_gift.json",
     "hash": "e4da2a4ba7e8d78cee3c471651cf361a89b6cbc3c9d044e6fefe6b84efafb6ef",
     "size": 3057,
-    "lastModified": "2026-10-09T12:31:53.054Z"
+    "lastModified": "2026-10-16T08:54:54.151Z"
   },
   {
     "file": "diamon_box.json",
     "hash": "9a84ad1a403a0c9e767abfe36698d1a3b13e95a8f9b99c4525548a3f39217a4c",
     "size": 1629,
-    "lastModified": "2026-10-09T12:31:29.718Z"
+    "lastModified": "2026-10-16T08:54:33.241Z"
   },
   {
     "file": "diamon_task.json",
     "hash": "44c5b8aa359252323a1e200721ff88a5f5578357f3eb8f3055468a1690dd0078",
     "size": 3096,
-    "lastModified": "2026-10-09T12:31:29.718Z"
+    "lastModified": "2026-10-16T08:54:33.241Z"
   },
   {
     "file": "drinkcheckpoint.json",
     "hash": "d617aa3328d14ada44935d3d24dadcf13fc8c2abeb61135b3b70685289c9213d",
     "size": 1678,
-    "lastModified": "2026-10-09T12:31:53.055Z"
+    "lastModified": "2026-10-16T08:54:54.151Z"
   },
   {
     "file": "drinkrecipe.json",
     "hash": "7a50588b011a582bb4327b27f46e85b6852ce0bd416d0f9f0a0a028dbf449326",
     "size": 5367,
-    "lastModified": "2026-10-09T12:31:53.055Z"
+    "lastModified": "2026-10-16T08:54:54.151Z"
   },
   {
     "file": "dungeon_enter.json",
     "hash": "b1e3467bf9de13e52f84def62488d62cda0ac30163b3cf58ebde99b7769c7478",
     "size": 4184,
-    "lastModified": "2026-10-09T12:31:53.055Z"
+    "lastModified": "2026-10-16T08:54:54.151Z"
   },
   {
     "file": "effectDes.json",
-    "hash": "84aecb668125b9ef8553650c08351788b0dc38bfcd1d824e59c61acc17e9d170",
-    "size": 183782,
-    "lastModified": "2026-10-09T12:31:53.005Z"
+    "hash": "690ddd74c87e553e9fa650527d8c909b0c400cf3673008b5d36d1a569ba16a93",
+    "size": 188352,
+    "lastModified": "2026-10-16T08:54:54.094Z"
   },
   {
     "file": "effectIcon.json",
-    "hash": "f80205b6a672a46f059ec7532e8ce89b85f3fd7832c8797e8a95ab1621f9ecb8",
-    "size": 1692243,
-    "lastModified": "2026-10-09T12:31:52.814Z"
+    "hash": "8bf8a2d9b21f8194d46c16623d2677dd0a860a85c58e9a113dc8f15ecfa7cb3e",
+    "size": 1694505,
+    "lastModified": "2026-10-16T08:54:53.919Z"
   },
   {
     "file": "effectInfo.json",
-    "hash": "2795f7c3af65918afc93270e784a411ca73029d84439fb0c3aec2091a42d7b60",
-    "size": 906198,
-    "lastModified": "2026-10-09T12:31:52.837Z"
+    "hash": "933a539a10578e23948173adf811a90f96ac5474022cae6f43d8bb2e3b77bc82",
+    "size": 910490,
+    "lastModified": "2026-10-16T08:54:53.940Z"
   },
   {
     "file": "emoji.json",
     "hash": "fd228ef85e902e1da6a1bcbc1838c738bf5ed76818ecbaf16f34f10aceeb3dca",
     "size": 600,
-    "lastModified": "2026-10-09T12:31:53.055Z"
+    "lastModified": "2026-10-16T08:54:54.152Z"
   },
   {
     "file": "equip.json",
     "hash": "21400f7a867a55647aebd7280acada4e387d90028b3b46dd58d32f9e6842a546",
     "size": 130086,
-    "lastModified": "2026-10-09T12:31:52.751Z"
+    "lastModified": "2026-10-16T08:54:53.859Z"
   },
   {
     "file": "eventSchedule.json",
     "hash": "742df8e0a83077cea9c08bb9bdafeea59bf4e6f4a651d84cc0b477d138f399f4",
     "size": 12889,
-    "lastModified": "2026-10-09T12:31:53.056Z"
+    "lastModified": "2026-10-16T08:54:54.152Z"
   },
   {
     "file": "exchangeRestrict.json",
     "hash": "47526de962c40ab76cf24ee5ff89a0b5f800b6502cd3a9690c619e9ed3af080d",
     "size": 266,
-    "lastModified": "2026-10-09T12:31:29.726Z"
+    "lastModified": "2026-10-16T08:54:33.249Z"
   },
   {
     "file": "exchange_clt.json",
-    "hash": "4efb3a7ddfb6c0a417d412730c83d638a4f198f972108a8a1de41d45aeb6ae63",
-    "size": 269988,
-    "lastModified": "2026-10-09T12:31:53.063Z"
+    "hash": "7c5952fc0775e80ebd5651de0d74281922607f5790939223a0de9961bcfaa5f8",
+    "size": 270422,
+    "lastModified": "2026-10-16T08:54:54.159Z"
   },
   {
     "file": "exp_tower.json",
     "hash": "cf62191dd82b65b8cb26f647dba3398f9260bc3b3de67492e4bc4319f5d33361",
     "size": 1983,
-    "lastModified": "2026-10-09T12:31:29.726Z"
+    "lastModified": "2026-10-16T08:54:33.250Z"
   },
   {
     "file": "express_jump.json",
     "hash": "d91ff608642333a887573094fd3c8a1affaa44f49703f3a43847df993cf199b6",
     "size": 5838,
-    "lastModified": "2026-10-09T12:31:53.064Z"
+    "lastModified": "2026-10-16T08:54:54.161Z"
   },
   {
     "file": "furniture.json",
     "hash": "d1d33e026a7cf6cc7812cec0c60b8f2a4645def7b2d261448b60e08ac7df392d",
     "size": 82777,
-    "lastModified": "2026-10-09T12:31:53.068Z"
+    "lastModified": "2026-10-16T08:54:54.165Z"
   },
   {
     "file": "gainWay.json",
     "hash": "7579badbf2d1409db6a1608bd5dd0b2061cf7e1de516f1c62f1a28ffe1196b3a",
     "size": 423207,
-    "lastModified": "2026-10-09T12:31:29.727Z"
+    "lastModified": "2026-10-16T08:54:33.250Z"
   },
   {
     "file": "globalNumber.json",
     "hash": "a2002dce470d26323a2ff7e65571abc016f6c431535121c0ce08257610f3ae1d",
     "size": 96,
-    "lastModified": "2026-10-09T12:31:53.069Z"
+    "lastModified": "2026-10-16T08:54:54.165Z"
   },
   {
     "file": "globalStr.json",
     "hash": "d6775c223dfbba7b35370608479da4f7b0fac6b9ceca0feaf66a6148a9eb26b2",
     "size": 955,
-    "lastModified": "2026-10-09T12:31:53.069Z"
+    "lastModified": "2026-10-16T08:54:54.165Z"
   },
   {
     "file": "guidePetRecommend.json",
-    "hash": "7875c0377403e04719e8b47788bc18345d79494580c2f13844aa9397cb97ab6c",
-    "size": 360006,
-    "lastModified": "2026-10-09T12:31:53.081Z"
+    "hash": "e57df6548c9745d765622c46bdf4229e4ca6d3e79b63eafbff64c59f8f420cc8",
+    "size": 360961,
+    "lastModified": "2026-10-16T08:54:54.177Z"
   },
   {
     "file": "h5_12th_box.json",
     "hash": "494c39f2c2709c7418824946b4d03e1b85a274af5db1e96f0262257f5506ec08",
     "size": 2180,
-    "lastModified": "2026-10-09T12:31:29.727Z"
+    "lastModified": "2026-10-16T08:54:33.251Z"
   },
   {
     "file": "h5_12th_task.json",
     "hash": "125521c8a415a5049420c0652cbc8625abcbaf6642c0c26efcc435ac802dbdfe",
     "size": 1843,
-    "lastModified": "2026-10-09T12:31:29.727Z"
+    "lastModified": "2026-10-16T08:54:33.251Z"
   },
   {
     "file": "handbook_ban.json",
     "hash": "680f83e14b875a11667f6bbd63362ba999b8854d1ee88485cf23e9a4df824009",
     "size": 364,
-    "lastModified": "2026-10-09T12:31:53.082Z"
+    "lastModified": "2026-10-16T08:54:54.177Z"
   },
   {
     "file": "help_tips.json",
-    "hash": "f0a8f54f18830ec846ce9efc2460e88fba3128944c4d48b7fdc57e41a43bee8b",
-    "size": 340166,
-    "lastModified": "2026-10-09T12:31:53.090Z"
+    "hash": "6c4d0c3d56e25a9c4e103310a078f22d58ed23387b777a6631240fb4c90c01fc",
+    "size": 340271,
+    "lastModified": "2026-10-16T08:54:54.185Z"
   },
   {
     "file": "helper.json",
     "hash": "f78dd56dfda6b98917fd2a4987e53a7fc485da0a64ae92f2f91f71f06ff39c8a",
     "size": 89200,
-    "lastModified": "2026-10-09T12:31:53.084Z"
+    "lastModified": "2026-10-16T08:54:54.179Z"
   },
   {
     "file": "itemsOptimizeCatItems1.json",
     "hash": "bdb6275d89632f0415458e17913a6af25b5f1d1276e2fc399fc05f0ff0fafe52",
     "size": 353520,
-    "lastModified": "2026-10-09T12:31:52.733Z"
+    "lastModified": "2026-10-16T08:54:53.786Z"
   },
   {
     "file": "itemsOptimizeCatItems13.json",
     "hash": "d0fc5dbf87bb3594524f4f79b4518380d910a43e215f9e510ac3b06de6a64040",
     "size": 338437,
-    "lastModified": "2026-10-09T12:31:52.743Z"
+    "lastModified": "2026-10-16T08:54:53.851Z"
   },
   {
     "file": "jumptarget.json",
-    "hash": "c7a08af03cd9f143a6ac65b724960266a25dfbfd57b29bf3105dcff5aebb955c",
-    "size": 73385,
-    "lastModified": "2026-10-09T12:31:53.093Z"
+    "hash": "ef601539b754a8a80e49684e36688c0c2afedae896f2376a35bbea9ab5fa18c9",
+    "size": 73707,
+    "lastModified": "2026-10-16T08:54:54.187Z"
   },
   {
     "file": "language.json",
     "hash": "e808f73265536f2e419f4a01175f21855c019c6cb095a84b3cafcec2164168fd",
     "size": 218179,
-    "lastModified": "2026-10-09T12:31:53.013Z"
+    "lastModified": "2026-10-16T08:54:54.102Z"
   },
   {
     "file": "lanternQuestion.json",
     "hash": "ce7b01e73340c17636b10dfd762f3a190ba8114905cfdfb66854ea5a9b0fd314",
     "size": 25478,
-    "lastModified": "2026-10-09T12:31:53.000Z"
+    "lastModified": "2026-10-16T08:54:54.089Z"
   },
   {
     "file": "learningpower_tower.json",
     "hash": "05a053ee48c82c3a0925b3d380efadde0c4abf7cc7378184d85894d20ee5f5aa",
     "size": 1983,
-    "lastModified": "2026-10-09T12:31:29.731Z"
+    "lastModified": "2026-10-16T08:54:33.254Z"
   },
   {
     "file": "mallrefresh.json",
     "hash": "4eb0ce8618f2fb9f4b6d1c50d5ea936d673b60656774a371ade9036b7cfe5e8d",
     "size": 663,
-    "lastModified": "2026-10-09T12:31:53.093Z"
+    "lastModified": "2026-10-16T08:54:54.188Z"
   },
   {
     "file": "mapdrop.json",
     "hash": "949e0651f6fc5edb84239ea14a74082720d2cc0e2269de7b05531aa8663e46bf",
     "size": 17060,
-    "lastModified": "2026-10-09T12:31:29.731Z"
+    "lastModified": "2026-10-16T08:54:33.254Z"
   },
   {
     "file": "match_game.json",
     "hash": "05eb4d8c825ea3e54019be57ce629086fbb86eb085f3ad0d6602af4a3efeff17",
     "size": 2698,
-    "lastModified": "2026-10-09T12:31:53.094Z"
+    "lastModified": "2026-10-16T08:54:54.188Z"
   },
   {
     "file": "medaltask.json",
     "hash": "eeea89c748d377cc526882a78efbe04220bc2257b18507ba24a452413155c14a",
     "size": 2571,
-    "lastModified": "2026-10-09T12:31:53.094Z"
+    "lastModified": "2026-10-16T08:54:54.189Z"
   },
   {
     "file": "mini_game.json",
     "hash": "ff8909b4c605b718376fb5bf8d1eb532f54c25e3960f00ab5f4c6e5c96b61c32",
     "size": 1815,
-    "lastModified": "2026-10-09T12:31:53.094Z"
+    "lastModified": "2026-10-16T08:54:54.189Z"
   },
   {
     "file": "mintmark.json",
     "hash": "cdcbeb67482b1dd30dee89eac38494b728c3ea6beee7a47bb0f261d377d60e00",
     "size": 2392900,
-    "lastModified": "2026-10-09T12:31:52.913Z"
+    "lastModified": "2026-10-16T08:54:54.010Z"
   },
   {
     "file": "mintmarkElevare.json",
     "hash": "394c65e1c895cdeddd51d63c1e21143b199d11dcd55e3d5daf97a8a8352a1382",
     "size": 6656,
-    "lastModified": "2026-10-09T12:31:52.999Z"
+    "lastModified": "2026-10-16T08:54:54.088Z"
   },
   {
     "file": "monsterVideos.json",
     "hash": "b985bbf1bfa9a45ee6c91a765d1bdf58007577c104648422c31ecf8ac6d81e17",
     "size": 71,
-    "lastModified": "2026-10-09T12:31:53.095Z"
+    "lastModified": "2026-10-16T08:54:54.189Z"
   },
   {
     "file": "monsters.json",
-    "hash": "6793691f342b466269a961730e975d83964572b6be4e03ceb279e8097a3ba346",
-    "size": 15533334,
-    "lastModified": "2026-10-09T12:31:52.176Z"
+    "hash": "5363d276e2d576b890204d8e7dca78a7612dd15bef90217a7579b981fcd65200",
+    "size": 15542404,
+    "lastModified": "2026-10-16T08:54:53.245Z"
   },
   {
     "file": "monthpet.json",
     "hash": "d868c955a7bd88588fac7357ffef9d8ce8eebe18ffe43234e1e9f62c746646ea",
     "size": 1911,
-    "lastModified": "2026-10-09T12:31:53.095Z"
+    "lastModified": "2026-10-16T08:54:54.189Z"
   },
   {
     "file": "mount_tail.json",
     "hash": "390926fabb76d197b2a2198c5997fd41d590d52c62da086299a3d28e1f76d41b",
     "size": 100,
-    "lastModified": "2026-10-09T12:31:53.095Z"
+    "lastModified": "2026-10-16T08:54:54.189Z"
   },
   {
     "file": "moves.json",
-    "hash": "0886ea5ce9b37f87a618b9c4aa162e43f42e9fa0f516a7c9bd2612004e34841f",
-    "size": 15490668,
-    "lastModified": "2026-10-09T12:31:52.709Z"
+    "hash": "e29605c5397bc1700c12417b3c74bcda2afc2bc5e7ec7c77bd7434c5db48a7d0",
+    "size": 15507082,
+    "lastModified": "2026-10-16T08:54:53.761Z"
   },
   {
     "file": "newBraveChallenge.json",
     "hash": "e6d0c2c3f4b6e132b87cb0619aaebac61c65e6bd2064b70d7058e0f47fb355bb",
     "size": 6593,
-    "lastModified": "2026-10-09T12:31:53.095Z"
+    "lastModified": "2026-10-16T08:54:54.190Z"
   },
   {
     "file": "newBraveLv.json",
     "hash": "08d11cb75d3b5ce099a0ba955c0f3e78f614ec64c4dea8257a93ad10902f679c",
     "size": 1271,
-    "lastModified": "2026-10-09T12:31:53.096Z"
+    "lastModified": "2026-10-16T08:54:54.190Z"
   },
   {
     "file": "newBraveTask.json",
     "hash": "986e5b229070aa71d1e1c8a2f66571f2cc8114e20d5fe5cb129a6a232b89ab0a",
     "size": 15933,
-    "lastModified": "2026-10-09T12:31:53.096Z"
+    "lastModified": "2026-10-16T08:54:54.191Z"
   },
   {
     "file": "newSetGame.json",
     "hash": "8da57297af0a5407367c33508f91d58ab00271f61db509dd6b2baf8141ab807a",
     "size": 29901,
-    "lastModified": "2026-10-09T12:31:53.151Z"
+    "lastModified": "2026-10-16T08:54:54.243Z"
   },
   {
     "file": "new_monster_level.json",
-    "hash": "7a52ad180d445012c1900defcbf8620515c85b5186a6415b62ad379902f0c459",
-    "size": 565639,
-    "lastModified": "2026-10-09T12:31:53.115Z"
+    "hash": "63b2d58399930167cd4d59fea492e2742cd6816ef8de0b612c33bdd94969ebc6",
+    "size": 566243,
+    "lastModified": "2026-10-16T08:54:54.209Z"
   },
   {
     "file": "new_monster_level_bisaifu.json",
     "hash": "11559263883fa28029dbc3063d1df9969cf35e7da99b08db33168400b273a458",
     "size": 433522,
-    "lastModified": "2026-10-09T12:31:53.131Z"
+    "lastModified": "2026-10-16T08:54:54.223Z"
   },
   {
     "file": "new_monster_level_temp.json",
     "hash": "2c8038363bb5399509f7e4bd936f3c6d9c1db4b96dee4e649667cb275d084024",
     "size": 562364,
-    "lastModified": "2026-10-09T12:31:53.150Z"
+    "lastModified": "2026-10-16T08:54:54.242Z"
   },
   {
     "file": "new_se.json",
     "hash": "3c6ec2c31452bc04b0484b6a9a42ed2c72e78aad0fd182d823fc4b4b3a97511d",
     "size": 123095,
-    "lastModified": "2026-10-09T12:31:53.041Z"
+    "lastModified": "2026-10-16T08:54:54.139Z"
   },
   {
     "file": "new_super_design.json",
-    "hash": "f91384e3d0fe17025384c352e24d0903074592711b01ef0c3d644ae6d427c7f5",
-    "size": 2090705,
-    "lastModified": "2026-10-09T12:31:52.957Z"
+    "hash": "c551001248f67800978e2475f62ff85a26fe1ed28d6c99f9058b3bf3f852ed2d",
+    "size": 2098947,
+    "lastModified": "2026-10-16T08:54:54.050Z"
   },
   {
     "file": "npc.json",
     "hash": "d355030c250276bf2d749bf70a75ec769cb7b803a02938291c0a7e6eef02a803",
     "size": 37512,
-    "lastModified": "2026-10-09T12:31:53.153Z"
+    "lastModified": "2026-10-16T08:54:54.244Z"
   },
   {
     "file": "peak_battle_mons.json",
     "hash": "6b3bcb45380046840c24f401c242b12fae25d6feb6f0c5efc926e6a2ec012dc6",
     "size": 905,
-    "lastModified": "2026-10-09T12:31:53.000Z"
+    "lastModified": "2026-10-16T08:54:54.090Z"
   },
   {
     "file": "pet_friends.json",
     "hash": "420265c8bf84514aa7dae69a37457469fd14ec9b751b201332e997ce966a2380",
     "size": 6404,
-    "lastModified": "2026-10-09T12:31:53.042Z"
+    "lastModified": "2026-10-16T08:54:54.140Z"
   },
   {
     "file": "pet_skin.json",
-    "hash": "034d1328f724e47e74c0c95aedda8f0d22541c6dfecd8a409df799cabc188b7b",
-    "size": 323819,
-    "lastModified": "2026-10-09T12:31:52.966Z"
+    "hash": "0bf95d9a6a041535516bd62485221e63399101894323fb988601526d71dbf944",
+    "size": 325326,
+    "lastModified": "2026-10-16T08:54:54.058Z"
   },
   {
     "file": "petbook.json",
-    "hash": "2e3a0f5e97c739677befbe0e4d3000106267b1d3756df4fd16062743f687c09e",
-    "size": 1247279,
-    "lastModified": "2026-10-09T12:31:52.995Z"
+    "hash": "1df4e9f5a492a184dd189596b5930df14ba0bdf64b54463027fc6cb1ff3d4087",
+    "size": 1247984,
+    "lastModified": "2026-10-16T08:54:54.086Z"
   },
   {
     "file": "privateCostDiamondReward.json",
     "hash": "116a57288f668170c89e9305ccd801363c159fcd3336f1de741108aca369a31e",
     "size": 395,
-    "lastModified": "2026-10-09T12:31:53.153Z"
+    "lastModified": "2026-10-16T08:54:54.245Z"
   },
   {
     "file": "privateShop.json",
     "hash": "a7d2d7d8101406938cd9a66238af9211fed7caa77c2a9e98c1829a21b886348f",
     "size": 3523,
-    "lastModified": "2026-10-09T12:31:53.153Z"
+    "lastModified": "2026-10-16T08:54:54.245Z"
   },
   {
     "file": "privateSign.json",
     "hash": "f042825e4a06bf5f1171a3cd34636e420af43eae61d284154b46b6d598fc7793",
     "size": 2347,
-    "lastModified": "2026-10-09T12:31:53.154Z"
+    "lastModified": "2026-10-16T08:54:54.245Z"
   },
   {
     "file": "privateTrainExtraReward.json",
     "hash": "39f9cab660db42737697f3924bc2a8b547ec816242a70ae55267798b9fe41c55",
     "size": 468,
-    "lastModified": "2026-10-09T12:31:53.154Z"
+    "lastModified": "2026-10-16T08:54:54.246Z"
   },
   {
     "file": "privateTrainTask.json",
     "hash": "19bd74d3835afd1ef3e42eaa814421ce364853e760629f61edf3aed8ff57f894",
     "size": 8482,
-    "lastModified": "2026-10-09T12:31:53.154Z"
+    "lastModified": "2026-10-16T08:54:54.246Z"
   },
   {
     "file": "profilephoto.json",
-    "hash": "a5b110379193755bbb5f27a08889efc12ea0f0f99cd2bdcbcaee6f71ca23d5cb",
-    "size": 113839,
-    "lastModified": "2026-10-09T12:31:52.748Z"
+    "hash": "cfad8a23ab8a87c66f88d37a639049048fb0b721aebcf637d57518deaf901b7a",
+    "size": 115301,
+    "lastModified": "2026-10-16T08:54:53.855Z"
   },
   {
     "file": "pveEnter.json",
     "hash": "dc328c8613bd366ea9f87ed0cefbe6266061486b5ad7a29f5d8539c7dd7806a3",
     "size": 15331,
-    "lastModified": "2026-10-09T12:31:29.789Z"
+    "lastModified": "2026-10-16T08:54:33.313Z"
   },
   {
     "file": "pvpCostMode_cost.json",
-    "hash": "ebba61ce934034a90bdd865832034dd747397ac243c1c971cc2826103fcc48c3",
-    "size": 1530,
-    "lastModified": "2026-10-09T12:31:53.007Z"
+    "hash": "76254f0d3d3b62c6eea1736d30ccf74ae279ec0d9a1e1df78a5cfc4392c49848",
+    "size": 1565,
+    "lastModified": "2026-10-16T08:54:54.096Z"
   },
   {
     "file": "pvpCostMode_vote.json",
     "hash": "265950a6620df22fa0c04faca47933e6462fd34897bc74bde390b85e7a3be508",
     "size": 987,
-    "lastModified": "2026-10-09T12:31:53.007Z"
+    "lastModified": "2026-10-16T08:54:54.096Z"
   },
   {
     "file": "pvpCostMode_votePrice.json",
     "hash": "f40d67791070ca4c29b930d110afe166bc9b3e13d9afd87ac35a16fc0b58c1ff",
     "size": 268,
-    "lastModified": "2026-10-09T12:31:53.007Z"
+    "lastModified": "2026-10-16T08:54:54.096Z"
   },
   {
     "file": "pvp_BossConfig.json",
     "hash": "9280a0a0f2aca685ab0da9984cb54e7aaf87cf84dca4aa87e3ef604ab2369e77",
     "size": 4379,
-    "lastModified": "2026-10-09T12:31:29.790Z"
+    "lastModified": "2026-10-16T08:54:33.313Z"
   },
   {
     "file": "pvp_MonsterConfig.json",
     "hash": "6f248e7b350930596410a7edd12ca42afb38585cfd0a689acb7691e9c00c3bfa",
     "size": 6469,
-    "lastModified": "2026-10-09T12:31:29.790Z"
+    "lastModified": "2026-10-16T08:54:33.313Z"
   },
   {
     "file": "pvp_achieve.json",
-    "hash": "e75db672e9cfa69bdd2a70922cbb6d75ce117d7d40b1b501ab4607de44fb4750",
-    "size": 4087,
-    "lastModified": "2026-10-09T12:31:53.043Z"
+    "hash": "2387d02e2afe8a6cf711aedb4f6937e32c3f77b8fe982ac11bbcaa5be1f1a670",
+    "size": 4088,
+    "lastModified": "2026-10-16T08:54:54.140Z"
   },
   {
     "file": "pvp_ban.json",
-    "hash": "a19e5da64c1e7fc106e9e0ce67bdd43575f7f3b81c4f58b74b53de8b2ea55685",
-    "size": 901,
-    "lastModified": "2026-10-09T12:31:53.000Z"
+    "hash": "cd0ea99142aa766d884d94280e731a6eab210cbd636bc79cdb3e1936b239bb6d",
+    "size": 929,
+    "lastModified": "2026-10-16T08:54:54.090Z"
   },
   {
     "file": "pvp_ban_expert.json",
-    "hash": "74022a2b5c057671c1703a9a5ee8f902ed41d1e80f8590196338841a6d07328f",
-    "size": 386,
-    "lastModified": "2026-10-09T12:31:53.001Z"
+    "hash": "717b8bc9980cf21eeebb006d2a2ead6088e71826d0ad4c8ed7408e728914eced",
+    "size": 381,
+    "lastModified": "2026-10-16T08:54:54.090Z"
   },
   {
     "file": "pvp_expert_seasonrank.json",
     "hash": "488d0e4594ee41719a85ff5de86147832a4302997053569004b0effe29004d97",
     "size": 1128,
-    "lastModified": "2026-10-09T12:31:53.155Z"
+    "lastModified": "2026-10-16T08:54:54.247Z"
   },
   {
     "file": "pvp_honorpantheon.json",
     "hash": "9599b789e354d439fdc7fd46818e936ff6531af4a2cca2fd274c41f438bba21f",
     "size": 147,
-    "lastModified": "2026-10-09T12:31:53.155Z"
+    "lastModified": "2026-10-16T08:54:54.247Z"
   },
   {
     "file": "pvp_quizshop.json",
     "hash": "8e50dd0416ebcce52ff03eea2805970d686c70f168daa9a1e1ba1b75093d67fb",
     "size": 5553,
-    "lastModified": "2026-10-09T12:31:53.156Z"
+    "lastModified": "2026-10-16T08:54:54.247Z"
   },
   {
     "file": "pvp_quiztask.json",
     "hash": "d25f4b0293f5de30a24e9b7aa0414156261969a58f16877cc009529c5b913dc5",
     "size": 1076,
-    "lastModified": "2026-10-09T12:31:53.156Z"
+    "lastModified": "2026-10-16T08:54:54.247Z"
   },
   {
     "file": "pvp_race.json",
     "hash": "fbf748c0297913ef6644fad7addaca32bf0640f993f38cd3c1c4aae324497798",
     "size": 2709,
-    "lastModified": "2026-10-09T12:31:53.156Z"
+    "lastModified": "2026-10-16T08:54:54.248Z"
   },
   {
     "file": "pvp_reward.json",
-    "hash": "cd890a0594fdafd213f598394dcd2fe0a78f39ae81a0227a8e2d5a0b79d0434b",
+    "hash": "5cec46228a24f86b2a1d7f077441ce492be1446b17379b2af5286df5924727a3",
     "size": 1366,
-    "lastModified": "2026-10-09T12:31:53.156Z"
+    "lastModified": "2026-10-16T08:54:54.248Z"
   },
   {
     "file": "pvp_shop.json",
-    "hash": "7edf38143220a55b800b70e26fc362caa82753cca3815078a5dc98b90707d8a4",
+    "hash": "ee3dac9e9567ea3a08c1bf2a642b98367f2e9ec3d3df003db45873d8559b9b2b",
     "size": 14854,
-    "lastModified": "2026-10-09T12:31:53.157Z"
+    "lastModified": "2026-10-16T08:54:54.248Z"
   },
   {
     "file": "pvp_shop_bisaifu.json",
     "hash": "73846e6356197d37152aa9ed4fc580780cf5cbcaa44e1ee0bc7106626ac3e7cc",
     "size": 14531,
-    "lastModified": "2026-10-09T12:31:53.157Z"
+    "lastModified": "2026-10-16T08:54:54.249Z"
   },
   {
     "file": "pvp_task.json",
-    "hash": "bf784c37fed6c1cc73629d81cd891a07b78c74c324302af1dd33ccdd2fb3fb01",
+    "hash": "855b0496787b001101babcc9c3e85679636ff74ad6c3fd7f2d7ec37cc06615e3",
     "size": 6029,
-    "lastModified": "2026-10-09T12:31:53.006Z"
+    "lastModified": "2026-10-16T08:54:54.096Z"
   },
   {
     "file": "pvp_vote.json",
-    "hash": "0dd8ec38b3aa91fc6c2aba5f73c05391e0161115113db8089de3fcd6335f955f",
-    "size": 1375,
-    "lastModified": "2026-10-09T12:31:53.006Z"
+    "hash": "ae7135a9eb94f02483b117ddaaa7ffd9aa6f23ce6f381c6773db970d4710b4cc",
+    "size": 1485,
+    "lastModified": "2026-10-16T08:54:54.095Z"
   },
   {
     "file": "skillEffect.json",
-    "hash": "c0531a1b2975d76ce9397abdbd77e8cb6366802b62e2f29e15546f762651c384",
-    "size": 1059851,
-    "lastModified": "2026-10-09T12:31:52.777Z"
+    "hash": "31a605e66c8b02eb8d11d3bfa8196b574bc15fc97cc6b8f0d00cfa36ce2a72f6",
+    "size": 1064042,
+    "lastModified": "2026-10-16T08:54:53.883Z"
   },
   {
     "file": "skillTypes.json",
     "hash": "bee5c2654fbc80cc8c503045309299ac26d2c52bf58042b95fdfaa8cfb020043",
     "size": 23247,
-    "lastModified": "2026-10-09T12:31:52.816Z"
+    "lastModified": "2026-10-16T08:54:53.920Z"
   },
   {
     "file": "suit.json",
     "hash": "275602e3465de3d5a8734df619b4a9f2f53dd27d2a6bdebcbeacc3184d5ae264",
     "size": 154867,
-    "lastModified": "2026-10-09T12:31:52.717Z"
+    "lastModified": "2026-10-16T08:54:53.773Z"
   },
   {
     "file": "typesRelation.json",
     "hash": "b4278ef3786346fe3a97b4cef01f057cb47e2ea3a8e5fe5bf52339aa616d205c",
     "size": 56618,
-    "lastModified": "2026-10-09T12:31:52.998Z"
+    "lastModified": "2026-10-16T08:54:54.088Z"
   }
 ]

@@ -17446,28 +17446,28 @@
       "weeklyAdd": 0
     },
     {
-      "collective": 0,
+      "collective": 1,
       "difficult": 0,
       "fightType": 0,
       "hide": "",
       "id": 616,
       "image": "3847",
-      "isnew": "",
-      "moduleid": 0,
+      "isnew": "1",
+      "menutype": [
+        3
+      ],
+      "moduleid": -150151,
       "monsterid": 3847,
-      "newSort": 0,
+      "newSort": 10,
       "param": "",
       "quality": "",
       "recommendTime": "",
       "sort": 0,
       "statlog": "",
-      "upgrade": [
-        2
-      ],
       "upgradeHide": "",
       "upgradeNew": "",
-      "upgradeSort": 30,
-      "upgradeSource": 2,
+      "upgradeSort": 10,
+      "upgradeSource": 0,
       "weekly": 0,
       "weeklyAdd": 0
     },
@@ -18434,7 +18434,7 @@
       "hide": "",
       "id": 653,
       "image": "3421",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         3
       ],
@@ -27915,13 +27915,13 @@
       "hide": "",
       "id": 1011,
       "image": "4951",
-      "isnew": "1",
+      "isnew": "",
       "menutype": [
         1
       ],
       "moduleid": 151,
       "monsterid": 4951,
-      "newSort": 1,
+      "newSort": 0,
       "param": "{Design:262}",
       "quality": "s",
       "recommendTime": "",
@@ -28005,6 +28005,32 @@
       "recommendTime": "",
       "sort": 4,
       "statlog": "",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0
+    },
+    {
+      "collective": 1,
+      "difficult": 0,
+      "fightType": 1,
+      "hide": "",
+      "id": 1015,
+      "image": "4955",
+      "isnew": "1",
+      "menutype": [
+        1
+      ],
+      "moduleid": 151,
+      "monsterid": 4955,
+      "newSort": 1,
+      "param": "{Design:263}",
+      "quality": "s",
+      "recommendTime": "",
+      "sort": 1,
+      "statlog": "H5精灵因子关卡系统功能,霍努努,点击进入关卡_点击兑换",
       "upgradeHide": "",
       "upgradeNew": "",
       "upgradeSort": 0,
