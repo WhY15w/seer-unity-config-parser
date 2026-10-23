@@ -1819,6 +1819,16 @@
       "portrait": "las_fg",
       "scale": 1,
       "silhouette": 0
+    },
+    {
+      "CharacterID": 125,
+      "emoji": "aheng_01",
+      "id": 183,
+      "initialposition": "",
+      "name": "阿衡",
+      "portrait": "aheng_fg",
+      "scale": 1,
+      "silhouette": 0
     }
   ]
 }

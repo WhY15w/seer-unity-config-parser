@@ -19012,6 +19012,34 @@
                     "proicon": 1523,
                     "title": "节庆礼花",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "参与天地中原系列活动获取",
+                    "ID": 16,
+                    "SpeNameBonus": 610,
+                    "Threshold": "16",
+                    "abtext": "",
+                    "achName": "中州大侠",
+                    "hide": 0,
+                    "proicon": 1530,
+                    "title": "中州大侠",
+                    "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "通过圣光灵皇全民放送活动获得",
+                    "ID": 17,
+                    "SpeNameBonus": 611,
+                    "Threshold": "17",
+                    "abtext": "",
+                    "achName": "圣光先驱者",
+                    "hide": 0,
+                    "proicon": 1531,
+                    "title": "圣光先驱者",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",

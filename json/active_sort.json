@@ -535,6 +535,46 @@
       "statlog": "",
       "truepos": 1,
       "type": 2
+    },
+    {
+      "controller": "",
+      "dailyRed": 0,
+      "dest": "1251",
+      "finishtime": "2026/11/20 10:00:00",
+      "iOSreviewshow": 0,
+      "id": 32,
+      "image": "hnldicon",
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "name": "天地中原",
+      "priority": 25,
+      "reddotid": [
+        441
+      ],
+      "statlog": "",
+      "truepos": 1,
+      "type": 2
+    },
+    {
+      "controller": "",
+      "dailyRed": 0,
+      "dest": "1250",
+      "finishtime": "2026/11/20 10:00:00",
+      "iOSreviewshow": 0,
+      "id": 33,
+      "image": "csdwicon",
+      "isdeadline": 1,
+      "isshow": 1,
+      "jumptarget": 0,
+      "name": "开仓节",
+      "priority": 26,
+      "reddotid": [
+        440
+      ],
+      "statlog": "",
+      "truepos": 1,
+      "type": 2
     }
   ]
 }

@@ -140,7 +140,7 @@
       "name": "蘑菇怪",
       "nature": 1,
       "picID": 47,
-      "skins": "",
+      "skins": "0,50016",
       "subtype": 0,
       "type": 1
     },
@@ -716,7 +716,7 @@
       "name": "钢牙鲨",
       "nature": 2,
       "picID": 34,
-      "skins": "",
+      "skins": "0,50017",
       "subtype": 0,
       "type": 1
     },
@@ -1124,7 +1124,7 @@
       "name": "里奥斯",
       "nature": 3,
       "picID": 42,
-      "skins": "",
+      "skins": "0,50018",
       "subtype": 0,
       "type": 1
     },
@@ -3074,7 +3074,7 @@
     },
     {
       "BuffId": "10152|10016",
-      "BuffParam": "6|3_1_1_40005",
+      "BuffParam": "6|3_1_1_30005",
       "CountNum": 0,
       "CountType": 0,
       "Display": 1,

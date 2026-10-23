@@ -489035,7 +489035,7 @@
           "ID": 29477,
           "MaxPP": 5,
           "MonID": 0,
-          "MustHit": 0,
+          "MustHit": 1,
           "Name": "至暗太牢",
           "Power": 0,
           "Priority": 1,
@@ -489270,6 +489270,190 @@
           ],
           "Type": 8,
           "info": "神的逻辑，人的魔法",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29486,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "散云之风",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            191,
+            60,
+            462,
+            1754
+          ],
+          "SideEffectArg": [
+            4,
+            4,
+            300,
+            4,
+            300,
+            300,
+            300,
+            1
+          ],
+          "Type": 8,
+          "info": "开始免疫并反弹异常状态了；攻击变得更加犀利了；受攻击时反弹对手固定伤害；为自身创造一个护盾",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29487,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "迷离之光",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            2057,
+            1602,
+            843
+          ],
+          "SideEffectArg": [
+            1,
+            4,
+            3,
+            150,
+            2,
+            2
+          ],
+          "Type": 8,
+          "info": "全属性提升了；开始恢复自身体力了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29488,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "釉上泽",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            48,
+            1073,
+            1823
+          ],
+          "SideEffectArg": [
+            3,
+            3,
+            300,
+            100,
+            5,
+            100,
+            15,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0
+          ],
+          "Type": 8,
+          "info": "抵抗异常状态的能力提升了；自身受到过高的伤害则恢复自身全部体力并造成等同于恢复量的固定伤害；使对手冻伤了",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29489,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "时之花",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            4,
+            4,
+            2542
+          ],
+          "SideEffectArg": [
+            2,
+            100,
+            2,
+            4,
+            100,
+            2,
+            300,
+            2,
+            5
+          ],
+          "Type": 8,
+          "info": "特攻提升了很多；速度提升了很多；获得护盾",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29490,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "盛深盟",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            48,
+            570
+          ],
+          "SideEffectArg": [
+            3,
+            1
+          ],
+          "Type": 8,
+          "info": "抵抗异常状态的能力提升了；免疫下1次受到的攻击",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 3,
+          "Category": 4,
+          "CritRate": 0,
+          "ID": 29491,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "定铁誓",
+          "Power": 0,
+          "Priority": 0,
+          "SideEffect": [
+            893,
+            1869
+          ],
+          "SideEffectArg": [
+            1,
+            300
+          ],
+          "Type": 8,
+          "info": "全属性都提升了；消除对手能力提升状态，为自身附加护罩",
           "ordinary": 0
         },
         {
@@ -710192,6 +710376,248 @@
             2
           ],
           "Type": 56,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38600,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "幻霞天光",
+          "Power": 85,
+          "Priority": 3,
+          "SideEffect": [
+            2163,
+            2413
+          ],
+          "SideEffectArg": [
+            5,
+            0
+          ],
+          "Type": 102,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38601,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "素想心流",
+          "Power": 150,
+          "Priority": 0,
+          "SideEffect": [
+            2311,
+            1621,
+            1363
+          ],
+          "SideEffectArg": [
+            2,
+            100,
+            1,
+            300,
+            100,
+            10
+          ],
+          "Type": 102,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38602,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "拉卡伊呼唤",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            2476,
+            1974,
+            1137,
+            2456
+          ],
+          "SideEffectArg": [
+            1,
+            5,
+            15,
+            32,
+            36,
+            8,
+            0,
+            1,
+            1,
+            2,
+            3,
+            1
+          ],
+          "Type": 102,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38603,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "灵佑",
+          "Power": 85,
+          "Priority": 3,
+          "SideEffect": [
+            533,
+            1672
+          ],
+          "SideEffectArg": [
+            200
+          ],
+          "Type": 24,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38604,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "瓷外音",
+          "Power": 150,
+          "Priority": 0,
+          "SideEffect": [
+            800,
+            817
+          ],
+          "SideEffectArg": [
+            2,
+            2,
+            1,
+            2
+          ],
+          "Type": 24,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 2,
+          "CritRate": 0,
+          "ID": 38605,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "瓶中海",
+          "Power": 160,
+          "Priority": 0,
+          "SideEffect": [
+            973,
+            2033
+          ],
+          "SideEffectArg": [
+            100,
+            5,
+            1
+          ],
+          "Type": 24,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38606,
+          "MaxPP": 20,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "铸源",
+          "Power": 200,
+          "Priority": 1,
+          "SideEffect": [
+            1395,
+            942
+          ],
+          "SideEffectArg": [
+            4
+          ],
+          "Type": 71,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 97,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38607,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 0,
+          "Name": "祭万礼",
+          "Power": 200,
+          "Priority": 0,
+          "SideEffect": [
+            1012,
+            1617
+          ],
+          "SideEffectArg": [
+            300,
+            3,
+            100,
+            7,
+            1
+          ],
+          "Type": 71,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "Accuracy": 95,
+          "AtkNum": 0,
+          "AtkType": 0,
+          "Category": 1,
+          "CritRate": 0,
+          "ID": 38608,
+          "MaxPP": 5,
+          "MonID": 0,
+          "MustHit": 1,
+          "Name": "铭千古",
+          "Power": 200,
+          "Priority": -1,
+          "SideEffect": [
+            1527,
+            496
+          ],
+          "Type": 71,
           "info": "",
           "ordinary": 0
         },

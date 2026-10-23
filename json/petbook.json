@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4955,
-            "ImageID": 4955,
+            "ID": 4957,
+            "ImageID": 4957,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,8 +1367,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4956,
-            "ImageID": 4956,
+            "ID": 4958,
+            "ImageID": 4958,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1377,41 +1377,41 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 879,
-            "ImageID": 1400879,
+            "ID": 4959,
+            "ImageID": 4959,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4956,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 883,
+            "ImageID": 1400883,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4605,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 880,
-            "ImageID": 1400880,
+            "ID": 884,
+            "ImageID": 1400884,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4816,
+            "monID": 4468,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 881,
-            "ImageID": 1400881,
+            "ID": 885,
+            "ImageID": 1400885,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4401,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 882,
-            "ImageID": 1400882,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4353,
+            "monID": 4215,
             "type": 1
           }
         ]
@@ -18564,7 +18564,7 @@
         "DefName": "圣光灵皇",
         "Features": "2015年年费精灵圣光灵王的超进化形态，所有的力量全部得到了惊人的提升！斩魔神，驱暗影，他就是圣光的最强审判者!",
         "ID": 2873,
-        "Target": ""
+        "Target": "114156"
       },
       {
         "DefName": "花皮",
@@ -22164,7 +22164,7 @@
         "DefName": "奥兰",
         "Features": "来自神秘冥域的精灵，据说他身负重要的消息从冥域逃出，是一个十分神秘的精灵",
         "ID": 3484,
-        "Target": ""
+        "Target": "150152"
       },
       {
         "DefName": "玲灵",
@@ -22224,7 +22224,7 @@
         "DefName": "奥斯兰",
         "Features": "奥兰的超进化形态，超进化的他掌握了新的神秘力量，将在冥域大展拳脚！",
         "ID": 3494,
-        "Target": ""
+        "Target": "150153"
       },
       {
         "DefName": "巴鲁格",
@@ -30943,6 +30943,24 @@
         "Features": "无论多少次预演，都达不到完美。路线、时间、凶器、证明，她不断地构想、无限地演练，只为让那混色的魔女血债血偿。推理的世界里，作者是凶手的共犯；在现实的世界里，墨渍是鲜血的前言。",
         "ID": 4956,
         "Target": "200000"
+      },
+      {
+        "DefName": "凯亚",
+        "Features": "凯亚来自拉卡伊的阿塔富岛。她自学成才，理想是成为一名真正的精灵召唤师，站上海瓦斗技场的舞台。",
+        "ID": 4957,
+        "Target": "153201/1018"
+      },
+      {
+        "DefName": "灵釉花口瓶",
+        "Features": "中原大地上彩瓷窑中瓷瓶所化形的精灵，富有灵气，对待它记得轻拿轻放哦。",
+        "ID": 4958,
+        "Target": "114151"
+      },
+      {
+        "DefName": "铸元正鼎",
+        "Features": "中原大地上圣鼎所化形的精灵，机灵古怪，可别被它的外貌给骗了哦。",
+        "ID": 4959,
+        "Target": "114151"
       },
       {
         "DefName": "镇世神岳·玄武",

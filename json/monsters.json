@@ -610910,6 +610910,267 @@
         "isRidePet": 0
       },
       {
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 114,
+        "DefName": "凯亚",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38602,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 166,
+        "ID": 4957,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 10157,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20491,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10629,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 21153,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 11531,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38600,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 22020,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 11025,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 22052,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 33057,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 26617,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 34255,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29486,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 34256,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29487,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38601,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3618,
+        "RealId": 0,
+        "SpAtk": 147,
+        "SpDef": 106,
+        "Spd": 132,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 102,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 105,
+        "DefName": "灵釉花口瓶",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38605,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 151,
+        "ID": 4958,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 38603,
+              "LearningLv": 1,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 29488,
+              "LearningLv": 5,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 29489,
+              "LearningLv": 9,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38604,
+              "LearningLv": 13,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3619,
+        "RealId": 0,
+        "SpAtk": 143,
+        "SpDef": 103,
+        "Spd": 128,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 24,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 110,
+        "DefName": "铸元正鼎",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38608,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 180,
+        "ID": 4959,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 38606,
+              "LearningLv": 1,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 29490,
+              "LearningLv": 5,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 29491,
+              "LearningLv": 9,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38607,
+              "LearningLv": 13,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3620,
+        "RealId": 0,
+        "SpAtk": 70,
+        "SpDef": 110,
+        "Spd": 110,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 71,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
         "Atk": 100,
         "CharacterAttrParam": 0,
         "Combo": 0,
@@ -705096,6 +705357,81 @@
         "ID": 1400882,
         "PetClass": 0,
         "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "甘落清心·欧根尼克",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400883,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "鼎镇绛河·嬴政",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400884,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "坎贝尔",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400885,
+        "PetClass": 0,
+        "RealId": 1804,
         "SpAtk": 0,
         "SpDef": 0,
         "Spd": 0,
