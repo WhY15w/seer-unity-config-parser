@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4957,
-            "ImageID": 4957,
+            "ID": 4924,
+            "ImageID": 4924,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,8 +1367,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4958,
-            "ImageID": 4958,
+            "ID": 4960,
+            "ImageID": 4960,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1377,8 +1377,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4959,
-            "ImageID": 4959,
+            "ID": 4961,
+            "ImageID": 4961,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1387,31 +1387,41 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 883,
-            "ImageID": 1400883,
+            "ID": 4962,
+            "ImageID": 4962,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4605,
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 4963,
+            "ImageID": 4963,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 0,
+            "type": 0
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 886,
+            "ImageID": 1400886,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4500,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 884,
-            "ImageID": 1400884,
+            "ID": 887,
+            "ImageID": 1400887,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4468,
-            "type": 1
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 885,
-            "ImageID": 1400885,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4215,
+            "monID": 4421,
             "type": 1
           }
         ]
@@ -22350,7 +22360,7 @@
         "DefName": "玄冥魂者·奥斯兰",
         "Features": "奥兰的完全体形态，身体里沉睡的冥域之魂觉醒了。他发誓要守护自己的家园，绝不退缩！",
         "ID": 3515,
-        "Target": ""
+        "Target": "150154"
       },
       {
         "DefName": "混沌地王莱茵哈特",
@@ -26664,7 +26674,7 @@
         "DefName": "溯洄·拉伯克",
         "Features": "拉伯克的进化形态，被混沌之力影响完成了觉醒，次元之力开始慢慢复苏！",
         "ID": 4240,
-        "Target": ""
+        "Target": "150155"
       },
       {
         "DefName": "环·零",
@@ -27342,7 +27352,7 @@
         "DefName": "花寅",
         "Features": "2022年4月巅峰圣战精灵，虎之一族的神秘女孩，可不要因为她长相甜美可爱就对她掉以轻心哦，她的战斗力可不容小觑！",
         "ID": 4353,
-        "Target": "520012"
+        "Target": ""
       },
       {
         "DefName": "狂沙之主·萨特",
@@ -27462,7 +27472,7 @@
         "DefName": "龙焉",
         "Features": "2022年6月巅峰圣战精灵，被剥夺了原本的名字，从此成为战争的祭品，至此以后，复仇成为了唯一让她选择活下去的理由。",
         "ID": 4373,
-        "Target": "520013"
+        "Target": ""
       },
       {
         "DefName": "普拉薇安",
@@ -30753,6 +30763,12 @@
         "Target": ""
       },
       {
+        "DefName": "瑟尼瑟斯",
+        "Features": "2026年包月精灵，万象录之《匆匆忙忙之人》。他将阿派罗尼亚奉为自身的理想乡，将一生的勤奋都毫无保留地献给了阿派罗尼亚。。",
+        "ID": 4924,
+        "Target": "121000"
+      },
+      {
         "DefName": "米罗博士",
         "Features": "Λ组织二号舰穆宁号的驻舰科学官，超古代文明遗迹专家，奉命支援三号舰的玄武复活计划。她的科研空间站位于赫尔卡星的同步轨道，是玄武复活计划的核心人员之一。",
         "ID": 4925,
@@ -30960,6 +30976,30 @@
         "DefName": "铸元正鼎",
         "Features": "中原大地上圣鼎所化形的精灵，机灵古怪，可别被它的外貌给骗了哦。",
         "ID": 4959,
+        "Target": "114151"
+      },
+      {
+        "DefName": "塔尼瓦",
+        "Features": "塔尼瓦接受伊娜的召唤而来。它有着凶恶残暴的一面，也有着守护家园的力量。塔尼瓦戍卫着一切不可接近的禁地，吞噬任何胆敢来犯之人。",
+        "ID": 4960,
+        "Target": "153201/1023"
+      },
+      {
+        "DefName": "赤彩焰驹",
+        "Features": "中原大地上驰骋的神奇马驹，它有着火焰般的鬃毛，有着使不完的力气。",
+        "ID": 4961,
+        "Target": "114151"
+      },
+      {
+        "DefName": "中原号",
+        "Features": "飞出中原大地的神奇飞船，它航行在宇宙之间，寄予着中原人民心中最朴素的愿望。",
+        "ID": 4962,
+        "Target": "114151"
+      },
+      {
+        "DefName": "云舆瑞兽",
+        "Features": "中原大地上栖息在潜龙山脉的神兽，它代表着祥瑞，可真正能够见到它的人少之又少。",
+        "ID": 4963,
         "Target": "114151"
       },
       {

@@ -3817,8 +3817,8 @@
       "type": 1
     },
     {
-      "BuffId": "10334",
-      "BuffParam": "15_1",
+      "BuffId": "10289",
+      "BuffParam": "15_2",
       "CountNum": 0,
       "CountType": 0,
       "Display": 1,
@@ -4969,13 +4969,13 @@
       "type": 1
     },
     {
-      "BuffId": "10028|10329",
-      "BuffParam": "1|7_2_1",
+      "BuffId": "10028|10337",
+      "BuffParam": "1|7_7_1_1",
       "CountNum": 0,
       "CountType": 0,
       "Display": 1,
       "attack": 2,
-      "cardTxt": "无法攻击；受到攻击时使己方地面系精灵永久获得+2/+1",
+      "cardTxt": "无法攻击；己方无法攻击的地面系精灵受到攻击时，使己方所有地面系精灵获得+1/+1",
       "compose": 0,
       "composeTo": 10208,
       "cost": 3,
@@ -5018,7 +5018,7 @@
     },
     {
       "BuffId": "10263",
-      "BuffParam": "5_4_4_1",
+      "BuffParam": "4_4_4_1",
       "CountNum": 0,
       "CountType": 0,
       "Display": 1,
@@ -9865,8 +9865,8 @@
       "type": 1
     },
     {
-      "BuffId": "10334",
-      "BuffParam": "15_2",
+      "BuffId": "10289",
+      "BuffParam": "15_3",
       "CountNum": 0,
       "CountType": 0,
       "Display": 0,
@@ -11017,13 +11017,13 @@
       "type": 1
     },
     {
-      "BuffId": "10028|10329",
-      "BuffParam": "1|7_4_2",
+      "BuffId": "10028|10337",
+      "BuffParam": "1|7_7_2_2",
       "CountNum": 0,
       "CountType": 0,
       "Display": 0,
       "attack": 4,
-      "cardTxt": "无法攻击；受到攻击时使己方地面系精灵永久获得+4/+2",
+      "cardTxt": "无法攻击；己方无法攻击的地面系精灵受到攻击时，使己方所有地面系精灵获得+2/+2",
       "compose": 1,
       "composeTo": 0,
       "cost": 3,
@@ -11066,7 +11066,7 @@
     },
     {
       "BuffId": "10263",
-      "BuffParam": "5_4_4_2",
+      "BuffParam": "4_4_4_2",
       "CountNum": 0,
       "CountType": 0,
       "Display": 0,
@@ -12821,7 +12821,7 @@
       "BuffParam": "",
       "CountNum": 0,
       "CountType": 0,
-      "Display": 1,
+      "Display": 0,
       "attack": 0,
       "cardTxt": "选择一只己方精灵，使其获得不可移除的【寄生】，无法选择已经拥有【寄生】的精灵",
       "compose": 0,
@@ -12845,7 +12845,7 @@
       "BuffParam": "1",
       "CountNum": 0,
       "CountType": 0,
-      "Display": 1,
+      "Display": 0,
       "attack": 0,
       "cardTxt": "立刻获得当前商店中所有的牌",
       "compose": 0,
