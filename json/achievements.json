@@ -2437,6 +2437,20 @@
                     "proicon": 1524,
                     "title": "灵渊守护者",
                     "titleColor": "0xFFFFFF"
+                  },
+                  {
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "Desc": "完成【不熄圣光】系列剧情",
+                    "ID": 28,
+                    "SpeNameBonus": 612,
+                    "Threshold": "28",
+                    "abtext": "",
+                    "achName": "圣光审判者",
+                    "hide": 0,
+                    "proicon": 1533,
+                    "title": "圣光审判者",
+                    "titleColor": "0xFFFFFF"
                   }
                 ],
                 "_text": "",

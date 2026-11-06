@@ -529,15 +529,15 @@
       "state": 1
     },
     {
-      "actionName": "2026年费登录PV",
+      "actionName": "灵神PV",
       "controller": "AutoOpenLocalOnce",
-      "endTime": "2026_1_30 10:00:00",
+      "endTime": "2026_12_04 10:00:00",
       "id": 46,
       "moduleId": 741,
-      "param1": "yearvip2026PVAlert",
+      "param1": "shengguanglingshenMV",
       "param2": "",
       "param3": "",
-      "startTime": "2025_12_26 10:00:00",
+      "startTime": "2026_11_06 10:00:00",
       "state": 1
     },
     {
@@ -807,13 +807,25 @@
     {
       "actionName": "河南联动集合面板",
       "controller": "AutoOpenLocalDaily",
-      "endTime": "2026_11_20 10:00:00",
+      "endTime": "2026_11_06 10:00:00",
       "id": 69,
       "moduleId": 1248,
       "param1": "hnldjumppanel",
       "param2": "",
       "param3": "",
       "startTime": "2026_10_23 10:00:00",
+      "state": 1
+    },
+    {
+      "actionName": "圣光灵神登陆强弹",
+      "controller": "AutoOpenLocalDaily",
+      "endTime": "2026_12_04 10:00:00",
+      "id": 70,
+      "moduleId": 1312,
+      "param1": "shengguanglingshengjump",
+      "param2": "",
+      "param3": "",
+      "startTime": "2026_11_06 10:00:00",
       "state": 1
     }
   ]

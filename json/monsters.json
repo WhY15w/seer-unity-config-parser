@@ -379656,6 +379656,36 @@
         "HP": 160,
         "ID": 3311,
         "LearnableMoves": {
+          "AdvMove": [
+            {
+              "Id": 38633,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 1,
+              "tag": 0
+            },
+            {
+              "Id": 29506,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 2,
+              "tag": 0
+            },
+            {
+              "Id": 29507,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 3,
+              "tag": 0
+            },
+            {
+              "Id": 38634,
+              "LearningLv": 0,
+              "Rec": 0,
+              "Tag": 4,
+              "tag": 0
+            }
+          ],
           "Move": [
             {
               "Id": 12897,
@@ -379813,6 +379843,16 @@
         "RealId": 0,
         "SpAtk": 70,
         "SpDef": 115,
+        "SpExtraMoves": {
+          "Move": [
+            {
+              "Id": 38635,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
         "Spd": 130,
         "Support": 0,
         "Transform": 0,
@@ -611630,6 +611670,141 @@
         "isRidePet": 0
       },
       {
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 112,
+        "DefName": "伊娜",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38629,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 163,
+        "ID": 4964,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 10086,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20302,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10287,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10194,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20135,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38627,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 10148,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20631,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 14384,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 15839,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 23216,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 36773,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29504,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 36774,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29505,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38628,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3625,
+        "RealId": 0,
+        "SpAtk": 144,
+        "SpDef": 112,
+        "Spd": 134,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 54,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
         "Atk": 100,
         "CharacterAttrParam": 0,
         "Combo": 0,
@@ -611979,6 +612154,177 @@
         "Support": 0,
         "Transform": 0,
         "Type": 223,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 160,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 120,
+        "DefName": "圣光灵神SP",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38626,
+              "LearningLv": 71,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 180,
+        "ID": 13311,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 12897,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 21506,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 12898,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 12903,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20307,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 16684,
+              "LearningLv": 21,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 14733,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 22358,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 14730,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 16685,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 23685,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 16686,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 23686,
+              "LearningLv": 49,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 16687,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 23687,
+              "LearningLv": 57,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 16688,
+              "LearningLv": 61,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 23800,
+              "LearningLv": 63,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 23771,
+              "LearningLv": 65,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38624,
+              "LearningLv": 66,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29502,
+              "LearningLv": 67,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29503,
+              "LearningLv": 68,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38625,
+              "LearningLv": 69,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "PetClass": 1981,
+        "RealId": 0,
+        "SpAtk": 80,
+        "SpDef": 120,
+        "Spd": 140,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 65,
         "Vip": 0,
         "isFlyPet": 0,
         "isRidePet": 0
@@ -705939,6 +706285,81 @@
         "Gender": 0,
         "HP": 0,
         "ID": 1400887,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "小小灵神",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400888,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "曙光星律·圣光灵神",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400889,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "墨意千峰·关银屏",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400890,
         "PetClass": 0,
         "RealId": 0,
         "SpAtk": 0,

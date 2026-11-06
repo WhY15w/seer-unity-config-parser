@@ -15896,10 +15896,10 @@
         "Type": 18
       },
       {
-        "Go": "app/FinalActivityPanel",
-        "GoType": "module",
+        "Go": "",
+        "GoType": "",
         "ID": 885,
-        "Jumptarget": 2,
+        "Jumptarget": 0,
         "MonID": 4215,
         "Name": "坎贝尔",
         "SkinKind": [
@@ -15948,6 +15948,60 @@
           }
         ],
         "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 888,
+        "Jumptarget": 114184,
+        "MonID": 3311,
+        "Name": "小小灵神",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 889,
+        "Jumptarget": 114183,
+        "MonID": 3311,
+        "Name": "曙光星律·圣光灵神",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 18
+      },
+      {
+        "Go": "app/FinalActivityPanel",
+        "GoType": "module",
+        "ID": 890,
+        "Jumptarget": 2,
+        "MonID": 4663,
+        "Name": "墨意千峰·关银屏",
+        "SkinKind": [
+          {
+            "ID": 1,
+            "LifeTime": 0,
+            "SkinType": 0,
+            "Type": 2,
+            "Year": 0
+          }
+        ],
+        "Type": 3
       }
     ]
   }

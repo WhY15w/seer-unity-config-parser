@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4924,
-            "ImageID": 4924,
+            "ID": 4964,
+            "ImageID": 4964,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,61 +1367,31 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4960,
-            "ImageID": 4960,
+            "ID": 888,
+            "ImageID": 1400888,
             "Label": 0,
             "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4961,
-            "ImageID": 4961,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4962,
-            "ImageID": 4962,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 4963,
-            "ImageID": 4963,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 0,
-            "type": 0
-          },
-          {
-            "Desc": "",
-            "Go": "app/FinalActivityPanel",
-            "ID": 886,
-            "ImageID": 1400886,
-            "Label": 0,
-            "Redirect": "module",
-            "monID": 4500,
+            "monID": 3311,
             "type": 1
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 887,
-            "ImageID": 1400887,
+            "ID": 889,
+            "ImageID": 1400889,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4421,
+            "monID": 3311,
+            "type": 1
+          },
+          {
+            "Desc": "",
+            "Go": "app/FinalActivityPanel",
+            "ID": 890,
+            "ImageID": 1400890,
+            "Label": 0,
+            "Redirect": "module",
+            "monID": 4663,
             "type": 1
           }
         ]
@@ -16294,7 +16264,7 @@
         "DefName": "冥王·夜刃",
         "Features": "冥王之一，冥界之主的忠实守卫，生性孤僻，终生守卫在碧落之海",
         "ID": 2487,
-        "Target": ""
+        "Target": "150156"
       },
       {
         "DefName": "创世圣弓",
@@ -16318,7 +16288,7 @@
         "DefName": "冥王·断空",
         "Features": "有冥界忠魂之称的断空，为了冥界的称皇称霸不惜一切代价。",
         "ID": 2491,
-        "Target": ""
+        "Target": "150156"
       },
       {
         "DefName": "苏拉底",
@@ -16384,13 +16354,13 @@
         "DefName": "冥王·破天",
         "Features": "冥界第三位冥王，性格高傲，能力强大，已经可以将身后双剑的力量使用到极致。",
         "ID": 2503,
-        "Target": ""
+        "Target": "150156"
       },
       {
         "DefName": "月月",
         "Features": "苍白之瀑下凝聚千年的冰晶精灵，具有极强的魔力。",
         "ID": 2504,
-        "Target": ""
+        "Target": "150156"
       },
       {
         "DefName": "冥王·苍月",
@@ -16468,7 +16438,7 @@
         "DefName": "冥帝·修罗",
         "Features": "冥界最终力量的汇聚！超强的力量几乎没有精灵可以与之匹敌！同时为神秘组织的成员，代号“命”",
         "ID": 2517,
-        "Target": ""
+        "Target": "150156"
       },
       {
         "DefName": "潘多拉",
@@ -20392,7 +20362,7 @@
         "DefName": "冥皇·修罗",
         "Features": "冥帝修罗的超进化形态，拥有无比强大的黑暗之力，可以释放腐蚀灵魂的法术！命·妙化无常！",
         "ID": 3183,
-        "Target": ""
+        "Target": "150156"
       },
       {
         "DefName": "圣谕天骑",
@@ -31003,10 +30973,22 @@
         "Target": "114151"
       },
       {
+        "DefName": "伊娜",
+        "Features": "伊娜·帕旺来自拉卡伊的法卡洛亚。她的家族历代都是塔普娜的守卫者，她也将此视为她毕生的使命，至少很长一段时间内都是如此。",
+        "ID": 4964,
+        "Target": "153201/1031"
+      },
+      {
         "DefName": "镇世神岳·玄武",
         "Features": "玄武，帕诺的远古神兽、大地的守护者——他曾以伟岸之躯抵御世间最凶猛的灾厄，碎为戈拉后以钢铁新壳归来，仍在守护帕诺之夜。",
         "ID": 4995,
         "Target": "150145"
+      },
+      {
+        "DefName": "圣光灵神SP",
+        "Features": "圣光灵神领悟到了圣光的真谛，将体内的力量转化为了更为强大的圣光，他对正义与守护的信念，从此变得更加坚定。",
+        "ID": 13311,
+        "Target": "114182"
       }
     ],
     "RecMintmark": {
