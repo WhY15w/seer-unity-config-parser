@@ -5,6 +5,12 @@
       "img": "peakJihadHonorPantheonPanel_bg_1",
       "name": "第0届邀请赛",
       "suit": 468
+    },
+    {
+      "id": 2,
+      "img": "peakJihadHonorPantheonPanel_bg_2",
+      "name": "2026大师赛",
+      "suit": 481
     }
   ]
 }

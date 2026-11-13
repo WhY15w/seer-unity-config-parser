@@ -1357,8 +1357,8 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 4964,
-            "ImageID": 4964,
+            "ID": 4965,
+            "ImageID": 4965,
             "Label": 0,
             "Redirect": "module",
             "monID": 0,
@@ -1367,31 +1367,31 @@
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 888,
-            "ImageID": 1400888,
+            "ID": 4966,
+            "ImageID": 4966,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3311,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 889,
-            "ImageID": 1400889,
+            "ID": 4967,
+            "ImageID": 4967,
             "Label": 0,
             "Redirect": "module",
-            "monID": 3311,
-            "type": 1
+            "monID": 0,
+            "type": 0
           },
           {
             "Desc": "",
             "Go": "app/FinalActivityPanel",
-            "ID": 890,
-            "ImageID": 1400890,
+            "ID": 891,
+            "ImageID": 1400891,
             "Label": 0,
             "Redirect": "module",
-            "monID": 4663,
+            "monID": 4355,
             "type": 1
           }
         ]
@@ -22792,7 +22792,7 @@
         "DefName": "幽冥帝尊·修罗",
         "Features": "大暗黑天之命长老，幽幽冥界的至尊主宰！执掌命运的黑暗君王！暴力并不是他的一切，操纵命劫是他的乐趣！",
         "ID": 3592,
-        "Target": ""
+        "Target": "150157"
       },
       {
         "DefName": "安特",
@@ -30977,6 +30977,24 @@
         "Features": "伊娜·帕旺来自拉卡伊的法卡洛亚。她的家族历代都是塔普娜的守卫者，她也将此视为她毕生的使命，至少很长一段时间内都是如此。",
         "ID": 4964,
         "Target": "153201/1031"
+      },
+      {
+        "DefName": "沙罗摩奥",
+        "Features": "沙罗摩奥与瓦坎相依为命，他们俩如同形影不离的兄弟。这只蜥蜴的力量不容小觑，就和它的主人一样，隐藏着自己真正的实力。",
+        "ID": 4965,
+        "Target": "153201/1032"
+      },
+      {
+        "DefName": "普卡",
+        "Features": "神流的神秘小精灵，据说是用来特殊召唤赛尔的。普卡卷成了一个圈的样子，那个小圈似乎连通着另一个世界。",
+        "ID": 4966,
+        "Target": "170000"
+      },
+      {
+        "DefName": "米铃",
+        "Features": "星愿投递局里最忙碌的小信使，总是抱着比自己准备得还充分的邮包出发。虽然偶尔认错路、跑掉帽子，但每当有人等待来信，米铃都会认真地说：“请再等一下，我马上就到！”",
+        "ID": 4967,
+        "Target": "114185"
       },
       {
         "DefName": "镇世神岳·玄武",

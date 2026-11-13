@@ -611805,6 +611805,411 @@
         "isRidePet": 0
       },
       {
+        "Atk": 140,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 108,
+        "DefName": "沙罗摩奥",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38640,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 1,
+        "HP": 160,
+        "ID": 4965,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 10234,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 21739,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10428,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10409,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 21329,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38638,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 11984,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 21088,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 16909,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 31997,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 26107,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 31998,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29508,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 31999,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29509,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38639,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3626,
+        "RealId": 0,
+        "SpAtk": 70,
+        "SpDef": 112,
+        "Spd": 145,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 101,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 70,
+        "CharacterAttrParam": 4,
+        "Combo": 0,
+        "Def": 105,
+        "DefName": "普卡",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38643,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 0,
+        "HP": 162,
+        "ID": 4966,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 10001,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20018,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 13103,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20741,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 13100,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38641,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 21250,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 13105,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20144,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 13106,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 21626,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 13101,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29510,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 21627,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29511,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38642,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3627,
+        "RealId": 0,
+        "SpAtk": 129,
+        "SpDef": 107,
+        "Spd": 127,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 17,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 137,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 105,
+        "DefName": "米铃",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "ExtraMoves": {
+          "Move": [
+            {
+              "Id": 38646,
+              "LearningLv": 76,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 155,
+        "ID": 4967,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 10001,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20002,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10008,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10009,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20015,
+              "LearningLv": 17,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38644,
+              "LearningLv": 21,
+              "Rec": 1,
+              "Tag": 1
+            },
+            {
+              "Id": 10036,
+              "LearningLv": 25,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20016,
+              "LearningLv": 29,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10037,
+              "LearningLv": 33,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10038,
+              "LearningLv": 37,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 10033,
+              "LearningLv": 41,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 20017,
+              "LearningLv": 45,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29512,
+              "LearningLv": 49,
+              "Rec": 1,
+              "Tag": 2
+            },
+            {
+              "Id": 14404,
+              "LearningLv": 53,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29513,
+              "LearningLv": 57,
+              "Rec": 1,
+              "Tag": 3
+            },
+            {
+              "Id": 38645,
+              "LearningLv": 61,
+              "Rec": 1,
+              "Tag": 4
+            }
+          ]
+        },
+        "PetClass": 3628,
+        "RealId": 0,
+        "SpAtk": 70,
+        "SpDef": 108,
+        "Spd": 125,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 53,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
         "Atk": 100,
         "CharacterAttrParam": 0,
         "Combo": 0,
@@ -612668,7 +613073,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 462,
         "SpAtk": 111,
         "SpDef": 83,
         "Spd": 95,
@@ -612703,7 +613108,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 70,
         "SpAtk": 101,
         "SpDef": 77,
         "Spd": 105,
@@ -612991,7 +613396,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 2648,
         "SpAtk": 120,
         "SpDef": 100,
         "Spd": 100,
@@ -613694,7 +614099,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 760,
         "SpAtk": 102,
         "SpDef": 75,
         "Spd": 93,
@@ -613747,7 +614152,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 755,
         "SpAtk": 118,
         "SpDef": 86,
         "Spd": 96,
@@ -613782,7 +614187,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 797,
         "SpAtk": 101,
         "SpDef": 77,
         "Spd": 105,
@@ -613835,7 +614240,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 782,
         "SpAtk": 90,
         "SpDef": 83,
         "Spd": 100,
@@ -613972,7 +614377,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 796,
         "SpAtk": 101,
         "SpDef": 77,
         "Spd": 105,
@@ -614161,7 +614566,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 805,
         "SpAtk": 65,
         "SpDef": 43,
         "Spd": 60,
@@ -614286,7 +614691,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 855,
         "SpAtk": 115,
         "SpDef": 88,
         "Spd": 95,
@@ -614411,7 +614816,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 504,
         "SpAtk": 115,
         "SpDef": 100,
         "Spd": 110,
@@ -614536,7 +614941,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 504,
         "SpAtk": 115,
         "SpDef": 100,
         "Spd": 110,
@@ -614661,7 +615066,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 504,
         "SpAtk": 115,
         "SpDef": 100,
         "Spd": 110,
@@ -614786,7 +615191,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 504,
         "SpAtk": 115,
         "SpDef": 100,
         "Spd": 110,
@@ -614911,7 +615316,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 904,
         "SpAtk": 81,
         "SpDef": 88,
         "Spd": 96,
@@ -615035,7 +615440,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 2888,
         "SpAtk": 115,
         "SpDef": 85,
         "Spd": 100,
@@ -615158,7 +615563,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1045,
         "SpAtk": 79,
         "SpDef": 90,
         "Spd": 100,
@@ -615281,7 +615686,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1029,
         "SpAtk": 100,
         "SpDef": 100,
         "Spd": 110,
@@ -615351,7 +615756,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 70,
         "SpAtk": 101,
         "SpDef": 77,
         "Spd": 105,
@@ -615386,7 +615791,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 261,
         "SpAtk": 96,
         "SpDef": 78,
         "Spd": 105,
@@ -615421,7 +615826,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 798,
         "SpAtk": 89,
         "SpDef": 80,
         "Spd": 101,
@@ -615456,7 +615861,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 875,
         "SpAtk": 78,
         "SpDef": 83,
         "Spd": 102,
@@ -615517,7 +615922,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 299,
         "SpAtk": 70,
         "SpDef": 90,
         "Spd": 90,
@@ -615639,7 +616044,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1256,
         "SpAtk": 70,
         "SpDef": 90,
         "Spd": 90,
@@ -615692,7 +616097,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1306,
         "SpAtk": 100,
         "SpDef": 100,
         "Spd": 110,
@@ -615745,7 +616150,7 @@
           ]
         },
         "PetClass": 657,
-        "RealId": 0,
+        "RealId": 505,
         "SpAtk": 90,
         "SpDef": 100,
         "Spd": 108,
@@ -615798,7 +616203,7 @@
           ]
         },
         "PetClass": 704,
-        "RealId": 0,
+        "RealId": 1633,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 107,
@@ -615851,7 +616256,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1748,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 106,
@@ -615904,7 +616309,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1748,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 106,
@@ -615957,7 +616362,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1748,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 106,
@@ -616010,7 +616415,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1748,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 106,
@@ -616063,7 +616468,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1748,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 106,
@@ -616116,7 +616521,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1748,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 106,
@@ -616169,7 +616574,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1748,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 106,
@@ -616222,7 +616627,7 @@
           ]
         },
         "PetClass": 0,
-        "RealId": 0,
+        "RealId": 1748,
         "SpAtk": 118,
         "SpDef": 88,
         "Spd": 106,
@@ -616257,7 +616662,7 @@
           ]
         },
         "PetClass": 889,
-        "RealId": 0,
+        "RealId": 1966,
         "SpAtk": 79,
         "SpDef": 90,
         "Spd": 105,
@@ -616292,7 +616697,7 @@
           ]
         },
         "PetClass": 890,
-        "RealId": 0,
+        "RealId": 1967,
         "SpAtk": 79,
         "SpDef": 87,
         "Spd": 105,
@@ -616327,7 +616732,7 @@
           ]
         },
         "PetClass": 891,
-        "RealId": 0,
+        "RealId": 1968,
         "SpAtk": 79,
         "SpDef": 85,
         "Spd": 105,
@@ -616427,7 +616832,7 @@
           ]
         },
         "PetClass": 99,
-        "RealId": 0,
+        "RealId": 261,
         "SpAtk": 96,
         "SpDef": 78,
         "Spd": 105,
@@ -616468,7 +616873,7 @@
           ]
         },
         "PetClass": 941,
-        "RealId": 0,
+        "RealId": 2068,
         "SpAtk": 78,
         "SpDef": 88,
         "Spd": 107,
@@ -616593,7 +616998,7 @@
           ]
         },
         "PetClass": 931,
-        "RealId": 0,
+        "RealId": 2049,
         "SpAtk": 80,
         "SpDef": 87,
         "Spd": 113,
@@ -616718,7 +617123,7 @@
           ]
         },
         "PetClass": 931,
-        "RealId": 0,
+        "RealId": 2049,
         "SpAtk": 80,
         "SpDef": 87,
         "Spd": 113,
@@ -617553,7 +617958,7 @@
           ]
         },
         "PetClass": 1036,
-        "RealId": 0,
+        "RealId": 2235,
         "SpAtk": 78,
         "SpDef": 92,
         "Spd": 101,
@@ -617606,7 +618011,7 @@
           ]
         },
         "PetClass": 1036,
-        "RealId": 0,
+        "RealId": 2323,
         "SpAtk": 1,
         "SpDef": 1,
         "Spd": 1,
@@ -617659,7 +618064,7 @@
           ]
         },
         "PetClass": 1081,
-        "RealId": 0,
+        "RealId": 2312,
         "SpAtk": 79,
         "SpDef": 86,
         "Spd": 104,
@@ -617712,7 +618117,7 @@
           ]
         },
         "PetClass": 1102,
-        "RealId": 0,
+        "RealId": 2349,
         "SpAtk": 75,
         "SpDef": 94,
         "Spd": 101,
@@ -617765,7 +618170,7 @@
           ]
         },
         "PetClass": 1102,
-        "RealId": 0,
+        "RealId": 2349,
         "SpAtk": 75,
         "SpDef": 94,
         "Spd": 101,
@@ -617818,7 +618223,7 @@
           ]
         },
         "PetClass": 1102,
-        "RealId": 0,
+        "RealId": 2349,
         "SpAtk": 75,
         "SpDef": 94,
         "Spd": 101,
@@ -617871,7 +618276,7 @@
           ]
         },
         "PetClass": 1102,
-        "RealId": 0,
+        "RealId": 2349,
         "SpAtk": 75,
         "SpDef": 94,
         "Spd": 101,
@@ -617924,7 +618329,7 @@
           ]
         },
         "PetClass": 1110,
-        "RealId": 0,
+        "RealId": 2366,
         "SpAtk": 120,
         "SpDef": 88,
         "Spd": 110,
@@ -617977,7 +618382,7 @@
           ]
         },
         "PetClass": 1110,
-        "RealId": 0,
+        "RealId": 2366,
         "SpAtk": 120,
         "SpDef": 88,
         "Spd": 110,
@@ -618030,7 +618435,7 @@
           ]
         },
         "PetClass": 1110,
-        "RealId": 0,
+        "RealId": 2366,
         "SpAtk": 120,
         "SpDef": 88,
         "Spd": 110,
@@ -618083,7 +618488,7 @@
           ]
         },
         "PetClass": 1110,
-        "RealId": 0,
+        "RealId": 2366,
         "SpAtk": 120,
         "SpDef": 88,
         "Spd": 110,
@@ -618136,7 +618541,7 @@
           ]
         },
         "PetClass": 1110,
-        "RealId": 0,
+        "RealId": 2366,
         "SpAtk": 120,
         "SpDef": 88,
         "Spd": 110,
@@ -618201,7 +618606,7 @@
           ]
         },
         "PetClass": 1118,
-        "RealId": 0,
+        "RealId": 2379,
         "SpAtk": 76,
         "SpDef": 90,
         "Spd": 109,
@@ -618320,7 +618725,7 @@
           ]
         },
         "PetClass": 1116,
-        "RealId": 0,
+        "RealId": 2356,
         "SpAtk": 71,
         "SpDef": 96,
         "Spd": 111,
@@ -618373,7 +618778,7 @@
           ]
         },
         "PetClass": 1088,
-        "RealId": 0,
+        "RealId": 2323,
         "SpAtk": 89,
         "SpDef": 86,
         "Spd": 101,
@@ -618426,7 +618831,7 @@
           ]
         },
         "PetClass": 40,
-        "RealId": 0,
+        "RealId": 108,
         "SpAtk": 56,
         "SpDef": 46,
         "Spd": 45,
@@ -618485,7 +618890,7 @@
           ]
         },
         "PetClass": 203,
-        "RealId": 0,
+        "RealId": 523,
         "SpAtk": 46,
         "SpDef": 45,
         "Spd": 43,
@@ -618568,7 +618973,7 @@
           ]
         },
         "PetClass": 407,
-        "RealId": 0,
+        "RealId": 991,
         "SpAtk": 75,
         "SpDef": 45,
         "Spd": 55,
@@ -618651,7 +619056,7 @@
           ]
         },
         "PetClass": 460,
-        "RealId": 0,
+        "RealId": 1104,
         "SpAtk": 87,
         "SpDef": 65,
         "Spd": 64,
@@ -618740,7 +619145,7 @@
           ]
         },
         "PetClass": 203,
-        "RealId": 0,
+        "RealId": 524,
         "SpAtk": 66,
         "SpDef": 65,
         "Spd": 63,
@@ -618865,7 +619270,7 @@
           ]
         },
         "PetClass": 407,
-        "RealId": 0,
+        "RealId": 992,
         "SpAtk": 115,
         "SpDef": 85,
         "Spd": 95,
@@ -618942,7 +619347,7 @@
           ]
         },
         "PetClass": 415,
-        "RealId": 0,
+        "RealId": 1009,
         "SpAtk": 38,
         "SpDef": 41,
         "Spd": 60,
@@ -619025,7 +619430,7 @@
           ]
         },
         "PetClass": 413,
-        "RealId": 0,
+        "RealId": 1005,
         "SpAtk": 62,
         "SpDef": 65,
         "Spd": 72,
@@ -619150,7 +619555,7 @@
           ]
         },
         "PetClass": 413,
-        "RealId": 0,
+        "RealId": 1006,
         "SpAtk": 82,
         "SpDef": 85,
         "Spd": 102,
@@ -619275,7 +619680,7 @@
           ]
         },
         "PetClass": 460,
-        "RealId": 0,
+        "RealId": 1105,
         "SpAtk": 117,
         "SpDef": 85,
         "Spd": 94,
@@ -619400,7 +619805,7 @@
           ]
         },
         "PetClass": 472,
-        "RealId": 0,
+        "RealId": 1134,
         "SpAtk": 114,
         "SpDef": 87,
         "Spd": 97,
@@ -619525,7 +619930,7 @@
           ]
         },
         "PetClass": 750,
-        "RealId": 0,
+        "RealId": 1725,
         "SpAtk": 117,
         "SpDef": 89,
         "Spd": 102,
@@ -619650,7 +620055,7 @@
           ]
         },
         "PetClass": 1167,
-        "RealId": 0,
+        "RealId": 2447,
         "SpAtk": 73,
         "SpDef": 92,
         "Spd": 114,
@@ -619756,7 +620161,7 @@
           ]
         },
         "PetClass": 45,
-        "RealId": 0,
+        "RealId": 125,
         "SpAtk": 78,
         "SpDef": 86,
         "Spd": 109,
@@ -619809,7 +620214,7 @@
           ]
         },
         "PetClass": 45,
-        "RealId": 0,
+        "RealId": 125,
         "SpAtk": 78,
         "SpDef": 86,
         "Spd": 109,
@@ -641252,7 +641657,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 136,
-        "ID": 5270,
+        "ID": 15270,
         "LearnableMoves": {
           "Move": [
             {
@@ -641417,7 +641822,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 135,
-        "ID": 5271,
+        "ID": 15271,
         "LearnableMoves": {
           "Move": [
             {
@@ -641542,7 +641947,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5272,
+        "ID": 15272,
         "LearnableMoves": {
           "Move": [
             {
@@ -641667,7 +642072,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5273,
+        "ID": 15273,
         "LearnableMoves": {
           "Move": [
             {
@@ -641832,7 +642237,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5278,
+        "ID": 15278,
         "LearnableMoves": {
           "Move": [
             {
@@ -641987,7 +642392,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5279,
+        "ID": 15279,
         "LearnableMoves": {
           "Move": [
             {
@@ -642122,7 +642527,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5280,
+        "ID": 15280,
         "LearnableMoves": {
           "Move": [
             {
@@ -642277,7 +642682,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 110,
-        "ID": 5281,
+        "ID": 15281,
         "LearnableMoves": {
           "Move": [
             {
@@ -642418,7 +642823,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5282,
+        "ID": 15282,
         "LearnableMoves": {
           "Move": [
             {
@@ -642579,7 +642984,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5283,
+        "ID": 15283,
         "LearnableMoves": {
           "Move": [
             {
@@ -642714,7 +643119,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 137,
-        "ID": 5284,
+        "ID": 15284,
         "LearnableMoves": {
           "Move": [
             {
@@ -642879,7 +643284,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5285,
+        "ID": 15285,
         "LearnableMoves": {
           "Move": [
             {
@@ -643014,7 +643419,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5286,
+        "ID": 15286,
         "LearnableMoves": {
           "Move": [
             {
@@ -643149,7 +643554,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5287,
+        "ID": 15287,
         "LearnableMoves": {
           "Move": [
             {
@@ -643284,7 +643689,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5288,
+        "ID": 15288,
         "LearnableMoves": {
           "Move": [
             {
@@ -643419,7 +643824,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5289,
+        "ID": 15289,
         "LearnableMoves": {
           "Move": [
             {
@@ -643554,7 +643959,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5290,
+        "ID": 15290,
         "LearnableMoves": {
           "Move": [
             {
@@ -643689,7 +644094,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5291,
+        "ID": 15291,
         "LearnableMoves": {
           "Move": [
             {
@@ -643824,7 +644229,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5292,
+        "ID": 15292,
         "LearnableMoves": {
           "Move": [
             {
@@ -643959,7 +644364,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5293,
+        "ID": 15293,
         "LearnableMoves": {
           "Move": [
             {
@@ -644094,7 +644499,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5294,
+        "ID": 15294,
         "LearnableMoves": {
           "Move": [
             {
@@ -644229,7 +644634,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5295,
+        "ID": 15295,
         "LearnableMoves": {
           "Move": [
             {
@@ -644364,7 +644769,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5296,
+        "ID": 15296,
         "LearnableMoves": {
           "Move": [
             {
@@ -644499,7 +644904,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5297,
+        "ID": 15297,
         "LearnableMoves": {
           "Move": [
             {
@@ -644634,7 +645039,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5298,
+        "ID": 15298,
         "LearnableMoves": {
           "Move": [
             {
@@ -644769,7 +645174,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 135,
-        "ID": 5299,
+        "ID": 15299,
         "LearnableMoves": {
           "Move": [
             {
@@ -644954,7 +645359,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5300,
+        "ID": 15300,
         "LearnableMoves": {
           "Move": [
             {
@@ -645079,7 +645484,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 135,
-        "ID": 5301,
+        "ID": 15301,
         "LearnableMoves": {
           "Move": [
             {
@@ -645214,7 +645619,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5302,
+        "ID": 15302,
         "LearnableMoves": {
           "Move": [
             {
@@ -645349,7 +645754,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5303,
+        "ID": 15303,
         "LearnableMoves": {
           "Move": [
             {
@@ -645484,7 +645889,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5304,
+        "ID": 15304,
         "LearnableMoves": {
           "Move": [
             {
@@ -645619,7 +646024,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5305,
+        "ID": 15305,
         "LearnableMoves": {
           "Move": [
             {
@@ -645754,7 +646159,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 128,
-        "ID": 5306,
+        "ID": 15306,
         "LearnableMoves": {
           "Move": [
             {
@@ -645889,7 +646294,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5307,
+        "ID": 15307,
         "LearnableMoves": {
           "Move": [
             {
@@ -646024,7 +646429,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5308,
+        "ID": 15308,
         "LearnableMoves": {
           "Move": [
             {
@@ -646159,7 +646564,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5309,
+        "ID": 15309,
         "LearnableMoves": {
           "Move": [
             {
@@ -646294,7 +646699,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 128,
-        "ID": 5310,
+        "ID": 15310,
         "LearnableMoves": {
           "Move": [
             {
@@ -646429,7 +646834,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5311,
+        "ID": 15311,
         "LearnableMoves": {
           "Move": [
             {
@@ -646564,7 +646969,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5312,
+        "ID": 15312,
         "LearnableMoves": {
           "Move": [
             {
@@ -646699,7 +647104,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5313,
+        "ID": 15313,
         "LearnableMoves": {
           "Move": [
             {
@@ -646834,7 +647239,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 128,
-        "ID": 5314,
+        "ID": 15314,
         "LearnableMoves": {
           "Move": [
             {
@@ -646969,7 +647374,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5315,
+        "ID": 15315,
         "LearnableMoves": {
           "Move": [
             {
@@ -647104,7 +647509,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5316,
+        "ID": 15316,
         "LearnableMoves": {
           "Move": [
             {
@@ -647229,7 +647634,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 120,
-        "ID": 5317,
+        "ID": 15317,
         "LearnableMoves": {
           "Move": [
             {
@@ -647373,7 +647778,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5318,
+        "ID": 15318,
         "LearnableMoves": {
           "Move": [
             {
@@ -647538,7 +647943,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5319,
+        "ID": 15319,
         "LearnableMoves": {
           "Move": [
             {
@@ -647703,7 +648108,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5320,
+        "ID": 15320,
         "LearnableMoves": {
           "Move": [
             {
@@ -647868,7 +648273,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5321,
+        "ID": 15321,
         "LearnableMoves": {
           "Move": [
             {
@@ -648033,7 +648438,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5322,
+        "ID": 15322,
         "LearnableMoves": {
           "Move": [
             {
@@ -648198,7 +648603,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5323,
+        "ID": 15323,
         "LearnableMoves": {
           "Move": [
             {
@@ -648363,7 +648768,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5324,
+        "ID": 15324,
         "LearnableMoves": {
           "Move": [
             {
@@ -648528,7 +648933,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5325,
+        "ID": 15325,
         "LearnableMoves": {
           "Move": [
             {
@@ -648683,7 +649088,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5326,
+        "ID": 15326,
         "LearnableMoves": {
           "Move": [
             {
@@ -648832,7 +649237,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 120,
-        "ID": 5327,
+        "ID": 15327,
         "LearnableMoves": {
           "Move": [
             {
@@ -648973,7 +649378,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 120,
-        "ID": 5328,
+        "ID": 15328,
         "LearnableMoves": {
           "Move": [
             {
@@ -649124,7 +649529,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5329,
+        "ID": 15329,
         "LearnableMoves": {
           "Move": [
             {
@@ -649289,7 +649694,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 137,
-        "ID": 5330,
+        "ID": 15330,
         "LearnableMoves": {
           "Move": [
             {
@@ -649454,7 +649859,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5331,
+        "ID": 15331,
         "LearnableMoves": {
           "Move": [
             {
@@ -649619,7 +650024,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5332,
+        "ID": 15332,
         "LearnableMoves": {
           "Move": [
             {
@@ -649784,7 +650189,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 134,
-        "ID": 5333,
+        "ID": 15333,
         "LearnableMoves": {
           "Move": [
             {
@@ -649949,7 +650354,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 137,
-        "ID": 5334,
+        "ID": 15334,
         "LearnableMoves": {
           "Move": [
             {
@@ -650114,7 +650519,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5335,
+        "ID": 15335,
         "LearnableMoves": {
           "Move": [
             {
@@ -650279,7 +650684,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5336,
+        "ID": 15336,
         "LearnableMoves": {
           "Move": [
             {
@@ -650444,7 +650849,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5337,
+        "ID": 15337,
         "LearnableMoves": {
           "Move": [
             {
@@ -650609,7 +651014,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5338,
+        "ID": 15338,
         "LearnableMoves": {
           "Move": [
             {
@@ -650774,7 +651179,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5339,
+        "ID": 15339,
         "LearnableMoves": {
           "Move": [
             {
@@ -650939,7 +651344,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5340,
+        "ID": 15340,
         "LearnableMoves": {
           "Move": [
             {
@@ -651104,7 +651509,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5341,
+        "ID": 15341,
         "LearnableMoves": {
           "Move": [
             {
@@ -651269,7 +651674,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5342,
+        "ID": 15342,
         "LearnableMoves": {
           "Move": [
             {
@@ -651476,7 +651881,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5343,
+        "ID": 15343,
         "LearnableMoves": {
           "Move": [
             {
@@ -651641,7 +652046,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5344,
+        "ID": 15344,
         "LearnableMoves": {
           "Move": [
             {
@@ -651796,7 +652201,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5345,
+        "ID": 15345,
         "LearnableMoves": {
           "Move": [
             {
@@ -651921,7 +652326,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5346,
+        "ID": 15346,
         "LearnableMoves": {
           "Move": [
             {
@@ -652046,7 +652451,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5347,
+        "ID": 15347,
         "LearnableMoves": {
           "Move": [
             {
@@ -652171,7 +652576,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5348,
+        "ID": 15348,
         "LearnableMoves": {
           "Move": [
             {
@@ -652296,7 +652701,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5349,
+        "ID": 15349,
         "LearnableMoves": {
           "Move": [
             {
@@ -652421,7 +652826,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5350,
+        "ID": 15350,
         "LearnableMoves": {
           "Move": [
             {
@@ -652546,7 +652951,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5351,
+        "ID": 15351,
         "LearnableMoves": {
           "Move": [
             {
@@ -652671,7 +653076,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5352,
+        "ID": 15352,
         "LearnableMoves": {
           "Move": [
             {
@@ -652796,7 +653201,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5353,
+        "ID": 15353,
         "LearnableMoves": {
           "Move": [
             {
@@ -652921,7 +653326,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5354,
+        "ID": 15354,
         "LearnableMoves": {
           "Move": [
             {
@@ -653046,7 +653451,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5355,
+        "ID": 15355,
         "LearnableMoves": {
           "Move": [
             {
@@ -653171,7 +653576,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5356,
+        "ID": 15356,
         "LearnableMoves": {
           "Move": [
             {
@@ -653296,7 +653701,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5357,
+        "ID": 15357,
         "LearnableMoves": {
           "Move": [
             {
@@ -653326,7 +653731,7 @@
           ]
         },
         "PetClass": 1606,
-        "RealId": 0,
+        "RealId": 3406,
         "SpAtk": 135,
         "SpDef": 125,
         "Spd": 140,
@@ -653359,7 +653764,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5358,
+        "ID": 15358,
         "LearnableMoves": {
           "Move": [
             {
@@ -653494,7 +653899,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5359,
+        "ID": 15359,
         "LearnableMoves": {
           "Move": [
             {
@@ -653629,7 +654034,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5360,
+        "ID": 15360,
         "LearnableMoves": {
           "Move": [
             {
@@ -653764,7 +654169,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5361,
+        "ID": 15361,
         "LearnableMoves": {
           "Move": [
             {
@@ -653899,7 +654304,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5362,
+        "ID": 15362,
         "LearnableMoves": {
           "Move": [
             {
@@ -654034,7 +654439,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5363,
+        "ID": 15363,
         "LearnableMoves": {
           "Move": [
             {
@@ -654169,7 +654574,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5364,
+        "ID": 15364,
         "LearnableMoves": {
           "Move": [
             {
@@ -654304,7 +654709,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5365,
+        "ID": 15365,
         "LearnableMoves": {
           "Move": [
             {
@@ -654439,7 +654844,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5366,
+        "ID": 15366,
         "LearnableMoves": {
           "Move": [
             {
@@ -654574,7 +654979,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5367,
+        "ID": 15367,
         "LearnableMoves": {
           "Move": [
             {
@@ -654709,7 +655114,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5368,
+        "ID": 15368,
         "LearnableMoves": {
           "Move": [
             {
@@ -654844,7 +655249,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5369,
+        "ID": 15369,
         "LearnableMoves": {
           "Move": [
             {
@@ -654979,7 +655384,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5370,
+        "ID": 15370,
         "LearnableMoves": {
           "Move": [
             {
@@ -655114,7 +655519,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5371,
+        "ID": 15371,
         "LearnableMoves": {
           "Move": [
             {
@@ -655249,7 +655654,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5372,
+        "ID": 15372,
         "LearnableMoves": {
           "Move": [
             {
@@ -655384,7 +655789,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 100,
-        "ID": 5373,
+        "ID": 15373,
         "LearnableMoves": {
           "Move": [
             {
@@ -655564,7 +655969,7 @@
           ]
         },
         "PetClass": 1646,
-        "RealId": 0,
+        "RealId": 2959,
         "SpAtk": 100,
         "SpDef": 100,
         "Spd": 100,
@@ -655597,7 +656002,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 100,
-        "ID": 5374,
+        "ID": 15374,
         "LearnableMoves": {
           "Move": [
             {
@@ -655662,7 +656067,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5375,
+        "ID": 15375,
         "LearnableMoves": {
           "Move": [
             {
@@ -655721,7 +656126,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 55,
-        "ID": 5376,
+        "ID": 15376,
         "LearnableMoves": {
           "Move": [
             {
@@ -655810,7 +656215,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 85,
-        "ID": 5377,
+        "ID": 15377,
         "LearnableMoves": {
           "Move": [
             {
@@ -655917,7 +656322,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 124,
-        "ID": 5378,
+        "ID": 15378,
         "LearnableMoves": {
           "Move": [
             {
@@ -656072,7 +656477,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5379,
+        "ID": 15379,
         "LearnableMoves": {
           "Move": [
             {
@@ -656131,7 +656536,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 63,
-        "ID": 5380,
+        "ID": 15380,
         "LearnableMoves": {
           "Move": [
             {
@@ -656208,7 +656613,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 83,
-        "ID": 5381,
+        "ID": 15381,
         "LearnableMoves": {
           "Move": [
             {
@@ -656315,7 +656720,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 120,
-        "ID": 5382,
+        "ID": 15382,
         "LearnableMoves": {
           "Move": [
             {
@@ -656440,7 +656845,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5383,
+        "ID": 15383,
         "LearnableMoves": {
           "Move": [
             {
@@ -656499,7 +656904,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 63,
-        "ID": 5384,
+        "ID": 15384,
         "LearnableMoves": {
           "Move": [
             {
@@ -656576,7 +656981,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 83,
-        "ID": 5385,
+        "ID": 15385,
         "LearnableMoves": {
           "Move": [
             {
@@ -656683,7 +657088,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 120,
-        "ID": 5386,
+        "ID": 15386,
         "LearnableMoves": {
           "Move": [
             {
@@ -656808,7 +657213,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5387,
+        "ID": 15387,
         "LearnableMoves": {
           "Move": [
             {
@@ -656867,7 +657272,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 63,
-        "ID": 5388,
+        "ID": 15388,
         "LearnableMoves": {
           "Move": [
             {
@@ -656944,7 +657349,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 83,
-        "ID": 5389,
+        "ID": 15389,
         "LearnableMoves": {
           "Move": [
             {
@@ -657051,7 +657456,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 120,
-        "ID": 5390,
+        "ID": 15390,
         "LearnableMoves": {
           "Move": [
             {
@@ -657176,7 +657581,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5391,
+        "ID": 15391,
         "LearnableMoves": {
           "Move": [
             {
@@ -657235,7 +657640,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 63,
-        "ID": 5392,
+        "ID": 15392,
         "LearnableMoves": {
           "Move": [
             {
@@ -657312,7 +657717,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 83,
-        "ID": 5393,
+        "ID": 15393,
         "LearnableMoves": {
           "Move": [
             {
@@ -657419,7 +657824,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 120,
-        "ID": 5394,
+        "ID": 15394,
         "LearnableMoves": {
           "Move": [
             {
@@ -657544,7 +657949,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5395,
+        "ID": 15395,
         "LearnableMoves": {
           "Move": [
             {
@@ -657603,7 +658008,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 63,
-        "ID": 5396,
+        "ID": 15396,
         "LearnableMoves": {
           "Move": [
             {
@@ -657680,7 +658085,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 83,
-        "ID": 5397,
+        "ID": 15397,
         "LearnableMoves": {
           "Move": [
             {
@@ -657787,7 +658192,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 120,
-        "ID": 5398,
+        "ID": 15398,
         "LearnableMoves": {
           "Move": [
             {
@@ -657912,7 +658317,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5399,
+        "ID": 15399,
         "LearnableMoves": {
           "Move": [
             {
@@ -657971,7 +658376,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 63,
-        "ID": 5400,
+        "ID": 15400,
         "LearnableMoves": {
           "Move": [
             {
@@ -658048,7 +658453,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 83,
-        "ID": 5401,
+        "ID": 15401,
         "LearnableMoves": {
           "Move": [
             {
@@ -658155,7 +658560,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 120,
-        "ID": 5402,
+        "ID": 15402,
         "LearnableMoves": {
           "Move": [
             {
@@ -658280,7 +658685,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5403,
+        "ID": 15403,
         "LearnableMoves": {
           "Move": [
             {
@@ -658327,7 +658732,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5404,
+        "ID": 15404,
         "LearnableMoves": {
           "Move": [
             {
@@ -658384,7 +658789,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 163,
-        "ID": 5405,
+        "ID": 15405,
         "LearnableMoves": {
           "Move": [
             {
@@ -658519,7 +658924,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 163,
-        "ID": 5406,
+        "ID": 15406,
         "LearnableMoves": {
           "Move": [
             {
@@ -658674,7 +659079,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5407,
+        "ID": 15407,
         "LearnableMoves": {
           "Move": [
             {
@@ -658839,7 +659244,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5408,
+        "ID": 15408,
         "LearnableMoves": {
           "Move": [
             {
@@ -658956,7 +659361,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5409,
+        "ID": 15409,
         "LearnableMoves": {
           "Move": [
             {
@@ -659073,7 +659478,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5410,
+        "ID": 15410,
         "LearnableMoves": {
           "Move": [
             {
@@ -659198,7 +659603,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 139,
-        "ID": 5411,
+        "ID": 15411,
         "LearnableMoves": {
           "Move": [
             {
@@ -659423,7 +659828,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 144,
-        "ID": 5412,
+        "ID": 15412,
         "LearnableMoves": {
           "Move": [
             {
@@ -659588,7 +659993,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5413,
+        "ID": 15413,
         "LearnableMoves": {
           "Move": [
             {
@@ -659723,7 +660128,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 150,
-        "ID": 5414,
+        "ID": 15414,
         "LearnableMoves": {
           "Move": [
             {
@@ -659888,7 +660293,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 147,
-        "ID": 5415,
+        "ID": 15415,
         "LearnableMoves": {
           "Move": [
             {
@@ -660053,7 +660458,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 147,
-        "ID": 5416,
+        "ID": 15416,
         "LearnableMoves": {
           "Move": [
             {
@@ -660218,7 +660623,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 147,
-        "ID": 5417,
+        "ID": 15417,
         "LearnableMoves": {
           "Move": [
             {
@@ -660373,7 +660778,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5418,
+        "ID": 15418,
         "LearnableMoves": {
           "Move": [
             {
@@ -660498,7 +660903,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5419,
+        "ID": 15419,
         "LearnableMoves": {
           "Move": [
             {
@@ -660539,7 +660944,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5420,
+        "ID": 15420,
         "LearnableMoves": {
           "Move": [
             {
@@ -660592,7 +660997,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5421,
+        "ID": 15421,
         "LearnableMoves": {
           "Move": [
             {
@@ -660645,7 +661050,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5422,
+        "ID": 15422,
         "LearnableMoves": {
           "Move": [
             {
@@ -660698,7 +661103,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5423,
+        "ID": 15423,
         "LearnableMoves": {
           "Move": [
             {
@@ -660751,7 +661156,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5424,
+        "ID": 15424,
         "LearnableMoves": {
           "Move": [
             {
@@ -660804,7 +661209,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5425,
+        "ID": 15425,
         "LearnableMoves": {
           "Move": [
             {
@@ -660857,7 +661262,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5426,
+        "ID": 15426,
         "LearnableMoves": {
           "Move": [
             {
@@ -660910,7 +661315,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5427,
+        "ID": 15427,
         "LearnableMoves": {
           "Move": [
             {
@@ -660963,7 +661368,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5428,
+        "ID": 15428,
         "LearnableMoves": {
           "Move": [
             {
@@ -661016,7 +661421,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 142,
-        "ID": 5429,
+        "ID": 15429,
         "LearnableMoves": {
           "Move": [
             {
@@ -661079,7 +661484,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 139,
-        "ID": 5430,
+        "ID": 15430,
         "LearnableMoves": {
           "Move": [
             {
@@ -661244,7 +661649,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5431,
+        "ID": 15431,
         "LearnableMoves": {
           "Move": [
             {
@@ -661379,7 +661784,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 136,
-        "ID": 5432,
+        "ID": 15432,
         "LearnableMoves": {
           "Move": [
             {
@@ -661544,7 +661949,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 136,
-        "ID": 5433,
+        "ID": 15433,
         "LearnableMoves": {
           "Move": [
             {
@@ -661699,7 +662104,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5434,
+        "ID": 15434,
         "LearnableMoves": {
           "Move": [
             {
@@ -661860,7 +662265,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 146,
-        "ID": 5435,
+        "ID": 15435,
         "LearnableMoves": {
           "Move": [
             {
@@ -661895,7 +662300,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 121,
-        "ID": 5436,
+        "ID": 15436,
         "LearnableMoves": {
           "Move": [
             {
@@ -662020,7 +662425,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5437,
+        "ID": 15437,
         "LearnableMoves": {
           "Move": [
             {
@@ -662083,7 +662488,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 155,
-        "ID": 5438,
+        "ID": 15438,
         "LearnableMoves": {
           "Move": [
             {
@@ -662268,7 +662673,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 155,
-        "ID": 5439,
+        "ID": 15439,
         "LearnableMoves": {
           "Move": [
             {
@@ -662331,7 +662736,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 143,
-        "ID": 5440,
+        "ID": 15440,
         "LearnableMoves": {
           "Move": [
             {
@@ -662486,7 +662891,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 122,
-        "ID": 5441,
+        "ID": 15441,
         "LearnableMoves": {
           "Move": [
             {
@@ -662621,7 +663026,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 135,
-        "ID": 5442,
+        "ID": 15442,
         "LearnableMoves": {
           "Move": [
             {
@@ -662756,7 +663161,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 135,
-        "ID": 5443,
+        "ID": 15443,
         "LearnableMoves": {
           "Move": [
             {
@@ -662891,7 +663296,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 135,
-        "ID": 5444,
+        "ID": 15444,
         "LearnableMoves": {
           "Move": [
             {
@@ -663026,7 +663431,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 135,
-        "ID": 5445,
+        "ID": 15445,
         "LearnableMoves": {
           "Move": [
             {
@@ -663161,7 +663566,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 135,
-        "ID": 5446,
+        "ID": 15446,
         "LearnableMoves": {
           "Move": [
             {
@@ -663296,7 +663701,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 135,
-        "ID": 5447,
+        "ID": 15447,
         "LearnableMoves": {
           "Move": [
             {
@@ -663431,7 +663836,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 148,
-        "ID": 5448,
+        "ID": 15448,
         "LearnableMoves": {
           "Move": [
             {
@@ -663476,7 +663881,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 151,
-        "ID": 5449,
+        "ID": 15449,
         "LearnableMoves": {
           "Move": [
             {
@@ -663767,7 +664172,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 148,
-        "ID": 5450,
+        "ID": 15450,
         "LearnableMoves": {
           "Move": [
             {
@@ -663968,7 +664373,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 150,
-        "ID": 5451,
+        "ID": 15451,
         "LearnableMoves": {
           "Move": [
             {
@@ -664205,7 +664610,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 149,
-        "ID": 5452,
+        "ID": 15452,
         "LearnableMoves": {
           "Move": [
             {
@@ -664436,7 +664841,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 155,
-        "ID": 5453,
+        "ID": 15453,
         "LearnableMoves": {
           "Move": [
             {
@@ -664637,7 +665042,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 150,
-        "ID": 5454,
+        "ID": 15454,
         "LearnableMoves": {
           "Move": [
             {
@@ -664808,7 +665213,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5455,
+        "ID": 15455,
         "LearnableMoves": {
           "Move": [
             {
@@ -665009,7 +665414,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 148,
-        "ID": 5456,
+        "ID": 15456,
         "LearnableMoves": {
           "Move": [
             {
@@ -665210,7 +665615,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 152,
-        "ID": 5457,
+        "ID": 15457,
         "LearnableMoves": {
           "Move": [
             {
@@ -665411,7 +665816,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 166,
-        "ID": 5458,
+        "ID": 15458,
         "LearnableMoves": {
           "Move": [
             {
@@ -665588,7 +665993,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 140,
-        "ID": 5459,
+        "ID": 15459,
         "LearnableMoves": {
           "Move": [
             {
@@ -665765,7 +666170,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 139,
-        "ID": 5460,
+        "ID": 15460,
         "LearnableMoves": {
           "Move": [
             {
@@ -665930,7 +666335,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 140,
-        "ID": 5461,
+        "ID": 15461,
         "LearnableMoves": {
           "Move": [
             {
@@ -666101,7 +666506,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 151,
-        "ID": 5462,
+        "ID": 15462,
         "LearnableMoves": {
           "Move": [
             {
@@ -666392,7 +666797,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 155,
-        "ID": 5463,
+        "ID": 15463,
         "LearnableMoves": {
           "Move": [
             {
@@ -666593,7 +666998,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 147,
-        "ID": 5464,
+        "ID": 15464,
         "LearnableMoves": {
           "Move": [
             {
@@ -666764,7 +667169,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 146,
-        "ID": 5465,
+        "ID": 15465,
         "LearnableMoves": {
           "Move": [
             {
@@ -666959,7 +667364,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 146,
-        "ID": 5466,
+        "ID": 15466,
         "LearnableMoves": {
           "Move": [
             {
@@ -667144,7 +667549,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 146,
-        "ID": 5467,
+        "ID": 15467,
         "LearnableMoves": {
           "Move": [
             {
@@ -667207,7 +667612,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 191,
-        "ID": 5468,
+        "ID": 15468,
         "LearnableMoves": {
           "Move": [
             {
@@ -667414,7 +667819,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5469,
+        "ID": 15469,
         "LearnableMoves": {
           "Move": [
             {
@@ -667627,7 +668032,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5470,
+        "ID": 15470,
         "LearnableMoves": {
           "Move": [
             {
@@ -667840,7 +668245,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 148,
-        "ID": 5471,
+        "ID": 15471,
         "LearnableMoves": {
           "Move": [
             {
@@ -667903,7 +668308,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5472,
+        "ID": 15472,
         "LearnableMoves": {
           "Move": [
             {
@@ -668020,7 +668425,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 158,
-        "ID": 5473,
+        "ID": 15473,
         "LearnableMoves": {
           "Move": [
             {
@@ -668175,7 +668580,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 153,
-        "ID": 5474,
+        "ID": 15474,
         "LearnableMoves": {
           "Move": [
             {
@@ -668210,7 +668615,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 180,
-        "ID": 5475,
+        "ID": 15475,
         "LearnableMoves": {
           "Move": [
             {
@@ -668255,7 +668660,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5476,
+        "ID": 15476,
         "LearnableMoves": {
           "Move": [
             {
@@ -668362,7 +668767,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 138,
-        "ID": 5477,
+        "ID": 15477,
         "LearnableMoves": {
           "Move": [
             {
@@ -668397,7 +668802,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 138,
-        "ID": 5478,
+        "ID": 15478,
         "LearnableMoves": {
           "Move": [
             {
@@ -668432,7 +668837,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 138,
-        "ID": 5479,
+        "ID": 15479,
         "LearnableMoves": {
           "Move": [
             {
@@ -668467,7 +668872,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5480,
+        "ID": 15480,
         "LearnableMoves": {
           "Move": [
             {
@@ -668514,7 +668919,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 110,
-        "ID": 5481,
+        "ID": 15481,
         "LearnableMoves": {
           "Move": [
             {
@@ -668655,7 +669060,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 165,
-        "ID": 5482,
+        "ID": 15482,
         "LearnableMoves": {
           "Move": [
             {
@@ -668702,7 +669107,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 162,
-        "ID": 5483,
+        "ID": 15483,
         "LearnableMoves": {
           "Move": [
             {
@@ -668765,7 +669170,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 165,
-        "ID": 5484,
+        "ID": 15484,
         "LearnableMoves": {
           "Move": [
             {
@@ -668867,7 +669272,7 @@
           ]
         },
         "PetClass": 2262,
-        "RealId": 0,
+        "RealId": 3602,
         "SpAtk": 132,
         "SpDef": 105,
         "Spd": 128,
@@ -668890,7 +669295,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 165,
-        "ID": 5485,
+        "ID": 15485,
         "LearnableMoves": {
           "Move": [
             {
@@ -668931,7 +669336,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 166,
-        "ID": 5486,
+        "ID": 15486,
         "LearnableMoves": {
           "Move": [
             {
@@ -668984,7 +669389,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 160,
-        "ID": 5487,
+        "ID": 15487,
         "LearnableMoves": {
           "Move": [
             {
@@ -669037,7 +669442,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 160,
-        "ID": 5488,
+        "ID": 15488,
         "LearnableMoves": {
           "Move": [
             {
@@ -669090,7 +669495,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 160,
-        "ID": 5489,
+        "ID": 15489,
         "LearnableMoves": {
           "Move": [
             {
@@ -669153,7 +669558,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 164,
-        "ID": 5490,
+        "ID": 15490,
         "LearnableMoves": {
           "Move": [
             {
@@ -669206,7 +669611,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 166,
-        "ID": 5491,
+        "ID": 15491,
         "LearnableMoves": {
           "Move": [
             {
@@ -669259,7 +669664,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 163,
-        "ID": 5492,
+        "ID": 15492,
         "LearnableMoves": {
           "Move": [
             {
@@ -669312,7 +669717,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5493,
+        "ID": 15493,
         "LearnableMoves": {
           "Move": [
             {
@@ -669365,7 +669770,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 160,
-        "ID": 5494,
+        "ID": 15494,
         "LearnableMoves": {
           "Move": [
             {
@@ -669428,7 +669833,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 168,
-        "ID": 5495,
+        "ID": 15495,
         "LearnableMoves": {
           "Move": [
             {
@@ -669481,7 +669886,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 163,
-        "ID": 5496,
+        "ID": 15496,
         "LearnableMoves": {
           "Move": [
             {
@@ -669534,7 +669939,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 164,
-        "ID": 5497,
+        "ID": 15497,
         "LearnableMoves": {
           "Move": [
             {
@@ -669587,7 +669992,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 164,
-        "ID": 5498,
+        "ID": 15498,
         "LearnableMoves": {
           "Move": [
             {
@@ -669622,7 +670027,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 164,
-        "ID": 5499,
+        "ID": 15499,
         "LearnableMoves": {
           "Move": [
             {
@@ -669657,7 +670062,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 180,
-        "ID": 5500,
+        "ID": 15500,
         "LearnableMoves": {
           "Move": [
             {
@@ -669692,7 +670097,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5501,
+        "ID": 15501,
         "LearnableMoves": {
           "Move": [
             {
@@ -669739,7 +670144,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 145,
-        "ID": 5502,
+        "ID": 15502,
         "LearnableMoves": {
           "Move": [
             {
@@ -669792,7 +670197,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 164,
-        "ID": 5503,
+        "ID": 15503,
         "LearnableMoves": {
           "Move": [
             {
@@ -669845,7 +670250,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 164,
-        "ID": 5504,
+        "ID": 15504,
         "LearnableMoves": {
           "Move": [
             {
@@ -669880,7 +670285,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 131,
-        "ID": 5505,
+        "ID": 15505,
         "LearnableMoves": {
           "Move": [
             {
@@ -669933,7 +670338,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5506,
+        "ID": 15506,
         "LearnableMoves": {
           "Move": [
             {
@@ -669986,7 +670391,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 144,
-        "ID": 5507,
+        "ID": 15507,
         "LearnableMoves": {
           "Move": [
             {
@@ -670039,7 +670444,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 75,
-        "ID": 5508,
+        "ID": 15508,
         "LearnableMoves": {
           "Move": [
             {
@@ -670092,7 +670497,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 164,
-        "ID": 5509,
+        "ID": 15509,
         "LearnableMoves": {
           "Move": [
             {
@@ -670139,7 +670544,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5510,
+        "ID": 15510,
         "LearnableMoves": {
           "Move": [
             {
@@ -670192,7 +670597,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5511,
+        "ID": 15511,
         "LearnableMoves": {
           "Move": [
             {
@@ -670245,7 +670650,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5512,
+        "ID": 15512,
         "LearnableMoves": {
           "Move": [
             {
@@ -670298,7 +670703,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5513,
+        "ID": 15513,
         "LearnableMoves": {
           "Move": [
             {
@@ -670351,7 +670756,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5514,
+        "ID": 15514,
         "LearnableMoves": {
           "Move": [
             {
@@ -670404,7 +670809,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5515,
+        "ID": 15515,
         "LearnableMoves": {
           "Move": [
             {
@@ -670457,7 +670862,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5516,
+        "ID": 15516,
         "LearnableMoves": {
           "Move": [
             {
@@ -670510,7 +670915,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5517,
+        "ID": 15517,
         "LearnableMoves": {
           "Move": [
             {
@@ -670573,7 +670978,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 166,
-        "ID": 5518,
+        "ID": 15518,
         "LearnableMoves": {
           "Move": [
             {
@@ -670636,7 +671041,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 171,
-        "ID": 5519,
+        "ID": 15519,
         "LearnableMoves": {
           "Move": [
             {
@@ -670689,7 +671094,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 165,
-        "ID": 5520,
+        "ID": 15520,
         "LearnableMoves": {
           "Move": [
             {
@@ -670742,7 +671147,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 165,
-        "ID": 5521,
+        "ID": 15521,
         "LearnableMoves": {
           "Move": [
             {
@@ -670795,7 +671200,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 165,
-        "ID": 5522,
+        "ID": 15522,
         "LearnableMoves": {
           "Move": [
             {
@@ -670848,7 +671253,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 165,
-        "ID": 5523,
+        "ID": 15523,
         "LearnableMoves": {
           "Move": [
             {
@@ -670911,7 +671316,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 180,
-        "ID": 5524,
+        "ID": 15524,
         "LearnableMoves": {
           "Move": [
             {
@@ -670964,7 +671369,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5525,
+        "ID": 15525,
         "LearnableMoves": {
           "Move": [
             {
@@ -671005,7 +671410,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 150,
-        "ID": 5526,
+        "ID": 15526,
         "LearnableMoves": {
           "Move": [
             {
@@ -671046,7 +671451,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5527,
+        "ID": 15527,
         "LearnableMoves": {
           "Move": [
             {
@@ -671099,7 +671504,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5528,
+        "ID": 15528,
         "LearnableMoves": {
           "Move": [
             {
@@ -671140,7 +671545,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 150,
-        "ID": 5529,
+        "ID": 15529,
         "LearnableMoves": {
           "Move": [
             {
@@ -671193,7 +671598,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 150,
-        "ID": 5530,
+        "ID": 15530,
         "LearnableMoves": {
           "Move": [
             {
@@ -671246,7 +671651,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 150,
-        "ID": 5531,
+        "ID": 15531,
         "LearnableMoves": {
           "Move": [
             {
@@ -671299,7 +671704,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 150,
-        "ID": 5532,
+        "ID": 15532,
         "LearnableMoves": {
           "Move": [
             {
@@ -671352,7 +671757,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5533,
+        "ID": 15533,
         "LearnableMoves": {
           "Move": [
             {
@@ -671411,7 +671816,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5534,
+        "ID": 15534,
         "LearnableMoves": {
           "Move": [
             {
@@ -671474,7 +671879,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 153,
-        "ID": 5535,
+        "ID": 15535,
         "LearnableMoves": {
           "Move": [
             {
@@ -671543,7 +671948,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 153,
-        "ID": 5536,
+        "ID": 15536,
         "LearnableMoves": {
           "Move": [
             {
@@ -671612,7 +672017,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 153,
-        "ID": 5537,
+        "ID": 15537,
         "LearnableMoves": {
           "Move": [
             {
@@ -671681,7 +672086,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 153,
-        "ID": 5538,
+        "ID": 15538,
         "LearnableMoves": {
           "Move": [
             {
@@ -671750,7 +672155,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5539,
+        "ID": 15539,
         "LearnableMoves": {
           "Move": [
             {
@@ -671819,7 +672224,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5540,
+        "ID": 15540,
         "LearnableMoves": {
           "Move": [
             {
@@ -671888,7 +672293,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5541,
+        "ID": 15541,
         "LearnableMoves": {
           "Move": [
             {
@@ -671957,7 +672362,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5542,
+        "ID": 15542,
         "LearnableMoves": {
           "Move": [
             {
@@ -672026,7 +672431,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 169,
-        "ID": 5543,
+        "ID": 15543,
         "LearnableMoves": {
           "Move": [
             {
@@ -672089,7 +672494,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5544,
+        "ID": 15544,
         "LearnableMoves": {
           "Move": [
             {
@@ -672142,7 +672547,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5545,
+        "ID": 15545,
         "LearnableMoves": {
           "Move": [
             {
@@ -672177,7 +672582,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5546,
+        "ID": 15546,
         "LearnableMoves": {
           "Move": [
             {
@@ -672212,7 +672617,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5547,
+        "ID": 15547,
         "LearnableMoves": {
           "Move": [
             {
@@ -672247,7 +672652,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5548,
+        "ID": 15548,
         "LearnableMoves": {
           "Move": [
             {
@@ -672282,7 +672687,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 138,
-        "ID": 5549,
+        "ID": 15549,
         "LearnableMoves": {
           "Move": [
             {
@@ -672317,7 +672722,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5550,
+        "ID": 15550,
         "LearnableMoves": {
           "Move": [
             {
@@ -672352,7 +672757,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 176,
-        "ID": 5551,
+        "ID": 15551,
         "LearnableMoves": {
           "Move": [
             {
@@ -672387,7 +672792,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 176,
-        "ID": 5552,
+        "ID": 15552,
         "LearnableMoves": {
           "Move": [
             {
@@ -672422,7 +672827,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5553,
+        "ID": 15553,
         "LearnableMoves": {
           "Move": [
             {
@@ -672457,7 +672862,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5554,
+        "ID": 15554,
         "LearnableMoves": {
           "Move": [
             {
@@ -672492,7 +672897,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5555,
+        "ID": 15555,
         "LearnableMoves": {
           "Move": [
             {
@@ -672527,7 +672932,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5556,
+        "ID": 15556,
         "LearnableMoves": {
           "Move": [
             {
@@ -672562,7 +672967,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5557,
+        "ID": 15557,
         "LearnableMoves": {
           "Move": [
             {
@@ -672597,7 +673002,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5558,
+        "ID": 15558,
         "LearnableMoves": {
           "Move": [
             {
@@ -672632,7 +673037,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5559,
+        "ID": 15559,
         "LearnableMoves": {
           "Move": [
             {
@@ -672667,7 +673072,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5560,
+        "ID": 15560,
         "LearnableMoves": {
           "Move": [
             {
@@ -672702,7 +673107,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5561,
+        "ID": 15561,
         "LearnableMoves": {
           "Move": [
             {
@@ -672737,7 +673142,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5562,
+        "ID": 15562,
         "LearnableMoves": {
           "Move": [
             {
@@ -672772,7 +673177,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5563,
+        "ID": 15563,
         "LearnableMoves": {
           "Move": [
             {
@@ -672807,7 +673212,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5564,
+        "ID": 15564,
         "LearnableMoves": {
           "Move": [
             {
@@ -672842,7 +673247,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5565,
+        "ID": 15565,
         "LearnableMoves": {
           "Move": [
             {
@@ -672877,7 +673282,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 120,
-        "ID": 5566,
+        "ID": 15566,
         "LearnableMoves": {
           "Move": [
             {
@@ -673002,7 +673407,7 @@
         "FreeForbidden": 0,
         "Gender": 0,
         "HP": 110,
-        "ID": 5567,
+        "ID": 15567,
         "LearnableMoves": {
           "Move": [
             {
@@ -673145,7 +673550,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 129,
-        "ID": 5568,
+        "ID": 15568,
         "LearnableMoves": {
           "Move": [
             {
@@ -673270,7 +673675,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 125,
-        "ID": 5569,
+        "ID": 15569,
         "LearnableMoves": {
           "Move": [
             {
@@ -673395,7 +673800,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5570,
+        "ID": 15570,
         "LearnableMoves": {
           "Move": [
             {
@@ -673530,7 +673935,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 127,
-        "ID": 5571,
+        "ID": 15571,
         "LearnableMoves": {
           "Move": [
             {
@@ -673691,7 +674096,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 124,
-        "ID": 5572,
+        "ID": 15572,
         "LearnableMoves": {
           "Move": [
             {
@@ -673826,7 +674231,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 138,
-        "ID": 5573,
+        "ID": 15573,
         "LearnableMoves": {
           "Move": [
             {
@@ -673987,7 +674392,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5574,
+        "ID": 15574,
         "LearnableMoves": {
           "Move": [
             {
@@ -674122,7 +674527,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 132,
-        "ID": 5575,
+        "ID": 15575,
         "LearnableMoves": {
           "Move": [
             {
@@ -674287,7 +674692,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 132,
-        "ID": 5576,
+        "ID": 15576,
         "LearnableMoves": {
           "Move": [
             {
@@ -674452,7 +674857,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 140,
-        "ID": 5577,
+        "ID": 15577,
         "LearnableMoves": {
           "Move": [
             {
@@ -674607,7 +675012,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5578,
+        "ID": 15578,
         "LearnableMoves": {
           "Move": [
             {
@@ -674732,7 +675137,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 126,
-        "ID": 5581,
+        "ID": 15581,
         "LearnableMoves": {
           "Move": [
             {
@@ -674857,7 +675262,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 109,
-        "ID": 5582,
+        "ID": 15582,
         "LearnableMoves": {
           "Move": [
             {
@@ -674998,7 +675403,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 133,
-        "ID": 5583,
+        "ID": 15583,
         "LearnableMoves": {
           "Move": [
             {
@@ -675153,7 +675558,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 125,
-        "ID": 5584,
+        "ID": 15584,
         "LearnableMoves": {
           "Move": [
             {
@@ -675288,7 +675693,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 129,
-        "ID": 5585,
+        "ID": 15585,
         "LearnableMoves": {
           "Move": [
             {
@@ -675459,7 +675864,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 130,
-        "ID": 5586,
+        "ID": 15586,
         "LearnableMoves": {
           "Move": [
             {
@@ -675624,7 +676029,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 145,
-        "ID": 5587,
+        "ID": 15587,
         "LearnableMoves": {
           "Move": [
             {
@@ -675759,7 +676164,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 146,
-        "ID": 5588,
+        "ID": 15588,
         "LearnableMoves": {
           "Move": [
             {
@@ -675884,7 +676289,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 128,
-        "ID": 5589,
+        "ID": 15589,
         "LearnableMoves": {
           "Move": [
             {
@@ -676019,7 +676424,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 127,
-        "ID": 5590,
+        "ID": 15590,
         "LearnableMoves": {
           "Move": [
             {
@@ -676180,7 +676585,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 120,
-        "ID": 5591,
+        "ID": 15591,
         "LearnableMoves": {
           "Move": [
             {
@@ -676305,7 +676710,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 125,
-        "ID": 5592,
+        "ID": 15592,
         "LearnableMoves": {
           "Move": [
             {
@@ -676470,7 +676875,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 156,
-        "ID": 5593,
+        "ID": 15593,
         "LearnableMoves": {
           "Move": [
             {
@@ -676595,7 +677000,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5594,
+        "ID": 15594,
         "LearnableMoves": {
           "Move": [
             {
@@ -676636,7 +677041,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 127,
-        "ID": 5595,
+        "ID": 15595,
         "LearnableMoves": {
           "Move": [
             {
@@ -676761,7 +677166,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 50,
-        "ID": 5596,
+        "ID": 15596,
         "LearnableMoves": {
           "Move": [
             {
@@ -676826,7 +677231,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 66,
-        "ID": 5597,
+        "ID": 15597,
         "LearnableMoves": {
           "Move": [
             {
@@ -676861,7 +677266,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 66,
-        "ID": 5598,
+        "ID": 15598,
         "LearnableMoves": {
           "Move": [
             {
@@ -676896,7 +677301,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5599,
+        "ID": 15599,
         "LearnableMoves": {
           "Move": [
             {
@@ -676955,7 +677360,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 40,
-        "ID": 5600,
+        "ID": 15600,
         "LearnableMoves": {
           "Move": [
             {
@@ -677024,7 +677429,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 171,
-        "ID": 5601,
+        "ID": 15601,
         "LearnableMoves": {
           "Move": [
             {
@@ -677159,7 +677564,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 174,
-        "ID": 5602,
+        "ID": 15602,
         "LearnableMoves": {
           "Move": [
             {
@@ -677294,7 +677699,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 154,
-        "ID": 5603,
+        "ID": 15603,
         "LearnableMoves": {
           "Move": [
             {
@@ -677419,7 +677824,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 45,
-        "ID": 5604,
+        "ID": 15604,
         "LearnableMoves": {
           "Move": [
             {
@@ -677494,7 +677899,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 185,
-        "ID": 5605,
+        "ID": 15605,
         "LearnableMoves": {
           "Move": [
             {
@@ -677629,7 +678034,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5606,
+        "ID": 15606,
         "LearnableMoves": {
           "Move": [
             {
@@ -677754,7 +678159,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 110,
-        "ID": 5607,
+        "ID": 15607,
         "LearnableMoves": {
           "Move": [
             {
@@ -677885,7 +678290,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 130,
-        "ID": 5608,
+        "ID": 15608,
         "LearnableMoves": {
           "Move": [
             {
@@ -677969,7 +678374,7 @@
           ]
         },
         "PetClass": 3100,
-        "RealId": 0,
+        "RealId": 4440,
         "SpAtk": 70,
         "SpDef": 90,
         "Spd": 90,
@@ -677992,7 +678397,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 91,
-        "ID": 5609,
+        "ID": 15609,
         "LearnableMoves": {
           "Move": [
             {
@@ -678112,7 +678517,7 @@
           ]
         },
         "PetClass": 65,
-        "RealId": 0,
+        "RealId": 177,
         "SpAtk": 80,
         "SpDef": 80,
         "Spd": 99,
@@ -678145,7 +678550,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5688,
+        "ID": 15688,
         "LearnableMoves": {
           "Move": [
             {
@@ -678247,7 +678652,7 @@
           ]
         },
         "PetClass": 3037,
-        "RealId": 0,
+        "RealId": 4377,
         "SpAtk": 140,
         "SpDef": 115,
         "Spd": 135,
@@ -678280,7 +678685,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5693,
+        "ID": 15693,
         "LearnableMoves": {
           "Move": [
             {
@@ -678382,7 +678787,7 @@
           ]
         },
         "PetClass": 3037,
-        "RealId": 0,
+        "RealId": 4377,
         "SpAtk": 140,
         "SpDef": 115,
         "Spd": 135,
@@ -678405,7 +678810,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 165,
-        "ID": 5713,
+        "ID": 15713,
         "LearnableMoves": {
           "Move": [
             {
@@ -678450,7 +678855,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 175,
-        "ID": 5746,
+        "ID": 15746,
         "LearnableMoves": {
           "Move": [
             {
@@ -678534,7 +678939,7 @@
           ]
         },
         "PetClass": 3125,
-        "RealId": 0,
+        "RealId": 4452,
         "SpAtk": 70,
         "SpDef": 110,
         "Spd": 135,
@@ -678557,7 +678962,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 120,
-        "ID": 5748,
+        "ID": 15748,
         "LearnableMoves": {
           "Move": [
             {
@@ -678610,7 +679015,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 120,
-        "ID": 5749,
+        "ID": 15749,
         "LearnableMoves": {
           "Move": [
             {
@@ -678663,7 +679068,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 120,
-        "ID": 5762,
+        "ID": 15762,
         "LearnableMoves": {
           "Move": [
             {
@@ -678732,7 +679137,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 168,
-        "ID": 5764,
+        "ID": 15764,
         "LearnableMoves": {
           "Move": [
             {
@@ -678867,7 +679272,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 171,
-        "ID": 5765,
+        "ID": 15765,
         "LearnableMoves": {
           "Move": [
             {
@@ -678969,7 +679374,7 @@
           ]
         },
         "PetClass": 3187,
-        "RealId": 0,
+        "RealId": 4525,
         "SpAtk": 70,
         "SpDef": 112,
         "Spd": 137,
@@ -679002,7 +679407,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5766,
+        "ID": 15766,
         "LearnableMoves": {
           "Move": [
             {
@@ -679104,7 +679509,7 @@
           ]
         },
         "PetClass": 3037,
-        "RealId": 0,
+        "RealId": 4377,
         "SpAtk": 140,
         "SpDef": 115,
         "Spd": 135,
@@ -679127,7 +679532,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 158,
-        "ID": 5767,
+        "ID": 15767,
         "LearnableMoves": {
           "Move": [
             {
@@ -679175,7 +679580,7 @@
           ]
         },
         "PetClass": 3232,
-        "RealId": 0,
+        "RealId": 4571,
         "SpAtk": 132,
         "SpDef": 109,
         "Spd": 124,
@@ -679198,7 +679603,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 158,
-        "ID": 5768,
+        "ID": 15768,
         "LearnableMoves": {
           "Move": [
             {
@@ -679216,7 +679621,7 @@
           ]
         },
         "PetClass": 3232,
-        "RealId": 0,
+        "RealId": 4570,
         "SpAtk": 132,
         "SpDef": 109,
         "Spd": 124,
@@ -679239,7 +679644,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 69,
-        "ID": 5769,
+        "ID": 15769,
         "LearnableMoves": {
           "Move": [
             {
@@ -679340,7 +679745,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 180,
-        "ID": 5770,
+        "ID": 15770,
         "LearnableMoves": {
           "Move": [
             {
@@ -679393,7 +679798,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 168,
-        "ID": 5771,
+        "ID": 15771,
         "LearnableMoves": {
           "Move": [
             {
@@ -679428,7 +679833,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 172,
-        "ID": 5772,
+        "ID": 15772,
         "LearnableMoves": {
           "Move": [
             {
@@ -679440,7 +679845,7 @@
           ]
         },
         "PetClass": 3024,
-        "RealId": 0,
+        "RealId": 4364,
         "SpAtk": 147,
         "SpDef": 112,
         "Spd": 137,
@@ -679463,7 +679868,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 172,
-        "ID": 5773,
+        "ID": 15773,
         "LearnableMoves": {
           "Move": [
             {
@@ -679475,7 +679880,7 @@
           ]
         },
         "PetClass": 2423,
-        "RealId": 0,
+        "RealId": 3763,
         "SpAtk": 135,
         "SpDef": 111,
         "Spd": 130,
@@ -679498,7 +679903,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 144,
-        "ID": 5774,
+        "ID": 15774,
         "LearnableMoves": {
           "Move": [
             {
@@ -679510,7 +679915,7 @@
           ]
         },
         "PetClass": 1738,
-        "RealId": 0,
+        "RealId": 261,
         "SpAtk": 70,
         "SpDef": 105,
         "Spd": 120,
@@ -679533,7 +679938,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 180,
-        "ID": 5775,
+        "ID": 15775,
         "LearnableMoves": {
           "Move": [
             {
@@ -679586,7 +679991,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 180,
-        "ID": 5776,
+        "ID": 15776,
         "LearnableMoves": {
           "Move": [
             {
@@ -679639,7 +680044,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 180,
-        "ID": 5779,
+        "ID": 15779,
         "LearnableMoves": {
           "Move": [
             {
@@ -679674,7 +680079,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 166,
-        "ID": 5780,
+        "ID": 15780,
         "LearnableMoves": {
           "Move": [
             {
@@ -679686,7 +680091,7 @@
           ]
         },
         "PetClass": 3370,
-        "RealId": 0,
+        "RealId": 4709,
         "SpAtk": 70,
         "SpDef": 114,
         "Spd": 136,
@@ -679709,7 +680114,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 160,
-        "ID": 5781,
+        "ID": 15781,
         "Move": {
           "Id": 22661,
           "LearningLv": 1,
@@ -679740,7 +680145,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5784,
+        "ID": 15784,
         "Move": {
           "Id": 22050,
           "LearningLv": 1,
@@ -679771,7 +680176,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 170,
-        "ID": 5785,
+        "ID": 15785,
         "LearnableMoves": {
           "Move": [
             {
@@ -679834,7 +680239,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 170,
-        "ID": 5786,
+        "ID": 15786,
         "LearnableMoves": {
           "Move": [
             {
@@ -679897,7 +680302,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 185,
-        "ID": 5787,
+        "ID": 15787,
         "LearnableMoves": {
           "Move": [
             {
@@ -679960,7 +680365,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 170,
-        "ID": 5788,
+        "ID": 15788,
         "LearnableMoves": {
           "Move": [
             {
@@ -680013,7 +680418,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5789,
+        "ID": 15789,
         "LearnableMoves": {
           "Move": [
             {
@@ -680048,7 +680453,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5790,
+        "ID": 15790,
         "LearnableMoves": {
           "Move": [
             {
@@ -680093,7 +680498,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 175,
-        "ID": 5794,
+        "ID": 15794,
         "LearnableMoves": {
           "Move": [
             {
@@ -680180,7 +680585,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 167,
-        "ID": 5795,
+        "ID": 15795,
         "LearnableMoves": {
           "Move": [
             {
@@ -680243,7 +680648,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 172,
-        "ID": 5796,
+        "ID": 15796,
         "LearnableMoves": {
           "Move": [
             {
@@ -680306,7 +680711,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 167,
-        "ID": 5797,
+        "ID": 15797,
         "LearnableMoves": {
           "Move": [
             {
@@ -680393,7 +680798,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 0,
-        "ID": 5800,
+        "ID": 15800,
         "LearnableMoves": {
           "Move": [
             {
@@ -680464,7 +680869,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 135,
-        "ID": 5801,
+        "ID": 15801,
         "LearnableMoves": {
           "Move": [
             {
@@ -680517,7 +680922,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 140,
-        "ID": 5802,
+        "ID": 15802,
         "LearnableMoves": {
           "Move": [
             {
@@ -680570,7 +680975,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 100,
-        "ID": 5803,
+        "ID": 15803,
         "LearnableMoves": {
           "Move": [
             {
@@ -680623,7 +681028,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 190,
-        "ID": 5804,
+        "ID": 15804,
         "LearnableMoves": {
           "Move": [
             {
@@ -680676,7 +681081,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 130,
-        "ID": 5805,
+        "ID": 15805,
         "LearnableMoves": {
           "Move": [
             {
@@ -680729,7 +681134,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 120,
-        "ID": 5806,
+        "ID": 15806,
         "LearnableMoves": {
           "Move": [
             {
@@ -680782,7 +681187,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 130,
-        "ID": 5807,
+        "ID": 15807,
         "LearnableMoves": {
           "Move": [
             {
@@ -680835,7 +681240,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 135,
-        "ID": 5808,
+        "ID": 15808,
         "LearnableMoves": {
           "Move": [
             {
@@ -680888,7 +681293,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 130,
-        "ID": 5809,
+        "ID": 15809,
         "LearnableMoves": {
           "Move": [
             {
@@ -680941,7 +681346,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 140,
-        "ID": 5810,
+        "ID": 15810,
         "LearnableMoves": {
           "Move": [
             {
@@ -680994,7 +681399,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 170,
-        "ID": 5811,
+        "ID": 15811,
         "LearnableMoves": {
           "Move": [
             {
@@ -681047,7 +681452,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 120,
-        "ID": 5812,
+        "ID": 15812,
         "LearnableMoves": {
           "Move": [
             {
@@ -681100,7 +681505,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 150,
-        "ID": 5813,
+        "ID": 15813,
         "LearnableMoves": {
           "Move": [
             {
@@ -681153,7 +681558,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 170,
-        "ID": 5814,
+        "ID": 15814,
         "LearnableMoves": {
           "Move": [
             {
@@ -681206,7 +681611,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 140,
-        "ID": 5815,
+        "ID": 15815,
         "LearnableMoves": {
           "Move": [
             {
@@ -681259,7 +681664,7 @@
         "FreeForbidden": 0,
         "Gender": 2,
         "HP": 130,
-        "ID": 5816,
+        "ID": 15816,
         "LearnableMoves": {
           "Move": [
             {
@@ -681312,7 +681717,7 @@
         "FreeForbidden": 0,
         "Gender": 1,
         "HP": 130,
-        "ID": 5817,
+        "ID": 15817,
         "LearnableMoves": {
           "Move": [
             {
@@ -681375,7 +681780,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 167,
-        "ID": 5818,
+        "ID": 15818,
         "LearnableMoves": {
           "Move": [
             {
@@ -681438,7 +681843,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 172,
-        "ID": 5819,
+        "ID": 15819,
         "LearnableMoves": {
           "Move": [
             {
@@ -681491,7 +681896,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 168,
-        "ID": 5820,
+        "ID": 15820,
         "LearnableMoves": {
           "Move": [
             {
@@ -681593,7 +681998,7 @@
           ]
         },
         "PetClass": 3098,
-        "RealId": 0,
+        "RealId": 4743,
         "SpAtk": 70,
         "SpDef": 112,
         "Spd": 137,
@@ -681616,7 +682021,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 169,
-        "ID": 5821,
+        "ID": 15821,
         "LearnableMoves": {
           "Move": [
             {
@@ -681661,7 +682066,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 168,
-        "ID": 5822,
+        "ID": 15822,
         "LearnableMoves": {
           "Move": [
             {
@@ -681787,7 +682192,7 @@
           ]
         },
         "PetClass": 3003,
-        "RealId": 0,
+        "RealId": 4748,
         "SpAtk": 70,
         "SpDef": 112,
         "Spd": 136,
@@ -681810,7 +682215,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 169,
-        "ID": 5823,
+        "ID": 15823,
         "LearnableMoves": {
           "Move": [
             {
@@ -681822,7 +682227,7 @@
           ]
         },
         "PetClass": 2546,
-        "RealId": 0,
+        "RealId": 4706,
         "SpAtk": 70,
         "SpDef": 112,
         "Spd": 135,
@@ -681855,7 +682260,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 174,
-        "ID": 5824,
+        "ID": 15824,
         "LearnableMoves": {
           "Move": [
             {
@@ -681957,7 +682362,7 @@
           ]
         },
         "PetClass": 3215,
-        "RealId": 0,
+        "RealId": 4749,
         "SpAtk": 137,
         "SpDef": 114,
         "Spd": 139,
@@ -681990,7 +682395,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 180,
-        "ID": 5825,
+        "ID": 15825,
         "LearnableMoves": {
           "Move": [
             {
@@ -682038,7 +682443,7 @@
           ]
         },
         "PetClass": 3375,
-        "RealId": 0,
+        "RealId": 4752,
         "SpAtk": 70,
         "SpDef": 115,
         "Spd": 130,
@@ -682071,7 +682476,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 170,
-        "ID": 5826,
+        "ID": 15826,
         "LearnableMoves": {
           "Move": [
             {
@@ -682231,7 +682636,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 173,
-        "ID": 5827,
+        "ID": 15827,
         "LearnableMoves": {
           "Move": [
             {
@@ -682243,7 +682648,7 @@
           ]
         },
         "PetClass": 3414,
-        "RealId": 0,
+        "RealId": 4753,
         "SpAtk": 134,
         "SpDef": 114,
         "Spd": 135,
@@ -682266,7 +682671,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 105,
-        "ID": 5828,
+        "ID": 15828,
         "LearnableMoves": {
           "Move": [
             {
@@ -682385,7 +682790,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 71,
-        "ID": 5829,
+        "ID": 15829,
         "LearnableMoves": {
           "Move": [
             {
@@ -682481,7 +682886,7 @@
           ]
         },
         "PetClass": 26,
-        "RealId": 0,
+        "RealId": 70,
         "SpAtk": 101,
         "SpDef": 77,
         "Spd": 105,
@@ -682514,7 +682919,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 167,
-        "ID": 5830,
+        "ID": 15830,
         "LearnableMoves": {
           "Move": [
             {
@@ -682577,7 +682982,7 @@
         "FreeForbidden": 1,
         "Gender": 1,
         "HP": 172,
-        "ID": 5831,
+        "ID": 15831,
         "LearnableMoves": {
           "Move": [
             {
@@ -682640,7 +683045,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 178,
-        "ID": 5832,
+        "ID": 15832,
         "LearnableMoves": {
           "Move": [
             {
@@ -682691,7 +683096,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 178,
-        "ID": 5833,
+        "ID": 15833,
         "LearnableMoves": {
           "Move": [
             {
@@ -682742,7 +683147,7 @@
         "FreeForbidden": 1,
         "Gender": 0,
         "HP": 178,
-        "ID": 5834,
+        "ID": 15834,
         "LearnableMoves": {
           "Move": [
             {
@@ -682783,7 +683188,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 166,
-        "ID": 5835,
+        "ID": 15835,
         "LearnableMoves": {
           "Move": [
             {
@@ -682824,7 +683229,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5836,
+        "ID": 15836,
         "LearnableMoves": {
           "Move": [
             {
@@ -682949,7 +683354,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5837,
+        "ID": 15837,
         "LearnableMoves": {
           "Move": [
             {
@@ -683074,7 +683479,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5838,
+        "ID": 15838,
         "LearnableMoves": {
           "Move": [
             {
@@ -683209,7 +683614,7 @@
         "FreeForbidden": 1,
         "Gender": 2,
         "HP": 170,
-        "ID": 5839,
+        "ID": 15839,
         "LearnableMoves": {
           "Move": [
             {
@@ -683318,6 +683723,165 @@
         "Support": 0,
         "Transform": 0,
         "Type": 132,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 120,
+        "DefName": "毛伊",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 160,
+        "ID": 15840,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 38647,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29514,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29515,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38648,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "PetClass": 3573,
+        "RealId": 0,
+        "SpAtk": 120,
+        "SpDef": 120,
+        "Spd": 120,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 8,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 120,
+        "DefName": "佩勒",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 160,
+        "ID": 15841,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 38649,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29516,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29517,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38650,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "PetClass": 3573,
+        "RealId": 0,
+        "SpAtk": 120,
+        "SpDef": 120,
+        "Spd": 120,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 8,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 120,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 120,
+        "DefName": "卡纳洛阿",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 1,
+        "Gender": 2,
+        "HP": 160,
+        "ID": 15842,
+        "LearnableMoves": {
+          "Move": [
+            {
+              "Id": 38651,
+              "LearningLv": 1,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29518,
+              "LearningLv": 5,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 29519,
+              "LearningLv": 9,
+              "Rec": 0,
+              "Tag": 0
+            },
+            {
+              "Id": 38652,
+              "LearningLv": 13,
+              "Rec": 0,
+              "Tag": 0
+            }
+          ]
+        },
+        "PetClass": 3573,
+        "RealId": 0,
+        "SpAtk": 120,
+        "SpDef": 120,
+        "Spd": 120,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 8,
         "Vip": 0,
         "isFlyPet": 0,
         "isRidePet": 0
@@ -706360,6 +706924,31 @@
         "Gender": 0,
         "HP": 0,
         "ID": 1400890,
+        "PetClass": 0,
+        "RealId": 0,
+        "SpAtk": 0,
+        "SpDef": 0,
+        "Spd": 0,
+        "Support": 0,
+        "Transform": 0,
+        "Type": 0,
+        "Vip": 0,
+        "isFlyPet": 0,
+        "isRidePet": 0
+      },
+      {
+        "Atk": 0,
+        "CharacterAttrParam": 0,
+        "Combo": 0,
+        "Def": 0,
+        "DefName": "日蚀·终末大天使",
+        "EvolvFlag": 0,
+        "EvolvesTo": 0,
+        "EvolvingLv": 0,
+        "FreeForbidden": 0,
+        "Gender": 0,
+        "HP": 0,
+        "ID": 1400891,
         "PetClass": 0,
         "RealId": 0,
         "SpAtk": 0,

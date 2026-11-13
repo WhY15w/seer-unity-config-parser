@@ -865,7 +865,7 @@
       "writingname": "新的旅途"
     },
     {
-      "bgm": "rakai_02_bgm",
+      "bgm": "rakai_06_bgm",
       "branch": 0,
       "chaptername": "坠入拉卡伊",
       "enddate": "",
@@ -886,7 +886,7 @@
       "tagtype": 113,
       "tobe": 0,
       "type": 1,
-      "upstory": 0,
+      "upstory": 1,
       "writing": 1004,
       "writingimg": "writing1004_img",
       "writingname": "新的旅途"
@@ -913,7 +913,7 @@
       "tagtype": 204,
       "tobe": 0,
       "type": 2,
-      "upstory": 1,
+      "upstory": 0,
       "writing": 2003,
       "writingimg": "writing2009_img",
       "writingname": "英雄之征"

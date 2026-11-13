@@ -1054,9 +1054,9 @@
       "skillCostNum": 0,
       "skillGameLimit": 0,
       "skillID": 10006,
-      "skillName": "食神之勺",
+      "skillName": "食神之铲",
       "skillRoundLimit": 2,
-      "skillTxt": "选择一只己方精灵，使其获得等同于商店等级的攻击值，下回合切换为生命值，每回合限2次",
+      "skillTxt": "选择一只己方精灵，使其获得等同于商店等级的生命值，下回合切换为攻击值，每回合限2次",
       "skillType": 2,
       "skillUpgrade": ""
     },
